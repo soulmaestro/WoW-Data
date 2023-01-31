@@ -36,8 +36,8 @@
         "type": "RANGEDRIGHT",
         "name": "Ranged"
     },
-    "purchase_price": 8663175,
-    "sell_price": 1732635,
+    "purchase_price": 346527,
+    "sell_price": 69305,
     "max_count": 0,
     "is_equippable": true,
     "is_stackable": false,
@@ -140,13 +140,13 @@
             },
             {
                 "type": {
-                    "type": "VERSATILITY",
-                    "name": "Versatility"
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
                 },
                 "value": 92,
                 "is_equip_bonus": true,
                 "display": {
-                    "display_string": "+92 Versatility",
+                    "display_string": "+92 Haste",
                     "color": {
                         "r": 0,
                         "g": 255,
@@ -174,12 +174,12 @@
             }
         ],
         "sell_price": {
-            "value": 1732635,
+            "value": 69305,
             "display_strings": {
                 "header": "Sell Price:",
-                "gold": "173",
-                "silver": "26",
-                "copper": "35"
+                "gold": "6",
+                "silver": "93",
+                "copper": "5"
             }
         },
         "requirements": {
@@ -198,14 +198,14 @@
         },
         "modified_crafting_stat": [
             {
+                "id": 36,
+                "type": "HASTE_RATING",
+                "name": "Haste"
+            },
+            {
                 "id": 49,
                 "type": "MASTERY_RATING",
                 "name": "Mastery"
-            },
-            {
-                "id": 40,
-                "type": "VERSATILITY",
-                "name": "Versatility"
             }
         ]
     },
