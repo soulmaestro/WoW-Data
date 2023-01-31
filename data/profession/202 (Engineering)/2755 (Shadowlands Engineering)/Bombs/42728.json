@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42728?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42728,
+    "name": "Nutcracker Grenade",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42728?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42728
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172903?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Nutcracker Grenade",
+        "id": 172903
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172934?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Handful of Laestrite Bolts",
+                "id": 172934
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172935?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Porous Polishing Abrasive",
+                "id": 172935
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171828?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Laestrite Ore",
+                "id": 171828
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 0.5,
+        "maximum": 2.5
+    }
+}

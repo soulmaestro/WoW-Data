@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34856?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34856,
+    "name": "Warhide Footpads",
+    "description": "Reduces the materials required to craft Warhide Footpads.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34856?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34856
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128877?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Warhide Footpads",
+        "id": 128877
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stonehide Leather",
+                "id": 124113
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124438?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Unbroken Claw",
+                "id": 124438
+            },
+            "quantity": 5
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

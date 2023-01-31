@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42729?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42729,
+    "name": "Shadow Land Mine",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42729?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42729
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172904?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shadow Land Mine",
+        "id": 172904
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172934?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Handful of Laestrite Bolts",
+                "id": 172934
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172935?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Porous Polishing Abrasive",
+                "id": 172935
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171828?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Laestrite Ore",
+                "id": 171828
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 0.5,
+        "maximum": 2.5
+    }
+}

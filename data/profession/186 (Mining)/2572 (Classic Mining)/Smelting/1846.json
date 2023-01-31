@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1846?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1846,
+    "name": "Smelt Gold",
+    "description": "Allows the miner to smelt a chunk of gold ore into a gold bar.  Smelting gold requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1846?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1846
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3577?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gold Bar",
+        "id": 3577
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2776?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gold Ore",
+                "id": 2776
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

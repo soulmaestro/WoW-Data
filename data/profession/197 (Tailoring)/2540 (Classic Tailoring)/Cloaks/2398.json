@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2398?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2398,
+    "name": "Icy Cloak",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2398?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2398
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4327?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Icy Cloak",
+        "id": 4327
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4339?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Mageweave",
+                "id": 4339
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4291?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Thread",
+                "id": 4291
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3829?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Frost Oil",
+                "id": 3829
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4337?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thick Spider's Silk",
+                "id": 4337
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

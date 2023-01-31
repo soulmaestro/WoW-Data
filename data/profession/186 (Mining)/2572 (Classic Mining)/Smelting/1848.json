@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1848?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1848,
+    "name": "Smelt Tin",
+    "description": "Allows the miner to smelt a chunk of tin ore into a tin bar.  Smelting tin requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1848?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1848
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3576?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tin Bar",
+        "id": 3576
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2771?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tin Ore",
+                "id": 2771
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

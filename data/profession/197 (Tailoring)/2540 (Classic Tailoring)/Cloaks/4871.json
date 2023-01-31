@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4871?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4871,
+    "name": "Crimson Silk Cloak",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4871?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4871
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7056?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Crimson Silk Cloak",
+        "id": 7056
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4305?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Silk Cloth",
+                "id": 4305
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2604?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Red Dye",
+                "id": 2604
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/6371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fire Oil",
+                "id": 6371
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4291?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Thread",
+                "id": 4291
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

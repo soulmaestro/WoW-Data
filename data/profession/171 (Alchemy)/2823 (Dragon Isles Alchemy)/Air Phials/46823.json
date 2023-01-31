@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46823?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46823,
+    "name": "Dragon Isles Alchemy Troubleshooting Test Recipe (DNT)",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46823?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46823
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191324?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Phial of Icy Preservation",
+        "id": 191324
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Air",
+                "id": 190327
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/103?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Omnium Draconis (DNT)",
+                "id": 103
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/33380?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33380,
+    "name": "Journeying Robes",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/33380?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33380
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/116165?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Journeying Robes",
+        "id": 116165
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/110609?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Raw Beast Hide",
+                "id": 110609
+            },
+            "quantity": 50
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

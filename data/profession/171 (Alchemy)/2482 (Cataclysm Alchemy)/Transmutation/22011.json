@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22011?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22011,
+    "name": "Transmute: Dream Emerald",
+    "description": "Transmutes lesser green gems and the electrical currents of stormvine to create a dream emerald.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22011?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22011
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52192?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dream Emerald",
+        "id": 52192
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Jasper",
+                "id": 52182
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52984?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormvine",
+                "id": 52984
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

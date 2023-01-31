@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26139?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26139,
+    "name": "Sha Crystal",
+    "description": "Combines five Ethereal Shards into a single Sha Crystal.  This is a difficult task and can only be performed once each day.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26139?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26139
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/74248?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sha Crystal",
+        "id": 74248
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74247?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ethereal Shard",
+                "id": 74247
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

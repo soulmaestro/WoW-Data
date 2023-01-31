@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21605?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21605,
+    "name": "Peerless Stats",
+    "description": "Permanently enchant chest armor to increase all stats by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21605?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21605
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52721?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavenly Shard",
+                "id": 52721
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52722?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Maelstrom Crystal",
+                "id": 52722
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

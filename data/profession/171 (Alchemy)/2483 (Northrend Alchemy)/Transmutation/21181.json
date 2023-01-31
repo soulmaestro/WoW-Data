@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21181?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21181,
+    "name": "Transmute: Majestic Zircon",
+    "description": "Transmute the element of air and a Sky Sapphire into a Majestic Zircon.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21181?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21181
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/36925?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Majestic Zircon",
+        "id": 36925
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35623?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Air",
+                "id": 35623
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36924?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sky Sapphire",
+                "id": 36924
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/27384?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 27384,
+    "name": "Song of Harmony",
+    "description": "This special method of creating imperial silk can be performed as often as the tailor likes, as long as they can supply the necessary materials.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/27384?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 27384
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/82447?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Imperial Silk",
+        "id": 82447
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/82441?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Windwool Cloth",
+                "id": 82441
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/76061?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spirit of Harmony",
+                "id": 76061
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

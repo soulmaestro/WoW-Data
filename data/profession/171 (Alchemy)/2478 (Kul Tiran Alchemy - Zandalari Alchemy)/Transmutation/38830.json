@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38830?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38830,
+    "name": "Transmute: Ore to Herbs",
+    "description": "Transmute ore into herbs.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38830?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38830
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152578?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sack of Herbs",
+        "id": 152578
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Monelite Ore",
+                "id": 152512
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Storm Silver Ore",
+                "id": 152579
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34900?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34900,
+    "name": "Battlebound Spaulders",
+    "description": "Reduces the materials required to craft Battlebound Spaulders.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34900?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34900
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128897?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battlebound Spaulders",
+        "id": 128897
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124115?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormscale",
+                "id": 124115
+            },
+            "quantity": 18
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

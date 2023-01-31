@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/45609?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 45609,
+    "name": "Grim-Veiled Robe",
+    "description": "Create a piece of cloth armor that is worthy of being infused with the power necessary to become a Legendary item.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/45609?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 45609
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173241?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Grim-Veiled Robe",
+        "id": 173241
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shrouded Cloth",
+                "id": 173202
+            },
+            "quantity": 220
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172439?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Enchanted Lightless Silk",
+                "id": 172439
+            },
+            "quantity": 80
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/178787?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Orboreal Shard",
+                "id": 178787
+            },
+            "quantity": 50
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/78?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Increase Rank",
+                "id": 78
+            },
+            "display_order": 0
+        }
+    ]
+}

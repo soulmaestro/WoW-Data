@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7064?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7064,
+    "name": "Gnomish Goggles",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7064?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7064
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10545?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gnomish Goggles",
+        "id": 10545
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10500?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fire Goggles",
+                "id": 10500
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10559?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mithril Tube",
+                "id": 10559
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10558?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gold Power Core",
+                "id": 10558
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

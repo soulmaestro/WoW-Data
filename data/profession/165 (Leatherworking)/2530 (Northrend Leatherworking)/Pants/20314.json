@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20314?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20314,
+    "name": "Dark Iceborne Leggings",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20314?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20314
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44440?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dark Iceborne Leggings",
+        "id": 44440
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/38425?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Borean Leather",
+                "id": 38425
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37703?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Shadow",
+                "id": 37703
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

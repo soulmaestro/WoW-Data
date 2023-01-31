@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13997?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13997,
+    "name": "Transmute: Primal Water to Shadow",
+    "description": "Transmutes Primal Water into Primal Shadow.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13997?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13997
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22456?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Primal Shadow",
+        "id": 22456
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Water",
+                "id": 21885
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

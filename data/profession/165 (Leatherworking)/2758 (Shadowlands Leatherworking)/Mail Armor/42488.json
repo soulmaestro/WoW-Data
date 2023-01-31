@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42488?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42488,
+    "name": "Desolate Scale Gauntlets",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42488?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42488
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172244?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Desolate Scale Gauntlets",
+        "id": 172244
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172092?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pallid Bone",
+                "id": 172092
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172089?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Desolate Leather",
+                "id": 172089
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/177062?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Penumbra Thread",
+                "id": 177062
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/46?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Minor",
+                "id": 46
+            },
+            "display_order": 0
+        }
+    ]
+}

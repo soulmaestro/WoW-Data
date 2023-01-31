@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47392?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47392,
+    "name": "Feisty Fish Sticks",
+    "description": "Recipe for 4 servings. Actual number of servings will vary based on cooking skill.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47392?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47392
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194969?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Temporal Dragonhead",
+                "id": 194969
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194966?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thousandbite Piranha",
+                "id": 194966
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197756?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pebbled Rock Salts",
+                "id": 197756
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194970?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Islefin Dorado",
+                "id": 194970
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/192?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Finishing Touches",
+                "id": 192
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/193?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Secret Ingredient",
+                "id": 193
+            },
+            "display_order": 1
+        }
+    ]
+}

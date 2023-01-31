@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39074?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39074,
+    "name": "Tidespray Linen Robe",
+    "description": "Create Tidespray Linen Robe.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39074?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39074
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161977?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tidespray Linen Robe",
+        "id": 161977
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154685?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tidespray Linen Robe",
+        "id": 154685
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152576?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tidespray Linen",
+                "id": 152576
+            },
+            "quantity": 16
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/159959?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nylon Thread",
+                "id": 159959
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34450?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34450,
+    "name": "Skystep Potion",
+    "description": "Chance to create multiple potions.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34450?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34450
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/127841?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skystep Potion",
+        "id": 127841
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124105?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Starlight Rose",
+                "id": 124105
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/127836?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ancient Rejuvenation Potion",
+                "id": 127836
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

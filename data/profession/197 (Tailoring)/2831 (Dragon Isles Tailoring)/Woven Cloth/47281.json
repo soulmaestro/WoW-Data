@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47281?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47281,
+    "name": "Azureweave Bolt",
+    "description": "This mystical cloth can only be woven at a special loom in the Azure Archives, located in the southern area of The Azure Span.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47281?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47281
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190329?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Frost",
+                "id": 190329
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190324?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Order",
+                "id": 190324
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/175?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Wildercloth Bolt (DNT)",
+                "id": 175
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42333?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42333,
+    "name": "Spiritual Rejuvenation Potion",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42333?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42333
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171269?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Spiritual Rejuvenation Potion",
+        "id": 171269
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171267?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spiritual Healing Potion",
+                "id": 171267
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171268?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spiritual Mana Potion",
+                "id": 171268
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

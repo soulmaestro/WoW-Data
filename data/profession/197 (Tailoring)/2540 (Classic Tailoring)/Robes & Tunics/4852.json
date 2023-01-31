@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4852?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4852,
+    "name": "Earthen Vest",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4852?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4852
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7051?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Earthen Vest",
+        "id": 7051
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4305?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Silk Cloth",
+                "id": 4305
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7067?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elemental Earth",
+                "id": 7067
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2321?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fine Thread",
+                "id": 2321
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

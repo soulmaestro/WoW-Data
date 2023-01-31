@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20295?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20295,
+    "name": "Black Chitinguard Boots",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20295?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20295
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/38590?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Black Chitinguard Boots",
+        "id": 38590
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/38558?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nerubian Chitin",
+                "id": 38558
+            },
+            "quantity": 25
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37705?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Water",
+                "id": 37705
+            },
+            "quantity": 6
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

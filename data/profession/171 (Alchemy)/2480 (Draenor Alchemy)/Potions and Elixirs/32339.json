@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/32339?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32339,
+    "name": "Draenic Rejuvenation Potion",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/32339?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32339
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/109226?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Draenic Rejuvenation Potion",
+        "id": 109226
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/109223?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Healing Tonic",
+                "id": 109223
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/109222?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draenic Mana Potion",
+                "id": 109222
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

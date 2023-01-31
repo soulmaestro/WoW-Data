@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26253?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26253,
+    "name": "Greater Haste",
+    "description": "Permanently enchants a pair of boots to increase haste by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26253?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26253
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74249?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spirit Dust",
+                "id": 74249
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74250?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mysterious Essence",
+                "id": 74250
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

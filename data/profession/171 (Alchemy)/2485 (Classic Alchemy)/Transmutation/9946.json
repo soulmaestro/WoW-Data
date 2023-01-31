@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/9946?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9946,
+    "name": "Transmute: Fire to Earth",
+    "description": "Transmutes Fire into Earth.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/9946?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9946
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7076?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Essence of Earth",
+        "id": 7076
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7078?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Fire",
+                "id": 7078
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

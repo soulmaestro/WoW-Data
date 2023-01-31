@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40155?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40155,
+    "name": "Sanguinated Thermo-Degradation",
+    "description": "Convert one Breath of Bwonsamdi into one Sanguicell.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40155?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40155
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162461?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sanguicell",
+        "id": 162461
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/165703?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Breath of Bwonsamdi",
+                "id": 165703
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/160502?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chemical Blasting Cap",
+                "id": 160502
+            },
+            "quantity": 10
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

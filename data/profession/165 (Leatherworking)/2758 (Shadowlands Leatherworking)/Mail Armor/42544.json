@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42544?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42544,
+    "name": "Shadowscale Gauntlets",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42544?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42544
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172260?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shadowscale Gauntlets",
+        "id": 172260
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172094?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Callous Hide",
+                "id": 172094
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172092?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pallid Bone",
+                "id": 172092
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172089?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Desolate Leather",
+                "id": 172089
+            },
+            "quantity": 25
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/17?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 17
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/17?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 17
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/16?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Major",
+                "id": 16
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/79?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Add Progenitor Enhancement",
+                "id": 79
+            },
+            "display_order": 3
+        }
+    ]
+}

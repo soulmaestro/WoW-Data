@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20096?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20096,
+    "name": "Endless Mana Potion",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20096?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20096
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43570?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Endless Mana Potion",
+        "id": 43570
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/33448?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Runic Mana Potion",
+                "id": 33448
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

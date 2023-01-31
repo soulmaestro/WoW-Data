@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46768?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46768,
+    "name": "Phial of Static Empowerment",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46768?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46768
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Air",
+                "id": 190327
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190316?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Earth",
+                "id": 190316
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/104?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draconic Vial (DNT)",
+                "id": 104
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/101?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bubble Poppy (DNT)",
+                "id": 101
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/94?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alchemical Catalyst",
+                "id": 94
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 3
+        }
+    ]
+}

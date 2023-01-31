@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/18323?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 18323,
+    "name": "Pygmy Oil",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/18323?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 18323
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40195?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Pygmy Oil",
+        "id": 40195
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/40199?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pygmy Suckerfish",
+                "id": 40199
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 4.0
+    }
+}

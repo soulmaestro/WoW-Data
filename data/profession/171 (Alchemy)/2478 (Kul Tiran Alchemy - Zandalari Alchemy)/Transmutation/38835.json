@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38835?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38835,
+    "name": "Transmute: Fish to Gems",
+    "description": "Transmute fish into raw gems.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38835?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38835
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152581?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bag of Jewels",
+        "id": 152581
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152543?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sand Shifter",
+                "id": 152543
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152547?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Great Sea Catfish",
+                "id": 152547
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

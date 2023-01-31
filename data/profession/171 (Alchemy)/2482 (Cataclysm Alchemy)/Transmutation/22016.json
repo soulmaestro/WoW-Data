@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22016?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22016,
+    "name": "Transmute: Ocean Sapphire",
+    "description": "Transmutes lesser blue gems and the oils from Azshara's Veil to create an ocean sapphire.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22016?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22016
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52191?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Ocean Sapphire",
+        "id": 52191
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52178?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Zephyrite",
+                "id": 52178
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52985?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Azshara's Veil",
+                "id": 52985
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

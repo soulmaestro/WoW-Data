@@ -1,0 +1,90 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42512?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42512,
+    "name": "Boneshatter Gauntlets",
+    "description": "Create a piece of mail armor that is worthy of being infused with the power necessary to become a Legendary item.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42512?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42512
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172324?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Boneshatter Gauntlets",
+        "id": 172324
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172438?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Enchanted Heavy Callous Hide",
+                "id": 172438
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172097?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Callous Hide",
+                "id": 172097
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172096?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Desolate Leather",
+                "id": 172096
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172092?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pallid Bone",
+                "id": 172092
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/178787?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Orboreal Shard",
+                "id": 178787
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/110?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Increase Rank",
+                "id": 110
+            },
+            "display_order": 0
+        }
+    ]
+}

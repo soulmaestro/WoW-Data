@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34894?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34894,
+    "name": "Battlebound Warhelm",
+    "description": "Craft a Battlebound Warhelm.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34894?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34894
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128895?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battlebound Warhelm",
+        "id": 128895
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124115?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormscale",
+                "id": 124115
+            },
+            "quantity": 32
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

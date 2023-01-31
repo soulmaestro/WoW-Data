@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39233?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39233,
+    "name": "Precision Attitude Adjuster",
+    "description": "Create a Precision Attitude Adjuster.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39233?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39233
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152837?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Precision Attitude Adjuster",
+        "id": 152837
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Storm Silver Ore",
+                "id": 152579
+            },
+            "quantity": 25
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Platinum Ore",
+                "id": 152513
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Expulsom",
+                "id": 152668
+            },
+            "quantity": 8
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

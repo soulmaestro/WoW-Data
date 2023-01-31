@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/36722?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 36722,
+    "name": "Chaos Shatter",
+    "description": "Shatters a Chaos Crystal into 2 Leylight Shards.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/36722?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 36722
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/124441?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leylight Shard",
+        "id": 124441
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124442?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chaos Crystal",
+                "id": 124442
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 2.0
+    }
+}

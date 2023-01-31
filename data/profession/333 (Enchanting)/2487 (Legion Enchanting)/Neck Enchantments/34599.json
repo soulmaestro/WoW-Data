@@ -1,0 +1,42 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34599?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34599,
+    "name": "Mark of the Hidden Satyr",
+    "description": "Permanently enchants a necklace to sometimes summon a satyr that will fire a nightmare bolt at your enemy, dealing damage. Cannot be applied to items above level 60. Reduced materials.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34599?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34599
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124442?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chaos Crystal",
+                "id": 124442
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124441?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leylight Shard",
+                "id": 124441
+            },
+            "quantity": 12
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

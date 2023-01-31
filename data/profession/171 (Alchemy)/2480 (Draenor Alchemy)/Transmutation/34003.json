@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34003?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34003,
+    "name": "Transmute: Sorcerous Water to Fire",
+    "description": "Transmutes Sorcerous Water to Sorcerous Fire.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34003?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34003
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/113261?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sorcerous Fire",
+        "id": 113261
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/113262?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sorcerous Water",
+                "id": 113262
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/108996?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alchemical Catalyst",
+                "id": 108996
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

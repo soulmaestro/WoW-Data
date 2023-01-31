@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/18345?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 18345,
+    "name": "Transmute: Eternal Air to Water",
+    "description": "Transmutes Eternal Air to Water.  You have a chance to discover other transmutations when successful.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/18345?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 18345
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35622?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Eternal Water",
+        "id": 35622
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35623?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Air",
+                "id": 35623
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

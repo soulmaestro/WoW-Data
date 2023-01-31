@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20381?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20381,
+    "name": "Northrend Alchemy Research",
+    "description": "Experiment with Northrend herbs to discover a new Alchemy recipe.  Can only be done every 3 days.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20381?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20381
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/115460?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy: Northrend Alchemy Research",
+        "id": 115460
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36901?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Goldclover",
+                "id": 36901
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36903?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Adder's Tongue",
+                "id": 36903
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36907?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Talandra's Rose",
+                "id": 36907
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

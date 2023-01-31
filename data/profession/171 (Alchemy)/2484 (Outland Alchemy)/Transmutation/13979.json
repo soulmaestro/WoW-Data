@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13979?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13979,
+    "name": "Transmute: Primal Air to Fire",
+    "description": "Transmutes Primal Air into Primal Fire.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13979?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13979
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Primal Fire",
+        "id": 21884
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22451?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Air",
+                "id": 22451
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

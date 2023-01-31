@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/6612?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6612,
+    "name": "Admiral's Hat",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/6612?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6612
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10030?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Admiral's Hat",
+        "id": 10030
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4339?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Mageweave",
+                "id": 4339
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

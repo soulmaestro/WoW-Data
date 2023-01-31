@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47292?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47292,
+    "name": "Cushion of Time Travel",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47292?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47292
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/193053?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Contoured Fowlfeather",
+                "id": 193053
+            },
+            "quantity": 25
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201401?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iridescent Plume",
+                "id": 201401
+            },
+            "quantity": 5
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/177?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spool of Wilderthread (DNT)",
+                "id": 177
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/174?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chronocloth Bolt (DNT)",
+                "id": 174
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/181?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Embroidery Thread",
+                "id": 181
+            },
+            "display_order": 2
+        }
+    ]
+}

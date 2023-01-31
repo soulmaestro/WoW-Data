@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15610?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15610,
+    "name": "Fire Sunder",
+    "description": "Allows the miner to sunder primal fire into its component motes.  Sundering primal fire requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15610?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15610
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22574?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mote of Fire",
+        "id": 22574
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Fire",
+                "id": 21884
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

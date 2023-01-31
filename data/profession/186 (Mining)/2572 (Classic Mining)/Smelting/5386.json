@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/5386?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5386,
+    "name": "Smelt Truesilver",
+    "description": "Allows the miner to smelt a chunk of truesilver ore into a truesilver bar.  Smelting truesilver requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/5386?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5386
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6037?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Truesilver Bar",
+        "id": 6037
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7911?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Truesilver Ore",
+                "id": 7911
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22010?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22010,
+    "name": "Transmute: Demonseye",
+    "description": "Transmutes lesser purple gems and the magical essense of twilight jasmine to create a demonseye.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22010?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22010
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52194?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Demonseye",
+        "id": 52194
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52180?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nightstone",
+                "id": 52180
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52987?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Twilight Jasmine",
+                "id": 52987
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

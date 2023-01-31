@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35105?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35105,
+    "name": "Gunpowder Charge",
+    "description": "Craft a Gunpowder Charge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35105?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35105
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/132510?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gunpowder Charge",
+        "id": 132510
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136637?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Oversized Blasting Cap",
+                "id": 136637
+            },
+            "quantity": 30
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 5.0
+    }
+}

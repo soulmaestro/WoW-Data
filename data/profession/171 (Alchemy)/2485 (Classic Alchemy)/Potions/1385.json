@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1385?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1385,
+    "name": "Lesser Healing Potion",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1385?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1385
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/858?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Lesser Healing Potion",
+        "id": 858
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/118?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Minor Healing Potion",
+                "id": 118
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2450?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Briarthorn",
+                "id": 2450
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

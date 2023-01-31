@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/10408?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 10408,
+    "name": "Brightcloth Gloves",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/10408?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 10408
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/14101?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Brightcloth Gloves",
+        "id": 14101
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14048?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Runecloth",
+                "id": 14048
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3577?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gold Bar",
+                "id": 3577
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22381?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22381,
+    "name": "Cloak of War",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22381?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22381
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/56519?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak of War",
+        "id": 56519
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52979?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blackened Dragonscale",
+                "id": 52979
+            },
+            "quantity": 60
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

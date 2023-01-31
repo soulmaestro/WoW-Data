@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47646?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47646,
+    "name": "Finished Prototype Regal Barding",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47646?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47646
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194541?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Prototype Regal Barding Framework",
+                "id": 194541
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201405?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tuft of Primal Wool",
+                "id": 201405
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/149?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lustrous Scaled Hide (DNT)",
+                "id": 149
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/146?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resilient Leather (DNT)",
+                "id": 146
+            },
+            "display_order": 1
+        }
+    ]
+}

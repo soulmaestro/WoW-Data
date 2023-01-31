@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/5387?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5387,
+    "name": "Smelt Mithril",
+    "description": "Allows the miner to smelt a chunk of mithril ore into a mithril bar.  Smelting mithril requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/5387?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5387
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mithril Bar",
+        "id": 3860
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3858?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mithril Ore",
+                "id": 3858
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

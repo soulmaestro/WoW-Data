@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14117?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14117,
+    "name": "Smelt Khorium",
+    "description": "Allows the miner to smelt khorium ore into a khorium bar.  Smelting khorium requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14117?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14117
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23449?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Khorium Bar",
+        "id": 23449
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23426?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Khorium Ore",
+                "id": 23426
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

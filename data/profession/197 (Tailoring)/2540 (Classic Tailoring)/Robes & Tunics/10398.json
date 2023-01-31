@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/10398?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 10398,
+    "name": "Frostweave Tunic",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/10398?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 10398
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13869?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Frostweave Tunic",
+        "id": 13869
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14048?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Runecloth",
+                "id": 14048
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/6260?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blue Dye",
+                "id": 6260
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14341?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rune Thread",
+                "id": 14341
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

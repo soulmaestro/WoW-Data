@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38821?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38821,
+    "name": "Coastal Rejuvenation Potion",
+    "description": "Create a Coastal Rejuvenation Potion.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38821?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38821
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/163082?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Coastal Rejuvenation Potion",
+        "id": 163082
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152494?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coastal Healing Potion",
+                "id": 152494
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152495?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coastal Mana Potion",
+                "id": 152495
+            },
+            "quantity": 2
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

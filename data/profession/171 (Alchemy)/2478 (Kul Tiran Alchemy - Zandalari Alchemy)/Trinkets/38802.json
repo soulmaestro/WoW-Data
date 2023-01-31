@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38802?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38802,
+    "name": "Endless Tincture of Renewed Combat",
+    "description": "Chance to create multiple tinctures.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38802?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38802
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152634?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Endless Tincture of Renewed Combat",
+        "id": 152634
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152509?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Siren's Pollen",
+                "id": 152509
+            },
+            "quantity": 18
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152505?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Riverbud",
+                "id": 152505
+            },
+            "quantity": 18
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Expulsom",
+                "id": 152668
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35126?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35126,
+    "name": "Reinforced Headgun",
+    "description": "Reduces the materials required to craft a Reinforced Headgun.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35126?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35126
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/132503?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Reinforced Headgun",
+        "id": 132503
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 40
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136636?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sniping Scope",
+                "id": 136636
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136633?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Loose Trigger",
+                "id": 136633
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136630?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "\"Twirling Bottom\" Repeater",
+                "id": 136630
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

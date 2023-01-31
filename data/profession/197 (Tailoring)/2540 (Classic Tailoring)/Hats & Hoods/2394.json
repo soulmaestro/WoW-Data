@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2394?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2394,
+    "name": "Shadow Hood",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2394?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2394
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4323?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shadow Hood",
+        "id": 4323
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4305?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Silk Cloth",
+                "id": 4305
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4291?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Thread",
+                "id": 4291
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3824?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadow Oil",
+                "id": 3824
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

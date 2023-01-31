@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2450?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2450,
+    "name": "Green Tinted Goggles",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2450?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2450
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4385?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Green Tinted Goggles",
+        "id": 4385
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2319?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Medium Leather",
+                "id": 2319
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1206?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Moss Agate",
+                "id": 1206
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4368?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Flying Tiger Goggles",
+                "id": 4368
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

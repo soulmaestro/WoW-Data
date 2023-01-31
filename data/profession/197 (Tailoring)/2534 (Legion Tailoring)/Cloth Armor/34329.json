@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34329?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34329,
+    "name": "Imbued Silkweave Robe",
+    "description": "Reduces the materials required to craft an Imbued Silkweave Robe.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34329?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34329
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/126995?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Imbued Silkweave Robe",
+        "id": 126995
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/127004?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Imbued Silkweave",
+                "id": 127004
+            },
+            "quantity": 60
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 40
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34338?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34338,
+    "name": "Imbued Silkweave",
+    "description": "Craft Imbued Silkweave.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34338?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34338
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/127004?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Imbued Silkweave",
+        "id": 127004
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124440?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arkhana",
+                "id": 124440
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124437?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shal'dorei Silk",
+                "id": 124437
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

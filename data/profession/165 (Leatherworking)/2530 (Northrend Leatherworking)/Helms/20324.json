@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20324?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20324,
+    "name": "Nerubian Helm",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20324?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20324
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/38439?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Nerubian Helm",
+        "id": 38439
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/33568?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Borean Leather",
+                "id": 33568
+            },
+            "quantity": 14
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

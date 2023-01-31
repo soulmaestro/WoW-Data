@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42798?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42798,
+    "name": "Shrouded Cloth Belt",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42798?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42798
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173200?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shrouded Cloth Belt",
+        "id": 173200
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shrouded Cloth",
+                "id": 173202
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/177062?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Penumbra Thread",
+                "id": 177062
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/46?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Minor",
+                "id": 46
+            },
+            "display_order": 0
+        }
+    ]
+}

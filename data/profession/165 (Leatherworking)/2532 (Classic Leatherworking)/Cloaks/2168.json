@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2168?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2168,
+    "name": "Hillman's Cloak",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2168?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2168
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3719?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hillman's Cloak",
+        "id": 3719
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4234?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Leather",
+                "id": 4234
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2321?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fine Thread",
+                "id": 2321
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

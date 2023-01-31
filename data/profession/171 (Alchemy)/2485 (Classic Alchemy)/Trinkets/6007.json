@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/6007?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6007,
+    "name": "Philosopher's Stone",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/6007?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6007
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/9149?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Philosopher's Stone",
+        "id": 9149
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/9262?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Black Vitriol",
+                "id": 9262
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/8831?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Purple Lotus",
+                "id": 8831
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4625?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Firebloom",
+                "id": 4625
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/32681?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32681,
+    "name": "Razorguard Mechshades",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/32681?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32681
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/109174?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Razorguard Mechshades",
+        "id": 109174
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/111366?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gearspring Parts",
+                "id": 111366
+            },
+            "quantity": 100
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/238?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Linkgrease Locksprocket",
+                "id": 238
+            },
+            "display_order": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26277?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26277,
+    "name": "River's Song",
+    "description": "Permanently enchants a melee weapon to sometimes increase your dodge by 29 for 7 sec when dealing melee damage. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26277?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26277
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/76138?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "River's Heart",
+                "id": 76138
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74250?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mysterious Essence",
+                "id": 74250
+            },
+            "quantity": 50
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38838?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38838,
+    "name": "Lightfoot Potion",
+    "description": "Create a Lightfoot Potion.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38838?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38838
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152497?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Lightfoot Potion",
+        "id": 152497
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152506?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Moss",
+                "id": 152506
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

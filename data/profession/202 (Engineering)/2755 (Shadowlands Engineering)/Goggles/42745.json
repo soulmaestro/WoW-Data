@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42745?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42745,
+    "name": "Reinforced Ectoplasmic Specs",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42745?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42745
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172908?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Reinforced Ectoplasmic Specs",
+        "id": 172908
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172937?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Wormfed Gear Assembly",
+                "id": 172937
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172934?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Handful of Laestrite Bolts",
+                "id": 172934
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173109?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Angerseye",
+                "id": 173109
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171832?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sinvyr Ore",
+                "id": 171832
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/17?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 17
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/17?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 17
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/16?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Major",
+                "id": 16
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/79?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Add Progenitor Enhancement",
+                "id": 79
+            },
+            "display_order": 3
+        }
+    ]
+}

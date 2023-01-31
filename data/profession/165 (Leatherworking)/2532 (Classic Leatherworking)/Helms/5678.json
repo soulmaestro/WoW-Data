@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/5678?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5678,
+    "name": "Big Voodoo Mask",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/5678?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5678
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/8201?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Big Voodoo Mask",
+        "id": 8201
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4304?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thick Leather",
+                "id": 4304
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42799?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42799,
+    "name": "Shrouded Cloth Bracers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42799?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42799
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173201?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shrouded Cloth Bracers",
+        "id": 173201
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shrouded Cloth",
+                "id": 173202
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/177062?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Penumbra Thread",
+                "id": 177062
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/77?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Minor",
+                "id": 77
+            },
+            "display_order": 0
+        }
+    ]
+}

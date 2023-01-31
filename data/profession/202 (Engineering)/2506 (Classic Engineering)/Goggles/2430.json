@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2430?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2430,
+    "name": "Flying Tiger Goggles",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2430?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2430
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4368?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Flying Tiger Goggles",
+        "id": 4368
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2841?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bronze Bar",
+                "id": 2841
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/818?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tigerseye",
+                "id": 818
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

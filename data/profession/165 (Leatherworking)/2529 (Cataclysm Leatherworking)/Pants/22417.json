@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22417?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22417,
+    "name": "Vicious Leather Legs",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22417?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22417
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/75112?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Vicious Leather Legs",
+        "id": 75112
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/56516?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Savage Leather",
+                "id": 56516
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52329?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Life",
+                "id": 52329
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

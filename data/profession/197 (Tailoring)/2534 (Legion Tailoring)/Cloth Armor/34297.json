@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34297?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34297,
+    "name": "Silkweave Pantaloons",
+    "description": "Craft Silkweave Pantaloons.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34297?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34297
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/126991?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Silkweave Pantaloons",
+        "id": 126991
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124437?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shal'dorei Silk",
+                "id": 124437
+            },
+            "quantity": 32
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

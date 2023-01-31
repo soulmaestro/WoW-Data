@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13982?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13982,
+    "name": "Transmute: Primal Water to Air",
+    "description": "Transmutes Primal Water into Primal Air.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13982?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13982
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22451?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Primal Air",
+        "id": 22451
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Water",
+                "id": 21885
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

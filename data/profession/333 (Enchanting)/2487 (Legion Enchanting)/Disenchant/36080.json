@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/36080?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 36080,
+    "name": "Ley Shatter",
+    "description": "Shatters a Leylight Shard into 3 Arkhana.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/36080?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 36080
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/124440?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Arkhana",
+        "id": 124440
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124441?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leylight Shard",
+                "id": 124441
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 3.0
+    }
+}

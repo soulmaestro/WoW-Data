@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46820?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46820,
+    "name": "Basic Phial Experimentation",
+    "description": "Experiment with volatile reagents in hopes of discovering new phial recipes.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46820?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46820
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Artisan's Mettle",
+                "id": 190456
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/191570?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dragon's Alchemical Solution",
+                "id": 191570
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/103?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Omnium Draconis (DNT)",
+                "id": 103
+            },
+            "display_order": 0
+        }
+    ]
+}

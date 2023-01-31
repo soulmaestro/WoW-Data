@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/6860?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6860,
+    "name": "Bright-Eye Goggles",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/6860?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6860
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10499?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bright-Eye Goggles",
+        "id": 10499
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4234?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Leather",
+                "id": 4234
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3864?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Citrine",
+                "id": 3864
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}
