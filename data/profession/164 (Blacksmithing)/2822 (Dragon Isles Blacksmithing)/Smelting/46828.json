@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46828?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46828,
+    "name": "Infurious Alloy",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46828?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46828
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190450?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Ire",
+                "id": 190450
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Flux",
+                "id": 190452
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/81?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draconium Ore (DNT)",
+                "id": 81
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/117?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Khaz'gorite Ore (DNT)",
+                "id": 117
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 2
+        }
+    ]
+}

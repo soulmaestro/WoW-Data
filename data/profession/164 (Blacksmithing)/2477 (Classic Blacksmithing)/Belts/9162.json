@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/9162?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9162,
+    "name": "Radiant Belt",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/9162?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9162
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12416?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Radiant Belt",
+        "id": 12416
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12359?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thorium Bar",
+                "id": 12359
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7077?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heart of Fire",
+                "id": 7077
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

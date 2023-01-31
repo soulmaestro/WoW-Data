@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47312?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47312,
+    "name": "Prototype Explorer's Barding Framework",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47312?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47312
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Flux",
+                "id": 190452
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201399?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Bear Spine",
+                "id": 201399
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/114?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Serevite Ore (DNT)",
+                "id": 114
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/82?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Molten Alloy (DNT)",
+                "id": 82
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/84?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Obsidian Seared Alloy (DNT)",
+                "id": 84
+            },
+            "display_order": 2
+        }
+    ]
+}

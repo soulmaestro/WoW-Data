@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1635?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1635,
+    "name": "Runed Copper Bracers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1635?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1635
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2854?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Runed Copper Bracers",
+        "id": 2854
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2840?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Copper Bar",
+                "id": 2840
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3470?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rough Grinding Stone",
+                "id": 3470
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

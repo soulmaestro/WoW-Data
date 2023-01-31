@@ -1,0 +1,56 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38730?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38730,
+    "name": "Monel-Hardened Breastplate",
+    "description": "Create a Monel-Hardened Breastplate.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38730?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38730
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161880?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Monel-Hardened Breastplate",
+        "id": 161880
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152802?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Monel-Hardened Breastplate",
+        "id": 152802
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Monelite Ore",
+                "id": 152512
+            },
+            "quantity": 18
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

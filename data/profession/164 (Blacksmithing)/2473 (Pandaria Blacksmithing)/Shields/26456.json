@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26456?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26456,
+    "name": "Masterwork Lightsteel Shield",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26456?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26456
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/82968?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Masterwork Lightsteel Shield",
+        "id": 82968
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/72096?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ghost Iron Bar",
+                "id": 72096
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/72095?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Trillium Bar",
+                "id": 72095
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

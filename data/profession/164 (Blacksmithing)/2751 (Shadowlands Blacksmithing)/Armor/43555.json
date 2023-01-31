@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/43555?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43555,
+    "name": "Shadowsteel Armguards",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/43555?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43555
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171449?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shadowsteel Armguards",
+        "id": 171449
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171828?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Laestrite Ore",
+                "id": 171828
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171428?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowghast Ingot",
+                "id": 171428
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171833?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elethium Ore",
+                "id": 171833
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/180733?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Luminous Flux",
+                "id": 180733
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/17?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 17
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/17?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 17
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/16?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Major",
+                "id": 16
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/79?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Add Progenitor Enhancement",
+                "id": 79
+            },
+            "display_order": 3
+        }
+    ]
+}

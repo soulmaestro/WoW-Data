@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4628?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4628,
+    "name": "Ironforge Chain",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4628?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4628
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6730?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Ironforge Chain",
+        "id": 6730
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2840?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Copper Bar",
+                "id": 2840
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/774?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Malachite",
+                "id": 774
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3470?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rough Grinding Stone",
+                "id": 3470
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

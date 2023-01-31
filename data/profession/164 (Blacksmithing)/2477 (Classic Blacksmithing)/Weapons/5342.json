@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/5342?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5342,
+    "name": "Heavy Mithril Axe",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/5342?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5342
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7941?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Heavy Mithril Axe",
+        "id": 7941
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mithril Bar",
+                "id": 3860
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3864?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Citrine",
+                "id": 3864
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7966?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Solid Grinding Stone",
+                "id": 7966
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4234?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Leather",
+                "id": 4234
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

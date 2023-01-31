@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39038?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39038,
+    "name": "Shimmerscale Treads",
+    "description": "Create Shimmerscale Treads.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39038?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39038
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161954?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shimmerscale Treads",
+        "id": 161954
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154147?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shimmerscale Treads",
+        "id": 154147
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153050?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shimmerscale",
+                "id": 153050
+            },
+            "quantity": 9
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154164?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood-Stained Bone",
+                "id": 154164
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

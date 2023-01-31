@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47751?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47751,
+    "name": "Sturdy Expedition Shovel",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47751?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47751
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Flux",
+                "id": 190452
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/114?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Serevite Ore (DNT)",
+                "id": 114
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Quenching Fluid",
+                "id": 124
+            },
+            "display_order": 1
+        }
+    ]
+}

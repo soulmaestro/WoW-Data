@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/36647?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 36647,
+    "name": "Empyrial Breastplate",
+    "description": "Greatly reduces the materials required to craft an Empyrial Breastplate.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/36647?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 36647
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/151576?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Empyrial Breastplate",
+        "id": 151576
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/151564?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Empyrium",
+                "id": 151564
+            },
+            "quantity": 95
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/151568?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Sargerite",
+                "id": 151568
+            },
+            "quantity": 5
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

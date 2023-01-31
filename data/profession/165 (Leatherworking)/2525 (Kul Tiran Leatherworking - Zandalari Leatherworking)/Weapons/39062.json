@@ -1,0 +1,77 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39062?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39062,
+    "name": "Mistscale Knuckles",
+    "description": "Reduces the materials required to craft Mistscale Knuckles.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39062?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39062
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161971?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mistscale Knuckles",
+        "id": 161971
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154162?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mistscale Knuckles",
+        "id": 154162
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153051?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mistscale",
+                "id": 153051
+            },
+            "quantity": 26
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154165?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Calcified Bone",
+                "id": 154165
+            },
+            "quantity": 18
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Expulsom",
+                "id": 152668
+            },
+            "quantity": 3
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34640?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34640,
+    "name": "Leystone Greaves",
+    "description": "Greatly reduces the materials required to craft Leystone Greaves.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34640?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34640
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/123895?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leystone Greaves",
+        "id": 123895
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 16
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

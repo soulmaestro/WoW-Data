@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2000?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2000,
+    "name": "Green Iron Hauberk",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2000?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2000
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3844?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Green Iron Hauberk",
+        "id": 3844
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 20
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3486?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Grinding Stone",
+                "id": 3486
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1529?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Jade",
+                "id": 1529
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1206?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Moss Agate",
+                "id": 1206
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4255?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Green Leather Armor",
+                "id": 4255
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

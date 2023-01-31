@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34075?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34075,
+    "name": "Leystone Pauldrons",
+    "description": "Reduces the materials required to craft Leystone Pauldrons.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34075?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34075
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/123896?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leystone Pauldrons",
+        "id": 123896
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 18
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

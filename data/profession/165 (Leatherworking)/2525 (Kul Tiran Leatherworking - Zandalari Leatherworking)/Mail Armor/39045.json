@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39045?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39045,
+    "name": "Shimmerscale Armguards",
+    "description": "Create Shimmerscale Armguards.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39045?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39045
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161960?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shimmerscale Armguards",
+        "id": 161960
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154153?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shimmerscale Armguards",
+        "id": 154153
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153050?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shimmerscale",
+                "id": 153050
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154164?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood-Stained Bone",
+                "id": 154164
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

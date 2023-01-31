@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21775?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21775,
+    "name": "Redsteel Breastplate",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21775?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21775
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/55032?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Redsteel Breastplate",
+        "id": 55032
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52186?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elementium Bar",
+                "id": 52186
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Earth",
+                "id": 52327
+            },
+            "quantity": 15
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

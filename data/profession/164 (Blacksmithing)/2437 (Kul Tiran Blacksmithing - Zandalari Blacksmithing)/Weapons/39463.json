@@ -1,0 +1,67 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39463?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39463,
+    "name": "Honorable Combatant's Cutlass",
+    "description": "Craft an Honorable Combatant's Cutlass.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39463?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39463
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161920?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Honorable Combatant's Cutlass",
+        "id": 161920
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/159853?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Honorable Combatant's Cutlass",
+        "id": 159853
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Storm Silver Ore",
+                "id": 152579
+            },
+            "quantity": 50
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/18567?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elemental Flux",
+                "id": 18567
+            },
+            "quantity": 20
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

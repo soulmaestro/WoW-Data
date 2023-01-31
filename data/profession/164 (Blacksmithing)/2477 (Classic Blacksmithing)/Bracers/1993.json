@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1993?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1993,
+    "name": "Green Iron Bracers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1993?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1993
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3835?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Green Iron Bracers",
+        "id": 3835
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2605?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Green Dye",
+                "id": 2605
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

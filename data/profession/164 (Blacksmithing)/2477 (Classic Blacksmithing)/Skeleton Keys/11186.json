@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/11186?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 11186,
+    "name": "Arcanite Skeleton Key",
+    "description": "Allows opening of hard locks.  The skeleton key is consumed in the process.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/11186?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 11186
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/15872?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Arcanite Skeleton Key",
+        "id": 15872
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12360?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arcanite Bar",
+                "id": 12360
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12644?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dense Grinding Stone",
+                "id": 12644
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 2.0
+    }
+}

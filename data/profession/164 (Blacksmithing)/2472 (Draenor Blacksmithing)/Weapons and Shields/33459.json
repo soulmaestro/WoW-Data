@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/33459?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33459,
+    "name": "Steelforged Hammer",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/33459?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33459
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/116646?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Steelforged Hammer",
+        "id": 116646
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/108257?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Truesteel Ingot",
+                "id": 108257
+            },
+            "quantity": 100
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/236?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Steelforged Essence",
+                "id": 236
+            },
+            "display_order": 1
+        }
+    ]
+}

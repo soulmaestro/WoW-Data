@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34066?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34066,
+    "name": "Leystone Breastplate",
+    "description": "Greatly reduces the materials required to craft a Leystone Breastplate.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34066?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34066
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/123891?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leystone Breastplate",
+        "id": 123891
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 16
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

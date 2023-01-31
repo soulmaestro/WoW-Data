@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21788?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21788,
+    "name": "Fire-Etched Dagger",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21788?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21788
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/55045?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fire-Etched Dagger",
+        "id": 55045
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52186?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elementium Bar",
+                "id": 52186
+            },
+            "quantity": 20
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Earth",
+                "id": 52327
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52325?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Fire",
+                "id": 52325
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

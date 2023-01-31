@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15621?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15621,
+    "name": "Light Skyforged Axe",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15621?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15621
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/30072?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Light Skyforged Axe",
+        "id": 30072
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mithril Bar",
+                "id": 3860
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7081?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Breath of Wind",
+                "id": 7081
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

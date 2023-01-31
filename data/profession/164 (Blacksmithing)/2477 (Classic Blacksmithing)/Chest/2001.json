@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2001?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2001,
+    "name": "Golden Scale Cuirass",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2001?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2001
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3845?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Golden Scale Cuirass",
+        "id": 3845
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3859?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Steel Bar",
+                "id": 3859
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3577?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gold Bar",
+                "id": 3577
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3486?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Grinding Stone",
+                "id": 3486
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

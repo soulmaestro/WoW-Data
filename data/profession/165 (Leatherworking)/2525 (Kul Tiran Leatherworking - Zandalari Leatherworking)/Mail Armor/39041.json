@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39041?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39041,
+    "name": "Shimmerscale Helm",
+    "description": "Create a Shimmerscale Helm.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39041?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39041
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161956?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shimmerscale Helm",
+        "id": 161956
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154149?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shimmerscale Helm",
+        "id": 154149
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153050?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shimmerscale",
+                "id": 153050
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154164?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood-Stained Bone",
+                "id": 154164
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}
