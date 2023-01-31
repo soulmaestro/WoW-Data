@@ -1,0 +1,233 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183098?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183098,
+    "name": "Technique: Codex of the Still Mind",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183098?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183098
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 800,
+    "sell_price": 200,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Codex of the Still Mind.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183098?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183098
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Technique: Codex of the Still Mind",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183098?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183098
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 200,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2756?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Inscription",
+                    "id": 2756
+                },
+                "level": 50,
+                "display_string": "Requires Shadowlands Inscription (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2407?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Ascended",
+                    "id": 2407
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires The Ascended - Friendly"
+            }
+        },
+        "description": "Teaches you how to craft a Codex of the Still Mind.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/173048?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 173048
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Codex of the Still Mind",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/173048?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 173048
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/324029?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Codex of the Still Mind",
+                            "id": 324029
+                        },
+                        "description": "Use: Set out a codex, allowing nearby players to adjust their talents."
+                    }
+                ],
+                "sell_price": {
+                    "value": 2500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "25",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 51,
+                        "display_string": "Requires Level 51"
+                    }
+                },
+                "description": "Created by players with the Inscription skill. Can be bought and sold on the auction house.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173059?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Ink",
+                        "id": 173059
+                    },
+                    "quantity": 7
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173058?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Umbral Ink",
+                        "id": 173058
+                    },
+                    "quantity": 7
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/175970?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tranquil Ink",
+                        "id": 175970
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/175886?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dark Parchment",
+                        "id": 175886
+                    },
+                    "quantity": 75
+                }
+            ],
+            "reagents_display_string": "Luminous Ink (7), Umbral Ink (7), Tranquil Ink, Dark Parchment (75)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,223 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43506?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43506,
+    "name": "Recipe: Small Feast",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43506?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43506
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook a Small Feast",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43506?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43506
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Small Feast",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43506?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43506
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2546?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Cooking",
+                    "id": 2546
+                },
+                "level": 50,
+                "display_string": "Requires Northrend Cooking (50)"
+            }
+        },
+        "description": "Teaches you how to cook a Small Feast",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/43480?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 43480
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Small Feast",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/43480?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 43480
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/58474?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Small Feast",
+                            "id": 58474
+                        },
+                        "description": "Use: Set out a great feast that will feed your party!   Restores 5,859 health and 3,733 mana over 30 sec.  If you spend at least 10 seconds eating you will become smaller. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 2500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "25",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2546?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Northrend Cooking",
+                            "id": 2546
+                        },
+                        "level": 1,
+                        "display_string": "Requires Northrend Cooking (1)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/41813?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Nettlefish",
+                        "id": 41813
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43012?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rhino Meat",
+                        "id": 43012
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/41809?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Glacial Salmon",
+                        "id": 41809
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43007?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Northern Spices",
+                        "id": 43007
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Nettlefish (2), Rhino Meat (2), Glacial Salmon (2), Northern Spices"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

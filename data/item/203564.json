@@ -1,0 +1,279 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/203564?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 203564,
+    "name": "Stormwing Harrier's Skullmask",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/203564?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 203564
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 3485511,
+    "sell_price": 697102,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/203564?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 203564
+        },
+        "context": 0,
+        "bonus_list": [
+            8828
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Stormwing Harrier's Skullmask",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/203564?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 203564
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 537,
+            "display": {
+                "display_string": "537 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 402,
+                "display": {
+                    "display_string": "+402 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 402,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+402 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 982,
+                "display": {
+                    "display_string": "+982 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 196,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+196 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 491,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+491 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 631885,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "63",
+                "silver": "18",
+                "copper": "85"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hunter",
+                        "id": 3
+                    }
+                ],
+                "display_string": "Classes: Hunter"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1529?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormwing Harrier's Camouflage",
+                "id": 1529
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200387?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stormwing Harrier's Cuirass",
+                        "id": 200387
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200389?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stormwing Harrier's Handguards",
+                        "id": 200389
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200390?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stormwing Harrier's Skullmask",
+                        "id": 200390
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200391?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stormwing Harrier's Greaves",
+                        "id": 200391
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200392?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stormwing Harrier's Pinions",
+                        "id": 200392
+                    }
+                }
+            ],
+            "display_string": "Stormwing Harrier's Camouflage (0/5)"
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

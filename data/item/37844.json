@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/37844?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 37844,
+    "name": "Winged Talisman",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/37844?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 37844
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 114267,
+    "sell_price": 22853,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/37844?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37844
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Winged Talisman",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/37844?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37844
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/60521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Winged Talisman",
+                    "id": 60521
+                },
+                "description": "Use: Increases spell power by 14 for 20 sec. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 327,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "3",
+                "copper": "27"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

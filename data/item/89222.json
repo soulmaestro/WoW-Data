@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/89222?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 89222,
+    "name": "Cloud Ring",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/89222?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 89222
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000000,
+    "sell_price": 2500000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Fun for your flying pet",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/89222?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 89222
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Cloud Ring",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/89222?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 89222
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/129312?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jump Through Hoop",
+                    "id": 129312
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nSummon a cloud ring that your pet will jump through.  Requires a flying pet. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "250",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1271?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Order of the Cloud Serpent",
+                    "id": 1271
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Order of the Cloud Serpent - Revered"
+            }
+        },
+        "description": "Fun for your flying pet",
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

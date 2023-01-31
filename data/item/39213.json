@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/39213?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39213,
+    "name": "Massive Seaforium Charge",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/39213?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39213
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/39213?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 39213
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Massive Seaforium Charge",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/39213?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 39213
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/52410?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Place Seaforium Charge",
+                    "id": 52410
+                },
+                "description": "Use: Places a massive seaforium charge which will detonate after 10 seconds. (1 Sec Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/52418?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Carrying Seaforium",
+                    "id": 52418
+                },
+                "description": "Seaforium charges will be dropped on death."
+            }
+        ],
+        "requirements": {
+            "areas": [
+                {
+                    "name": "Strand of the Ancients",
+                    "id": 4384
+                }
+            ]
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

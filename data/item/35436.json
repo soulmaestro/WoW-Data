@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35436?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35436,
+    "name": "Enchant Cloak - PvP Power",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35436?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35436
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2600,
+    "sell_price": 650,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35436?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35436
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Enchant Cloak - PvP Power",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35436?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35436
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/34003?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "PvP Power",
+                    "id": 34003
+                },
+                "description": "Use: Permanently enchant a cloak to increase Intellect by 6. Cannot be applied to items higher than level 50. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 650,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "6",
+                "copper": "50"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

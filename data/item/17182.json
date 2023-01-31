@@ -1,0 +1,197 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/17182?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 17182,
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/17182?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 17182
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 211379,
+    "sell_price": 42275,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/17182?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17182
+        },
+        "context": 0,
+        "bonus_list": [
+            9263
+        ],
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Sulfuras, Hand of Ragnaros",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/17182?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17182
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 36,
+                "max_value": 46,
+                "display_string": "36 - 46 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 11.388888,
+                "display_string": "(11.4 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 6,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+6 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "FIRE_RESISTANCE",
+                    "name": "Fire Resistance"
+                },
+                "value": 15,
+                "display": {
+                    "display_string": "+15 Fire Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/21162?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fireball",
+                    "id": 21162
+                },
+                "description": "Chance on hit: Hurls a fiery ball that causes 50 Fire damage and an additional 12 damage over 10 sec."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/21142?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Immolation",
+                    "id": 21142
+                },
+                "description": "Equip: Deals 1 Fire damage to anyone who strikes you with a melee attack."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "level": {
+            "value": 97,
+            "display_string": "Item Level 97"
+        },
+        "durability": {
+            "value": 145,
+            "display_string": "Durability 145 / 145"
+        }
+    },
+    "purchase_quantity": 1
+}

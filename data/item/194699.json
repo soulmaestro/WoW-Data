@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/194699?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 194699,
+    "name": "Draconic Treatise on Inscription",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/194699?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 194699
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 250000,
+    "sell_price": 50000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Contains notes on various tricks of the trade used by Scribes. Can only be studied once a week.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/194699?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194699
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Draconic Treatise on Inscription",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/194699?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194699
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/377675?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Studying",
+                    "id": 377675
+                },
+                "description": "Use: Study to increase your Dragon Isles Inscription Knowledge by 1. (0 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2828?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dragon Isles Inscription",
+                    "id": 2828
+                },
+                "level": 25,
+                "display_string": "Requires Dragon Isles Inscription (25)"
+            }
+        },
+        "description": "Contains notes on various tricks of the trade used by Scribes. Can only be studied once a week.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

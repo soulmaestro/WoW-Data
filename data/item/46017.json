@@ -1,0 +1,252 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46017?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46017,
+    "name": "Val'anyr, Hammer of Ancient Kings",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 35,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46017?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46017
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 1818255,
+    "sell_price": 363651,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "The power of creation courses through this weapon.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46017?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46017
+        },
+        "context": 0,
+        "bonus_list": [
+            9267
+        ],
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Val'anyr, Hammer of Ancient Kings",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46017?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46017
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 11,
+                "max_value": 15,
+                "display_string": "11 - 15 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 4.9999995,
+                "display_string": "(5.0 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 52,
+                "display": {
+                    "display_string": "+52 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 13,
+                "display": {
+                    "display_string": "+13 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 11,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+11 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 11,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+11 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/64415?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Val'anyr Hammer of Ancient Kings - Equip Effect",
+                    "id": 64415
+                },
+                "description": "Equip: Your healing spells have a chance to cause Blessing of Ancient Kings for 15 sec allowing your heals to shield the target absorbing damage equal to 15% of the amount healed."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Priest",
+                        "id": 5
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaman",
+                        "id": 7
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Evoker",
+                        "id": 13
+                    }
+                ],
+                "display_string": "Classes: Druid, Monk, Priest, Paladin, Shaman, Evoker"
+            }
+        },
+        "description": "The power of creation courses through this weapon.",
+        "level": {
+            "value": 107,
+            "display_string": "Item Level 107"
+        },
+        "durability": {
+            "value": 130,
+            "display_string": "Durability 130 / 130"
+        }
+    },
+    "purchase_quantity": 1
+}

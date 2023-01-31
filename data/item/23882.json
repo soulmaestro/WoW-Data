@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23882?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23882,
+    "name": "Schematic: Critter Enlarger",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23882?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23882
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000,
+    "sell_price": 15000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Critter Enlarger.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23882?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23882
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Schematic: Critter Enlarger",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23882?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23882
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2505?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Engineering",
+                    "id": 2505
+                },
+                "level": 25,
+                "display_string": "Requires Outland Engineering (25)"
+            }
+        },
+        "description": "Teaches you how to make a Critter Enlarger.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/203471?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 203471,
+    "name": "Tasty Candy",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/203471?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 203471
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Yum yum yum.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/203471?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 203471
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Tasty Candy",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/203471?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 203471
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/384364?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Studying",
+                    "id": 384364
+                },
+                "description": "Use: Study to increase your Dragon Isles Alchemy Knowledge by 3."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2823?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dragon Isles Alchemy",
+                    "id": 2823
+                },
+                "level": 25,
+                "display_string": "Requires Dragon Isles Alchemy (25)"
+            }
+        },
+        "description": "Yum yum yum.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

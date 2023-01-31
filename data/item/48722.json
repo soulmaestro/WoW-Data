@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/48722?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 48722,
+    "name": "Shard of the Crystal Heart",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/48722?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 48722
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1824900,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/48722?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 48722
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Shard of the Crystal Heart",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/48722?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 48722
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/67683?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Celerity",
+                    "id": 67683
+                },
+                "description": "Use: Increases haste by 24 for 20 sec. (2 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6738?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6738,
+    "name": "Bleeding Crescent",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/6738?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6738
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Axe",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 18448,
+    "sell_price": 3689,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/6738?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6738
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Bleeding Crescent",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/6738?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6738
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Axe",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 2,
+                "max_value": 4,
+                "display_string": "2 - 4 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 1.1538461,
+                "display_string": "(1.2 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/265057?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bleeding Crescent",
+                    "id": 265057
+                },
+                "description": "Equip: Wounds the target causing them to bleed for 5 damage over 30 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 111,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "11"
+            }
+        },
+        "level": {
+            "value": 20,
+            "display_string": "Item Level 20"
+        },
+        "durability": {
+            "value": 55,
+            "display_string": "Durability 55 / 55"
+        }
+    },
+    "purchase_quantity": 1
+}

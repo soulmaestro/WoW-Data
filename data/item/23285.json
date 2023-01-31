@@ -1,0 +1,294 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23285?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23285,
+    "name": "Knight-Lieutenant's Leather Walkers",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23285?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23285
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "FEET",
+        "name": "Feet"
+    },
+    "purchase_price": 45628,
+    "sell_price": 9125,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23285?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23285
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Knight-Lieutenant's Leather Walkers",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23285?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23285
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "FEET",
+            "name": "Feet"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 4,
+            "display": {
+                "display_string": "4 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23049?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sprint Duration Increase",
+                    "id": 23049
+                },
+                "description": "Equip: Increases the duration of your Sprint ability by 3 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 176,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "76"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/548?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lieutenant Commander's Guard",
+                "id": 548
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23298?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Knight-Captain's Leather Chestpiece",
+                        "id": 23298
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23299?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Knight-Captain's Leather Legguards",
+                        "id": 23299
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23284?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Knight-Lieutenant's Leather Grips",
+                        "id": 23284
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23285?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Knight-Lieutenant's Leather Walkers",
+                        "id": 23285
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23312?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lieutenant Commander's Leather Helm",
+                        "id": 23312
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23313?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lieutenant Commander's Leather Shoulders",
+                        "id": 23313
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases Agility by 0.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Reduces the cooldown of your Gouge ability by 1 sec.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: +0 Stamina.",
+                    "required_count": 6
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Lieutenant Commander's Guard (0/6)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 65,
+            "display_string": "Durability 65 / 65"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/176811?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 176811,
+    "name": "Potion of Sacrificial Anima",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 120,
+    "required_level": 51,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/176811?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 176811
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/176811?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 176811
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Potion of Sacrificial Anima",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/176811?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 176811
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/322302?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Potion of Sacrificial Anima",
+                    "id": 322302
+                },
+                "description": "Use: Your next 4 mana consuming spells or abilities will consume 7% of your health instead of using mana. \r\n\r\nIf you consume this potion while your weapon is augmented with Embalmer's Oil, the amount of health consumed is decreased by 2%. Lasts 25 secs. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 51,
+                "display_string": "Requires Level 51"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

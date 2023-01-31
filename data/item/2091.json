@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2091?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2091,
+    "name": "Magic Dust",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 10,
+    "required_level": 5,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/2091?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2091
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 855,
+    "sell_price": 213,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/2091?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2091
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Magic Dust",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/2091?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2091
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/1090?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sleep",
+                    "id": 1090
+                },
+                "description": "Use: Puts the enemy target to sleep for up to 30 sec.  Any damage caused will awaken the target.  Only one target can be asleep at a time. Unreliable on targets above level 49. (1 Min Cooldown) (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 213,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "13"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 5,
+                "display_string": "Requires Level 5"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

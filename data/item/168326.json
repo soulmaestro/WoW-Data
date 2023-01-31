@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168326?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 168326,
+    "name": "Eye of Theras",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/168326?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 168326
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/168326?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168326
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Eye of Theras",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/168326?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168326
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/297061?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Eye of Theras",
+                    "id": 297061
+                },
+                "description": "Use: Causes your Spectral Sight to no longer have a cooldown for 1 hour.\r\n\r\nCan only be used while in Ashran."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 40,
+                "display_string": "Requires Level 40"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demon Hunter",
+                        "id": 12
+                    }
+                ],
+                "display_string": "Classes: Demon Hunter"
+            },
+            "map": {
+                "name": "Ashran",
+                "id": 1191
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

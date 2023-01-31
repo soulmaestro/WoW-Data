@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191565?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191565,
+    "name": "Ensemble: Blood Knight's Dedication",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191565?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191565
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "You have demonstrated cunning, determination, and integrity. Hallmarks of what it means to be a Blood Knight.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191565?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191565
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Ensemble: Blood Knight's Dedication",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191565?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191565
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/370686?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ensemble: Blood Knight's Dedication",
+                    "id": 370686
+                },
+                "description": "Use: Collect the appearances of the Blood Knight's Dedication armor set, which is only usable by blood elf paladins."
+            }
+        ],
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ]
+            },
+            "playable_races": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood Elf",
+                        "id": 10
+                    }
+                ]
+            },
+            "playable_race_class": {
+                "display_string": "Blood Elf  Only"
+            }
+        },
+        "description": "You have demonstrated cunning, determination, and integrity. Hallmarks of what it means to be a Blood Knight.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

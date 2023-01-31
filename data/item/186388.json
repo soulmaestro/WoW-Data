@@ -1,0 +1,175 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186388?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186388,
+    "name": "Cruciform Veinripper",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 226,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186388?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186388
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fist Weapon",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 6395762,
+    "sell_price": 1279152,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186388?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186388
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Cruciform Veinripper",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186388?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186388
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fist Weapon",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 98,
+                "max_value": 141,
+                "display_string": "98 - 141 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 45.961536,
+                "display_string": "(46.0 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 40,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+40 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 80,
+                "display": {
+                    "display_string": "+80 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/359168?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sadistic Glee",
+                    "id": 359168
+                },
+                "description": "Equip: While you are behind your enemies, their movement is impaired, or they are suffering from loss-of-control effects, your attacks have a high chance to cause them to bleed for 3,120 Physical damage over 6 sec. (Requires level 60 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 1147642,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "114",
+                "silver": "76",
+                "copper": "42"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 226,
+            "display_string": "Item Level 226"
+        },
+        "durability": {
+            "value": 80,
+            "display_string": "Durability 80 / 80"
+        }
+    },
+    "purchase_quantity": 1
+}

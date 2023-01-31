@@ -1,0 +1,312 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/33711?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33711,
+    "name": "Vengeful Gladiator's Mail Armor",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 33,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/33711?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33711
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "ROBE",
+        "name": "Chest"
+    },
+    "purchase_price": 419438,
+    "sell_price": 83887,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/33711?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 33711
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Vengeful Gladiator's Mail Armor",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/33711?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 33711
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "ROBE",
+            "name": "Chest"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 10,
+            "display": {
+                "display_string": "10 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Critical Strike",
+        "sell_price": {
+            "value": 434,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "34"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaman",
+                        "id": 7
+                    }
+                ],
+                "display_string": "Classes: Shaman"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/580?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gladiator's Thunderfist",
+                "id": 580
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/27469?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Mail Armor",
+                        "id": 27469
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/27470?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Mail Gauntlets",
+                        "id": 27470
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/27471?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Mail Helm",
+                        "id": 27471
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/27472?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Mail Leggings",
+                        "id": 27472
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/27473?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Mail Spaulders",
+                        "id": 27473
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(4) Set: Your Lightning Shield can now be triggered once every 1.5 sec instead of once every 3 sec.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Gladiator's Thunderfist (0/5)"
+        },
+        "level": {
+            "value": 33,
+            "display_string": "Item Level 33"
+        },
+        "durability": {
+            "value": 165,
+            "display_string": "Durability 165 / 165"
+        },
+        "name_description": {
+            "display_string": "Season 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

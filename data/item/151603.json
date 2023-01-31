@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/151603?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 151603,
+    "name": "Blighthead Grim Smile Mask",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/151603?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 151603
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/151603?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151603
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Blighthead Grim Smile Mask",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/151603?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151603
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/247223?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Blighthead Grim Smile Mask",
+                    "id": 247223
+                },
+                "description": "Use: Place this mask over your face or helmet. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "holiday": {
+                "display_string": "Requires Darkmoon Faire"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/18594?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 18594,
+    "name": "Powerful Seaforium Charge",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 23,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/18594?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 18594
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 12000,
+    "sell_price": 3000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/18594?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 18594
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Powerful Seaforium Charge",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/18594?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 18594
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23008?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Powerful Seaforium Charge",
+                    "id": 23008
+                },
+                "description": "Use: Blasts open strong locked doors or chests. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 3000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 275,
+                "display_string": "Requires Classic Engineering (275)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

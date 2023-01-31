@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/50259?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 50259,
+    "name": "Nevermelting Ice Crystal",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/50259?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 50259
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 168018,
+    "sell_price": 33603,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/50259?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 50259
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Nevermelting Ice Crystal",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/50259?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 50259
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/71563?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Deadly Precision",
+                    "id": 71563
+                },
+                "description": "Use: Increases your critical strike by 50 for 20 sec. Every time one of your non-periodic spells deals a critical strike, the bonus is reduced by 9 critical strike. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 482,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "82"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42106?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42106,
+    "name": "Proto Dragon Bone",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42106?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42106
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42106?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42106
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Proto Dragon Bone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42106?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42106
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "QUEST",
+            "name": "Quest Item"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/58075?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Intricate Bone Figurine",
+                    "id": 58075
+                },
+                "description": "Use: Craft an Intricate Bone Figurine by combining the Proto Dragon Bone with a Sun Crystal and a Dark Jade."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Jewelcrafting",
+                    "id": 2522
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Jewelcrafting (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

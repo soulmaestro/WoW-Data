@@ -1,0 +1,251 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/77010?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 77010,
+    "name": "Necrotic Boneplate Faceguard",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 37,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/77010?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 77010
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 742443,
+    "sell_price": 148488,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/77010?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 77010
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "META",
+                    "name": "Meta Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Necrotic Boneplate Faceguard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/77010?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 77010
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 13,
+            "display": {
+                "display_string": "13 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "PARRY_RATING",
+                    "name": "Parry"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Parry",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +3 Parry",
+        "sell_price": {
+            "value": 482,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "82"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Death Knight",
+                        "id": 6
+                    }
+                ],
+                "display_string": "Classes: Death Knight"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1056?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Necrotic Boneplate Armor",
+                "id": 1056
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77008?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Necrotic Boneplate Chestguard",
+                        "id": 77008
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77009?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Necrotic Boneplate Handguards",
+                        "id": 77009
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77010?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Necrotic Boneplate Faceguard",
+                        "id": 77010
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77011?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Necrotic Boneplate Legguards",
+                        "id": 77011
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77012?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Necrotic Boneplate Shoulderguards",
+                        "id": 77012
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: When an attack drops your health below 35%, one of your Blood Runes will immediately activate and convert into a Death Rune for the next until canceled. This effect cannot occur more than once every 45 sec.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Your Vampiric Blood ability also affects all party and raid members for 50% of the effect it has on you.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Necrotic Boneplate Armor (0/5)"
+        },
+        "level": {
+            "value": 37,
+            "display_string": "Item Level 37"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

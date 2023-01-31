@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164741?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 164741,
+    "name": "Unstable Azerite Grenade",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 45,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/164741?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 164741
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 20,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/164741?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 164741
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Unstable Azerite Grenade",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/164741?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 164741
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (20)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/282553?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Azerite Grenade",
+                    "id": 282553
+                },
+                "description": "Use: Deals 2,453 to 3,682 Arcane damage to all enemies within 7 yards of impact. (5 Sec Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/282894?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Azerite Grenade",
+                    "id": 282894
+                },
+                "description": "Grants the Azerite Grenade ability."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "expiration_time_left": {
+            "value": 300,
+            "display_string": "Duration: 5 min"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 20
+}

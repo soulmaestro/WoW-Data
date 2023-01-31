@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/174103?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 174103,
+    "name": "Manifesto of Madness",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 95,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/174103?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 174103
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3486961,
+    "sell_price": 697392,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/174103?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174103
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Manifesto of Madness",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/174103?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174103
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 14,
+                "display": {
+                    "display_string": "+14 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/313948?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Manifesto of Madness: Chapter One",
+                    "id": 313948
+                },
+                "description": "Use: Increase your Critical Strike by up to 87, reduced by 7 for each ally within 8 yards of you. Lasts 10 sec. When this effect ends, your Versatility is increased by 17 for each ally within 5 yards of you, up to a max of 87. Lasts 10 sec.\r\n (1 Min 30 Sec Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/314042?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Manifesto of Madness",
+                    "id": 314042
+                },
+                "description": "Equip: The radius of the second half of the Manifesto is increased by 1 yard based on the power of your Ashjra'kamas, Shroud of Resolve."
+            }
+        ],
+        "sell_price": {
+            "value": 23488,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "34",
+                "copper": "88"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 95,
+            "display_string": "Item Level 95"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

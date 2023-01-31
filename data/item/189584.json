@@ -1,0 +1,206 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189584?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189584,
+    "name": "Sepulcher's Savior",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 226,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189584?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189584
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shield",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "SHIELD",
+        "name": "Off Hand"
+    },
+    "purchase_price": 4081106,
+    "sell_price": 816221,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189584?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189584
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Sepulcher's Savior",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189584?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189584
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shield",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "SHIELD",
+            "name": "Off Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 651,
+            "display": {
+                "display_string": "651 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "shield_block": {
+            "value": 1627,
+            "display": {
+                "display_string": "1,627 Block",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 124,
+                "display": {
+                    "display_string": "+124 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 40,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+40 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 80,
+                "display": {
+                    "display_string": "+80 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/366057?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sepulcher's Savior",
+                    "id": 366057
+                },
+                "description": "Equip: Increases your Block by 113. (Requires level 60 or below)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/366061?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sepulcher's Savior",
+                    "id": 366061
+                },
+                "description": "Use: Shield the most injured member of your party for 25,162 and switch to Offense mode. (1 Min 30 Sec Cooldown) (Requires level 60 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 732307,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "73",
+                "silver": "23",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 226,
+            "display_string": "Item Level 226"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

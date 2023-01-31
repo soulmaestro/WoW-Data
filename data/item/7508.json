@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7508?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7508,
+    "name": "Ley Orb",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 6,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/7508?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7508
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "HOLDABLE",
+        "name": "Held In Off-hand"
+    },
+    "purchase_price": 1443,
+    "sell_price": 288,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/7508?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 7508
+        },
+        "context": 0,
+        "bonus_list": [
+            3631
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Ley Orb",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/7508?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 7508
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "HOLDABLE",
+            "name": "Held In Off-hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 70,
+                "display": {
+                    "display_string": "+70 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 27,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+27 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/9252?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Replenish Mana I",
+                    "id": 9252
+                },
+                "description": "Use: Restores 0 mana. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 186210,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "18",
+                "silver": "62",
+                "copper": "10"
+            }
+        },
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mage",
+                        "id": 8
+                    }
+                ],
+                "display_string": "Classes: Mage"
+            }
+        },
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

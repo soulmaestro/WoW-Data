@@ -1,0 +1,272 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/182668?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 182668,
+    "name": "Recipe: Feast of Gluttonous Hedonism",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/182668?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 182668
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 25000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Feast of Gluttonous Hedonism.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/182668?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182668
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Feast of Gluttonous Hedonism",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/182668?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182668
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 25000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2752?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Cooking",
+                    "id": 2752
+                },
+                "level": 75,
+                "display_string": "Requires Shadowlands Cooking (75)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2413?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Court of Harvesters",
+                    "id": 2413
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Court of Harvesters - Revered"
+            }
+        },
+        "description": "Teaches you how to craft a Feast of Gluttonous Hedonism.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/172043?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 172043
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Feast of Gluttonous Hedonism",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/172043?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 172043
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/308462?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Feast of Gluttonous Hedonism",
+                            "id": 308462
+                        },
+                        "description": "Use: Set out a Feast of Gluttonous Hedonism to feed up to 35 people in your raid or party!\r\n\r\nRestores 48,076 health and 38,461 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 20 in a stat for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "12",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 60,
+                        "display_string": "Requires Level 60"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173036?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spinefin Piranha",
+                        "id": 173036
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173034?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Silvergill Pike",
+                        "id": 173034
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172053?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tenebrous Ribs",
+                        "id": 172053
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172055?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Phantasmal Haunch",
+                        "id": 172055
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173037?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elysian Thade",
+                        "id": 173037
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172058?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Smuggled Azerothian Produce",
+                        "id": 172058
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172059?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rich Grazer Milk",
+                        "id": 172059
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/178786?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lusterwheat Flour",
+                        "id": 178786
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Spinefin Piranha (10), Silvergill Pike (10), Tenebrous Ribs (10), Phantasmal Haunch (10), Elysian Thade (5), Smuggled Azerothian Produce (5), Rich Grazer Milk (5), Lusterwheat Flour (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

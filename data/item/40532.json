@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40532?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40532,
+    "name": "Living Ice Crystals",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/40532?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40532
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 482145,
+    "sell_price": 120536,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/40532?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40532
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Living Ice Crystals",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/40532?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40532
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/60526?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Living Ice Crystals",
+                    "id": 60526
+                },
+                "description": "Use: Instantly heal your current friendly target for 11. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 120536,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "12",
+                "silver": "5",
+                "copper": "36"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

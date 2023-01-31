@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44012?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44012,
+    "name": "Underbelly Elixir",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44012?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44012
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Elixir",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3500,
+    "sell_price": 175,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Holding the elixir up to your eyes reveals a magical melange of discarded potions from the city of Dalaran.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44012?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44012
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Underbelly Elixir",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44012?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44012
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Elixir",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/59640?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Underbelly Elixir",
+                    "id": 59640
+                },
+                "description": "Use: You sure about this?  This elixir only works in the City of Dalaran. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 175,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "75"
+            }
+        },
+        "description": "Holding the elixir up to your eyes reveals a magical melange of discarded potions from the city of Dalaran.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

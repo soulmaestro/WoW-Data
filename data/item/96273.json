@@ -1,0 +1,310 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/96273?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 96273,
+    "name": "Fire-Charm Helm",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 40,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/96273?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 96273
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 3049963,
+    "sell_price": 609992,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/96273?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 96273
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "META",
+                    "name": "Meta Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Fire-Charm Helm",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/96273?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 96273
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 6,
+            "display": {
+                "display_string": "6 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 1,
+                "display": {
+                    "display_string": "+1 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 1,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+1 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 7,
+                "display": {
+                    "display_string": "+7 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +5 Critical Strike",
+        "sell_price": {
+            "value": 632,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "6",
+                "copper": "32"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    }
+                ],
+                "display_string": "Classes: Monk"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1160?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fire-Charm Vestments",
+                "id": 1160
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95270?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fire-Charm Handwraps",
+                        "id": 95270
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95271?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fire-Charm Helm",
+                        "id": 95271
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95272?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fire-Charm Legwraps",
+                        "id": 95272
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95273?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fire-Charm Vest",
+                        "id": 95273
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95274?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fire-Charm Mantle",
+                        "id": 95274
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your Renewing Mist heals for 15% more each time it travels to a new target.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Reduces the cooldown of your Thunder Focus Tea by 5 sec.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Fire-Charm Vestments (0/5)"
+        },
+        "level": {
+            "value": 40,
+            "display_string": "Item Level 40"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        },
+        "name_description": {
+            "display_string": "Thunderforged",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

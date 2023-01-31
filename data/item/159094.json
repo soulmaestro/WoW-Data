@@ -1,0 +1,194 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/159094?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 159094,
+    "name": "Bloodsinger Wand",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 50,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/159094?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 159094
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Wand",
+        "id": 19
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 3309525,
+    "sell_price": 661905,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/159094?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159094
+        },
+        "context": 0,
+        "bonus_list": [
+            4790
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Bloodsinger Wand",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/159094?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159094
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Wand",
+            "id": 19
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 21,
+                "max_value": 35,
+                "display_string": "21 - 35 Nature Damage",
+                "damage_class": {
+                    "type": "NATURE",
+                    "name": "Nature"
+                }
+            },
+            "attack_speed": {
+                "value": 2000,
+                "display_string": "Speed 2.00"
+            },
+            "dps": {
+                "value": 14.0,
+                "display_string": "(14 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 145,
+                "display": {
+                    "display_string": "+145 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 39,
+                "display": {
+                    "display_string": "+39 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 22,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+22 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 24,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+24 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 434657,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "43",
+                "silver": "46",
+                "copper": "57"
+            }
+        },
+        "level": {
+            "value": 174,
+            "display_string": "Item Level 174"
+        },
+        "durability": {
+            "value": 75,
+            "display_string": "Durability 75 / 75"
+        }
+    },
+    "purchase_quantity": 1
+}

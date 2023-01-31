@@ -1,0 +1,176 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/37018?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 37018,
+    "name": "G.E.H.T.A.",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/37018?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 37018
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gun",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 130927,
+    "sell_price": 26185,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Gun for the Ethical and Humane Treatment of Animals",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/37018?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37018
+        },
+        "context": 0,
+        "bonus_list": [
+            3631
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "G.E.H.T.A.",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/37018?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37018
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Gun",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 72,
+                "max_value": 135,
+                "display_string": "72 - 135 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 34.499996,
+                "display_string": "(34.5 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 65,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+65 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 64,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+64 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/50929?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Beast Protection",
+                    "id": 50929
+                },
+                "description": "Equip: Reduces attack power by 7 when fighting Beasts."
+            }
+        ],
+        "sell_price": {
+            "value": 388099,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "38",
+                "silver": "80",
+                "copper": "99"
+            }
+        },
+        "description": "Gun for the Ethical and Humane Treatment of Animals",
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

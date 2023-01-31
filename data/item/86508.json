@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/86508?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 86508,
+    "name": "Fresh Bread",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 35,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/86508?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 86508
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/86508?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86508
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Fresh Bread",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/86508?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86508
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/125879?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fresh Bread",
+                    "id": 125879
+                },
+                "description": "Use: Restores 3,205 health over 10 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "conjured": "Conjured Item",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

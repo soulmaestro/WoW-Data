@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/132515?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 132515,
+    "name": "Failure Detection Pylon",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 42,
+    "required_level": 39,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/132515?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 132515
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3500,
+    "sell_price": 875,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/132515?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 132515
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Failure Detection Pylon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/132515?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 132515
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/199115?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Failure Detection Pylon",
+                    "id": 199115
+                },
+                "description": "Use: Place an electrical pylon on the ground that will resurrect all party or raid members within 5 yards after combat has ended.\r\n\r\nDoes not work on players whose spirits have been released or are level 60 or higher. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 875,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "8",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 39,
+                "display_string": "Requires Level 39"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186156?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186156,
+    "name": "Tome of Insight",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 200,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186156?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186156
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2775261,
+    "sell_price": 555052,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186156?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186156
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Tome of Insight",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186156?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186156
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 60,
+                "display": {
+                    "display_string": "+60 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/355023?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Spark of Insight",
+                    "id": 355023
+                },
+                "description": "Equip: Your damaging and healing spells have a chance to increase your Critical Strike by 144."
+            }
+        ],
+        "sell_price": {
+            "value": 356863,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "35",
+                "silver": "68",
+                "copper": "63"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 200,
+            "display_string": "Item Level 200"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

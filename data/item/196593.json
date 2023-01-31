@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/196593?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 196593,
+    "name": "Zenith Jade Forgestone",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 389,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/196593?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 196593
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Junk",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/196593?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 196593
+        },
+        "context": 0,
+        "bonus_list": [
+            8827
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Zenith Jade Forgestone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/196593?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 196593
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Junk",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/380186?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Vault Leg Forgestone",
+                    "id": 380186
+                },
+                "description": "Use: Create a soulbound Vault of the Incarnates Class Legs item appropriate for your class."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warrior",
+                        "id": 1
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Evoker",
+                        "id": 13
+                    }
+                ],
+                "display_string": "Classes: Monk, Rogue, Warrior, Evoker"
+            }
+        },
+        "level": {
+            "value": 389,
+            "display_string": "Item Level 389"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

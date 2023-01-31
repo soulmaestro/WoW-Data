@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/182082?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 182082,
+    "name": "Lurid Bloodtusk",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 10,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/182082?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 182082
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mount",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to summon this mount.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/182082?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182082
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Lurid Bloodtusk",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/182082?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182082
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mount",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/332484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Lurid Bloodtusk",
+                    "id": 332484
+                },
+                "description": "Use: Teaches you how to summon this mount."
+            }
+        ],
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2410?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Undying Army",
+                    "id": 2410
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires The Undying Army - Exalted"
+            },
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Apprentice Riding",
+                    "id": 33388
+                },
+                "display_string": "Requires Apprentice Riding"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,192 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/39644?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39644,
+    "name": "Recipe: Kungaloosh",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/39644?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39644
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to brew Kungaloosh.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/39644?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 39644
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Kungaloosh",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/39644?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 39644
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2546?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Cooking",
+                    "id": 2546
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Cooking (1)"
+            }
+        },
+        "description": "Teaches you how to brew Kungaloosh.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/39520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 39520
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Kungaloosh",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/39520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 39520
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/52911?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Drink",
+                            "id": 52911
+                        },
+                        "description": "Use: Gets you tipsy and restores 4,769 mana over 30 sec.  Must remain seated while drinking. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 200,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 26,
+                        "display_string": "Requires Level 26"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/35949?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tundra Berries",
+                        "id": 35949
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/35948?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Savory Snowplum",
+                        "id": 35948
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Tundra Berries (2), Savory Snowplum"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

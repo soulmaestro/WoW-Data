@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40492?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40492,
+    "name": "Argent War Horn",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/40492?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40492
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "A crusading knight will always heed this blessed horn's clarion call.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/40492?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40492
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Argent War Horn",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/40492?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40492
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/54308?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Summon Argent Knight",
+                    "id": 54308
+                },
+                "description": "Use: Summons an Argent Knight to your side. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            }
+        },
+        "description": "A crusading knight will always heed this blessed horn's clarion call.",
+        "level": {
+            "value": 32,
+            "display_string": "Item Level 32"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

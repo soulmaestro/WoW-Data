@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/136801?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 136801,
+    "name": "Divine Tome: Contemplation",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/136801?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 136801
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 500000,
+    "sell_price": 125000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches the Contemplation ability.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/136801?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 136801
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Divine Tome: Contemplation",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/136801?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 136801
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/121183?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Contemplation",
+                    "id": 121183
+                },
+                "description": "Use: Teaches the Contemplation ability."
+            }
+        ],
+        "sell_price": {
+            "value": 125000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "12",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

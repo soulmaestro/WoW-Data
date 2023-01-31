@@ -1,0 +1,308 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/70166?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 70166,
+    "name": "Plans: Brainsplinter",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/70166?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 70166
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3000000,
+    "sell_price": 600000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Brainsplinter.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/70166?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 70166
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Plans: Brainsplinter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/70166?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 70166
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 600000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "60",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2474?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Blacksmithing",
+                    "id": 2474
+                },
+                "level": 75,
+                "display_string": "Requires Cataclysm Blacksmithing (75)"
+            }
+        },
+        "description": "Teaches you how to make Brainsplinter.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/70155?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 70155
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Brainsplinter",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/70155?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 70155
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dagger",
+                    "id": 15
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 3,
+                        "max_value": 5,
+                        "display_string": "3 - 5 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 1800,
+                        "display_string": "Speed 1.80"
+                    },
+                    "dps": {
+                        "value": 2.222222,
+                        "display_string": "(2.2 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "CRIT_RATING",
+                            "name": "Critical Strike"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Critical Strike",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "HASTE_RATING",
+                            "name": "Haste"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Haste",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 961,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "9",
+                        "copper": "61"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 32,
+                        "display_string": "Requires Level 32"
+                    }
+                },
+                "level": {
+                    "value": 37,
+                    "display_string": "Item Level 37"
+                },
+                "durability": {
+                    "value": 80,
+                    "display_string": "Durability 80 / 80"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/58480?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Truegold",
+                        "id": 58480
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52190?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Inferno Ruby",
+                        "id": 52190
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/53039?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hardened Elementium Bar",
+                        "id": 53039
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52078?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chaos Orb",
+                        "id": 52078
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Truegold (8), Inferno Ruby (2), Hardened Elementium Bar (3), Chaos Orb (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

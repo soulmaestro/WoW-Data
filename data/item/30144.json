@@ -1,0 +1,290 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/30144?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 30144,
+    "name": "Deathmantle Chestguard",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 32,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/30144?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 30144
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "CHEST",
+        "name": "Chest"
+    },
+    "purchase_price": 410457,
+    "sell_price": 82091,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/30144?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 30144
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Deathmantle Chestguard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/30144?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 30144
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "CHEST",
+            "name": "Chest"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 7,
+            "display": {
+                "display_string": "7 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 3,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+3 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Agility",
+        "sell_price": {
+            "value": 407,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/622?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Deathmantle",
+                "id": 622
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/30144?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deathmantle Chestguard",
+                        "id": 30144
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/30145?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deathmantle Handguards",
+                        "id": 30145
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/30146?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deathmantle Helm",
+                        "id": 30146
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/30148?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deathmantle Legguards",
+                        "id": 30148
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/30149?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deathmantle Shoulderpads",
+                        "id": 30149
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your Eviscerate and Envenom abilities cause 40 extra damage per combo point.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Your attacks have a chance to make your next finishing move cost no energy.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Deathmantle (0/5)"
+        },
+        "level": {
+            "value": 32,
+            "display_string": "Item Level 32"
+        },
+        "durability": {
+            "value": 165,
+            "display_string": "Durability 165 / 165"
+        }
+    },
+    "purchase_quantity": 1
+}

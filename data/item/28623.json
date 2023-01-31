@@ -1,0 +1,303 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/28623?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 28623,
+    "name": "Grand Marshal's Dragonhide Tunic",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/28623?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 28623
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "CHEST",
+        "name": "Chest"
+    },
+    "purchase_price": 308815,
+    "sell_price": 61763,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/28623?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28623
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Grand Marshal's Dragonhide Tunic",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/28623?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28623
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "CHEST",
+            "name": "Chest"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 7,
+            "display": {
+                "display_string": "7 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Critical Strike",
+        "sell_price": {
+            "value": 306,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "3",
+                "copper": "6"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    }
+                ],
+                "display_string": "Classes: Druid"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/601?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Grand Marshal's Sanctuary",
+                "id": 601
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28618?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grand Marshal's Dragonhide Gloves",
+                        "id": 28618
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28619?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grand Marshal's Dragonhide Helm",
+                        "id": 28619
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28620?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grand Marshal's Dragonhide Legguards",
+                        "id": 28620
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28622?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grand Marshal's Dragonhide Spaulders",
+                        "id": 28622
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28623?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grand Marshal's Dragonhide Tunic",
+                        "id": 28623
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(4) Set: Increases your movement speed by 15% while in Bear Form, Cat Form, or Travel Form.  Only active outdoors.  This speed increase is not cumulative with Feline Swiftness.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Grand Marshal's Sanctuary (0/5)"
+        },
+        "level": {
+            "value": 32,
+            "display_string": "Item Level 32"
+        },
+        "durability": {
+            "value": 140,
+            "display_string": "Durability 140 / 140"
+        }
+    },
+    "purchase_quantity": 1
+}

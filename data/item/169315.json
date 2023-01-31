@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169315?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169315,
+    "name": "Edicts of the Faithless",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 72,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169315?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169315
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3172650,
+    "sell_price": 634530,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169315?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169315
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Edicts of the Faithless",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169315?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169315
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 10,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+10 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 10,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+10 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/303036?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Edicts of the Faithless",
+                    "id": 303036
+                },
+                "description": "Equip: Every 40 seconds, gain an absorb that prevents 665 Physical damage. If the absorb is consumed you gain Fanaticism, causing subsequent absorbs to prevent 10% more damage, up to 100%.\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/303028?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Declare Edict",
+                    "id": 303028
+                },
+                "description": "Use: Declare Edict of the Sea Witch, causing this ability to instead absorb Magic damage and resetting Fanaticism. (40 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 6493,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "64",
+                "copper": "93"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 72,
+            "display_string": "Item Level 72"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

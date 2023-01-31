@@ -1,0 +1,279 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/200408?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 200408,
+    "name": "Maw of the Haunted Frostbrood",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/200408?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 200408
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 3458972,
+    "sell_price": 691794,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/200408?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200408
+        },
+        "context": 0,
+        "bonus_list": [
+            8828
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Maw of the Haunted Frostbrood",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/200408?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200408
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 807,
+            "display": {
+                "display_string": "807 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 402,
+                "display": {
+                    "display_string": "+402 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 402,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+402 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 982,
+                "display": {
+                    "display_string": "+982 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 196,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+196 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 491,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+491 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 633765,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "63",
+                "silver": "37",
+                "copper": "65"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Death Knight",
+                        "id": 6
+                    }
+                ],
+                "display_string": "Classes: Death Knight"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1526?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Haunted Frostbrood Remains",
+                "id": 1526
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200405?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Breastplate of the Haunted Frostbrood",
+                        "id": 200405
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200407?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grasps of the Haunted Frostbrood",
+                        "id": 200407
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200408?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Maw of the Haunted Frostbrood",
+                        "id": 200408
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200409?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Greaves of the Haunted Frostbrood",
+                        "id": 200409
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200410?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Jaws of the Haunted Frostbrood",
+                        "id": 200410
+                    }
+                }
+            ],
+            "display_string": "Haunted Frostbrood Remains (0/5)"
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

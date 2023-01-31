@@ -1,0 +1,300 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162345?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 162345,
+    "name": "Schematic: Precision Attitude Adjuster",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/162345?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 162345
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Precision Attitude Adjuster more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/162345?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162345
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Precision Attitude Adjuster",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/162345?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162345
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/253152?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Precision Attitude Adjuster",
+                    "id": 253152
+                },
+                "description": "Use: Teaches you how to craft a Precision Attitude Adjuster more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2499?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Engineering",
+                    "id": 2499
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Engineering (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2159?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "7th Legion",
+                    "id": 2159
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires 7th Legion - Revered"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/152837?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 152837
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Precision Attitude Adjuster",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/152837?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 152837
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mace",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 5,
+                        "max_value": 7,
+                        "display_string": "5 - 7 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 2600,
+                        "display_string": "Speed 2.60"
+                    },
+                    "dps": {
+                        "value": 2.3076923,
+                        "display_string": "(2.3 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 25,
+                        "display": {
+                            "display_string": "+25 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 6,
+                        "display": {
+                            "display_string": "+6 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 3782,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "37",
+                        "copper": "82"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "description": "For best use, keep striking until target can no longer argue back.",
+                "level": {
+                    "value": 59,
+                    "display_string": "Item Level 59"
+                },
+                "durability": {
+                    "value": 90,
+                    "display_string": "Durability 90 / 90"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Platinum Ore",
+                        "id": 152513
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Storm Silver Ore (20), Platinum Ore (8), Expulsom (5)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

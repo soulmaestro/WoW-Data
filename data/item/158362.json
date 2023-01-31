@@ -1,0 +1,189 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/158362?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 158362,
+    "name": "Lord Waycrest's Signet",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 59,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/158362?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 158362
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+    },
+    "purchase_price": 1647033,
+    "sell_price": 329406,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/158362?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 158362
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Lord Waycrest's Signet",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/158362?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 158362
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "FINGER",
+            "name": "Finger"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 7,
+                "display": {
+                    "display_string": "+7 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 16,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+16 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 9,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+9 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1760,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "17",
+                "copper": "60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1439?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Waycrest Legacy",
+                "id": 1439
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/158362?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lord Waycrest's Signet",
+                        "id": 158362
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/159631?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lady Waycrest's Music Box",
+                        "id": 159631
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: When you trigger a Cacaphonous Chord or Harmonious Chord there is a 40% chance to trigger the other chord at 60% of the power.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Waycrest Legacy (0/2)"
+        },
+        "level": {
+            "value": 59,
+            "display_string": "Item Level 59"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

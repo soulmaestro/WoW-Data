@@ -1,0 +1,218 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/201680?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 201680,
+    "name": "Crimson Gladiator's Plate Vambraces",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 382,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/201680?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 201680
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "WRIST",
+        "name": "Wrist"
+    },
+    "purchase_price": 2443048,
+    "sell_price": 488609,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/201680?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 201680
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Crimson Gladiator's Plate Vambraces",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/201680?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 201680
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "WRIST",
+            "name": "Wrist"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 491,
+            "display": {
+                "display_string": "491 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 195,
+                "display": {
+                    "display_string": "+195 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 195,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+195 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 446,
+                "display": {
+                    "display_string": "+446 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 124,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+124 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 228,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+228 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 446935,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "44",
+                "silver": "69",
+                "copper": "35"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "level": {
+            "value": 382,
+            "display_string": "Item Level 382"
+        },
+        "durability": {
+            "value": 55,
+            "display_string": "Durability 55 / 55"
+        }
+    },
+    "purchase_quantity": 1
+}

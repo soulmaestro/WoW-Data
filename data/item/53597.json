@@ -1,0 +1,168 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/53597?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 53597,
+    "name": "Toy Windmill",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 28,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/53597?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 53597
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 33923,
+    "sell_price": 6784,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/53597?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 53597
+        },
+        "context": 0,
+        "bonus_list": [
+            6691
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Toy Windmill",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/53597?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 53597
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 40,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+40 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 44,
+                "display": {
+                    "display_string": "+44 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 54,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+54 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/93225?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tilt at Windmills",
+                    "id": 93225
+                },
+                "description": "Use: Summons a Windmill Lance. (15 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 266263,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "26",
+                "silver": "62",
+                "copper": "63"
+            }
+        },
+        "level": {
+            "value": 180,
+            "display_string": "Item Level 180"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

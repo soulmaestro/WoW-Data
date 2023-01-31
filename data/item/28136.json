@@ -1,0 +1,303 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/28136?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 28136,
+    "name": "Gladiator's Wyrmhide Gloves",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 32,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/28136?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 28136
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 62959,
+    "sell_price": 12591,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/28136?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28136
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Gladiator's Wyrmhide Gloves",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/28136?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28136
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 4,
+            "display": {
+                "display_string": "4 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 3,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+3 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/96148?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Roots Range Increase",
+                    "id": 96148
+                },
+                "description": "Equip: Increases the range of your Entangling Roots spell by 5 yards."
+            }
+        ],
+        "sell_price": {
+            "value": 209,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "9"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    }
+                ],
+                "display_string": "Classes: Druid"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/585?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gladiator's Wildhide",
+                "id": 585
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28136?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Wyrmhide Gloves",
+                        "id": 28136
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28137?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Wyrmhide Helm",
+                        "id": 28137
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28138?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Wyrmhide Legguards",
+                        "id": 28138
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28139?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Wyrmhide Spaulders",
+                        "id": 28139
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/28140?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Wyrmhide Tunic",
+                        "id": 28140
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(4) Set: Haste increased by 5%.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Gladiator's Wildhide (0/5)"
+        },
+        "level": {
+            "value": 32,
+            "display_string": "Item Level 32"
+        },
+        "durability": {
+            "value": 55,
+            "display_string": "Durability 55 / 55"
+        },
+        "name_description": {
+            "display_string": "Season 1",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

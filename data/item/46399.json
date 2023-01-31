@@ -1,0 +1,113 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46399?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46399,
+    "name": "Thunder's Plunder",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 28,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46399?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46399
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1040,
+    "sell_price": 260,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46399?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46399
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Thunder's Plunder",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46399?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46399
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/69560?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Brewfest Drink",
+                    "id": 69560
+                },
+                "description": "Use: Restores 3,590 mana over 30 sec.  Must remain seated while drinking.  If you spend at least 10 seconds drinking you will become \"well fed\" and gain 5 Stamina for 1 hour. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 260,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "60"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 28,
+                "display_string": "Requires Level 28"
+            },
+            "holiday": {
+                "display_string": "Requires Brewfest"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

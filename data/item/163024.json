@@ -1,0 +1,318 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/163024?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 163024,
+    "name": "Recipe: Honorable Combatant's Intuitive Staff",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/163024?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 163024
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft Honorable Combatant's Intuitive Staff more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/163024?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 163024
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Honorable Combatant's Intuitive Staff",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/163024?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 163024
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/269735?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Honorable Combatant's Intuitive Staff",
+                    "id": 269735
+                },
+                "description": "Use: Teaches you how to craft Honorable Combatant's Intuitive Staff more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2517?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Jewelcrafting",
+                    "id": 2517
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Jewelcrafting (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/159939?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 159939
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Honorable Combatant's Intuitive Staff",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/159939?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 159939
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Staff",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "TWOHWEAPON",
+                    "name": "Two-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 9,
+                        "max_value": 13,
+                        "display_string": "9 - 13 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 3600,
+                        "display_string": "Speed 3.60"
+                    },
+                    "dps": {
+                        "value": 3.0555553,
+                        "display_string": "(3.1 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 39,
+                        "display": {
+                            "display_string": "+39 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 13,
+                        "display": {
+                            "display_string": "+13 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 491,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "4",
+                        "copper": "91"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "level": {
+                    "value": 59,
+                    "display_string": "Item Level 59"
+                },
+                "durability": {
+                    "value": 100,
+                    "display_string": "Durability 100 / 100"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154121?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Scarlet Diamond",
+                        "id": 154121
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154120?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Owlseye",
+                        "id": 154120
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154123?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Amberblaze",
+                        "id": 154123
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 16
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Platinum Ore",
+                        "id": 152513
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Scarlet Diamond (8), Owlseye (8), Amberblaze (8), Storm Silver Ore (16), Platinum Ore (8), Expulsom (2)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 2",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

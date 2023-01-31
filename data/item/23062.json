@@ -1,0 +1,282 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23062?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23062,
+    "name": "Frostfire Ring",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 30,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23062?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23062
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+    },
+    "purchase_price": 201100,
+    "sell_price": 40220,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23062?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23062
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Frostfire Ring",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23062?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23062
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "FINGER",
+            "name": "Finger"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 219,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "19"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mage",
+                        "id": 8
+                    }
+                ],
+                "display_string": "Classes: Mage"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/526?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Frostfire Regalia",
+                "id": 526
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22502?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Belt",
+                        "id": 22502
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22503?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Bindings",
+                        "id": 22503
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22498?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Circlet",
+                        "id": 22498
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22501?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Gloves",
+                        "id": 22501
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22497?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Leggings",
+                        "id": 22497
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22496?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Robe",
+                        "id": 22496
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22500?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Sandals",
+                        "id": 22500
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22499?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Shoulderpads",
+                        "id": 22499
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23062?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frostfire Ring",
+                        "id": 23062
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Reduces cooldown on your Evocation by 0 minute.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Increases intellect by 0.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: Your damage spells have a chance to cause your target to take up to 0 increased damage from subsequent spells.",
+                    "required_count": 6
+                },
+                {
+                    "display_string": "(8) Set: Your damage spells have a chance to displace you, causing the next spell cast to generate no threat.",
+                    "required_count": 8
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Frostfire Regalia (0/9)"
+        },
+        "level": {
+            "value": 30,
+            "display_string": "Item Level 30"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

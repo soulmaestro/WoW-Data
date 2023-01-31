@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/1322?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1322,
+    "name": "Fishliver Oil",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 10,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/1322?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1322
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 275,
+    "sell_price": 68,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/1322?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 1322
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Fishliver Oil",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/1322?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 1322
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/7396?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishliver Oil",
+                    "id": 7396
+                },
+                "description": "Use: Increases your melee haste by 24 for 30 sec. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 68,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "68"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

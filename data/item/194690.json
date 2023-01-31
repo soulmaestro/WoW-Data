@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/194690?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 194690,
+    "name": "Horn o' Mead",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 65,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/194690?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 194690
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 25000,
+    "sell_price": 1250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/194690?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194690
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Horn o' Mead",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/194690?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194690
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/369161?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Drink",
+                    "id": 369161
+                },
+                "description": "Use: Restores 62,500 mana over 20 sec.  Must remain seated while drinking. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

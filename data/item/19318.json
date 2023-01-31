@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/19318?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19318,
+    "name": "Bottled Alterac Spring Water",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 23,
+    "required_level": 23,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/19318?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19318
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "From the mountain springs of Alterac!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/19318?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19318
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Bottled Alterac Spring Water",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/19318?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19318
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23698?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Alterac Spring Water",
+                    "id": 23698
+                },
+                "description": "Use: Restores 1,961 mana over 30 sec.  Must remain seated while drinking.  Also increases your Versatility by 3 for 10 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 23,
+                "display_string": "Requires Level 23"
+            }
+        },
+        "description": "From the mountain springs of Alterac!",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

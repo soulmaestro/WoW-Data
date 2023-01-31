@@ -1,0 +1,289 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/16578?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16578,
+    "name": "Warlord's Mail Helm",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/16578?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16578
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 248448,
+    "sell_price": 49689,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/16578?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 16578
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Warlord's Mail Helm",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/16578?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 16578
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 7,
+            "display": {
+                "display_string": "7 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 223,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "23"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaman",
+                        "id": 7
+                    }
+                ],
+                "display_string": "Classes: Shaman"
+            },
+            "faction": {
+                "value": {
+                    "type": "HORDE",
+                    "name": "Horde"
+                },
+                "display_string": "Horde Only"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/386?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Warlord's Earthshaker",
+                "id": 386
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16577?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlord's Mail Armor",
+                        "id": 16577
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16578?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlord's Mail Helm",
+                        "id": 16578
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16580?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlord's Mail Spaulders",
+                        "id": 16580
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16573?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "General's Mail Boots",
+                        "id": 16573
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16574?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "General's Mail Gauntlets",
+                        "id": 16574
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "General's Mail Leggings",
+                        "id": 16579
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: +0 Stamina.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(3) Set: Improves your chance to get a critical strike with all Shock spells by 2%.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(6) Set: Increases Agility by 0.",
+                    "required_count": 6
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Warlord's Earthshaker (0/6)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

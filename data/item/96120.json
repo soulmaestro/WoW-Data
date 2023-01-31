@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/96120?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 96120,
+    "name": "Talisman of Bloodlust",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 40,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/96120?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 96120
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 324255,
+    "sell_price": 64851,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/96120?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 96120
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Talisman of Bloodlust",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/96120?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 96120
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Talisman of Bloodlust (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 4,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+4 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/138894?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Proc Haste",
+                    "id": 138894
+                },
+                "description": "Equip: Your attacks have a chance to grant you 6 haste for 10 sec.  This effect can stack up to 5 times.  (Approximately 3.50 procs per minute)"
+            }
+        ],
+        "sell_price": {
+            "value": 726,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "7",
+                "copper": "26"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "level": {
+            "value": 40,
+            "display_string": "Item Level 40"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Thunderforged",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

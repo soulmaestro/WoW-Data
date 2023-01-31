@@ -1,0 +1,285 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183858?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183858,
+    "name": "Schematic: Wormhole Generator: Shadowlands",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183858?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183858
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 4000,
+    "sell_price": 1000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Wormhole Generator: Shadowlands.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183858?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183858
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Schematic: Wormhole Generator: Shadowlands",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183858?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183858
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 1000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "10",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Engineering",
+                    "id": 2755
+                },
+                "level": 70,
+                "display_string": "Requires Shadowlands Engineering (70)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2410?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Undying Army",
+                    "id": 2410
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Undying Army - Honored"
+            }
+        },
+        "description": "Teaches you how to craft a Wormhole Generator: Shadowlands.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/172924?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 172924
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Wormhole Generator: Shadowlands",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/172924?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 172924
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_USE",
+                    "name": "Binds when used"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/324031?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Wormhole Teleport",
+                            "id": 324031
+                        },
+                        "description": "Use: Adds this toy to your Toy Box.\n\nOpen a wormhole that allows the user to quickly travel to one of several fixed points within the Shadowlands. (15 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 5000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2755?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Shadowlands Engineering",
+                            "id": 2755
+                        },
+                        "level": 1,
+                        "display_string": "Requires Shadowlands Engineering (1)"
+                    }
+                },
+                "description": "CAUTION: Failure to operate within strict safety guidelines may result in... double death? Turbo death? Aliveness?",
+                "is_subclass_hidden": true,
+                "toy": "Toy"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172937?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wormfed Gear Assembly",
+                        "id": 172937
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172936?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mortal Coiled Spring",
+                        "id": 172936
+                    },
+                    "quantity": 7
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172934?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handful of Laestrite Bolts",
+                        "id": 172934
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171833?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elethium Ore",
+                        "id": 171833
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171829?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Solenium Ore",
+                        "id": 171829
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171830?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Oxxein Ore",
+                        "id": 171830
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171831?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Phaedrum Ore",
+                        "id": 171831
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171832?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sinvyr Ore",
+                        "id": 171832
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Wormfed Gear Assembly (3), Mortal Coiled Spring (7), Handful of Laestrite Bolts (20), Elethium Ore (3), Solenium Ore (10), Oxxein Ore (10), Phaedrum Ore (10), Sinvyr Ore (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

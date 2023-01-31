@@ -1,0 +1,222 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42184?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42184,
+    "name": "Pattern: Glacial Bag",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42184?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42184
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tailoring",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to sew a Glacial Bag.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42184?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42184
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pattern: Glacial Bag",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42184?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42184
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tailoring",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/56005?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Glacial Bag",
+                    "id": 56005
+                },
+                "description": "Use: Teaches you how to sew a Glacial Bag."
+            }
+        ],
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2538?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Tailoring",
+                    "id": 2538
+                },
+                "level": 70,
+                "display_string": "Requires Northrend Tailoring (70)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1119?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Sons of Hodir",
+                    "id": 1119
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires The Sons of Hodir - Exalted"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/41600?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 41600
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Glacial Bag",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/41600?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 41600
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Container",
+                    "id": 1
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bag",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "BAG",
+                    "name": "Bag"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "sell_price": {
+                    "value": 20000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "container_slots": {
+                    "value": 22,
+                    "display_string": "22 Slot Bag"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/41594?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Moonshroud",
+                        "id": 41594
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/41593?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ebonweave",
+                        "id": 41593
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/38426?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eternium Thread",
+                        "id": 38426
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Moonshroud (4), Ebonweave (4), Eternium Thread"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

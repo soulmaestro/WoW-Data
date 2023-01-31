@@ -1,0 +1,344 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/66996?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 66996,
+    "name": "Pattern: Tsunami Bracers",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/66996?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 66996
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Tsunami Bracers.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/66996?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66996
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pattern: Tsunami Bracers",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/66996?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66996
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/165?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Leatherworking",
+                    "id": 165
+                },
+                "level": 425,
+                "display_string": "Requires Leatherworking (425)"
+            }
+        },
+        "description": "Teaches you how to make Tsunami Bracers.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/56481?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 56481
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Tsunami Bracers",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/56481?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 56481
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mail",
+                    "id": 3
+                },
+                "inventory_type": {
+                    "type": "WRIST",
+                    "name": "Wrist"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 6,
+                    "display": {
+                        "display_string": "6 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 2,
+                        "display": {
+                            "display_string": "+2 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 88,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "88"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 30,
+                        "display_string": "Requires Level 30"
+                    }
+                },
+                "set": {
+                    "item_set": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item-set/950?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "The Big Wave",
+                        "id": 950
+                    },
+                    "items": [
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56512?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Helm",
+                                "id": 56512
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56508?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Leggings",
+                                "id": 56508
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56504?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Chestguard",
+                                "id": 56504
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56498?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Shoulders",
+                                "id": 56498
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56494?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Boots",
+                                "id": 56494
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56490?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Gloves",
+                                "id": 56490
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56482?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Belt",
+                                "id": 56482
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/56481?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Tsunami Bracers",
+                                "id": 56481
+                            }
+                        }
+                    ],
+                    "effects": [
+                        {
+                            "display_string": "(2) Set: Increases mastery by 14.",
+                            "required_count": 2
+                        }
+                    ],
+                    "display_string": "The Big Wave (0/8)"
+                },
+                "level": {
+                    "value": 36,
+                    "display_string": "Item Level 36"
+                },
+                "durability": {
+                    "value": 40,
+                    "display_string": "Durability 40 / 40"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52976?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Savage Leather",
+                        "id": 52976
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/38426?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eternium Thread",
+                        "id": 38426
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Savage Leather (10), Eternium Thread"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

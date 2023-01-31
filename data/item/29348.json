@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/29348?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 29348,
+    "name": "The Bladefist",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 31,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/29348?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 29348
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fist Weapon",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 144742,
+    "sell_price": 28948,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/29348?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29348
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "The Bladefist",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/29348?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29348
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fist Weapon",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "weapon": {
+            "damage": {
+                "min_value": 4,
+                "max_value": 6,
+                "display_string": "4 - 6 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 1.9230769,
+                "display_string": "(1.9 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/35131?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bladestorm",
+                    "id": 35131
+                },
+                "description": "Chance on hit: Increases your haste by 29 for 10 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 506,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "5",
+                "copper": "6"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            }
+        },
+        "level": {
+            "value": 31,
+            "display_string": "Item Level 31"
+        },
+        "durability": {
+            "value": 80,
+            "display_string": "Durability 80 / 80"
+        }
+    },
+    "purchase_quantity": 1
+}

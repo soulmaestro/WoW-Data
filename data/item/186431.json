@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186431?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186431,
+    "name": "Ebonsoul Vise",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 226,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186431?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186431
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3606260,
+    "sell_price": 721252,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186431?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186431
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Ebonsoul Vise",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186431?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186431
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 77,
+                "display": {
+                    "display_string": "+77 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/355327?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ebonsoul Vise",
+                    "id": 355327
+                },
+                "description": "Use: Curse an enemy, dealing 1,090 Shadow damage every 1.8 sec for 12 sec. Duration increases by up to 100% based on their missing health. (1 Min 30 Sec Cooldown)\r\n\r\n (1 Min 30 Sec Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/357558?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ebonsoul Vise",
+                    "id": 357558
+                },
+                "description": "Equip: If a target dies while affected by the Ebonsoul Vise, it leaves a Shredded Soul behind which you can collect to gain 28 Critical Strike for 20 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 647101,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "64",
+                "silver": "71",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 226,
+            "display_string": "Item Level 226"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

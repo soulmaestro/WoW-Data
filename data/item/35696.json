@@ -1,0 +1,278 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35696?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35696,
+    "name": "Design: Figurine - Khorium Boar",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35696?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35696
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 250000,
+    "sell_price": 62500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create a Figure - Khorium Boar.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35696?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35696
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Figurine - Khorium Boar",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35696?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35696
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 62500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "6",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Jewelcrafting",
+                    "id": 2523
+                },
+                "level": 75,
+                "display_string": "Requires Outland Jewelcrafting (75)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1077?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shattered Sun Offensive",
+                    "id": 1077
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Shattered Sun Offensive - Revered"
+            }
+        },
+        "description": "Teaches you how to create a Figure - Khorium Boar.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/35694?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35694
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Figurine - Khorium Boar",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/35694?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35694
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "TRINKET",
+                    "name": "Trinket"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 3,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+3 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 3,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+3 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/46782?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Khorium Boar",
+                            "id": 46782
+                        },
+                        "description": "Use: Summons the Khorium Boar to fight for you for 30 sec. (5 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 12000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "20",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Outland Jewelcrafting",
+                            "id": 2523
+                        },
+                        "level": 75,
+                        "display_string": "Requires Outland Jewelcrafting (75)"
+                    }
+                },
+                "level": {
+                    "value": 32,
+                    "display_string": "Item Level 32"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23449?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Khorium Bar",
+                        "id": 23449
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/32231?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pyrestone",
+                        "id": 32231
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Earth",
+                        "id": 22452
+                    },
+                    "quantity": 8
+                }
+            ],
+            "reagents_display_string": "Khorium Bar (8), Pyrestone (2), Primal Earth (8)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

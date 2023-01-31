@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/65898?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 65898,
+    "name": "Billy Goat Blaster DX",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/65898?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 65898
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/65898?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65898
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Billy Goat Blaster DX",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/65898?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65898
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/86425?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Billy Goat Blast",
+                    "id": 86425
+                },
+                "description": "Use: Gently nudge a Billy Goat off the edge of Fuselight. (2 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

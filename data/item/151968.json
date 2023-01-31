@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/151968?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 151968,
+    "name": "Shadow-Singed Fang",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/151968?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 151968
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1478126,
+    "sell_price": 295625,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/151968?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151968
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Shadow-Singed Fang",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/151968?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151968
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/253305?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Flames of F'harg",
+                    "id": 253305
+                },
+                "description": "Equip: Your melee and ranged abilities have a chance to increase your Strength or Agility by 12 for 12 sec."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/253304?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Corruption of Shatug",
+                    "id": 253304
+                },
+                "description": "Equip: Your autoattacks have a chance to increase your Critical Strike by 18 for 12 sec.\r\n"
+            }
+        ],
+        "sell_price": {
+            "value": 1941,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "19",
+                "copper": "41"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

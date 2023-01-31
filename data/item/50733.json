@@ -1,0 +1,208 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/50733?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 50733,
+    "name": "Fal'inrush, Defender of Quel'thalas",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/50733?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 50733
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Crossbow",
+        "id": 18
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 5579633,
+    "sell_price": 1115926,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Thalas'din belore.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/50733?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 50733
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Fal'inrush, Defender of Quel'thalas",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/50733?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 50733
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Crossbow",
+            "id": 18
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 6,
+                "max_value": 10,
+                "display_string": "6 - 10 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 2.6666665,
+                "display_string": "(2.7 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 4,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+4 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Agility",
+        "sell_price": {
+            "value": 941,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "9",
+                "copper": "41"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "description": "Thalas'din belore.",
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,238 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/141059?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 141059,
+    "name": "Technique: Glyph of Flickering",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 45,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/141059?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 141059
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Glyph of Flickering.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/141059?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 141059
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Technique: Glyph of Flickering",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/141059?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 141059
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/225551?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Glyph of Flickering",
+                    "id": 225551
+                },
+                "description": "Use: Teaches you how to craft a Glyph of Flickering."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2508?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Inscription",
+                    "id": 2508
+                },
+                "level": 1,
+                "display_string": "Requires Legion Inscription (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/137289?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 137289
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Glyph of Flickering",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/137289?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 137289
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Glyph",
+                    "id": 16
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shaman",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/212637?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Flickering",
+                            "id": 212637
+                        },
+                        "description": "Use: Reduces the size of your Fire Elemental by 15%."
+                    }
+                ],
+                "sell_price": {
+                    "value": 100,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 11,
+                        "display_string": "Requires Level 11"
+                    },
+                    "playable_classes": {
+                        "links": [
+                            {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Shaman",
+                                "id": 7
+                            }
+                        ],
+                        "display_string": "Classes: Shaman"
+                    }
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Light Parchment",
+                        "id": 39354
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129034?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sallow Pigment",
+                        "id": 129034
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129032?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Roseate Pigment",
+                        "id": 129032
+                    },
+                    "quantity": 50
+                }
+            ],
+            "reagents_display_string": "Light Parchment, Sallow Pigment (6), Roseate Pigment (50)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/86881?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 86881,
+    "name": "Stuff of Nightmares",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 39,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/86881?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 86881
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1003757,
+    "sell_price": 250939,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/86881?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86881
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Stuff of Nightmares",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/86881?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86881
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Stuff of Nightmares (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 6,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+6 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/126647?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Hits Proc Dodge",
+                    "id": 126647
+                },
+                "description": "Equip: Each time your attacks hit, you have a chance to gain 24 armor for 20 sec.  (15% chance, 115 sec cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 250939,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "25",
+                "silver": "9",
+                "copper": "39"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "level": {
+            "value": 39,
+            "display_string": "Item Level 39"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Raid Finder",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

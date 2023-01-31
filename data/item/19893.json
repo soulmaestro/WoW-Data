@@ -1,0 +1,198 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/19893?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19893,
+    "name": "Zanzil's Seal",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/19893?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19893
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+    },
+    "purchase_price": 221421,
+    "sell_price": 55355,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/19893?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19893
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Zanzil's Seal",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/19893?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19893
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "FINGER",
+            "name": "Finger"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 1,
+                "display": {
+                    "display_string": "+1 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 55355,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "5",
+                "silver": "53",
+                "copper": "55"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/462?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Zanzil's Concentration",
+                "id": 462
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19893?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Zanzil's Seal",
+                        "id": 19893
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19905?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Zanzil's Band",
+                        "id": 19905
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases your critical strike by 3.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(2) Set: Increases Intellect by 2.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Zanzil's Concentration (0/2)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

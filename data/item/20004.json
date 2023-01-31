@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20004?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20004,
+    "name": "Mighty Troll's Blood Elixir",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 24,
+    "required_level": 22,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/20004?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20004
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Elixir",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 4000,
+    "sell_price": 1000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/20004?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20004
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Mighty Troll's Blood Elixir",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/20004?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20004
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Elixir",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/24361?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mighty Troll's Blood Elixir",
+                    "id": 24361
+                },
+                "description": "Use: Regenerate 1 health every 5 sec for 1 hour.  Guardian Elixir. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "10",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 22,
+                "display_string": "Requires Level 22"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

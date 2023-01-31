@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183522?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183522,
+    "name": "Wildseed Root Grain Seeds",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183522?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183522
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 25000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "These seeds grow a special root that increases the quality of rewards offered by a spirit upon rebirth.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183522?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183522
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Wildseed Root Grain Seeds",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183522?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183522
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/341670?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Infuse Catalyst Seed",
+                    "id": 341670
+                },
+                "description": "Use: Infuse a Wildseed of Regrowth with seeds to grow a new catalyst."
+            }
+        ],
+        "sell_price": {
+            "value": 25000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "description": "These seeds grow a special root that increases the quality of rewards offered by a spirit upon rebirth.",
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Queen's Conservatory",
+            "color": {
+                "r": 136,
+                "g": 170,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

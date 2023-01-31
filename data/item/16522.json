@@ -1,0 +1,282 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/16522?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16522,
+    "name": "Legionnaire's Mail Chestpiece",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 29,
+    "required_level": 24,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/16522?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16522
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "CHEST",
+        "name": "Chest"
+    },
+    "purchase_price": 109725,
+    "sell_price": 21945,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/16522?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 16522
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Legionnaire's Mail Chestpiece",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/16522?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 16522
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "CHEST",
+            "name": "Chest"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 10,
+            "display": {
+                "display_string": "10 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 3,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+3 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 110,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "10"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 24,
+                "display_string": "Requires Level 24"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaman",
+                        "id": 7
+                    }
+                ],
+                "display_string": "Classes: Shaman"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/301?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Champion's Earthshaker",
+                "id": 301
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16519?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood Guard's Mail Grips",
+                        "id": 16519
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16518?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood Guard's Mail Walkers",
+                        "id": 16518
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16522?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Legionnaire's Mail Chestpiece",
+                        "id": 16522
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16523?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Legionnaire's Mail Leggings",
+                        "id": 16523
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16521?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Champion's Mail Helm",
+                        "id": 16521
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16524?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Champion's Mail Shoulders",
+                        "id": 16524
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases Agility by 0.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Improves your chance to get a critical strike with all Shock spells by 2%.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: +0 Stamina.",
+                    "required_count": 6
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Champion's Earthshaker (0/6)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 140,
+            "display_string": "Durability 140 / 140"
+        }
+    },
+    "purchase_quantity": 1
+}

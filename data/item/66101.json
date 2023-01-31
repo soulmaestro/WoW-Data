@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/66101?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 66101,
+    "name": "Plans: Pyrium Shield Spike",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/66101?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 66101
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Pyrium Shield Spike.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/66101?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66101
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Pyrium Shield Spike",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/66101?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66101
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2474?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Blacksmithing",
+                    "id": 2474
+                },
+                "level": 75,
+                "display_string": "Requires Cataclysm Blacksmithing (75)"
+            }
+        },
+        "description": "Teaches you how to make a Pyrium Shield Spike.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/55056?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 55056
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Pyrium Shield Spike",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/55056?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 55056
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/13?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shield/Off-hand",
+                    "id": 13
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/92437?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Pyrium Shield Spike",
+                            "id": 92437
+                        },
+                        "description": "Use: Attaches a Pyrium Spike to your shield that sometimes deals 29 damage when you block with it.\r\r\r\n\r\r\r\nAttaching a Pyrium Spike to your shield causes it to become soulbound. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "requirements": {
+                    "level": {
+                        "value": 32,
+                        "display_string": "Requires Level 32"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/51950?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pyrium Bar",
+                        "id": 51950
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Pyrium Bar (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

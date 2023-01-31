@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2000?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2000,
+    "name": "Archeus",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/2000?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2000
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sword",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 23128,
+    "sell_price": 4625,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Morgan Ladimore's sword.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/2000?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2000
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Archeus",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/2000?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2000
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Sword",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 4,
+                "max_value": 7,
+                "display_string": "4 - 7 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 1.5277777,
+                "display_string": "(1.5 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/265025?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Archeus",
+                    "id": 265025
+                },
+                "description": "Equip: Blasts a target for 1 Arcane damage."
+            }
+        ],
+        "sell_price": {
+            "value": 139,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "39"
+            }
+        },
+        "description": "Morgan Ladimore's sword.",
+        "level": {
+            "value": 20,
+            "display_string": "Item Level 20"
+        },
+        "durability": {
+            "value": 65,
+            "display_string": "Durability 65 / 65"
+        }
+    },
+    "purchase_quantity": 1
+}

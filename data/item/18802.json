@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/18802?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 18802,
+    "name": "Shadowy Potion",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/18802?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 18802
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/18802?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 18802
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Shadowy Potion",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/18802?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 18802
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23179?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Taint of Shadow",
+                    "id": 23179
+                },
+                "description": "Use: Infuses imbiber with a taint of shadow, making him friendly to the denizens of Jaedenar.  Lasts 20 minutes."
+            }
+        ],
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 3
+}

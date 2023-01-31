@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41118?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 41118,
+    "name": "Nitro Boosts",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 28,
+    "required_level": 24,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/41118?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 41118
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Waist",
+        "id": 7
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 1250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/41118?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41118
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Nitro Boosts",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/41118?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41118
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Waist",
+            "id": 7
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/55016?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Nitro Boosts",
+                    "id": 55016
+                },
+                "description": "Use: Permanently attaches nitro boosts to your belt, allowing you to increase run speed for a few seconds.  Duration and speed may vary.  (2 Min Cooldown)\r\n\r\nNitro boosts share a cooldown with potions."
+            }
+        ],
+        "sell_price": {
+            "value": 1250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 24,
+                "display_string": "Requires Level 24"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Engineering",
+                    "id": 2504
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Engineering (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

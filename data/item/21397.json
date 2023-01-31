@@ -1,0 +1,245 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21397?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21397,
+    "name": "Cape of Eternal Justice",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21397?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21397
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloth",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "CLOAK",
+        "name": "Back"
+    },
+    "purchase_price": 237965,
+    "sell_price": 47593,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21397?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21397
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Cape of Eternal Justice",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21397?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21397
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloth",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "CLOAK",
+            "name": "Back"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 3,
+            "display": {
+                "display_string": "3 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 1,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+1 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 229,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "29"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/506?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Battlegear of Eternal Justice",
+                "id": 506
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21397?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Cape of Eternal Justice",
+                        "id": 21397
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21395?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blade of Eternal Justice",
+                        "id": 21395
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21396?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ring of Eternal Justice",
+                        "id": 21396
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(3) Set: 20% chance to regain 100 mana when you cast a Judgement.",
+                    "required_count": 3
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Battlegear of Eternal Justice (0/3)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

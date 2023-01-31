@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186648?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186648,
+    "name": "Soaring Razorwing",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186648?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186648
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mount",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to summon this mount.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186648?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186648
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Soaring Razorwing",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186648?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186648
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mount",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/347251?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Soaring Razorwing",
+                    "id": 347251
+                },
+                "description": "Use: Teaches you how to summon this mount."
+            }
+        ],
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2472?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Archivists' Codex",
+                    "id": 2472
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Archivists' Codex - Tier 6"
+            },
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Apprentice Riding",
+                    "id": 33388
+                },
+                "display_string": "Requires Apprentice Riding"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

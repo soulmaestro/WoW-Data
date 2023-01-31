@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/159637?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 159637,
+    "name": "Snakebite Recurve",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 59,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/159637?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 159637
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bow",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "RANGED",
+        "name": "Ranged"
+    },
+    "purchase_price": 4664899,
+    "sell_price": 932979,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/159637?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159637
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Snakebite Recurve",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/159637?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159637
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Bow",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "RANGED",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 16,
+                "max_value": 22,
+                "display_string": "16 - 22 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 6.333333,
+                "display_string": "(6.3 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 9,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+9 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 13,
+                "display": {
+                    "display_string": "+13 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 10,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+10 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 7,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+7 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 4985,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "49",
+                "copper": "85"
+            }
+        },
+        "level": {
+            "value": 59,
+            "display_string": "Item Level 59"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

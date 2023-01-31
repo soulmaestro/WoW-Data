@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/75038?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 75038,
+    "name": "Mad Brewer's Breakfast",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 35,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/75038?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 75038
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 28000,
+    "sell_price": 1400,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/75038?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 75038
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Mad Brewer's Breakfast",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/75038?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 75038
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/105222?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Imbibe",
+                    "id": 105222
+                },
+                "description": "Use: Restores 4,807 health and 2,500 mana over 20 sec.  Must remain seated while drinking.  May induce delusions of grandeur. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1400,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "14",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

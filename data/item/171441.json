@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171441?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 171441,
+    "name": "Laestrite Skeleton Key",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 115,
+    "required_level": 51,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/171441?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 171441
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 1250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/171441?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171441
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Laestrite Skeleton Key",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/171441?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171441
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/346245?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Laestrite Skeleton Key",
+                    "id": 346245
+                },
+                "description": "Use: Allows opening of locks that require up to 60 lockpicking skill.  The lockpick is consumed in the process."
+            }
+        ],
+        "sell_price": {
+            "value": 1250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 51,
+                "display_string": "Requires Level 51"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2751?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Blacksmithing",
+                    "id": 2751
+                },
+                "level": 1,
+                "display_string": "Requires Shadowlands Blacksmithing (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

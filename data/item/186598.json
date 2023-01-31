@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186598?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186598,
+    "name": "Recipe: Crafter's Mark III",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186598?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186598
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Crafter's Mark III.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186598?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186598
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Recipe: Crafter's Mark III",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186598?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186598
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/354222?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Reading",
+                    "id": 354222
+                },
+                "description": "Use: Teaches you how to craft an Optional Reagent that sets the required level to 60 and item level of the item to 200.\r\n\r\nUsable with Shadowlands recipes for Rare (blue) armor and accessories."
+            }
+        ],
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2470?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Death's Advance",
+                    "id": 2470
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Death's Advance - Honored"
+            }
+        },
+        "description": "Teaches you how to craft a Crafter's Mark III.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

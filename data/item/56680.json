@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/56680?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 56680,
+    "name": "Shadestar Mace",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 15,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/56680?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 56680
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 18062,
+    "sell_price": 3612,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/56680?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 56680
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Shadestar Mace",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/56680?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 56680
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 4,
+                "max_value": 6,
+                "display_string": "4 - 6 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 1.3888888,
+                "display_string": "(1.4 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 106,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "6"
+            }
+        },
+        "level": {
+            "value": 15,
+            "display_string": "Item Level 15"
+        },
+        "durability": {
+            "value": 65,
+            "display_string": "Durability 65 / 65"
+        }
+    },
+    "purchase_quantity": 1
+}

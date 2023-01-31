@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/82450?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 82450,
+    "name": "Cornmeal Biscuit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/82450?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 82450
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 22400,
+    "sell_price": 1120,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/82450?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 82450
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Cornmeal Biscuit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/82450?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 82450
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/104235?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 104235
+                },
+                "description": "Use: Restores 4,103 health over 20 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1120,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "11",
+                "copper": "20"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

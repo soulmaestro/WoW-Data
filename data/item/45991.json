@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/45991?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 45991,
+    "name": "Bone Fishing Pole",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 8,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/45991?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 45991
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fishing",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 4834,
+    "sell_price": 966,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/45991?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 45991
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Bone Fishing Pole",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/45991?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 45991
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fishing",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/59731?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+13 Fishing",
+                    "id": 59731
+                },
+                "description": "Equip: +13 Fishing Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 966,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "9",
+                "copper": "66"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2592?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Fishing",
+                    "id": 2592
+                },
+                "level": 1,
+                "display_string": "Requires Classic Fishing (1)"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

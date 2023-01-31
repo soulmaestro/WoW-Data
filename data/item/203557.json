@@ -1,0 +1,279 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/203557?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 203557,
+    "name": "Talons of the Awakened",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/203557?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 203557
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 3394569,
+    "sell_price": 678913,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/203557?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 203557
+        },
+        "context": 0,
+        "bonus_list": [
+            8826
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Talons of the Awakened",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/203557?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 203557
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 492,
+            "display": {
+                "display_string": "492 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 301,
+                "display": {
+                    "display_string": "+301 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 301,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+301 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 737,
+                "display": {
+                    "display_string": "+737 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 151,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+151 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 364,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+364 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 662941,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "66",
+                "silver": "29",
+                "copper": "41"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Evoker",
+                        "id": 13
+                    }
+                ],
+                "display_string": "Classes: Evoker"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1530?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Scales of the Awakened",
+                "id": 1530
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200378?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hauberk of the Awakened",
+                        "id": 200378
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200380?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gauntlets of the Awakened",
+                        "id": 200380
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200381?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crown of the Awakened",
+                        "id": 200381
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200382?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Legguards of the Awakened",
+                        "id": 200382
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200383?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Talons of the Awakened",
+                        "id": 200383
+                    }
+                }
+            ],
+            "display_string": "Scales of the Awakened (0/5)"
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

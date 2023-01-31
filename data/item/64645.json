@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/64645?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 64645,
+    "name": "Tyrande's Favorite Doll",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 37,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/64645?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 64645
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/64645?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 64645
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Tyrande's Favorite Doll",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/64645?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 64645
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/92272?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Collecting Mana",
+                    "id": 92272
+                },
+                "description": "Equip: Recaptures 20% of the base mana cost of your spells, and stores it within the doll to be released at a later time.  Up to a maximum of 49 mana can be stored."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/92601?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Detonate Mana",
+                    "id": 92601
+                },
+                "description": "Use: Releases all mana stored within the doll, causing you to gain that much mana, and all enemies within 0 yards take 1 point of Arcane damage for each point of mana released. (1 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "level": {
+            "value": 37,
+            "display_string": "Item Level 37"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

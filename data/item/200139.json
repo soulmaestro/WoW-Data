@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/200139?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 200139,
+    "name": "Tempest Arc",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 350,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/200139?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 200139
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bow",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "RANGED",
+        "name": "Ranged"
+    },
+    "purchase_price": 5434606,
+    "sell_price": 1086921,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Sometimes lightning does strike twice.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/200139?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200139
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Tempest Arc",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/200139?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200139
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Bow",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "RANGED",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 493,
+                "max_value": 667,
+                "display_string": "493 - 667 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 193.33331,
+                "display_string": "(193.3 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 257,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+257 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 510,
+                "display": {
+                    "display_string": "+510 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/389082?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Arcing Blast",
+                    "id": 389082
+                },
+                "description": "Equip: Your ranged attacks and abilities have a very high chance to cause an Arcing Blast, dealing up to 6,288 Nature damage split between your target and up to 5 nearby enemies.\r\n\r\nDamage is increased for each enemy struck.\r\n"
+            }
+        ],
+        "sell_price": {
+            "value": 1086921,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "108",
+                "silver": "69",
+                "copper": "21"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "description": "Sometimes lightning does strike twice.",
+        "level": {
+            "value": 350,
+            "display_string": "Item Level 350"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

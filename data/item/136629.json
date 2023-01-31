@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/136629?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 136629,
+    "name": "Felgibber Shotgun",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 45,
+    "required_level": 39,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/136629?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 136629
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gun",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 173300,
+    "sell_price": 34660,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Sold by Engineering vendors in Dalaran.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/136629?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 136629
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Felgibber Shotgun",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/136629?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 136629
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Gun",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 8,
+                "max_value": 15,
+                "display_string": "8 - 15 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 3.833333,
+                "display_string": "(3.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 5,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+5 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 8,
+                "display": {
+                    "display_string": "+8 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 34660,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "46",
+                "copper": "60"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 39,
+                "display_string": "Requires Level 39"
+            }
+        },
+        "description": "Sold by Engineering vendors in Dalaran.",
+        "level": {
+            "value": 45,
+            "display_string": "Item Level 45"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

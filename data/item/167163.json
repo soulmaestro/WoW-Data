@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/167163?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 167163,
+    "name": "King's Bloom",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/167163?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 167163
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/167163?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 167163
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "King's Bloom",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/167163?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 167163
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/292410?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "King's Bloom",
+                    "id": 292410
+                },
+                "description": "Use: Gain 20% Spell Reflection for 5 min.\r\n\r\nOnly usable in Nazjatar. (1 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198076?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198076,
+    "name": "Pest Fogger",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198076?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198076
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198076?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198076
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Pest Fogger",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198076?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198076
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/392625?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pest Fogger",
+                    "id": 392625
+                },
+                "description": "Use: Throw a pest fogger that creates a poisonous explosion dealing 25,016 Nature damage to all enemies within 6 yards, knocking them back and reducing movement speed by 30% for 8 sec. \r\n\r\nKnock back is more effective against enemy players. \r\n (10 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "charges": {
+            "value": 5,
+            "display_string": "5 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

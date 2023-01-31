@@ -1,0 +1,268 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/8030?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 8030,
+    "name": "Plans: Ebon Shiv",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/8030?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 8030
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Ebon Shiv.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/8030?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 8030
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Ebon Shiv",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/8030?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 8030
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 255,
+                "display_string": "Requires Classic Blacksmithing (255)"
+            }
+        },
+        "description": "Teaches you how to make an Ebon Shiv.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/7947?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 7947
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Ebon Shiv",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/7947?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 7947
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dagger",
+                    "id": 15
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 2,
+                        "max_value": 4,
+                        "display_string": "2 - 4 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 1800,
+                        "display_string": "Speed 1.80"
+                    },
+                    "dps": {
+                        "value": 1.6666666,
+                        "display_string": "(1.7 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 3,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+3 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 202,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "2"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 20,
+                        "display_string": "Requires Level 20"
+                    }
+                },
+                "level": {
+                    "value": 26,
+                    "display_string": "Item Level 26"
+                },
+                "durability": {
+                    "value": 50,
+                    "display_string": "Durability 50 / 50"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mithril Bar",
+                        "id": 3860
+                    },
+                    "quantity": 12
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/6037?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Truesilver Bar",
+                        "id": 6037
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7910?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Star Ruby",
+                        "id": 7910
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7966?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Solid Grinding Stone",
+                        "id": 7966
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/4304?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Thick Leather",
+                        "id": 4304
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Mithril Bar (12), Truesilver Bar (6), Star Ruby (2), Solid Grinding Stone, Thick Leather (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

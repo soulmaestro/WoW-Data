@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/1401?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1401,
+    "name": "Riverpaw Tea Leaf",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 2,
+    "required_level": 2,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/1401?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1401
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 56,
+    "sell_price": 14,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/1401?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 1401
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Riverpaw Tea Leaf",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/1401?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 1401
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/833?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Green Tea",
+                    "id": 833
+                },
+                "description": "Use: Instantly heals 60 damage.  Also restores 115 mana over 10 sec.  Must remain seated while drinking. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 14,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "14"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 2,
+                "display_string": "Requires Level 2"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/140789?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 140789,
+    "name": "Animated Exoskeleton",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/140789?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 140789
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1407538,
+    "sell_price": 281507,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/140789?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140789
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Animated Exoskeleton",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/140789?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140789
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 9,
+                "display": {
+                    "display_string": "+9 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/225033?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Living Carapace",
+                    "id": 225033
+                },
+                "description": "Use: Reduce all damage taken by 30% for 15 sec, until you have prevented 481 damage. (1 Min 30 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1849,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "18",
+                "copper": "49"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

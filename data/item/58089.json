@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/58089?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 58089,
+    "name": "Elixir of the Naga",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/58089?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 58089
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Elixir",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/58089?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 58089
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Elixir of the Naga",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/58089?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 58089
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Elixir",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/79474?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elixir of the Naga",
+                    "id": 79474
+                },
+                "description": "Use: Increases Critical Strike by 18 for 1 hour.  Battle Elixir. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

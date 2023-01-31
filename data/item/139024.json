@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139024?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139024,
+    "name": "Highmountain Tribe Insignia",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 39,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139024?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139024
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 800000,
+    "sell_price": 200000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139024?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139024
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Highmountain Tribe Insignia",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139024?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139024
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/219530?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Highmountain Tribe Insignia",
+                    "id": 219530
+                },
+                "description": "Use: Grants 250 reputation with the Highmountain Tribe, up to Exalted reputation. (2 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 200000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "20",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 39,
+                "display_string": "Requires Level 39"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

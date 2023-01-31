@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44509?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44509,
+    "name": "Pattern: Trapper's Traveling Pack",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44509?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44509
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Trapper's Traveling Pack.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44509?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44509
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Pattern: Trapper's Traveling Pack",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44509?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44509
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2530?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Leatherworking",
+                    "id": 2530
+                },
+                "level": 40,
+                "display_string": "Requires Northrend Leatherworking (40)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1073?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Kalu'ak",
+                    "id": 1073
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Kalu'ak - Revered"
+            }
+        },
+        "description": "Teaches you how to make a Trapper's Traveling Pack.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/38399?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 38399
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Trapper's Traveling Pack",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/38399?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 38399
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Container",
+                    "id": 1
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Leatherworking Bag",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "BAG",
+                    "name": "Bag"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "sell_price": {
+                    "value": 40000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "4",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "container_slots": {
+                    "value": 28,
+                    "display_string": "28 Slot Leatherworking Bag"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/38425?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heavy Borean Leather",
+                        "id": 38425
+                    },
+                    "quantity": 8
+                }
+            ],
+            "reagents_display_string": "Heavy Borean Leather (8)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

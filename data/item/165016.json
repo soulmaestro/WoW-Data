@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165016?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165016,
+    "name": "Contract: 7th Legion",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165016?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165016
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 46000,
+    "sell_price": 11500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165016?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165016
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Contract: 7th Legion",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165016?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165016
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/284275?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Contract: 7th Legion",
+                    "id": 284275
+                },
+                "description": "Use: Enter a contract with the 7th Legion that allows you to gain reputation with them every time you complete a world quest on Kul Tiras and Zandalar."
+            }
+        ],
+        "sell_price": {
+            "value": 11500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "15",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2159?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "7th Legion",
+                    "id": 2159
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires 7th Legion - Friendly"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

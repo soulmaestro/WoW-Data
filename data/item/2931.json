@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2931?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2931,
+    "name": "Maiden's Anguish",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 25,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/2931?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2931
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Junk",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000,
+    "sell_price": 250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Used by rogues to brew poison.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/2931?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2931
+        },
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Maiden's Anguish",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/2931?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2931
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Junk",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "description": "Used by rogues to brew poison.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

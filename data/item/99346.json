@@ -1,0 +1,310 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/99346?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 99346,
+    "name": "Mantle of Celestial Harmony",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 42,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/99346?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 99346
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 3212088,
+    "sell_price": 642417,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/99346?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 99346
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Mantle of Celestial Harmony",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/99346?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 99346
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 9,
+            "display": {
+                "display_string": "9 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +3 Intellect",
+        "sell_price": {
+            "value": 782,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "7",
+                "copper": "82"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaman",
+                        "id": 7
+                    }
+                ],
+                "display_string": "Classes: Shaman"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1184?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Celestial Harmony Vestment",
+                "id": 1184
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/99099?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Legwraps of Celestial Harmony",
+                        "id": 99099
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/99100?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mantle of Celestial Harmony",
+                        "id": 99100
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/99107?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tunic of Celestial Harmony",
+                        "id": 99107
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/99108?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handwraps of Celestial Harmony",
+                        "id": 99108
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/99109?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Faceguard of Celestial Harmony",
+                        "id": 99109
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: When Earth Shield heals a target, the target will gain 300% of the amount healed as an absorb.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Spiritwalker's Grace will also summon a spiritual version of yourself that will mimic all cast time targeted healing spells for 15 sec.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Celestial Harmony Vestment (0/5)"
+        },
+        "level": {
+            "value": 42,
+            "display_string": "Item Level 42"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        },
+        "name_description": {
+            "display_string": "Mythic",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

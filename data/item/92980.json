@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/92980?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 92980,
+    "name": "Friendly Favor",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 35,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/92980?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 92980
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000,
+    "sell_price": 50,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Show your support for the current brawl contender!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/92980?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 92980
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Friendly Favor",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/92980?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 92980
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/135082?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Friendly Favor",
+                    "id": 135082
+                },
+                "description": "Use: Throw the favor at a Brawl combatant, raising their primary stats slightly. Stacks up to 100 times. (10 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 50,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "description": "Show your support for the current brawl contender!",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

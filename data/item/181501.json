@@ -1,0 +1,171 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/181501?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 181501,
+    "name": "Flame of Battle",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 148,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/181501?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 181501
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2532328,
+    "sell_price": 506465,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/181501?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 181501
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Flame of Battle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/181501?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 181501
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 31,
+                "display": {
+                    "display_string": "+31 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 31,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+31 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 31,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+31 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/336841?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Flame of Battle",
+                    "id": 336841
+                },
+                "description": "Use: Grants you 273 Versatility for 12 sec.\r\n (1 Min 30 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 110685,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "11",
+                "silver": "6",
+                "copper": "85"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 148,
+            "display_string": "Item Level 148"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

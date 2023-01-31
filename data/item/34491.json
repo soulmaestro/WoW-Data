@@ -1,0 +1,230 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/34491?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34491,
+    "name": "Pattern: Bag of Many Hides",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/34491?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34491
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 96000,
+    "sell_price": 24000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Bag of Many Hides.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/34491?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 34491
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Pattern: Bag of Many Hides",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/34491?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 34491
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 24000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "40",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2531?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Leatherworking",
+                    "id": 2531
+                },
+                "level": 60,
+                "display_string": "Requires Outland Leatherworking (60)"
+            }
+        },
+        "description": "Teaches you how to make a Bag of Many Hides.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/34490?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 34490
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Bag of Many Hides",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/34490?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 34490
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Container",
+                    "id": 1
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Leatherworking Bag",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "BAG",
+                    "name": "Bag"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "sell_price": {
+                    "value": 40000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "4",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "container_slots": {
+                    "value": 24,
+                    "display_string": "24 Slot Leatherworking Bag"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23793?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heavy Knothide Leather",
+                        "id": 23793
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/29547?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wind Scales",
+                        "id": 29547
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/25707?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fel Hide",
+                        "id": 25707
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/29548?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Nether Dragonscales",
+                        "id": 29548
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/25708?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Thick Clefthoof Leather",
+                        "id": 25708
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/14341?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rune Thread",
+                        "id": 14341
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Heavy Knothide Leather (15), Wind Scales (5), Fel Hide (5), Nether Dragonscales (5), Thick Clefthoof Leather (5), Rune Thread (3)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

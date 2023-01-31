@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7996?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7996,
+    "name": "Worn Fishing Hat",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 12,
+    "required_level": 7,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/7996?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7996
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cosmetic",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 1781,
+    "sell_price": 356,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/7996?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 7996
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Worn Fishing Hat",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/7996?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 7996
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cosmetic",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/7823?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+5 Fishing",
+                    "id": 7823
+                },
+                "description": "Equip: +5 Fishing Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 12,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "12"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 7,
+                "display_string": "Requires Level 7"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/356?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing",
+                    "id": 356
+                },
+                "level": 1,
+                "display_string": "Requires Fishing (1)"
+            }
+        },
+        "level": {
+            "value": 12,
+            "display_string": "Item Level 12"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

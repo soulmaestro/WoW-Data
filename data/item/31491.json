@@ -1,0 +1,216 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/31491?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 31491,
+    "name": "Netherwing Defender's Shield",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/31491?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 31491
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shield",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "SHIELD",
+        "name": "Off Hand"
+    },
+    "purchase_price": 2538486,
+    "sell_price": 507697,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/31491?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 31491
+        },
+        "context": 0,
+        "bonus_list": [
+            6691
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Netherwing Defender's Shield",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/31491?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 31491
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shield",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "SHIELD",
+            "name": "Off Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 510,
+            "display": {
+                "display_string": "510 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "shield_block": {
+            "value": 1275,
+            "display": {
+                "display_string": "1,275 Block",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 81,
+                "display": {
+                    "display_string": "+81 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 26,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+26 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 44,
+                "display": {
+                    "display_string": "+44 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "DODGE_RATING",
+                    "name": "Dodge"
+                },
+                "value": 24,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+24 Dodge",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "PARRY_RATING",
+                    "name": "Parry"
+                },
+                "value": 24,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+24 Parry",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 276923,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "27",
+                "silver": "69",
+                "copper": "23"
+            }
+        },
+        "level": {
+            "value": 180,
+            "display_string": "Item Level 180"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/49365?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 49365,
+    "name": "Briaroot Brew",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 3,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/49365?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 49365
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 340,
+    "sell_price": 85,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A pungent beverage with spicy overtones.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/49365?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 49365
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Briaroot Brew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/49365?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 49365
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "QUEST",
+            "name": "Quest Item"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/431?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Drink",
+                    "id": 431
+                },
+                "description": "Use: Restores 504 mana over 21 sec.  Must remain seated while drinking. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 85,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "85"
+            }
+        },
+        "description": "A pungent beverage with spicy overtones.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

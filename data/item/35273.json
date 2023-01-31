@@ -1,0 +1,195 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35273?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35273,
+    "name": "Study of Advanced Smelting",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35273?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35273
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Hardened Khorium.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35273?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35273
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Study of Advanced Smelting",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35273?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35273
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/46353?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Smelt Hardened Khorium",
+                    "id": 46353
+                },
+                "description": "Use: Teaches you how to make Hardened Khorium."
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2571?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Mining",
+                    "id": 2571
+                },
+                "level": 75,
+                "display_string": "Requires Outland Mining (75)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/35128?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35128
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Hardened Khorium",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/35128?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35128
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Metal & Stone",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 11250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "12",
+                        "copper": "50"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23449?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Khorium Bar",
+                        "id": 23449
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23573?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hardened Adamantite Bar",
+                        "id": 23573
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Khorium Bar (3), Hardened Adamantite Bar"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/153176?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 153176,
+    "name": "Vigilant Charger's Bridle",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/153176?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 153176
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Glyph",
+        "id": 16
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Paladin",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 400,
+    "sell_price": 100,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/153176?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 153176
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Vigilant Charger's Bridle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/153176?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 153176
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Glyph",
+            "id": 16
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Paladin",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/254470?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Vigilant Charger's Bridle",
+                    "id": 254470
+                },
+                "description": "Use: Allows your Divine Steed to be your Vigilant Charger."
+            }
+        ],
+        "sell_price": {
+            "value": 100,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

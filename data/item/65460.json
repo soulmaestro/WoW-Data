@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/65460?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 65460,
+    "name": "Big Cauldron of Battle",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/65460?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 65460
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 25000,
+    "sell_price": 6250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/65460?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65460
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Big Cauldron of Battle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/65460?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65460
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/92712?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Big Cauldron of Battle",
+                    "id": 92712
+                },
+                "description": "Use: Creates a cauldron that raid members can use to gain the benefit of a flask appropriate to their class and talents.   Cauldron has 30 uses and lasts for 10 min."
+            }
+        ],
+        "sell_price": {
+            "value": 6250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "62",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1168?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Guild",
+                    "id": 1168
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Guild - Friendly"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

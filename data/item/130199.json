@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130199?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 130199,
+    "name": "Legion Pocket Portal",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/130199?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 130199
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Junk",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 10,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Fits in your pocket!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/130199?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 130199
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Legion Pocket Portal",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/130199?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 130199
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Junk",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/195604?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Open Legion Portal",
+                    "id": 195604
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nOpen a portal to a dangerous Legion world. (1 Hr Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 10,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "10"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2045?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armies of Legionfall",
+                    "id": 2045
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Armies of Legionfall - Revered"
+            }
+        },
+        "description": "Fits in your pocket!",
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

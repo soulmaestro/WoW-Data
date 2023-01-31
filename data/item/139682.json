@@ -1,0 +1,325 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139682?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139682,
+    "name": "Battlelord's Warboots",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139682?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139682
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "FEET",
+        "name": "Feet"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 1250000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139682?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139682
+        },
+        "context": 0,
+        "bonus_list": [
+            3384
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Battlelord's Warboots",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139682?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139682
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "FEET",
+            "name": "Feet"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 17,
+            "display": {
+                "display_string": "17 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 6,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+6 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 9,
+                "display": {
+                    "display_string": "+9 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 8,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+8 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "125",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warrior",
+                        "id": 1
+                    }
+                ],
+                "display_string": "Classes: Warrior"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1280?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Battlelord's Plate",
+                "id": 1280
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139681?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Chestplate",
+                        "id": 139681
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139682?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Warboots",
+                        "id": 139682
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139683?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Gauntlets",
+                        "id": 139683
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139684?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Greathelm",
+                        "id": 139684
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139685?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Legplates",
+                        "id": 139685
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139686?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Pauldrons",
+                        "id": 139686
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139687?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Girdle",
+                        "id": 139687
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139688?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battlelord's Wristguards",
+                        "id": 139688
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases your out-of-combat regeneration in outdoor Broken Isles zones.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: While you are below 35% health you take 50% reduced damage in outdoor Broken Isles zones.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: Strength increased by 11.",
+                    "required_count": 6
+                },
+                {
+                    "display_string": "(8) Set: Mortal Strike, Bloodthirst, and Shield Slam have a chance to increase your Critical Strike by 46 for 12 sec.",
+                    "required_count": 8
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Battlelord's Plate (0/8)"
+        },
+        "level": {
+            "value": 54,
+            "display_string": "Item Level 54"
+        },
+        "durability": {
+            "value": 65,
+            "display_string": "Durability 65 / 80"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,310 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/96630?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 96630,
+    "name": "Saurok Stalker's Spaulders",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 41,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/96630?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 96630
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 1011459,
+    "sell_price": 202291,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/96630?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 96630
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Saurok Stalker's Spaulders",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/96630?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 96630
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 9,
+            "display": {
+                "display_string": "9 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +3 Haste",
+        "sell_price": {
+            "value": 721,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "7",
+                "copper": "21"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hunter",
+                        "id": 3
+                    }
+                ],
+                "display_string": "Classes: Hunter"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1157?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Battlegear of the Saurok Stalker",
+                "id": 1157
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95255?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Saurok Stalker's Tunic",
+                        "id": 95255
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95256?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Saurok Stalker's Gloves",
+                        "id": 95256
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95257?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Saurok Stalker's Headguard",
+                        "id": 95257
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95258?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Saurok Stalker's Legguards",
+                        "id": 95258
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/95259?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Saurok Stalker's Spaulders",
+                        "id": 95259
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your Steady Shot and Cobra Shot have a chance to summon a Thunderhawk to fight for you for the next 10 sec.  (Approximately 1.11 procs per minute)",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Your Arcane Shot, Multi-Shot, and Aimed Shot have a chance to trigger a Lightning Arrow at the target, dealing 100% weapon damage as Nature.  (Approximately 3.32 procs per minute)",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Battlegear of the Saurok Stalker (0/5)"
+        },
+        "level": {
+            "value": 41,
+            "display_string": "Item Level 41"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        },
+        "name_description": {
+            "display_string": "Heroic",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169307?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169307,
+    "name": "Vision of Demise",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 72,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169307?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169307
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3316698,
+    "sell_price": 663339,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169307?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169307
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Vision of Demise",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169307?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169307
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 10,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+10 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 10,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+10 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/303277?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Vision of Demise",
+                    "id": 303277
+                },
+                "description": "Use: Reveal your enemy's impending demise, increasing your Haste by 45 for 10 sec. For every 10% health your target is missing, gain 6 additional Haste. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 6788,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "67",
+                "copper": "88"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 72,
+            "display_string": "Item Level 72"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

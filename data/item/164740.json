@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164740?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 164740,
+    "name": "Ub3r-Spanner",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/164740?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 164740
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/164740?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 164740
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Ub3r-Spanner",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/164740?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 164740
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/290121?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ub3r-Construction",
+                    "id": 290121
+                },
+                "description": "Enables the engineer to craft Ub3r-Constructs.\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/298221?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Invent!",
+                    "id": 298221
+                },
+                "description": "Use: Summons an Ub3r-Construct to assist the caster for 20 seconds. If no Ub3r-Construct is specified, a random one will appear.  (15 Min Cooldown) (Requires level 50 or below)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2499?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Engineering",
+                    "id": 2499
+                },
+                "level": 150,
+                "display_string": "Requires Kul Tiran Engineering (150)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

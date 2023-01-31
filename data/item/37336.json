@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/37336?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 37336,
+    "name": "Formula: Enchant Chest - Greater Dodge",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/37336?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 37336
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000,
+    "sell_price": 250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to perform the Greater Dodge enchantment on chest armor.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/37336?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37336
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Formula: Enchant Chest - Greater Dodge",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/37336?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37336
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/47766?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Greater Dodge",
+                    "id": 47766
+                },
+                "description": "Use: Teaches you how to perform the Greater Dodge enchantment on chest armor."
+            }
+        ],
+        "sell_price": {
+            "value": 250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2492?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Enchanting",
+                    "id": 2492
+                },
+                "level": 25,
+                "display_string": "Requires Northrend Enchanting (25)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

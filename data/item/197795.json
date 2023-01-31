@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/197795?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 197795,
+    "name": "Hoard of Draconic Delicacies",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 60,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/197795?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 197795
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 10000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/197795?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 197795
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Hoard of Draconic Delicacies",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/197795?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 197795
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "HEALTH",
+            "name": "Health"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/383063?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Prepare Growing Hoard of Draconic Delicacies",
+                    "id": 383063
+                },
+                "description": "Use: Set out a Growing Hoard of Draconic Delicacies, ready to fill with delicious prepared meals and excess ingredients. Finish it to provide a great feast for everyone to enjoy!\r\n\r\nOnce complete, restores 50,000 health and 66,666 mana over 20 sec. Must remain seated while eating. If you spend at least 10 seconds eating, you become well fed and gain 75 primary stat for 1 hour."
+            }
+        ],
+        "sell_price": {
+            "value": 10000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

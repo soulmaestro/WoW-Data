@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/160611?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 160611,
+    "name": "Woven Bacon",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 47,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/160611?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 160611
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 26000,
+    "sell_price": 1300,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Rich with smoky flavor.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/160611?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 160611
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Woven Bacon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/160611?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 160611
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/191876?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 191876
+                },
+                "description": "Use: Restores 20,000 health over 20 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1300,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "13",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "description": "Rich with smoky flavor.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

@@ -1,0 +1,180 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183624?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183624,
+    "name": "Serrated Blade of Nadox",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 100,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183624?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183624
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 5905256,
+    "sell_price": 1181051,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183624?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183624
+        },
+        "context": 0,
+        "bonus_list": [
+            1482,
+            4786
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Serrated Blade of Nadox",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183624?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183624
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 14,
+                "max_value": 24,
+                "display_string": "14 - 24 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 10.555555,
+                "display_string": "(10.6 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 9,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+9 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 14,
+                "display": {
+                    "display_string": "+14 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344311?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Serrated Edge",
+                    "id": 344311
+                },
+                "description": "Equip: Your melee attacks have a chance to make the enemy bleed for 1,302 Physical damage over 12 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 65381,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "6",
+                "silver": "53",
+                "copper": "81"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 110,
+            "display_string": "Item Level 110"
+        },
+        "durability": {
+            "value": 80,
+            "display_string": "Durability 80 / 80"
+        }
+    },
+    "purchase_quantity": 1
+}

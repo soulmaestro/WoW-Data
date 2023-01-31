@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/86069?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 86069,
+    "name": "Rice Pudding",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 33,
+    "required_level": 33,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/86069?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 86069
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 27000,
+    "sell_price": 1350,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/86069?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86069
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Rice Pudding",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/86069?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86069
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/125109?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Refreshment",
+                    "id": 125109
+                },
+                "description": "Use: Restores 10,841 health and 10,000 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 7 haste for 1 hour. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1350,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "13",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 33,
+                "display_string": "Requires Level 33"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

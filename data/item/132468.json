@@ -1,0 +1,252 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/132468?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 132468,
+    "name": "Design: Deep Amber Pendant",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/132468?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 132468
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Deep Amber Pendant.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/132468?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 132468
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Deep Amber Pendant",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/132468?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 132468
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/195859?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Deep Amber Pendant",
+                    "id": 195859
+                },
+                "description": "Use: Teaches you how to craft a Deep Amber Pendant."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2518?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Jewelcrafting",
+                    "id": 2518
+                },
+                "level": 1,
+                "display_string": "Requires Legion Jewelcrafting (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/130226?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 130226
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Deep Amber Pendant",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/130226?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 130226
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NECK",
+                    "name": "Neck"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 5,
+                        "display": {
+                            "display_string": "+5 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "CRIT_RATING",
+                            "name": "Critical Strike"
+                        },
+                        "value": 9,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+9 Critical Strike",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 620,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "6",
+                        "copper": "20"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 43,
+                        "display_string": "Requires Level 43"
+                    }
+                },
+                "level": {
+                    "value": 48,
+                    "display_string": "Item Level 48"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130173?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deep Amber",
+                        "id": 130173
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130176?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skystone",
+                        "id": 130176
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130172?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sangrite",
+                        "id": 130172
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Deep Amber (5), Skystone (2), Sangrite"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

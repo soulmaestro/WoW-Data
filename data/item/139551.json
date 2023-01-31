@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139551?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139551,
+    "name": "The Sunbloom",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 45,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139551?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139551
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "A rare flower from the Emerald Dream, not seen in Azeroth since the War of the Ancients.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139551?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139551
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "The Sunbloom",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139551?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139551
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/220663?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Sunbloom",
+                    "id": 220663
+                },
+                "description": "Use: Unlocks the Sunkeeper's Reach appearance for the Scythe of Elune.",
+                "display_color": {
+                    "r": 255,
+                    "g": 204,
+                    "b": 153,
+                    "a": 1.0
+                }
+            }
+        ],
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    }
+                ],
+                "display_string": "Classes: Druid"
+            }
+        },
+        "description": "A rare flower from the Emerald Dream, not seen in Azeroth since the War of the Ancients.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

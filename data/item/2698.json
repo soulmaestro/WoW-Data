@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2698?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2698,
+    "name": "Recipe: Cooked Crab Claw",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/2698?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2698
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 400,
+    "sell_price": 100,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook a Crab Claw.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/2698?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2698
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Cooked Crab Claw",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/2698?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 2698
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 100,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2548?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Cooking",
+                    "id": 2548
+                },
+                "level": 85,
+                "display_string": "Requires Classic Cooking (85)"
+            }
+        },
+        "description": "Teaches you how to cook a Crab Claw.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/2682?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 2682
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Cooked Crab Claw",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/2682?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 2682
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/2639?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Food",
+                            "id": 2639
+                        },
+                        "description": "Use: Restores 294 health and 282 mana over 21 sec. Must remain seated while eating. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 25,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "25"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 3,
+                        "display_string": "Requires Level 3"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/2675?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crawler Claw",
+                        "id": 2675
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Crawler Claw"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

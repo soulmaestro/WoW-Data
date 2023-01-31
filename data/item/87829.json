@@ -1,0 +1,195 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87829?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 87829,
+    "name": "Recipe: Incarnadine Ink",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/87829?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 87829
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Incarnadine Ink.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/87829?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87829
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Incarnadine Ink",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/87829?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87829
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2510?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Inscription",
+                    "id": 2510
+                },
+                "level": 75,
+                "display_string": "Requires Pandaria Inscription (75)"
+            }
+        },
+        "description": "Teaches you how to make Incarnadine Ink.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/87817?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87817
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Incarnadine Ink",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/87817?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87817
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 15
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Junk",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "description": "A rare ink for calligraphy. It has no magical properties, but its hue is sought after by scribes for use in works on war.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/87828?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tigersblood Pigment",
+                        "id": 87828
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76061?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spirit of Harmony",
+                        "id": 76061
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/79255?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Starlight Ink",
+                        "id": 79255
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Tigersblood Pigment (2), Spirit of Harmony, Starlight Ink"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

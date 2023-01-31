@@ -1,0 +1,301 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22469?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22469,
+    "name": "Earthshatter Handguards",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 30,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22469?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22469
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 147793,
+    "sell_price": 29558,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22469?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22469
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Earthshatter Handguards",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22469?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22469
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 5,
+            "display": {
+                "display_string": "5 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 166,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "66"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/527?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "The Earthshatterer",
+                "id": 527
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22468?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Boots",
+                        "id": 22468
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22470?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Girdle",
+                        "id": 22470
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22469?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Handguards",
+                        "id": 22469
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22466?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Headpiece",
+                        "id": 22466
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22465?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Legguards",
+                        "id": 22465
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22467?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Spaulders",
+                        "id": 22467
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22464?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Tunic",
+                        "id": 22464
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22471?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthshatter Wristguards",
+                        "id": 22471
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23065?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ring of the Earthshatterer",
+                        "id": 23065
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Reduces the mana cost of your totem spells by 12%.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Increases critical strike chance by 3%.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: Your Healing Wave and Healing Surge spells have a chance to imbue your target with Totemic Power.",
+                    "required_count": 6
+                },
+                {
+                    "display_string": "(8) Set: Your Lightning Shield spell also grants you 0 Intellect while active.",
+                    "required_count": 8
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "The Earthshatterer (0/9)"
+        },
+        "level": {
+            "value": 30,
+            "display_string": "Item Level 30"
+        },
+        "durability": {
+            "value": 55,
+            "display_string": "Durability 55 / 55"
+        }
+    },
+    "purchase_quantity": 1
+}

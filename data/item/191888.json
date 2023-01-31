@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191888?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191888,
+    "name": "Khaz'gorite Blacksmith's Hammer",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 356,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191888?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191888
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 2500000,
+    "sell_price": 500000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191888?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191888
+        },
+        "context": 0,
+        "bonus_list": [
+            8843,
+            8842
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Khaz'gorite Blacksmith's Hammer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191888?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191888
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_MULTICRAFT",
+                    "name": "Multicraft"
+                },
+                "value": 79,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+79 Multicraft",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390007?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+10 Blacksmithing",
+                    "id": 390007
+                },
+                "description": "Equip: +10 Blacksmithing Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "50",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 81,
+                "type": "BONUS_STAT_PROFESSION_MULTICRAFT",
+                "name": "Multicraft"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

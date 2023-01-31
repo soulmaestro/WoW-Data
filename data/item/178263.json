@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/178263?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 178263,
+    "name": "Grove Tender's Spade",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 2,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/178263?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 178263
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Herbalism",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 152,
+    "sell_price": 30,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/178263?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 178263
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Grove Tender's Spade",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/178263?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 178263
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Herbalism",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/124353?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+4 Herbalism",
+                    "id": 124353
+                },
+                "description": "Equip: +4 Herbalism Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 30,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "30"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2556?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Herbalism",
+                    "id": 2556
+                },
+                "level": 1,
+                "display_string": "Requires Classic Herbalism (1)"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

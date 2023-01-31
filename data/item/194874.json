@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/194874?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 194874,
+    "name": "Scribe's Fastened Quill",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 317,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/194874?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 194874
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 12
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 50000,
+    "sell_price": 10000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "This quill will work in lieu of a Virtuoso Inking Set.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/194874?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194874
+        },
+        "context": 0,
+        "bonus_list": [
+            8841,
+            8842
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Scribe's Fastened Quill",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/194874?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194874
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 12
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_INSPIRATION",
+                    "name": "Inspiration"
+                },
+                "value": 58,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+58 Inspiration",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390043?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+6 Inscription",
+                    "id": 390043
+                },
+                "description": "Equip: +6 Inscription Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 10000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "description": "This quill will work in lieu of a Virtuoso Inking Set.",
+        "modified_crafting_stat": [
+            {
+                "id": 75,
+                "type": "BONUS_STAT_PROFESSION_INSPIRATION",
+                "name": "Inspiration"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162718?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 162718,
+    "name": "Formula: Enchant Ring - Pact of Mastery",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/162718?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 162718
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to enchant Pact of Mastery more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/162718?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162718
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Formula: Enchant Ring - Pact of Mastery",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/162718?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162718
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/255100?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pact of Mastery",
+                    "id": 255100
+                },
+                "description": "Use: Teaches you how to enchant Pact of Mastery more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2486?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Enchanting",
+                    "id": 2486
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Enchanting (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2156?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Talanji's Expedition",
+                    "id": 2156
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Talanji's Expedition - Revered"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

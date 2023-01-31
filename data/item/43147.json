@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43147?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43147,
+    "name": "Stew Cookpot",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43147?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43147
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43147?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43147
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Stew Cookpot",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43147?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43147
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "QUEST",
+            "name": "Quest Item"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/57768?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Vegetable Stew",
+                    "id": 57768
+                },
+                "description": "Use: Cook 4 Chilled Meat and 4 Crystalsong Carrots over a fire to make Vegetable Stew."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2546?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Cooking",
+                    "id": 2546
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Cooking (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

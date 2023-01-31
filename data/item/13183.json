@@ -1,0 +1,229 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13183?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13183,
+    "name": "Venomspitter",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 29,
+    "required_level": 23,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13183?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13183
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 87294,
+    "sell_price": 17458,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13183?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13183
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Venomspitter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13183?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13183
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "weapon": {
+            "damage": {
+                "min_value": 3,
+                "max_value": 5,
+                "display_string": "3 - 5 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 1.5384614,
+                "display_string": "(1.5 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/248276?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Venomspitter",
+                    "id": 248276
+                },
+                "description": "Equip: Your melee attacks have a chance to poison the target for 1 Nature damage every 2 sec for 30 sec.\r\n"
+            }
+        ],
+        "sell_price": {
+            "value": 337,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "3",
+                "copper": "37"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 23,
+                "display_string": "Requires Level 23"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/65?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spider's Kiss",
+                "id": 65
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/13218?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fang of the Crystal Spider",
+                        "id": 13218
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/13183?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Venomspitter",
+                        "id": 13183
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Chance on Hit: Immobilizes the target and lowers their armor by 100 for 10 sec.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Spider's Kiss (0/2)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 90,
+            "display_string": "Durability 90 / 90"
+        }
+    },
+    "purchase_quantity": 1
+}

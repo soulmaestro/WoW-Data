@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4360?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4360,
+    "name": "Rough Copper Bomb",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 7,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/4360?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4360
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 240,
+    "sell_price": 60,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/4360?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 4360
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Rough Copper Bomb",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/4360?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 4360
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/4064?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rough Copper Bomb",
+                    "id": 4064
+                },
+                "description": "Use: Inflicts 1 Fire damage and incapacitates targets in a 3 yard radius for 1 sec.  Any damage will break the effect.  Unreliable against targets higher than level 49. (1 Min Cooldown) (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 60,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "60"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 30,
+                "display_string": "Requires Classic Engineering (30)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

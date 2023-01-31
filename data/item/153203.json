@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/153203?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 153203,
+    "name": "Ancient Fishing Line",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/153203?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 153203
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 8000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Any line that's strong enough to survive a ten thousand year war is a good line.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/153203?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 153203
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Ancient Fishing Line",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/153203?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 153203
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/254607?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ancient Fishing Line",
+                    "id": 254607
+                },
+                "description": "Use: Replaces the fishing line on your fishing pole with an ancient line from Argus, increasing Fishing skill by 6."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/356?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing",
+                    "id": 356
+                },
+                "level": 1,
+                "display_string": "Requires Fishing (1)"
+            }
+        },
+        "description": "Any line that's strong enough to survive a ten thousand year war is a good line.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

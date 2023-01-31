@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139536?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139536,
+    "name": "Emanation of the Winds",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 45,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139536?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139536
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Secrets of the elemental power held within the famed blade of Thunderaan the Windlord.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139536?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139536
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Emanation of the Winds",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139536?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139536
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/220584?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Emanation of the Winds",
+                    "id": 220584
+                },
+                "description": "Use: Unlocks the Thunderfury, Hallowed Blade of the Windlord appearance for The Dreadblades.",
+                "display_color": {
+                    "r": 255,
+                    "g": 204,
+                    "b": 153,
+                    "a": 1.0
+                }
+            }
+        ],
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "description": "Secrets of the elemental power held within the famed blade of Thunderaan the Windlord.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

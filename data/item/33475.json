@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/33475?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33475,
+    "name": "Frostmourne",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 36,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/33475?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33475
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sword",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 98096,
+    "sell_price": 19619,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Hail to the king, baby!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/33475?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 33475
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "META",
+                    "name": "Meta Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Frostmourne",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/33475?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 33475
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Sword",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 2,
+                "max_value": 4,
+                "display_string": "2 - 4 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 0.8333333,
+                "display_string": "(0.8 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/43827?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Frostmourne",
+                    "id": 43827
+                },
+                "description": "Equip: The wielder of Frostmourne will become the new Lich King."
+            }
+        ],
+        "sell_price": {
+            "value": 267,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "67"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "description": "Hail to the king, baby!",
+        "level": {
+            "value": 36,
+            "display_string": "Item Level 36"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

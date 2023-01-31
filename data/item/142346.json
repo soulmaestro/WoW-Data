@@ -1,0 +1,294 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/142346?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 142346,
+    "name": "Plans: Bleakwood Hew",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/142346?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 142346
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make the Bleakwood Hew.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/142346?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142346
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Bleakwood Hew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/142346?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142346
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 1,
+                "display_string": "Requires Classic Blacksmithing (1)"
+            }
+        },
+        "description": "Teaches you how to make the Bleakwood Hew.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/12769?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12769
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Bleakwood Hew",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/12769?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12769
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Axe",
+                    "id": 1
+                },
+                "inventory_type": {
+                    "type": "TWOHWEAPON",
+                    "name": "Two-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 4,
+                        "max_value": 10,
+                        "display_string": "4 - 10 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 3600,
+                        "display_string": "Speed 3.60"
+                    },
+                    "dps": {
+                        "value": 1.9444444,
+                        "display_string": "(1.9 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 1,
+                        "display": {
+                            "display_string": "+1 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 345,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "3",
+                        "copper": "45"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 21,
+                        "display_string": "Requires Level 21"
+                    }
+                },
+                "level": {
+                    "value": 27,
+                    "display_string": "Item Level 27"
+                },
+                "durability": {
+                    "value": 95,
+                    "display_string": "Durability 95 / 95"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12359?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Thorium Bar",
+                        "id": 12359
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12803?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Living Essence",
+                        "id": 12803
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/8153?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wildvine",
+                        "id": 8153
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12799?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Large Opal",
+                        "id": 12799
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12644?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dense Grinding Stone",
+                        "id": 12644
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/8170?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rugged Leather",
+                        "id": 8170
+                    },
+                    "quantity": 8
+                }
+            ],
+            "reagents_display_string": "Thorium Bar (30), Living Essence (6), Wildvine (6), Large Opal (6), Dense Grinding Stone (2), Rugged Leather (8)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

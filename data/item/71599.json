@@ -1,0 +1,301 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/71599?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 71599,
+    "name": "Helmet of the Molten Giant",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 37,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/71599?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 71599
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 740409,
+    "sell_price": 148081,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/71599?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 71599
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "META",
+                    "name": "Meta Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Helmet of the Molten Giant",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/71599?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 71599
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 13,
+            "display": {
+                "display_string": "13 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 1,
+                "display": {
+                    "display_string": "+1 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 1,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+1 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +3 Strength",
+        "sell_price": {
+            "value": 487,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "87"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warrior",
+                        "id": 1
+                    }
+                ],
+                "display_string": "Classes: Warrior"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1017?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Molten Giant Warplate",
+                "id": 1017
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/71072?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pauldrons of the Molten Giant",
+                        "id": 71072
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/71071?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Legplates of the Molten Giant",
+                        "id": 71071
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/71069?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gauntlets of the Molten Giant",
+                        "id": 71069
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/71068?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Battleplate of the Molten Giant",
+                        "id": 71068
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/71070?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Helmet of the Molten Giant",
+                        "id": 71070
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your Colossus Smash abilitiy increases all physical damage you deal by 10% for 12 sec.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Your Mortal Strike and Raging Blow abilities have a 30% chance to trigger a Fiery Attack, dealing 50% instant weapon damage as Fire.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Molten Giant Warplate (0/5)"
+        },
+        "level": {
+            "value": 37,
+            "display_string": "Item Level 37"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

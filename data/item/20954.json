@@ -1,0 +1,163 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20954?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20954,
+    "name": "Heavy Iron Knuckles",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 19,
+    "required_level": 12,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/20954?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20954
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fist Weapon",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 17136,
+    "sell_price": 3427,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/20954?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20954
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Heavy Iron Knuckles",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/20954?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20954
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fist Weapon",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 2,
+                "max_value": 4,
+                "display_string": "2 - 4 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 1.1538461,
+                "display_string": "(1.2 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 1,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+1 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 108,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "8"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 12,
+                "display_string": "Requires Level 12"
+            }
+        },
+        "level": {
+            "value": 19,
+            "display_string": "Item Level 19"
+        },
+        "durability": {
+            "value": 40,
+            "display_string": "Durability 40 / 40"
+        }
+    },
+    "purchase_quantity": 1
+}

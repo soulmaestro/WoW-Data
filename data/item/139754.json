@@ -1,0 +1,316 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139754?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139754,
+    "name": "Bracers of Tirisgarde",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139754?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139754
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloth",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "WRIST",
+        "name": "Wrist"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 1250000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139754?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139754
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "context": 0,
+        "bonus_list": [
+            3381
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Bracers of Tirisgarde",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139754?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139754
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloth",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "WRIST",
+            "name": "Wrist"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 3,
+            "display": {
+                "display_string": "3 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "125",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mage",
+                        "id": 8
+                    }
+                ],
+                "display_string": "Classes: Mage"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1273?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vesture of Tirisgarde",
+                "id": 1273
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139751?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Robes of Tirisgarde",
+                        "id": 139751
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139747?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Boots of Tirisgarde",
+                        "id": 139747
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139748?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gloves of Tirisgarde",
+                        "id": 139748
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139749?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Cowl of Tirisgarde",
+                        "id": 139749
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139750?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Leggings of Tirisgarde",
+                        "id": 139750
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139752?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mantle of Tirisgarde",
+                        "id": 139752
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139753?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Girdle of Tirisgarde",
+                        "id": 139753
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139754?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bracers of Tirisgarde",
+                        "id": 139754
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases your out-of-combat regeneration in outdoor Broken Isles zones.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: While you are below 35% health you take 50% reduced damage in outdoor Broken Isles zones.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: Intellect increased by 11.",
+                    "required_count": 6
+                },
+                {
+                    "display_string": "(8) Set: Frostbolt, Fireball, and Arcane Blast have a chance to increase your Mastery by 46 for 12 sec.",
+                    "required_count": 8
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Vesture of Tirisgarde (0/8)"
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "durability": {
+            "value": 50,
+            "display_string": "Durability 50 / 50"
+        }
+    },
+    "purchase_quantity": 1
+}

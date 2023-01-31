@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/18839?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 18839,
+    "name": "Combat Healing Potion",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 20,
+    "required_level": 15,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/18839?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 18839
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000,
+    "sell_price": 250,
+    "max_count": 10,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/18839?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 18839
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Combat Healing Potion",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/18839?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 18839
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (10)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/4042?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Healing Potion",
+                    "id": 4042
+                },
+                "description": "Use: Restores 103 health. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 15,
+                "display_string": "Requires Level 15"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

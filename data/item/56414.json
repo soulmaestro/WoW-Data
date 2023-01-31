@@ -1,0 +1,139 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/56414?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 56414,
+    "name": "Blood of Isiset",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 37,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/56414?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 56414
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 156651,
+    "sell_price": 31330,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/56414?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 56414
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Blood of Isiset",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/56414?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 56414
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "limit_category": "Unique-Equipped: Blood of Isiset (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 6,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+6 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/91150?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Proc Versatility",
+                    "id": 91150
+                },
+                "description": "Equip: Your healing spells have a chance to grant 34 Versatility for 20 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 407,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "level": {
+            "value": 37,
+            "display_string": "Item Level 37"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

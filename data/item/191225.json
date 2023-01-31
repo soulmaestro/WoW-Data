@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191225?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191225,
+    "name": "Khaz'gorite Skinning Knife",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 356,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191225?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191225
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skinning",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 2500000,
+    "sell_price": 500000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191225?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191225
+        },
+        "context": 0,
+        "bonus_list": [
+            8843,
+            8842
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Khaz'gorite Skinning Knife",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191225?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191225
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Skinning",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_PERCEPTION",
+                    "name": "Perception"
+                },
+                "value": 79,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+79 Perception",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390129?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+10 Skinning",
+                    "id": 390129
+                },
+                "description": "Equip: +10 Skinning Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "50",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 79,
+                "type": "BONUS_STAT_PROFESSION_PERCEPTION",
+                "name": "Perception"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169607?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169607,
+    "name": "Formula: Accord of Versatility",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169607?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169607
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Accord of Versatility more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169607?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169607
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Formula: Accord of Versatility",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169607?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169607
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/297999?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Accord of Versatility",
+                    "id": 297999
+                },
+                "description": "Use: Teaches you how to craft an Accord of Versatility more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2486?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Enchanting",
+                    "id": 2486
+                },
+                "level": 175,
+                "display_string": "Requires Kul Tiran Enchanting (175)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2373?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Unshackled",
+                    "id": 2373
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Unshackled - Revered"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

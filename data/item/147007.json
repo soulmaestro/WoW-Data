@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/147007?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 147007,
+    "name": "The Deceiver's Grand Design",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/147007?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 147007
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1356675,
+    "sell_price": 271335,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/147007?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 147007
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "The Deceiver's Grand Design",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/147007?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 147007
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 9,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+9 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/242622?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Guiding Hand",
+                    "id": 242622
+                },
+                "description": "Use: Mark a friendly player with Guiding Hand, healing them for 42 every 2.7 sec for 2 min. If they fall below 35% health, Guiding Hand is consumed to grant them a shield that prevents 735 damage for 15 sec. (2 min recharge, 2 charges) (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1782,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "17",
+                "copper": "82"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

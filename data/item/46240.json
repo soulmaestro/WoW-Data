@@ -1,0 +1,295 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46240?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46240,
+    "name": "Darkruned Pauldrons",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46240?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46240
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 436541,
+    "sell_price": 87308,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46240?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46240
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Darkruned Pauldrons",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46240?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46240
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 11,
+            "display": {
+                "display_string": "11 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "DODGE_RATING",
+                    "name": "Dodge"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Dodge",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "PARRY_RATING",
+                    "name": "Parry"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Parry",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Dodge",
+        "sell_price": {
+            "value": 394,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "3",
+                "copper": "94"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Death Knight",
+                        "id": 6
+                    }
+                ],
+                "display_string": "Classes: Death Knight"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/835?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Darkruned Plate",
+                "id": 835
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/46233?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Darkruned Chestguard",
+                        "id": 46233
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/46234?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Darkruned Faceguard",
+                        "id": 46234
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/46236?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Darkruned Handguards",
+                        "id": 46236
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/46238?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Darkruned Legguards",
+                        "id": 46238
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/46240?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Darkruned Pauldrons",
+                        "id": 46240
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases the damage done by Death Coil by 10%.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Anti-magic shell also grants you 10% reduction to physical damage taken.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Darkruned Plate (0/5)"
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

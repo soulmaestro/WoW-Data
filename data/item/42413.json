@@ -1,0 +1,163 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42413?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42413,
+    "name": "Figurine - Sapphire Owl",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 35,
+    "required_level": 28,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42413?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42413
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 322031,
+    "sell_price": 80507,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42413?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42413
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Figurine - Sapphire Owl",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42413?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42413
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Versatility",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/56186?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sapphire Owl",
+                    "id": 56186
+                },
+                "description": "Use: Restores 113 mana over 12 sec. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 80507,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "8",
+                "silver": "5",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 28,
+                "display_string": "Requires Level 28"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Jewelcrafting",
+                    "id": 2522
+                },
+                "level": 25,
+                "display_string": "Requires Northrend Jewelcrafting (25)"
+            }
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

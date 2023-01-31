@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43600?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43600,
+    "name": "Brunnhildar Harpoon",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 30,
+    "required_level": 28,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43600?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43600
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Polearm",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 96162,
+    "sell_price": 19232,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43600?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43600
+        },
+        "context": 0,
+        "bonus_list": [
+            6655
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Brunnhildar Harpoon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43600?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43600
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Polearm",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 87,
+                "max_value": 162,
+                "display_string": "87 - 162 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 34.583332,
+                "display_string": "(34.6 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/55755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Chilling Blow",
+                    "id": 55755
+                },
+                "description": "Equip: Inflicts 3 additional Frost damage per swing."
+            }
+        ],
+        "sell_price": {
+            "value": 380937,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "38",
+                "silver": "9",
+                "copper": "37"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 28,
+                "display_string": "Requires Level 28"
+            }
+        },
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

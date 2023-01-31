@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/60498?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 60498,
+    "name": "Trans-Dimensional Fabricator",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/60498?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 60498
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Good luck.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/60498?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 60498
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Trans-Dimensional Fabricator",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/60498?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 60498
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_USE",
+            "name": "Binds when used"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/82674?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Teleport With Error",
+                    "id": 82674
+                },
+                "description": "Use: Teleports you exactly where you want to go... if you aren't too picky. (15 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Engineering",
+                    "id": 2503
+                },
+                "level": 25,
+                "display_string": "Requires Cataclysm Engineering (25)"
+            }
+        },
+        "description": "Good luck.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

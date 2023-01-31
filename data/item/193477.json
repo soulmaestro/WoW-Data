@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193477?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193477,
+    "name": "Battle Scarred Scale",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 350,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193477?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193477
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3054765,
+    "sell_price": 610953,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193477?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193477
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Battle Scarred Scale",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193477?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193477
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 244,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+244 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 244,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+244 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/375270?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Earthen Ward",
+                    "id": 375270
+                },
+                "description": "Equip: Incoming melee attacks have a chance to grant you an Earthen Ward, damaging nearby targets for 2,910 Physical damage split between all nearby enemies and granting you a shield for 8 sec that absorbs 21,543 damage.\r\n\r\nDamage is increased per enemy struck, up to 5."
+            }
+        ],
+        "sell_price": {
+            "value": 464271,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "46",
+                "silver": "42",
+                "copper": "71"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 350,
+            "display_string": "Item Level 350"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

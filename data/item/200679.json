@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/200679?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 200679,
+    "name": "Essence of Somnikus's Shade",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 350,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/200679?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 200679
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2758106,
+    "sell_price": 551621,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/200679?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200679
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Essence of Somnikus's Shade",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/200679?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200679
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 360,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+360 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/391621?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ancient Poison Cloud",
+                    "id": 391621
+                },
+                "description": "Use: Poison all enemies in an 8 yard radius around the caster. Victims of the poison suffer 11,991 Nature damage every 5 sec for 45 sec.\r\nEnemies that die while poisoned release a healing wave that restores 134,962 health to nearby allies. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 551621,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "55",
+                "silver": "16",
+                "copper": "21"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 350,
+            "display_string": "Item Level 350"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

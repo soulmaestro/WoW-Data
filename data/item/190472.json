@@ -1,0 +1,222 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/190472?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 190472,
+    "name": "Cinch of Unity",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 265,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/190472?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 190472
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "WAIST",
+        "name": "Waist"
+    },
+    "purchase_price": 7500000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/190472?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 190472
+        },
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Cinch of Unity",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/190472?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 190472
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "WAIST",
+            "name": "Waist"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Enlightened Legendary (1)",
+        "armor": {
+            "value": 72,
+            "display": {
+                "display_string": "72 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 87,
+                "display": {
+                    "display_string": "+87 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 87,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+87 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 195,
+                "display": {
+                    "display_string": "+195 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 36,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+36 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 87,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+87 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/364857?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unity",
+                    "id": 364857
+                },
+                "description": "Equip: Gain a legendary effect of your chosen Covenant."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    }
+                ],
+                "display_string": "Classes: Monk"
+            }
+        },
+        "level": {
+            "value": 265,
+            "display_string": "Item Level 265"
+        },
+        "durability": {
+            "value": 70,
+            "display_string": "Durability 70 / 70"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/68982?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 68982,
+    "name": "Necromantic Focus",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 37,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/68982?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 68982
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1528524,
+    "sell_price": 382131,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/68982?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 68982
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Necromantic Focus",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/68982?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 68982
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Necromantic Focus (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/96963?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Necromantic Focus",
+                    "id": 96963
+                },
+                "description": "Equip: Grants 1 mastery for 10 sec each time you deal periodic spell damage, stacking up to 10 times."
+            }
+        ],
+        "sell_price": {
+            "value": 382131,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "38",
+                "silver": "21",
+                "copper": "31"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "level": {
+            "value": 37,
+            "display_string": "Item Level 37"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

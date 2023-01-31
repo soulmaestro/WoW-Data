@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/37118?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 37118,
+    "name": "Scroll of Recall",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 7,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/37118?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 37118
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 150,
+    "sell_price": 37,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/37118?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37118
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Scroll of Recall",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/37118?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37118
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/48129?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Scroll of Recall",
+                    "id": 48129
+                },
+                "description": "Use: Returns you to your inn. Results are unpredictable beyond level 49. (20 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 37,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "37"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/773?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Inscription",
+                    "id": 773
+                },
+                "level": 1,
+                "display_string": "Requires Inscription (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

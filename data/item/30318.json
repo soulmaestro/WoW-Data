@@ -1,0 +1,219 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/30318?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 30318,
+    "name": "Netherstrand Longbow",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 35,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/30318?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 30318
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bow",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "RANGED",
+        "name": "Ranged"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/30318?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 30318
+        },
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Netherstrand Longbow",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/30318?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 30318
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Bow",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "RANGED",
+            "name": "Ranged"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 7,
+                "max_value": 10,
+                "display_string": "7 - 10 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 2.833333,
+                "display_string": "(2.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RANGED_RATING",
+                    "name": "Critical Strike (Ranged)"
+                },
+                "value": 13,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+13 Critical Strike (Ranged)",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "RANGED_ATTACK_POWER",
+                    "name": "Ranged Attack Power"
+                },
+                "value": 6,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+6 Ranged Attack Power",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/36413?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mortal Shots",
+                    "id": 36413
+                },
+                "description": "Equip: Increases your ranged weapon critical strike damage bonus by 50%."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/36482?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor Disruption",
+                    "id": 36482
+                },
+                "description": "Chance on hit: Increases Physical damage taken by the target by 5% for 30 sec. This effect stacks."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hunter",
+                        "id": 3
+                    }
+                ],
+                "display_string": "Classes: Hunter"
+            },
+            "map": {
+                "name": "Tempest Keep",
+                "id": 550
+            }
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "durability": {
+            "value": 145,
+            "display_string": "Durability 145 / 145"
+        },
+        "expiration_time_left": {
+            "value": 900,
+            "display_string": "Duration: 15 min"
+        }
+    },
+    "purchase_quantity": 1
+}

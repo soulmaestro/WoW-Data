@@ -1,0 +1,171 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/194309?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 194309,
+    "name": "Spiteful Storm",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/194309?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 194309
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3898257,
+    "sell_price": 779651,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/194309?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194309
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Spiteful Storm",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/194309?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194309
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 382,
+                "display": {
+                    "display_string": "+382 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 382,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+382 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 382,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+382 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/377466?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Spiteful Storm",
+                    "id": 377466
+                },
+                "description": "Equip: Casting spells and abilities builds stacks of Spite. At 5, a Spiteful Stormbolt arcs towards your current target, dealing 10,149 Nature damage over 3 sec.\r\n\r\nUpon expiration the bolt returns, increasing the amount of Spite needed by 1 and permanently increasing Spiteful Stormbolt's damage against them until either of you die."
+            }
+        ],
+        "sell_price": {
+            "value": 714253,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "71",
+                "silver": "42",
+                "copper": "53"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

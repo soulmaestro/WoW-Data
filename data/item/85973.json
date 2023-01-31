@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/85973?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 85973,
+    "name": "Ancient Pandaren Fishing Charm",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 35,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/85973?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 85973
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 250000,
+    "sell_price": 50000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/85973?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 85973
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Ancient Pandaren Fishing Charm",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/85973?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 85973
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/125167?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ancient Pandaren Fishing Charm",
+                    "id": 125167
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nAttach the charm to yourself, granting you a chance to find additional fish from pools in Pandaria for 1 hour. Requires Fishing Skill of 1."
+            }
+        ],
+        "sell_price": {
+            "value": 50000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "5",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/356?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing",
+                    "id": 356
+                },
+                "level": 1,
+                "display_string": "Requires Fishing (1)"
+            }
+        },
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

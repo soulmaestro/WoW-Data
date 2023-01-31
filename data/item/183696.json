@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183696?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183696,
+    "name": "Sp-eye-glass",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 48,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183696?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183696
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 250000,
+    "sell_price": 62500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183696?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183696
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Sp-eye-glass",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183696?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183696
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/342032?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sp-eye-glass",
+                    "id": 342032
+                },
+                "description": "Use: Allows you to see what is hidden, but what's hidden will sometimes gaze back."
+            }
+        ],
+        "sell_price": {
+            "value": 62500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "6",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 48,
+                "display_string": "Requires Level 48"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

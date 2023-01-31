@@ -1,0 +1,345 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13517?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13517,
+    "name": "Recipe: Alchemist Stone",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13517?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13517
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Alchemist Stone.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13517?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13517
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Alchemist Stone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13517?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13517
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Alchemy",
+                    "id": 2484
+                },
+                "level": 50,
+                "display_string": "Requires Outland Alchemy (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/935?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Sha'tar",
+                    "id": 935
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Sha'tar - Revered"
+            }
+        },
+        "description": "Teaches you how to make an Alchemist Stone.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/13503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 13503
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Alchemist Stone",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/13503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 13503
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "TRINKET",
+                    "name": "Trinket"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "limit_category": "Unique-Equipped: Alchemist Stone (1)",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 1,
+                        "display": {
+                            "display_string": "+1 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 1,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+1 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 1,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+1 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 1,
+                        "display": {
+                            "display_string": "+1 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "VERSATILITY",
+                            "name": "Versatility"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Versatility",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/17619?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Alchemist Stone",
+                            "id": 17619
+                        },
+                        "description": "Equip: Increases the effect that healing and mana potions have on the wearer by 40%.  This effect does not stack."
+                    }
+                ],
+                "sell_price": {
+                    "value": 25000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2484?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Outland Alchemy",
+                            "id": 2484
+                        },
+                        "level": 50,
+                        "display_string": "Requires Outland Alchemy (50)"
+                    }
+                },
+                "description": "Can be used for transmutations in place of a Philosopher's Stone.",
+                "level": {
+                    "value": 30,
+                    "display_string": "Item Level 30"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/9149?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Philosopher's Stone",
+                        "id": 9149
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/25867?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Earthstorm Diamond",
+                        "id": 25867
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/25868?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skyfire Diamond",
+                        "id": 25868
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22794?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fel Lotus",
+                        "id": 22794
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23571?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Might",
+                        "id": 23571
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Philosopher's Stone, Earthstorm Diamond, Skyfire Diamond, Fel Lotus (2), Primal Might (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

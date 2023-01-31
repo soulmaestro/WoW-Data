@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/156631?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 156631,
+    "name": "Silas' Sphere of Transmutation",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/156631?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 156631
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "The sphere's surface swirls and shifts, showing different images for brief moments, never long enough to see what they actually are.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/156631?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 156631
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Silas' Sphere of Transmutation",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/156631?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 156631
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/260385?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Silas' Sphere of Transmutation (DNT)",
+                    "id": 260385
+                },
+                "description": "Highlights and allows the player to interact with various cauldrons on Kul Tiras and Zandalar.\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/260384?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Reforming",
+                    "id": 260384
+                },
+                "description": "Use: Concentrate on the sphere to transmute it into another object for 1 hour."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2478?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Alchemy",
+                    "id": 2478
+                },
+                "level": 150,
+                "display_string": "Requires Kul Tiran Alchemy (150)"
+            }
+        },
+        "description": "The sphere's surface swirls and shifts, showing different images for brief moments, never long enough to see what they actually are.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

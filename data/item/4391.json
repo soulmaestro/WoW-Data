@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4391?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4391,
+    "name": "Compact Harvest Reaper Kit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 15,
+    "required_level": 13,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/4391?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4391
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 16000,
+    "sell_price": 4000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/4391?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 4391
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Compact Harvest Reaper Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/4391?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 4391
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/4078?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Compact Harvest Reaper",
+                    "id": 4078
+                },
+                "description": "Use: Creates a Compact Harvest Reaper that will fight for you for 10 min or until it is destroyed. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 4000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "40",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 13,
+                "display_string": "Requires Level 13"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 175,
+                "display_string": "Requires Classic Engineering (175)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

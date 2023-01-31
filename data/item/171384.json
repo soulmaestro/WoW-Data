@@ -1,0 +1,208 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171384?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 171384,
+    "name": "Ceremonious Smasher",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 100,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/171384?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 171384
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 4329357,
+    "sell_price": 865871,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/171384?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171384
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Ceremonious Smasher",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/171384?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171384
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 18,
+                "max_value": 24,
+                "display_string": "18 - 24 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 5.833333,
+                "display_string": "(5.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 71,
+                "display": {
+                    "display_string": "+71 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 24,
+                "display": {
+                    "display_string": "+24 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 16,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+16 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 16,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+16 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 35331,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "53",
+                "copper": "31"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 100,
+            "display_string": "Item Level 100"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 40,
+                "type": "VERSATILITY",
+                "name": "Versatility"
+            },
+            {
+                "id": 32,
+                "type": "CRIT_RATING",
+                "name": "Critical Strike"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/16321?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16321,
+    "name": "Grimoire of Blood Pact (Rank 1)",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 2,
+    "required_level": 2,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/16321?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16321
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100,
+    "sell_price": 25,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/16321?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 16321
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Grimoire of Blood Pact (Rank 1)",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/16321?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 16321
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "sell_price": {
+            "value": 25,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 2,
+                "display_string": "Requires Level 2"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlock",
+                        "id": 9
+                    }
+                ],
+                "display_string": "Classes: Warlock"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

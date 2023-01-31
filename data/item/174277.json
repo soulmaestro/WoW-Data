@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/174277?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 174277,
+    "name": "Lingering Psychic Shell",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 95,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/174277?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 174277
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3249774,
+    "sell_price": 649954,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/174277?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174277
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Lingering Psychic Shell",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/174277?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174277
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 14,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+14 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 14,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+14 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/314585?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Psychic Shell",
+                    "id": 314585
+                },
+                "description": "Use: Reduce the damage you take by 80% for 8 sec until your Psychic Shell has taken 2,402 total damage. (1 Min Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/314621?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Psychic Shell",
+                    "id": 314621
+                },
+                "description": "Equip: While in Ny'alotha and based on your Corruption Resistance, the amount of damage reduction you receive is further reduced by up to 50%."
+            }
+        ],
+        "sell_price": {
+            "value": 21891,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "18",
+                "copper": "91"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 95,
+            "display_string": "Item Level 95"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

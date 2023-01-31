@@ -1,0 +1,300 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/94572?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 94572,
+    "name": "Plans: Fireguard, Reborn",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 35,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/94572?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 94572
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create Fireguard, Reborn.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/94572?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 94572
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Fireguard, Reborn",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/94572?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 94572
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/138888?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fireguard, Reborn",
+                    "id": 138888
+                },
+                "description": "Use: Teaches you how to create Fireguard, Reborn."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2473?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Blacksmithing",
+                    "id": 2473
+                },
+                "level": 1,
+                "display_string": "Requires Pandaria Blacksmithing (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/94587?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 94587
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Fireguard, Reborn",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/94587?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 94587
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sword",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 4,
+                        "max_value": 8,
+                        "display_string": "4 - 8 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 2600,
+                        "display_string": "Speed 2.60"
+                    },
+                    "dps": {
+                        "value": 2.3076923,
+                        "display_string": "(2.3 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "CRIT_RATING",
+                            "name": "Critical Strike"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Critical Strike",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "HASTE_RATING",
+                            "name": "Haste"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Haste",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 818,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "8",
+                        "copper": "18"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "level": {
+                    "value": 39,
+                    "display_string": "Item Level 39"
+                },
+                "durability": {
+                    "value": 90,
+                    "display_string": "Durability 90 / 90"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/94111?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lightning Steel Ingot",
+                        "id": 94111
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/72104?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Living Steel",
+                        "id": 72104
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76061?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spirit of Harmony",
+                        "id": 76061
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Lightning Steel Ingot (5), Living Steel (2), Spirit of Harmony (3)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46397?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46397,
+    "name": "Oracle Orphan Whistle",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46397?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46397
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Junk",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46397?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46397
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Oracle Orphan Whistle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46397?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46397
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Junk",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/65352?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Call for Oracle Orphan",
+                    "id": 65352
+                },
+                "description": "Use: Summon and dismiss the orphan you've agreed to look after for Children's Week. (1 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "holiday": {
+                "display_string": "Requires Children's Week"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

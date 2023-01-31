@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198804?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198804,
+    "name": "Frost-Infused Creature Bait",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 60,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198804?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198804
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3750,
+    "sell_price": 750,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "An enticing bait to draw elusive creatures out of hiding. Infused with the elemental essence of Frost.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198804?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198804
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Frost-Infused Creature Bait",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198804?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198804
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/382134?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elusive Creature Bait",
+                    "id": 382134
+                },
+                "description": "Use: Place the bait, luring an elusive creature after a small amount of time. Who knows what might show up?\r\n\r\nThe cooldown of Elusive Creature Bait is lowered by skinning creatures in the Dragon Isles.\r\n\r\nOnly usable outdoors in the Dragon Isles. (12 Hr Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 750,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "7",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "description": "An enticing bait to draw elusive creatures out of hiding. Infused with the elemental essence of Frost.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

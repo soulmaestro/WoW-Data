@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/37311?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 37311,
+    "name": "Skybreaker Whip",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 24,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/37311?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 37311
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 70000,
+    "sell_price": 17500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Property of the Top Orc",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/37311?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37311
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Skybreaker Whip",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/37311?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 37311
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/47103?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Riding Crop",
+                    "id": 47103
+                },
+                "description": "Use: Permanently enchant a mount to increase its mounted speed by 10%.  You may only enchant mounts in your own inventory, and enchanting your mount will cause it to become soulbound.  Single use."
+            }
+        ],
+        "sell_price": {
+            "value": 17500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "75",
+                "copper": "0"
+            }
+        },
+        "description": "Property of the Top Orc",
+        "level": {
+            "value": 24,
+            "display_string": "Item Level 24"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

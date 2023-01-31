@@ -1,0 +1,194 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137246?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137246,
+    "name": "Spine of Thal'kiel",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137246?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137246
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPONMAINHAND",
+        "name": "Main Hand"
+    },
+    "purchase_price": 73762,
+    "sell_price": 14752,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "The Wakeners' screams echoed across Argus, as a grim reminder of the price paid for dealing with demons.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137246?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137246
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Spine of Thal'kiel",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137246?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137246
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPONMAINHAND",
+            "name": "Main Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 1,
+                "max_value": 1,
+                "display_string": "1 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 0.5555555,
+                "display_string": "(0.6 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 7,
+                "display": {
+                    "display_string": "+7 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlock",
+                        "id": 9
+                    }
+                ],
+                "display_string": "Classes: Warlock"
+            }
+        },
+        "description": "The Wakeners' screams echoed across Argus, as a grim reminder of the price paid for dealing with demons.",
+        "level": {
+            "value": 20,
+            "display_string": "Item Level 20"
+        }
+    },
+    "purchase_quantity": 1
+}

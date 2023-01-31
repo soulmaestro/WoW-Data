@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130191?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 130191,
+    "name": "Trapped Treasure Chest Kit",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/130191?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 130191
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2000000,
+    "sell_price": 500000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Great for luring in greedy demons, and other unsavory types that should be brought to justice.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/130191?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 130191
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Trapped Treasure Chest Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/130191?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 130191
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/195470?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Deploy Trapped Chest",
+                    "id": 195470
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nDeploy a trapped Treasure Chest, you Rascal! (15 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "50",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1894?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Wardens",
+                    "id": 1894
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Wardens - Honored"
+            }
+        },
+        "description": "Great for luring in greedy demons, and other unsavory types that should be brought to justice.",
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

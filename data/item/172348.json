@@ -1,0 +1,208 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172348?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 172348,
+    "name": "Desolate Leather Cestus",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 100,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/172348?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 172348
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fist Weapon",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 3555605,
+    "sell_price": 711121,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/172348?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172348
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Desolate Leather Cestus",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/172348?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172348
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fist Weapon",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 9,
+                "max_value": 14,
+                "display_string": "9 - 14 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 4.4230766,
+                "display_string": "(4.4 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 46,
+                "display": {
+                    "display_string": "+46 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 12,
+                "display": {
+                    "display_string": "+12 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 8,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+8 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 8,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+8 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 29016,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "90",
+                "copper": "16"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 100,
+            "display_string": "Item Level 100"
+        },
+        "durability": {
+            "value": 55,
+            "display_string": "Durability 55 / 55"
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 36,
+                "type": "HASTE_RATING",
+                "name": "Haste"
+            },
+            {
+                "id": 49,
+                "type": "MASTERY_RATING",
+                "name": "Mastery"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

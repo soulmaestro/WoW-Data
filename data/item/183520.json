@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183520?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183520,
+    "name": "Wild Nightbloom Seeds",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183520?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183520
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "These seeds grow a magical bloom that increases the yield of rewards offered by a spirit upon rebirth as well as the number of catalysts grown from catalyst seeds.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183520?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183520
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Wild Nightbloom Seeds",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183520?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183520
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/341670?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Infuse Catalyst Seed",
+                    "id": 341670
+                },
+                "description": "Use: Infuse a Wildseed of Regrowth with seeds to grow a new catalyst."
+            }
+        ],
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "description": "These seeds grow a magical bloom that increases the yield of rewards offered by a spirit upon rebirth as well as the number of catalysts grown from catalyst seeds.",
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Queen's Conservatory",
+            "color": {
+                "r": 136,
+                "g": 170,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

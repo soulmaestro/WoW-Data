@@ -1,0 +1,310 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162276?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 162276,
+    "name": "Recipe: Stormsteel Spear",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/162276?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 162276
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Stormsteel Spear more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/162276?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162276
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Stormsteel Spear",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/162276?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162276
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/253161?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Stormsteel Spear",
+                    "id": 253161
+                },
+                "description": "Use: Teaches you how to craft a Stormsteel Spear more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2437?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Blacksmithing",
+                    "id": 2437
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Blacksmithing (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2159?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "7th Legion",
+                    "id": 2159
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires 7th Legion - Revered"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/152834?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 152834
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Stormsteel Spear",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/152834?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 152834
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Polearm",
+                    "id": 6
+                },
+                "inventory_type": {
+                    "type": "TWOHWEAPON",
+                    "name": "Two-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 16,
+                        "max_value": 30,
+                        "display_string": "16 - 30 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 3600,
+                        "display_string": "Speed 3.60"
+                    },
+                    "dps": {
+                        "value": 6.388889,
+                        "display_string": "(6.4 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 9,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+9 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 13,
+                        "display": {
+                            "display_string": "+13 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 5033,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "33"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "level": {
+                    "value": 59,
+                    "display_string": "Item Level 59"
+                },
+                "durability": {
+                    "value": 100,
+                    "display_string": "Durability 100 / 100"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 28
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Platinum Ore",
+                        "id": 152513
+                    },
+                    "quantity": 9
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/18567?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elemental Flux",
+                        "id": 18567
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Storm Silver Ore (28), Platinum Ore (9), Elemental Flux (6), Expulsom"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

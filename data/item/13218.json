@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13218?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13218,
+    "name": "Fang of the Crystal Spider",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 29,
+    "required_level": 23,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13218?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13218
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 85734,
+    "sell_price": 17146,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13218?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13218
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Fang of the Crystal Spider",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13218?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13218
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "weapon": {
+            "damage": {
+                "min_value": 2,
+                "max_value": 4,
+                "display_string": "2 - 4 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 1.6666666,
+                "display_string": "(1.7 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/17331?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fang of the Crystal Spider",
+                    "id": 17331
+                },
+                "description": "Chance on hit: Slows target enemy's casting speed and increases the time between melee and ranged attacks by 10% for 10 sec. (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 331,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "3",
+                "copper": "31"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 23,
+                "display_string": "Requires Level 23"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/65?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spider's Kiss",
+                "id": 65
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/13218?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fang of the Crystal Spider",
+                        "id": 13218
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/13183?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Venomspitter",
+                        "id": 13183
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Chance on Hit: Immobilizes the target and lowers their armor by 100 for 10 sec.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Spider's Kiss (0/2)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 65,
+            "display_string": "Durability 65 / 65"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/147698?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 147698,
+    "name": "Cauterizing Void Shard",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/147698?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 147698
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 40,
+    "sell_price": 10,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/147698?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 147698
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Cauterizing Void Shard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/147698?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 147698
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/242538?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Void Meld",
+                    "id": 242538
+                },
+                "description": "Use: Instantly restores 10,625 health, but causes 4,249 damage over 12 sec. Can only be used outdoors in the Broken Isles. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 10,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "10"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2045?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armies of Legionfall",
+                    "id": 2045
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Armies of Legionfall - Honored"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

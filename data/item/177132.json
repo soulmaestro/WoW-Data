@@ -1,0 +1,208 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/177132?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 177132,
+    "name": "7th Legionnaire's Halberd",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 58,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/177132?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 177132
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Polearm",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 4802401,
+    "sell_price": 960480,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/177132?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 177132
+        },
+        "context": 0,
+        "bonus_list": [
+            6662
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "7th Legionnaire's Halberd",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/177132?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 177132
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Polearm",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 20,
+                "max_value": 38,
+                "display_string": "20 - 38 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 8.055555,
+                "display_string": "(8.1 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 11,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+11 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 16,
+                "display": {
+                    "display_string": "+16 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 13,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+13 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 9,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+9 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 12739,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "27",
+                "copper": "39"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "faction": {
+                "value": {
+                    "type": "ALLIANCE",
+                    "name": "Alliance"
+                },
+                "display_string": "Alliance Only"
+            }
+        },
+        "level": {
+            "value": 75,
+            "display_string": "Item Level 75"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

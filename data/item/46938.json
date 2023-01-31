@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46938?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46938,
+    "name": "Design: Shifting Dreadstone",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46938?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46938
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Shifting Dreadstone.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46938?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46938
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Shifting Dreadstone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46938?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46938
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Jewelcrafting",
+                    "id": 2522
+                },
+                "level": 75,
+                "display_string": "Requires Northrend Jewelcrafting (75)"
+            }
+        },
+        "description": "Teaches you how to cut a Shifting Dreadstone.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/40130?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 40130
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Shifting Dreadstone",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/40130?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 40130
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Multiple Stats",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 8000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "80",
+                        "copper": "0"
+                    }
+                },
+                "description": "Matches any socket.",
+                "gem_properties": {
+                    "effect": "+2 Agility and +2 Stamina"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/36928?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadstone",
+                        "id": 36928
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Dreadstone"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

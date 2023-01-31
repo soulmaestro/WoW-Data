@@ -1,0 +1,187 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13482?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13482,
+    "name": "Recipe: Transmute Air to Fire",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13482?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13482
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 15000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to transmute Essence of Air into Essence of Fire.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13482?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13482
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Transmute Air to Fire",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13482?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13482
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/17559?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Transmute: Air to Fire",
+                    "id": 17559
+                },
+                "description": "Use: Teaches you how to transmute Essence of Air into Essence of Fire."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2485?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Alchemy",
+                    "id": 2485
+                },
+                "level": 275,
+                "display_string": "Requires Classic Alchemy (275)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/529?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Argent Dawn",
+                    "id": 529
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Argent Dawn - Honored"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/7078?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 7078
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Essence of Fire",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/7078?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 7078
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elemental",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 400,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "4",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7082?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Essence of Air",
+                        "id": 7082
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Essence of Air"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

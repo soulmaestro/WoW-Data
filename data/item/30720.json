@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/30720?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 30720,
+    "name": "Serpent-Coil Braid",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 32,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/30720?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 30720
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 288156,
+    "sell_price": 72039,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/30720?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 30720
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Serpent-Coil Braid",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/30720?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 30720
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/37447?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Improved Mana Gems",
+                    "id": 37447
+                },
+                "description": "Equip: You gain 25% more mana when you use a mana gem.  In addition, using a mana gem grants you 19 spell power for 15 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 72039,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "7",
+                "silver": "20",
+                "copper": "39"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/8?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mage",
+                        "id": 8
+                    }
+                ],
+                "display_string": "Classes: Mage"
+            }
+        },
+        "level": {
+            "value": 32,
+            "display_string": "Item Level 32"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

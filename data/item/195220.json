@@ -1,0 +1,172 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/195220?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 195220,
+    "name": "Uncanny Pocketwatch",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 314,
+    "required_level": 68,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/195220?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 195220
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Struck by a bolt of lightning and no longer able to tell time, its power nonetheless lingers.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/195220?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 195220
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Uncanny Pocketwatch",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/195220?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 195220
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 175,
+                "display": {
+                    "display_string": "+175 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 175,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+175 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 175,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+175 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/381609?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pocketwatch Acceleration",
+                    "id": 381609
+                },
+                "description": "Use: Increases your movement speed by 30% for 8 sec. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 445361,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "44",
+                "silver": "53",
+                "copper": "61"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 68,
+                "display_string": "Requires Level 68"
+            }
+        },
+        "description": "Struck by a bolt of lightning and no longer able to tell time, its power nonetheless lingers.",
+        "level": {
+            "value": 314,
+            "display_string": "Item Level 314"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

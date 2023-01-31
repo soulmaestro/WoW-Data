@@ -1,0 +1,187 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41562?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 41562,
+    "name": "Design: Deadly Huge Citrine",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/41562?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 41562
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Deadly Huge Citrine",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/41562?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41562
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Design: Deadly Huge Citrine",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/41562?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41562
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Jewelcrafting",
+                    "id": 2522
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Jewelcrafting (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1098?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Knights of the Ebon Blade",
+                    "id": 1098
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Knights of the Ebon Blade - Friendly"
+            }
+        },
+        "description": "Teaches you how to cut a Deadly Huge Citrine",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/39952?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 39952
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Deadly Huge Citrine",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/39952?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 39952
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Multiple Stats",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 7500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "75",
+                        "copper": "0"
+                    }
+                },
+                "description": "Matches any socket.",
+                "gem_properties": {
+                    "effect": "+1 Agility and +1 Critical Strike"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/36929?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Huge Citrine",
+                        "id": 36929
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Huge Citrine"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

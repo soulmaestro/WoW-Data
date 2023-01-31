@@ -1,0 +1,280 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/188928?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 188928,
+    "name": "Luminous Chevalier's Gauntlets",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 252,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/188928?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 188928
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 2293919,
+    "sell_price": 458783,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/188928?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188928
+        },
+        "context": 0,
+        "bonus_list": [
+            8154
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Luminous Chevalier's Gauntlets",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/188928?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188928
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 146,
+            "display": {
+                "display_string": "146 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 77,
+                "display": {
+                    "display_string": "+77 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 77,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+77 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 166,
+                "display": {
+                    "display_string": "+166 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 34,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+34 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 82,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+82 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 413004,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "41",
+                "silver": "30",
+                "copper": "4"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1498?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Luminous Chevalier's Gallantry",
+                "id": 1498
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188933?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Chevalier's Casque",
+                        "id": 188933
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188932?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Chevalier's Epaulettes",
+                        "id": 188932
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188931?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Chevalier's Robes",
+                        "id": 188931
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188929?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Chevalier's Plackart",
+                        "id": 188929
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188928?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Chevalier's Gauntlets",
+                        "id": 188928
+                    }
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Luminous Chevalier's Gallantry (0/5)"
+        },
+        "level": {
+            "value": 252,
+            "display_string": "Item Level 252"
+        },
+        "durability": {
+            "value": 55,
+            "display_string": "Durability 55 / 55"
+        }
+    },
+    "purchase_quantity": 1
+}

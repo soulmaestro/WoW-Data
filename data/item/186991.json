@@ -1,0 +1,174 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186991?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186991,
+    "name": "Transmute: Stones to Ore",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 51,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186991?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186991
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to Transmute: Stones to Ore.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186991?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186991
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Transmute: Stones to Ore",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186991?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186991
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "level": {
+                "value": 51,
+                "display_string": "Requires Level 51"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2750?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Alchemy",
+                    "id": 2750
+                },
+                "level": 160,
+                "display_string": "Requires Shadowlands Alchemy (160)"
+            }
+        },
+        "description": "Teaches you how to Transmute: Stones to Ore.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/186694?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 186694
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Shaded Bag of Ore",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/186694?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 186694
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 11
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "description": "A bag of ore from the Shadowlands.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171840?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Porous Stone",
+                        "id": 171840
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171841?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaded Stone",
+                        "id": 171841
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Porous Stone (4), Shaded Stone (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

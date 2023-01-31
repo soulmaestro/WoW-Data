@@ -1,0 +1,279 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/200345?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 200345,
+    "name": "Skybound Avenger's Visor",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/200345?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 200345
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 3681903,
+    "sell_price": 736380,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/200345?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200345
+        },
+        "context": 0,
+        "bonus_list": [
+            8828
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Skybound Avenger's Visor",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/200345?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200345
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 364,
+            "display": {
+                "display_string": "364 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 402,
+                "display": {
+                    "display_string": "+402 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 402,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+402 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 982,
+                "display": {
+                    "display_string": "+982 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 196,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+196 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 491,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+491 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 674611,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "67",
+                "silver": "46",
+                "copper": "11"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demon Hunter",
+                        "id": 12
+                    }
+                ],
+                "display_string": "Classes: Demon Hunter"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1527?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Skybound Avenger's Flightwear",
+                "id": 1527
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200342?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skybound Avenger's Harness",
+                        "id": 200342
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200344?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skybound Avenger's Grips",
+                        "id": 200344
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200345?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skybound Avenger's Visor",
+                        "id": 200345
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200346?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skybound Avenger's Legguards",
+                        "id": 200346
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/200347?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skybound Avenger's Ailerons",
+                        "id": 200347
+                    }
+                }
+            ],
+            "display_string": "Skybound Avenger's Flightwear (0/5)"
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

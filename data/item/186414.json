@@ -1,0 +1,226 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186414?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186414,
+    "name": "Rae'shalare, Death's Whisper",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 233,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186414?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186414
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bow",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "RANGED",
+        "name": "Ranged"
+    },
+    "purchase_price": 7628754,
+    "sell_price": 1525750,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186414?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186414
+        },
+        "context": 0,
+        "bonus_list": [
+            7858
+        ],
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Rae'shalare, Death's Whisper",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186414?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186414
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Bow",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "RANGED",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 165,
+                "max_value": 224,
+                "display_string": "165 - 224 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 64.83333,
+                "display_string": "(64.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 86,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+86 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 175,
+                "display": {
+                    "display_string": "+175 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 75,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+75 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 63,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+63 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/353511?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Banshee's Lament",
+                    "id": 353511
+                },
+                "description": "Equip: Gain the ability to fire a Wailing Arrow, which deals Shadow damage to your target and other nearby enemies and silences any creatures struck."
+            }
+        ],
+        "sell_price": {
+            "value": 2055147,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "205",
+                "silver": "51",
+                "copper": "47"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hunter",
+                        "id": 3
+                    }
+                ],
+                "display_string": "Classes: Hunter"
+            }
+        },
+        "level": {
+            "value": 233,
+            "display_string": "Item Level 233"
+        },
+        "durability": {
+            "value": 145,
+            "display_string": "Durability 145 / 145"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137576?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137576,
+    "name": "Dim Coldflame Core",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 45,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137576?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137576
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mount",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000000,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to summon a rideable Coldflame Infernal.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137576?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137576
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Dim Coldflame Core",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137576?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137576
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mount",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/171840?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Coldflame Infernal",
+                    "id": 171840
+                },
+                "description": "Use: Teaches you how to summon a rideable Coldflame Infernal."
+            }
+        ],
+        "requirements": {
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Apprentice Riding",
+                    "id": 33388
+                },
+                "display_string": "Requires Apprentice Riding"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

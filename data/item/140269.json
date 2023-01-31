@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/140269?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 140269,
+    "name": "Iced Highmountain Refresher",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 45,
+    "required_level": 42,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/140269?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 140269
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 35000,
+    "sell_price": 1750,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "This sweet, mellow drink, mixed with exotic spices and served over Highmountain ice, is a favorite of the tauren tribes.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/140269?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140269
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Iced Highmountain Refresher",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/140269?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140269
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/192001?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Drink",
+                    "id": 192001
+                },
+                "description": "Use: Restores 10,000 mana over 20 sec.  Must remain seated while drinking. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1750,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "17",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 42,
+                "display_string": "Requires Level 42"
+            }
+        },
+        "description": "This sweet, mellow drink, mixed with exotic spices and served over Highmountain ice, is a favorite of the tauren tribes.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

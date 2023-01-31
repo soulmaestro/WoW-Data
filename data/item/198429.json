@@ -1,0 +1,198 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198429?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198429,
+    "name": "Typhoon Bringer",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 200,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198429?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198429
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Staff",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 3492920,
+    "sell_price": 698584,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "A small inscription reads 'Brought by Ty'foon'.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198429?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198429
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Typhoon Bringer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198429?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198429
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Staff",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 73,
+                "max_value": 99,
+                "display_string": "73 - 99 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 23.888887,
+                "display_string": "(23.9 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 283,
+                "display": {
+                    "display_string": "+283 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 115,
+                "display": {
+                    "display_string": "+115 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 59,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+59 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 54,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+54 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 698584,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "69",
+                "silver": "85",
+                "copper": "84"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "description": "A small inscription reads 'Brought by Ty'foon'.",
+        "level": {
+            "value": 200,
+            "display_string": "Item Level 200"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/184115?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 184115,
+    "name": "Ensemble: Winterborn Raiment",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/184115?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 184115
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/184115?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184115
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Ensemble: Winterborn Raiment",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/184115?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184115
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ensemble: Winterborn Raiment",
+                    "id": 344520
+                },
+                "description": "Use: Collect the appearances of the Winterborn Raiment armor set."
+            }
+        ],
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demon Hunter",
+                        "id": 12
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    },
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Druid, Demon Hunter, Monk, Rogue"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2464?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Court of Night",
+                    "id": 2464
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Court of Night - Exalted"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

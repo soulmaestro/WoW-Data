@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165576?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165576,
+    "name": "Tidestorm Codex",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 60,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165576?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165576
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3121753,
+    "sell_price": 624350,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165576?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165576
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Tidestorm Codex",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165576?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165576
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 8,
+                "display": {
+                    "display_string": "+8 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/289885?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Surging Waters",
+                    "id": 289885
+                },
+                "description": "Use: Unleash a wave of 6 Tide Elementals that crash into your target, each exploding for 114 Frost damage split among all nearby enemies. Deals increased damage when striking multiple targets. (1 Min 30 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 3261,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "32",
+                "copper": "61"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 60,
+            "display_string": "Item Level 60"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

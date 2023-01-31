@@ -1,0 +1,335 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22219?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22219,
+    "name": "Plans: Jagged Obsidian Shield",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22219?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22219
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Jagged Obsidian Shield.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22219?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22219
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Jagged Obsidian Shield",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22219?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22219
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 300,
+                "display_string": "Requires Classic Blacksmithing (300)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/609?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cenarion Circle",
+                    "id": 609
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Cenarion Circle - Revered"
+            }
+        },
+        "description": "Teaches you how to make a Jagged Obsidian Shield.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/22198?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22198
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Jagged Obsidian Shield",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/22198?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22198
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shield",
+                    "id": 6
+                },
+                "inventory_type": {
+                    "type": "SHIELD",
+                    "name": "Off Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 42,
+                    "display": {
+                        "display_string": "42 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "shield_block": {
+                    "value": 105,
+                    "display": {
+                        "display_string": "105 Block",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 5,
+                        "display": {
+                            "display_string": "+5 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 2,
+                        "display": {
+                            "display_string": "+2 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "DODGE_RATING",
+                            "name": "Dodge"
+                        },
+                        "value": 1,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+1 Dodge",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/27561?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Silence Trigger",
+                            "id": 27561
+                        },
+                        "description": "Equip: When struck by a harmful spell, the caster of that spell has a 5% chance to be silenced for 3 sec."
+                    }
+                ],
+                "sell_price": {
+                    "value": 269,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "69"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 25,
+                        "display_string": "Requires Level 25"
+                    }
+                },
+                "level": {
+                    "value": 29,
+                    "display_string": "Item Level 29"
+                },
+                "durability": {
+                    "value": 120,
+                    "display_string": "Durability 120 / 120"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22203?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Large Obsidian Shard",
+                        "id": 22203
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22202?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Small Obsidian Shard",
+                        "id": 22202
+                    },
+                    "quantity": 24
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12655?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Enchanted Thorium Bar",
+                        "id": 12655
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7076?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Essence of Earth",
+                        "id": 7076
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Large Obsidian Shard (8), Small Obsidian Shard (24), Enchanted Thorium Bar (8), Essence of Earth (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

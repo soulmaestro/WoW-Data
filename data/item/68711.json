@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/68711?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 68711,
+    "name": "Mandala of Stirring Patterns",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 37,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/68711?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 68711
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 322031,
+    "sell_price": 80507,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/68711?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 68711
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Mandala of Stirring Patterns",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/68711?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 68711
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 6,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+6 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/91193?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Proc Intellect",
+                    "id": 91193
+                },
+                "description": "Equip: Your healing spells have a chance to grant 22 Intellect for 10 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 80507,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "8",
+                "silver": "5",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "level": {
+            "value": 37,
+            "display_string": "Item Level 37"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

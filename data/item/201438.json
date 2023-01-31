@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/201438?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 201438,
+    "name": "Weary Sands",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 70,
+    "required_level": 65,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/201438?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 201438
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 54700,
+    "sell_price": 1875,
+    "max_count": 20,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/201438?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 201438
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Weary Sands",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/201438?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 201438
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (20)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/393994?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weary Sands",
+                    "id": 393994
+                },
+                "description": "Use: Slow your body by taking on the weight of time itself.\r\n\r\nDecreases movement speed by 50% for 1 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1875,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "18",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 65,
+                "display_string": "Requires Level 65"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

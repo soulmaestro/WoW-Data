@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/147770?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 147770,
+    "name": "Tome of the PTR Beast",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 45,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/147770?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 147770
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Learn the secrets of taming Feathermanes, a family that includes hippogryphs, gryphons, owlcats, wolfhawks, and wyvern. On PTR only.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/147770?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 147770
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Tome of the PTR Beast",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/147770?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 147770
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/242155?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Hybrid Kinship",
+                    "id": 242155
+                },
+                "description": "Use: Learn the secrets of taming Feathermanes, a family that includes hippogryphs, gryphons, owlcats, wolfhawks, and wyvern. On PTR only."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hunter",
+                        "id": 3
+                    }
+                ],
+                "display_string": "Classes: Hunter"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

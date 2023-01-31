@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183822?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183822,
+    "name": "Icecrown Survival Kit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183822?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183822
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 4,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Basic supply package for new recruits. Contains gold, potions and rations.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183822?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183822
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Icecrown Survival Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183822?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183822
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344498?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Opening",
+                    "id": 344498
+                },
+                "description": "Use: Open the bag."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "description": "Basic supply package for new recruits. Contains gold, potions and rations.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

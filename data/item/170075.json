@@ -1,0 +1,217 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/170075?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 170075,
+    "name": "Recipe: Unagi Skewer",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/170075?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 170075
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft Unagi Skewers.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/170075?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 170075
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Unagi Skewer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/170075?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 170075
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/303788?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unagi Skewer",
+                    "id": 303788
+                },
+                "description": "Use: Teaches you how to craft Unagi Skewers."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2541?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Cooking",
+                    "id": 2541
+                },
+                "level": 170,
+                "display_string": "Requires Kul Tiran Cooking (170)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/169280?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 169280
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Unagi Skewer",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/169280?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 169280
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/295402?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Unagi Skewer",
+                            "id": 295402
+                        },
+                        "description": "Use: Deals 116 Nature damage to attackers when hit. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "1"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "description": "Savory eel that sizzles in your mouth.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168302?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Viper Fish",
+                        "id": 168302
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168646?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mauve Stinger",
+                        "id": 168646
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Viper Fish (5), Mauve Stinger (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

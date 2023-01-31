@@ -1,0 +1,285 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/138359?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 138359,
+    "name": "Legplates of the Highlord",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/138359?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 138359
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "LEGS",
+        "name": "Legs"
+    },
+    "purchase_price": 2888207,
+    "sell_price": 577641,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/138359?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 138359
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Legplates of the Highlord",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/138359?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 138359
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "LEGS",
+            "name": "Legs"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 20,
+            "display": {
+                "display_string": "20 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 6,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+6 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 10,
+                "display": {
+                    "display_string": "+10 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 8,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+8 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 2124,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "21",
+                "copper": "24"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1287?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Battleplate of the Highlord",
+                "id": 1287
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/138350?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Breastplate of the Highlord",
+                        "id": 138350
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/138353?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gauntlets of the Highlord",
+                        "id": 138353
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/138356?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Helmet of the Highlord",
+                        "id": 138356
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/138359?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Legplates of the Highlord",
+                        "id": 138359
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/138362?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pauldrons of the Highlord",
+                        "id": 138362
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/138369?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Greatmantle of the Highlord",
+                        "id": 138369
+                    }
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Battleplate of the Highlord (0/6)"
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

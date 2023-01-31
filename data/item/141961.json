@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/141961?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 141961,
+    "name": "Soul Flame of Rejuvenation",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 42,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/141961?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 141961
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 25000,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/141961?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 141961
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Soul Flame of Rejuvenation",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/141961?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 141961
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/226327?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Soul Flame of Rejuvenation",
+                    "id": 226327
+                },
+                "description": "Use: Increases healing received by 50%.\r\n\r\nThis effect is only active in the Broken Isles."
+            }
+        ],
+        "sell_price": {
+            "value": 25000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 42,
+                "display_string": "Requires Level 42"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demon Hunter",
+                        "id": 12
+                    }
+                ],
+                "display_string": "Classes: Demon Hunter"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

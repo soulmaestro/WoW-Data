@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191328?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191328,
+    "name": "Iced Phial of Corrupting Rage",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 400,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191328?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191328
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Flask",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 4000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191328?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191328
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Iced Phial of Corrupting Rage",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191328?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191328
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Flask",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/374000?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Iced Phial of Corrupting Rage",
+                    "id": 374000
+                },
+                "description": "Use: Gain Corrupting Rage which grants 1,032 Critical Strike rating. After suffering 100% of your health in damage, you are afflicted with Overwhelming Rage instead which causes you to take 25% of your health as Nature damage over 15 sec, after which the cycle begins anew.\r\n\r\nLasts 30 min and through death. Consuming an identical phial will add another 30 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 4000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "40",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Toxic",
+            "color": {
+                "r": 158,
+                "g": 197,
+                "b": 30,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 5
+}

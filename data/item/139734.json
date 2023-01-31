@@ -1,0 +1,321 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139734?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139734,
+    "name": "Grandmaster's Crown",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139734?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139734
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 1250000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139734?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139734
+        },
+        "context": 0,
+        "bonus_list": [
+            3381
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Grandmaster's Crown",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139734?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139734
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 8,
+            "display": {
+                "display_string": "8 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 6,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+6 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 10,
+                "display": {
+                    "display_string": "+10 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 8,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+8 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "125",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    }
+                ],
+                "display_string": "Classes: Monk"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1274?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Grandmaster's Finery",
+                "id": 1274
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139731?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Tunic",
+                        "id": 139731
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139732?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Footwraps",
+                        "id": 139732
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139733?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Palms",
+                        "id": 139733
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139734?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Crown",
+                        "id": 139734
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139735?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Legguards",
+                        "id": 139735
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139736?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Shoulderguards",
+                        "id": 139736
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139737?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Waistband",
+                        "id": 139737
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139738?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Grandmaster's Cuffs",
+                        "id": 139738
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases your out-of-combat regeneration in outdoor Broken Isles zones.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: While you are below 35% health you take 50% reduced damage in outdoor Broken Isles zones.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(8) Set: Increases healing done by Vivify by 10%.",
+                    "required_count": 8
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Grandmaster's Finery (0/8)"
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

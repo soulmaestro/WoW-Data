@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13754?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13754,
+    "name": "Raw Glossy Mightfish",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 10,
+    "required_level": 15,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13754?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13754
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 120,
+    "sell_price": 6,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13754?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13754
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Raw Glossy Mightfish",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13754?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13754
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/1127?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 1127
+                },
+                "description": "Use: Restores 375 health over 25 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 6,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "6"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 15,
+                "display_string": "Requires Level 15"
+            }
+        },
+        "is_subclass_hidden": true,
+        "crafting_reagent": "Crafting Reagent"
+    },
+    "purchase_quantity": 5
+}

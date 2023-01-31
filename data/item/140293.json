@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/140293?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 140293,
+    "name": "Exploding Cask",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 45,
+    "required_level": 42,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/140293?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 140293
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 25000,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/140293?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140293
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Exploding Cask",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/140293?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140293
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/222667?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Exploding Cask",
+                    "id": 222667
+                },
+                "description": "Use: Deals 0 Fire damage to enemies within 30 yd.\r\n\r\nThis item can only be used in the Broken Isles."
+            }
+        ],
+        "sell_price": {
+            "value": 25000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 42,
+                "display_string": "Requires Level 42"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    }
+                ],
+                "display_string": "Classes: Monk"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

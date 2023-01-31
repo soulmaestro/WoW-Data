@@ -1,0 +1,210 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137791?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137791,
+    "name": "Technique: Darkmoon Card of the Legion (Rank 3)",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137791?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137791
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Darkmoon Card of the Legion (Rank 3).",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137791?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137791
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Technique: Darkmoon Card of the Legion (Rank 3)",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137791?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137791
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/192890?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Darkmoon Card of the Legion",
+                    "id": 192890
+                },
+                "description": "Use: Teaches you how to craft a Darkmoon Card of the Legion (Rank 3)."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2508?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Inscription",
+                    "id": 2508
+                },
+                "level": 1,
+                "display_string": "Requires Legion Inscription (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/128712?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 128712
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Darkmoon Card of the Legion",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/128712?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 128712
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 11
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "description": "A random Darkmoon Card of the Legion.  Collect a full set to receive a reward.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Light Parchment",
+                        "id": 39354
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129034?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sallow Pigment",
+                        "id": 129034
+                    },
+                    "quantity": 12
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129032?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Roseate Pigment",
+                        "id": 129032
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124106?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felwort",
+                        "id": 124106
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Light Parchment, Sallow Pigment (12), Roseate Pigment (30), Felwort"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

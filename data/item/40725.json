@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40725?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40725,
+    "name": "Steam-Powered Auctioneer",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/40725?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40725
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/40725?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40725
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Steam-Powered Auctioneer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/40725?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40725
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/54614?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Steam-Powered Auctioneer",
+                    "id": 54614
+                },
+                "description": "Use: Creates a steam-powered auctioneer that takes bids for 10 min.  This device creates intense heat and can only be used in the cold climate of Northrend. (1 Day Cooldown)"
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Engineering",
+                    "id": 2504
+                },
+                "level": 75,
+                "display_string": "Requires Northrend Engineering (75)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,213 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/194893?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 194893,
+    "name": "Overseer's Writhebark Stave",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 270,
+    "required_level": 62,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/194893?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 194893
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Staff",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 173089,
+    "sell_price": 34617,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/194893?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194893
+        },
+        "context": 0,
+        "bonus_list": [
+            8851,
+            8852
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Overseer's Writhebark Stave",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/194893?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194893
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Staff",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 252,
+                "max_value": 342,
+                "display_string": "252 - 342 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 82.5,
+                "display_string": "(82.5 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 975,
+                "display": {
+                    "display_string": "+975 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 483,
+                "display": {
+                    "display_string": "+483 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 184,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+184 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 184,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+184 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 34617,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "46",
+                "copper": "17"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 62,
+                "display_string": "Requires Level 62"
+            }
+        },
+        "level": {
+            "value": 333,
+            "display_string": "Item Level 333"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 32,
+                "type": "CRIT_RATING",
+                "name": "Critical Strike"
+            },
+            {
+                "id": 49,
+                "type": "MASTERY_RATING",
+                "name": "Mastery"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

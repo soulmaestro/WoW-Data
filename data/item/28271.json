@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/28271?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 28271,
+    "name": "Formula: Enchant Gloves - Precise Strikes",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/28271?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 28271
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to perform the Precise Strikes enchantment.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/28271?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28271
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Formula: Enchant Gloves - Precise Strikes",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/28271?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28271
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33994?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Precise Strikes",
+                    "id": 33994
+                },
+                "description": "Use: Teaches you how to perform the Precise Strikes enchantment."
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2493?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Enchanting",
+                    "id": 2493
+                },
+                "level": 60,
+                "display_string": "Requires Outland Enchanting (60)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/942?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cenarion Expedition",
+                    "id": 942
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Cenarion Expedition - Revered"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

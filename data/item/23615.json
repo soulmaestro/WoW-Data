@@ -1,0 +1,299 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23615?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23615,
+    "name": "Plans: Swiftsteel Gloves",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23615?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23615
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000,
+    "sell_price": 15000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Swiftsteel Gloves.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23615?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23615
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Plans: Swiftsteel Gloves",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23615?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23615
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2476?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Blacksmithing",
+                    "id": 2476
+                },
+                "level": 70,
+                "display_string": "Requires Outland Blacksmithing (70)"
+            }
+        },
+        "description": "Teaches you how to make Swiftsteel Gloves.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/23526?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23526
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    },
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Swiftsteel Gloves",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/23526?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23526
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mail",
+                    "id": 3
+                },
+                "inventory_type": {
+                    "type": "HAND",
+                    "name": "Hands"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 6,
+                    "display": {
+                        "display_string": "6 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 3,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+3 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "CRIT_RATING",
+                            "name": "Critical Strike"
+                        },
+                        "value": 4,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+4 Critical Strike",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "socket_bonus": "Socket Bonus: +1 Agility",
+                "sell_price": {
+                    "value": 154,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "54"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "level": {
+                    "value": 32,
+                    "display_string": "Item Level 32"
+                },
+                "durability": {
+                    "value": 50,
+                    "display_string": "Durability 50 / 50"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23448?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felsteel Bar",
+                        "id": 23448
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22449?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Large Prismatic Shard",
+                        "id": 22449
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22831?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elixir of Major Agility",
+                        "id": 22831
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22451?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Air",
+                        "id": 22451
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Felsteel Bar (6), Large Prismatic Shard (2), Elixir of Major Agility (4), Primal Air (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

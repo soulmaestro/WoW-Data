@@ -1,0 +1,351 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137704?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137704,
+    "name": "Schematic: Ironsight Cranial Cannon",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137704?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137704
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Ironsight Cranial Cannon.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137704?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137704
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Ironsight Cranial Cannon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137704?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137704
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/198998?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ironsight Cranial Cannon",
+                    "id": 198998
+                },
+                "description": "Use: Teaches you how to craft an Ironsight Cranial Cannon."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Engineering",
+                    "id": 2500
+                },
+                "level": 1,
+                "display_string": "Requires Legion Engineering (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/132507?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 132507
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Ironsight Cranial Cannon",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/132507?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 132507
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Plate",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "HEAD",
+                    "name": "Head"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 17,
+                    "display": {
+                        "display_string": "17 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 6,
+                        "display": {
+                            "display_string": "+6 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 6,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+6 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 10,
+                        "display": {
+                            "display_string": "+10 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/201360?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Head Shot",
+                            "id": 201360
+                        },
+                        "description": "Use: Fire a bullet at your current target. (5 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1571,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "15",
+                        "copper": "71"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 45,
+                        "display_string": "Requires Level 45"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Legion Engineering",
+                            "id": 2500
+                        },
+                        "level": 1,
+                        "display_string": "Requires Legion Engineering (1)"
+                    }
+                },
+                "level": {
+                    "value": 50,
+                    "display_string": "Item Level 50"
+                },
+                "durability": {
+                    "value": 100,
+                    "display_string": "Durability 100 / 100"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/123919?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felslate",
+                        "id": 123919
+                    },
+                    "quantity": 40
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/136636?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sniping Scope",
+                        "id": 136636
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/136633?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Loose Trigger",
+                        "id": 136633
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/136631?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Surface-to-Infernal Rocket Launcher",
+                        "id": 136631
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124444?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Infernal Brimstone",
+                        "id": 124444
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood of Sargeras",
+                        "id": 124124
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Felslate (40), Sniping Scope (2), Loose Trigger (2), Surface-to-Infernal Rocket Launcher, Infernal Brimstone (2), Blood of Sargeras (2)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 2",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,205 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/62799?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 62799,
+    "name": "Recipe: Broiled Dragon Feast",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/62799?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 62799
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1500000,
+    "sell_price": 375000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook a Broiled Dragon Feast.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/62799?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 62799
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Recipe: Broiled Dragon Feast",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/62799?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 62799
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 375000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "37",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2545?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Cooking",
+                    "id": 2545
+                },
+                "level": 50,
+                "display_string": "Requires Cataclysm Cooking (50)"
+            }
+        },
+        "description": "Teaches you how to cook a Broiled Dragon Feast.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/62289?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62289
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Broiled Dragon Feast",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/62289?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62289
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/87643?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Broiled Dragon Feast",
+                            "id": 87643
+                        },
+                        "description": "Use: Set out a dragon feast to feed your entire raid or party!\r\n\r\nRestores 5,918 health and 6,100 mana over 30 sec.  If you spend at least 10 seconds eating you will become well fed and gain 6 Stamina and 6 in another useful stat for 1 hour."
+                    }
+                ],
+                "sell_price": {
+                    "value": 500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "5",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 30,
+                        "display_string": "Requires Level 30"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/62782?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dragon Flank",
+                        "id": 62782
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/62785?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Delicate Wing",
+                        "id": 62785
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Dragon Flank (3), Delicate Wing (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

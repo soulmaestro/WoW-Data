@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44132?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44132,
+    "name": "Lesser Inscription of the Pinnacle",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44132?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44132
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 750000,
+    "sell_price": 187500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44132?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44132
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Lesser Inscription of the Pinnacle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44132?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44132
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/59932?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Inscription of the Pinnacle",
+                    "id": 59932
+                },
+                "description": "Use: Permanently adds 3 dodge and 1 parry to a shoulder slot item.\r\r\r\n\r\r\r\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 187500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "18",
+                "silver": "75",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1119?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Sons of Hodir",
+                    "id": 1119
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Sons of Hodir - Honored"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

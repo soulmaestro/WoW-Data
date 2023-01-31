@@ -1,0 +1,168 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13139?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13139,
+    "name": "Guttbuster",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 26,
+    "required_level": 20,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13139?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13139
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gun",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 4133845,
+    "sell_price": 826769,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13139?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13139
+        },
+        "context": 0,
+        "bonus_list": [
+            6659
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Guttbuster",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13139?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13139
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Gun",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 85,
+                "max_value": 159,
+                "display_string": "85 - 159 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 40.666664,
+                "display_string": "(40.7 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 92,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+92 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 47,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+47 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 575177,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "57",
+                "silver": "51",
+                "copper": "77"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 20,
+                "display_string": "Requires Level 20"
+            }
+        },
+        "level": {
+            "value": 183,
+            "display_string": "Item Level 183"
+        },
+        "durability": {
+            "value": 95,
+            "display_string": "Durability 95 / 95"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,236 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/29232?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 29232,
+    "name": "Recipe: Transmute Skyfire Diamond",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/29232?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 29232
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to Transmute a Skyfire Diamond.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/29232?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29232
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Transmute Skyfire Diamond",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/29232?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29232
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/32766?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Transmute: Skyfire Diamond",
+                    "id": 32766
+                },
+                "description": "Use: Teaches you how to Transmute a Skyfire Diamond."
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Alchemy",
+                    "id": 2484
+                },
+                "level": 50,
+                "display_string": "Requires Outland Alchemy (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/947?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Thrallmar",
+                    "id": 947
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Thrallmar - Honored"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/25868?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25868
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Skyfire Diamond",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/25868?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25868
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 30000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23077?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood Garnet",
+                        "id": 23077
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21929?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Flame Spessarite",
+                        "id": 21929
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23117?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azure Moonstone",
+                        "id": 23117
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Fire",
+                        "id": 21884
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22451?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Air",
+                        "id": 22451
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Blood Garnet (3), Flame Spessarite (3), Azure Moonstone (3), Primal Fire (2), Primal Air (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

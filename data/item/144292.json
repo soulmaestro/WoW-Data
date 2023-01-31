@@ -1,0 +1,217 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/144292?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 144292,
+    "name": "Spirit of the Darkness Flame",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 50,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/144292?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 144292
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 1271490,
+    "sell_price": 254298,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "The Dragon of the Darkness Flame can sometimes damage the wielder horribly. But when controlled, the wielder gains tremendous power.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/144292?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 144292
+        },
+        "context": 0,
+        "bonus_list": [
+            3630
+        ],
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Spirit of the Darkness Flame",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/144292?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 144292
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Legion Legendary (1)",
+        "armor": {
+            "value": 36,
+            "display": {
+                "display_string": "36 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 31,
+                "display": {
+                    "display_string": "+31 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 31,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+31 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 47,
+                "display": {
+                    "display_string": "+47 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 34,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+34 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 25,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+25 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "legacy": "Legacy Item: Effects are inactive",
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/12?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demon Hunter",
+                        "id": 12
+                    }
+                ],
+                "display_string": "Classes: Demon Hunter"
+            }
+        },
+        "description": "The Dragon of the Darkness Flame can sometimes damage the wielder horribly. But when controlled, the wielder gains tremendous power.",
+        "level": {
+            "value": 163,
+            "display_string": "Item Level 163"
+        },
+        "durability": {
+            "value": 70,
+            "display_string": "Durability 70 / 70"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/28907?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 28907,
+    "name": "Inscription of the Blade",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 26,
+    "required_level": 26,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/28907?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 28907
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/28907?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28907
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Inscription of the Blade",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/28907?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 28907
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/35438?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Inscription of the Blade",
+                    "id": 35438
+                },
+                "description": "Use: Permanently adds 2 critical strike to a shoulder slot item.\r\r\r\n\r\r\r\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 26,
+                "display_string": "Requires Level 26"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/934?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Scryers",
+                    "id": 934
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Scryers - Honored"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

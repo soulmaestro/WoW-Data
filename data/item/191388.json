@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191388?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191388,
+    "name": "Elemental Potion of Power",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 400,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191388?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191388
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 75000,
+    "sell_price": 3000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191388?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191388
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Elemental Potion of Power",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191388?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191388
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/371024?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elemental Potion of Power",
+                    "id": 371024
+                },
+                "description": "Use: Drink to increase your primary stat by 577 for 30 sec. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 3000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5,
+    "modified_crafting": {
+        "id": 115,
+        "category": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/category/76?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Elemental Potion of Power",
+            "id": 76
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165569?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165569,
+    "name": "Ward of Envelopment",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 60,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165569?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165569
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3039894,
+    "sell_price": 607978,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165569?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165569
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Ward of Envelopment",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165569?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165569
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 8,
+                "display": {
+                    "display_string": "+8 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/287568?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Enveloping Protection",
+                    "id": 287568
+                },
+                "description": "Use: Envelop up to 5 allies in the targeted area in shared shields for 10 sec, preventing up to 1,015 damage taken by any of them. Damage prevented is increased when affecting multiple allies. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 3176,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "31",
+                "copper": "76"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 60,
+            "display_string": "Item Level 60"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

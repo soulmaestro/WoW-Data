@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44977?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44977,
+    "name": "Recipe: Dig Rat Stew",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44977?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44977
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 800,
+    "sell_price": 200,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook a disgusting Dig Rat Stew.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44977?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44977
+        },
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Recipe: Dig Rat Stew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44977?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44977
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 200,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/185?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cooking",
+                    "id": 185
+                },
+                "level": 1,
+                "display_string": "Requires Cooking (1)"
+            }
+        },
+        "description": "Teaches you how to cook a disgusting Dig Rat Stew.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,199 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189790?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189790,
+    "name": "Final Forte",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 226,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189790?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189790
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gun",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 7971693,
+    "sell_price": 1594338,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Vengeance for songs silenced too soon.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189790?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189790
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Final Forte",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189790?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189790
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Gun",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 127,
+                "max_value": 238,
+                "display_string": "127 - 238 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 60.83333,
+                "display_string": "(60.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 81,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+81 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 161,
+                "display": {
+                    "display_string": "+161 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 55,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+55 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 78,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+78 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1430424,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "143",
+                "silver": "4",
+                "copper": "24"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "description": "Vengeance for songs silenced too soon.",
+        "level": {
+            "value": 226,
+            "display_string": "Item Level 226"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

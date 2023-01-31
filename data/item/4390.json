@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4390?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4390,
+    "name": "Iron Grenade",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 15,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/4390?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4390
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2000,
+    "sell_price": 500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/4390?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 4390
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Iron Grenade",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/4390?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 4390
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/4068?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Iron Grenade",
+                    "id": 4068
+                },
+                "description": "Use: Inflicts 4 Fire damage and incapacitates targets for 3 sec in a 3 yard radius.  Any damage will break the effect.  Unreliable against targets higher than level 49. (1 Min Cooldown) (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "5",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 175,
+                "display_string": "Requires Classic Engineering (175)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

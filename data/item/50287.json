@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/50287?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 50287,
+    "name": "Boots of the Bay",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/50287?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 50287
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "FEET",
+        "name": "Feet"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/50287?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 50287
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Boots of the Bay",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/50287?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 50287
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "FEET",
+            "name": "Feet"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/71435?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+10 Fishing",
+                    "id": 71435
+                },
+                "description": "Equip: +10 Fishing Skill."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/71436?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Teleport: Booty Bay",
+                    "id": 71436
+                },
+                "description": "Use: Whisks you away to the finest drinking establishment in Booty Bay. (1 Day Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2590?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Fishing",
+                    "id": 2590
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Fishing (1)"
+            }
+        },
+        "level": {
+            "value": 1,
+            "display_string": "Item Level 1"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172902?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 172902,
+    "name": "Bomb Bola Launcher",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 120,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/172902?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 172902
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/172902?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172902
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Bomb Bola Launcher",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/172902?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172902
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/321295?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bomb Bola",
+                    "id": 321295
+                },
+                "description": "Use: Launch a set of tethered bombs straight ahead, wrapping around the first enemy hit and exploding after 5 seconds, dealing 5,118 Fire damage to nearby enemies. (5 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Engineering",
+                    "id": 2755
+                },
+                "level": 1,
+                "display_string": "Requires Shadowlands Engineering (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,230 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137813?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137813,
+    "name": "Design: Saber's Eye",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137813?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137813
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Saber's Eye.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137813?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137813
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Saber's Eye",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137813?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137813
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/195877?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Saber's Eye",
+                    "id": 195877
+                },
+                "description": "Use: Teaches you how to craft a Saber's Eye."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2518?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Jewelcrafting",
+                    "id": 2518
+                },
+                "level": 100,
+                "display_string": "Requires Legion Jewelcrafting (100)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/130245?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 130245
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Saber's Eye",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/130245?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 130245
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 25000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130178?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Furystone",
+                        "id": 130178
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130181?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pandemonite",
+                        "id": 130181
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124444?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Infernal Brimstone",
+                        "id": 124444
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124106?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felwort",
+                        "id": 124106
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood of Sargeras",
+                        "id": 124124
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Furystone, Pandemonite, Infernal Brimstone, Felwort, Blood of Sargeras"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

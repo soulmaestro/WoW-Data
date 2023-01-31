@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13514?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13514,
+    "name": "Wail of the Banshee",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 25,
+    "required_level": 23,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13514?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13514
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 23280,
+    "sell_price": 5820,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13514?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13514
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Wail of the Banshee",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13514?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13514
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/17639?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Wail of the Banshee",
+                    "id": 17639
+                },
+                "description": "Use: Reduces an enemy's chance to hit by 10% for 12 sec.  Chance to fizzle against targets over level 49. (1 Min Cooldown) (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 5820,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "58",
+                "copper": "20"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 23,
+                "display_string": "Requires Level 23"
+            }
+        },
+        "charges": {
+            "value": 3,
+            "display_string": "3 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

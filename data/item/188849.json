@@ -1,0 +1,280 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/188849?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 188849,
+    "name": "Chestguard of the Fixed Stars",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 252,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/188849?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 188849
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "ROBE",
+        "name": "Chest"
+    },
+    "purchase_price": 4464564,
+    "sell_price": 892912,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/188849?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188849
+        },
+        "context": 0,
+        "bonus_list": [
+            8153
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Chestguard of the Fixed Stars",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/188849?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188849
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "ROBE",
+            "name": "Chest"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 117,
+            "display": {
+                "display_string": "117 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 103,
+                "display": {
+                    "display_string": "+103 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 103,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+103 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 222,
+                "display": {
+                    "display_string": "+222 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 107,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+107 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 47,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+47 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 803815,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "80",
+                "silver": "38",
+                "copper": "15"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    }
+                ],
+                "display_string": "Classes: Druid"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1502?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tapestry of the Fixed Stars",
+                "id": 1502
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188853?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handwraps of the Fixed Stars",
+                        "id": 188853
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188851?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shoulderpads of the Fixed Stars",
+                        "id": 188851
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188849?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chestguard of the Fixed Stars",
+                        "id": 188849
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188848?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Leggings of the Fixed Stars",
+                        "id": 188848
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/188847?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Headpiece of the Fixed Stars",
+                        "id": 188847
+                    }
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Tapestry of the Fixed Stars (0/5)"
+        },
+        "level": {
+            "value": 252,
+            "display_string": "Item Level 252"
+        },
+        "durability": {
+            "value": 165,
+            "display_string": "Durability 165 / 165"
+        }
+    },
+    "purchase_quantity": 1
+}

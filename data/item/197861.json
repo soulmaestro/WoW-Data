@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/197861?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 197861,
+    "name": "Fleeting Philosopher's Stone",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/197861?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 197861
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "PROFESSION_GEAR",
+        "name": "Profession Equipment"
+    },
+    "purchase_price": 3500000,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "What little power remains within this stone can be used by aspiring alchemists in their transmutations.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/197861?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 197861
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Fleeting Philosopher's Stone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/197861?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 197861
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "PROFESSION_GEAR",
+            "name": "Profession Equipment"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2485?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Alchemy",
+                    "id": 2485
+                },
+                "level": 1,
+                "display_string": "Requires Classic Alchemy (1)"
+            }
+        },
+        "description": "What little power remains within this stone can be used by aspiring alchemists in their transmutations.",
+        "expiration_time_left": {
+            "value": 28800,
+            "display_string": "Duration: 8 hrs"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/33783?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33783,
+    "name": "Design: Steady Talasite",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/33783?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33783
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Steady Talasite.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/33783?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 33783
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Steady Talasite",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/33783?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 33783
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Jewelcrafting",
+                    "id": 2523
+                },
+                "level": 50,
+                "display_string": "Requires Outland Jewelcrafting (50)"
+            }
+        },
+        "description": "Teaches you how to cut a Steady Talasite.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/33782?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 33782
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Steady Talasite",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/33782?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 33782
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Multiple Stats",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 5000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "description": "Matches any socket.",
+                "gem_properties": {
+                    "effect": "+1 Armor and +1 Stamina"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23437?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Talasite",
+                        "id": 23437
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Talasite"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

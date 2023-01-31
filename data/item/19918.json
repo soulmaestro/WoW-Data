@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/19918?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19918,
+    "name": "Jeklik's Crusher",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/19918?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19918
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 146651,
+    "sell_price": 29330,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/19918?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19918
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Jeklik's Crusher",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/19918?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19918
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 7,
+                "max_value": 9,
+                "display_string": "7 - 9 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 2.222222,
+                "display_string": "(2.2 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/24257?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jeklik's Crushing Blow",
+                    "id": 24257
+                },
+                "description": "Chance on hit: Wounds the target for 3 damage."
+            }
+        ],
+        "sell_price": {
+            "value": 567,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "5",
+                "copper": "67"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            }
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,192 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43021?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43021,
+    "name": "Recipe: Very Burnt Worg",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43021?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43021
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to burn Worg meat until it is a Very Burnt Worg",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43021?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43021
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Very Burnt Worg",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43021?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43021
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2546?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Cooking",
+                    "id": 2546
+                },
+                "level": 25,
+                "display_string": "Requires Northrend Cooking (25)"
+            }
+        },
+        "description": "Teaches you how to burn Worg meat until it is a Very Burnt Worg",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/34757?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 34757
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Very Burnt Worg",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/34757?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 34757
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/57331?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Refreshment",
+                            "id": 57331
+                        },
+                        "description": "Use: Restores 5,859 health over 30 sec.  If you spend at least 10 seconds eating you will become well fed and gain 4 Haste and 4 Stamina for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 400,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "4",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43011?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Worg Haunch",
+                        "id": 43011
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43007?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Northern Spices",
+                        "id": 43007
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Worg Haunch, Northern Spices"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

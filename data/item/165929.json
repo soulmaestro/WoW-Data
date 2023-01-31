@@ -1,0 +1,298 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165929?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165929,
+    "name": "Recipe: Spirited Alchemist Stone",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165929?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165929
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Spirited Alchemist Stone.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165929?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165929
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Spirited Alchemist Stone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165929?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165929
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/286922?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Spirited Alchemist Stone",
+                    "id": 286922
+                },
+                "description": "Use: Teaches you how to craft a Spirited Alchemist Stone."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2478?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Alchemy",
+                    "id": 2478
+                },
+                "level": 130,
+                "display_string": "Requires Kul Tiran Alchemy (130)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/165927?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 165927
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Spirited Alchemist Stone",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/165927?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 165927
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "TRINKET",
+                    "name": "Trinket"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "limit_category": "Unique-Equipped: Alchemist Stone (1)",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "VERSATILITY",
+                            "name": "Versatility"
+                        },
+                        "value": 15,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+15 Versatility",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/188026?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Infernal Alchemist Stone",
+                            "id": 188026
+                        },
+                        "description": "Equip: When you heal or deal damage you have a chance to increase your Strength, Agility, or Intellect by 39 for 15 sec.  Your highest stat is always chosen."
+                    },
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/17619?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Alchemist Stone",
+                            "id": 17619
+                        },
+                        "description": "Equip: Increases the effect that healing and mana potions have on the wearer by 40%.  This effect does not stack."
+                    }
+                ],
+                "sell_price": {
+                    "value": 3182,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "31",
+                        "copper": "82"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2478?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Kul Tiran Alchemy",
+                            "id": 2478
+                        },
+                        "level": 100,
+                        "display_string": "Requires Kul Tiran Alchemy (100)"
+                    }
+                },
+                "description": "Can be used for transmutations in place of a Philosopher's Stone.",
+                "level": {
+                    "value": 72,
+                    "display_string": "Item Level 72"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152507?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Akunda's Bite",
+                        "id": 152507
+                    },
+                    "quantity": 60
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152508?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Winter's Kiss",
+                        "id": 152508
+                    },
+                    "quantity": 60
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152510?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Anchor Weed",
+                        "id": 152510
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/165703?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Breath of Bwonsamdi",
+                        "id": 165703
+                    },
+                    "quantity": 20
+                }
+            ],
+            "reagents_display_string": "Akunda's Bite (60), Winter's Kiss (60), Anchor Weed (20), Expulsom (20), Breath of Bwonsamdi (20)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

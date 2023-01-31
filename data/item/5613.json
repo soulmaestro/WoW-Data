@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/5613?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5613,
+    "name": "Staff of the Purifier",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 14,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/5613?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5613
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Staff",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 9837,
+    "sell_price": 1967,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/5613?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 5613
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Staff of the Purifier",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/5613?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 5613
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Staff",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 4,
+                "max_value": 6,
+                "display_string": "4 - 6 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 1.3888888,
+                "display_string": "(1.4 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/14134?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Purify",
+                    "id": 14134
+                },
+                "description": "Use: Purifies the friendly target, removing 1 disease effect and 1 poison effect. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 79,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "79"
+            }
+        },
+        "level": {
+            "value": 14,
+            "display_string": "Item Level 14"
+        },
+        "durability": {
+            "value": 50,
+            "display_string": "Durability 50 / 50"
+        },
+        "charges": {
+            "value": 3,
+            "display_string": "3 Charges"
+        }
+    },
+    "purchase_quantity": 1
+}

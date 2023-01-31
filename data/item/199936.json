@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/199936?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 199936,
+    "name": "Enchant Boots - Watcher's Loam",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 385,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/199936?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 199936
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Feet",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 250000,
+    "sell_price": 50000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/199936?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 199936
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Enchant Boots - Watcher's Loam",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/199936?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 199936
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Feet",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/389484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Watcher's Loam",
+                    "id": 389484
+                },
+                "description": "Use: Permanently enchants boots to increase your Stamina by $ec1. Cannot be applied to items lower than level $ecim."
+            }
+        ],
+        "sell_price": {
+            "value": 50000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "5",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

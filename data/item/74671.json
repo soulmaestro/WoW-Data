@@ -1,0 +1,221 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/74671?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 74671,
+    "name": "Recipe: Mogu Fish Stew",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 35,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/74671?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 74671
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 25000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to prepare Mogu Fish Stew.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/74671?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 74671
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Mogu Fish Stew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/74671?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 74671
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 25000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2544?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Cooking",
+                    "id": 2544
+                },
+                "level": 50,
+                "display_string": "Requires Pandaria Cooking (50)"
+            }
+        },
+        "description": "Teaches you how to prepare Mogu Fish Stew.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/74650?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 74650
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Mogu Fish Stew",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/74650?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 74650
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/104289?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Refreshment",
+                            "id": 104289
+                        },
+                        "description": "Use: Restores 4,807 health and 5,000 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 13 Intellect for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1400,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "14",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74661?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Black Pepper",
+                        "id": 74661
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74859?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Emperor Salmon",
+                        "id": 74859
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/75014?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Crocolisk Belly",
+                        "id": 75014
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74842?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mogu Pumpkin",
+                        "id": 74842
+                    },
+                    "quantity": 25
+                }
+            ],
+            "reagents_display_string": "Black Pepper, Emperor Salmon (5), Raw Crocolisk Belly (5), Mogu Pumpkin (25)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

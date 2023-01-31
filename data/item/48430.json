@@ -1,0 +1,284 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/48430?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 48430,
+    "name": "Wrynn's Greathelm of Triumph",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/48430?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 48430
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 511160,
+    "sell_price": 102232,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/48430?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 48430
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "META",
+                    "name": "Meta Socket"
+                }
+            },
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Wrynn's Greathelm of Triumph",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/48430?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 48430
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 12,
+            "display": {
+                "display_string": "12 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 4,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+4 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "PARRY_RATING",
+                    "name": "Parry"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Parry",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +2 Stamina",
+        "sell_price": {
+            "value": 419,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "4",
+                "copper": "19"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warrior",
+                        "id": 1
+                    }
+                ],
+                "display_string": "Classes: Warrior"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/869?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Wrynn's Plate",
+                "id": 869
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/48875?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wrynn's Breastplate",
+                        "id": 48875
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/48876?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wrynn's Greathelm",
+                        "id": 48876
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/48877?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wrynn's Handguards",
+                        "id": 48877
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/48878?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wrynn's Legguards",
+                        "id": 48878
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/48879?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wrynn's Pauldrons",
+                        "id": 48879
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Decreases the cooldown on your Taunt ability by 2 sec and increases the damage done by your Devastate ability by 5%.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Decreases the cooldown on your Shield Block ability by 10 sec.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Wrynn's Plate (0/5)"
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

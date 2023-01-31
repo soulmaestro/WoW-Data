@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198134?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198134,
+    "name": "Shiny Surveyor Scope",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198134?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198134
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "As good as new... should fetch a nice price.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198134?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198134
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Shiny Surveyor Scope",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198134?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198134
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "QUEST",
+            "name": "Quest Item"
+        },
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            },
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/921?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pick Pocket",
+                    "id": 921
+                },
+                "display_string": "Requires Pick Pocket"
+            }
+        },
+        "description": "As good as new... should fetch a nice price.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

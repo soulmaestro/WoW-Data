@@ -1,0 +1,109 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44856?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44856,
+    "name": "Turkey Parts",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44856?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44856
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60,
+    "sell_price": 15,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44856?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44856
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Turkey Parts",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44856?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44856
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/62047?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Create Whole Turkey",
+                    "id": 62047
+                },
+                "description": "Use: Turn three Turkey Parts into a Whole Turkey."
+            }
+        ],
+        "sell_price": {
+            "value": 15,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "15"
+            }
+        },
+        "requirements": {
+            "holiday": {
+                "display_string": "Requires Pilgrim's Bounty"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41791?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 41791,
+    "name": "Design: Subtle Autumn's Glow",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/41791?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 41791
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 160000,
+    "sell_price": 40000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Subtle Autumn's Glow.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/41791?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41791
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Subtle Autumn's Glow",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/41791?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41791
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 40000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "4",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 755
+                },
+                "level": 390,
+                "display_string": "Requires Jewelcrafting (390)"
+            }
+        },
+        "description": "Teaches you how to cut a Subtle Autumn's Glow.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/40000?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 40000
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Subtle Autumn's Glow",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/40000?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 40000
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 9
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 7850,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "78",
+                        "copper": "50"
+                    }
+                },
+                "description": "Matches any socket.",
+                "is_subclass_hidden": true,
+                "gem_properties": {
+                    "effect": "+3 Dodge"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/36921?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Autumn's Glow",
+                        "id": 36921
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Autumn's Glow"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

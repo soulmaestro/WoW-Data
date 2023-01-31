@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41111?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 41111,
+    "name": "Flexweave Underlay",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 28,
+    "required_level": 24,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/41111?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 41111
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 1250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/41111?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41111
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Flexweave Underlay",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/41111?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41111
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloak",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/55002?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Flexweave Underlay",
+                    "id": 55002
+                },
+                "description": "Use: Permanently attaches a flexweave underlay to a cloak, allowing you to turn the cloak into a parachute and fall slowly for 30 sec.\r\n\r\nThe cloak can only be used once a minute and requires a Northrend Engineering skill of at least 1."
+            }
+        ],
+        "sell_price": {
+            "value": 1250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 24,
+                "display_string": "Requires Level 24"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Engineering",
+                    "id": 2504
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Engineering (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

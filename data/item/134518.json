@@ -1,0 +1,246 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/134518?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 134518,
+    "name": "Frozen Pendulum Shoulderguards",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/134518?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 134518
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 1512744,
+    "sell_price": 302548,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/134518?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 134518
+        },
+        "context": 0,
+        "bonus_list": [
+            6654
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Frozen Pendulum Shoulderguards",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/134518?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 134518
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 112,
+            "display": {
+                "display_string": "112 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 34,
+                "display": {
+                    "display_string": "+34 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 34,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+34 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 52,
+                "display": {
+                    "display_string": "+52 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 20,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+20 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 44,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+44 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 193457,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "19",
+                "silver": "34",
+                "copper": "57"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 40,
+                "display_string": "Requires Level 40"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1298?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fortitude of the Nightborne",
+                "id": 1298
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/134518?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frozen Pendulum Shoulderguards",
+                        "id": 134518
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/134503?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Inferno Breastplate",
+                        "id": 134503
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your spells and attacks have a chance to increase your Versatility by 76 for 15 sec.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Fortitude of the Nightborne (0/2)"
+        },
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

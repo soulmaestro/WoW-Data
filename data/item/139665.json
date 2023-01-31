@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139665?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139665,
+    "name": "Seerspine Puffer",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 39,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139665?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139665
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 400000,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "On rare occasions, murlocs have been known to use these fish as weapons.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139665?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139665
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Seerspine Puffer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139665?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139665
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/221474?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Throw Back",
+                    "id": 221474
+                },
+                "description": "Use: Toss the fish back into the water, granting 50 Artifact Power to your fishing artifact. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 39,
+                "display_string": "Requires Level 39"
+            }
+        },
+        "description": "On rare occasions, murlocs have been known to use these fish as weapons.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

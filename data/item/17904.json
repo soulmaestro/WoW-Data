@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/17904?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 17904,
+    "name": "Stormpike Insignia Rank 6",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/17904?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 17904
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "The Eye of Command",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/17904?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17904
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Stormpike Insignia Rank 6",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/17904?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17904
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "DODGE_RATING",
+                    "name": "Dodge"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Dodge",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HEALTH_REGEN",
+                    "name": "Health Per 5 Sec."
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Health Per 5 Sec.",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "FROST_RESISTANCE",
+                    "name": "Frost Resistance"
+                },
+                "value": 1,
+                "display": {
+                    "display_string": "+1 Frost Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/196080?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Recall",
+                    "id": 196080
+                },
+                "description": "Use: Returns you to the sanctuary of Dun Baldar. (1 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "faction": {
+                "value": {
+                    "type": "ALLIANCE",
+                    "name": "Alliance"
+                },
+                "display_string": "Alliance Only"
+            }
+        },
+        "description": "The Eye of Command",
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

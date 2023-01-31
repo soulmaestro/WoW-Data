@@ -1,0 +1,229 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23874?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23874,
+    "name": "Schematic: Elemental Seaforium Charge",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23874?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23874
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Elemental Seaforium Charge.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23874?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23874
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Elemental Seaforium Charge",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23874?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23874
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2505?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Engineering",
+                    "id": 2505
+                },
+                "level": 50,
+                "display_string": "Requires Outland Engineering (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/933?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Consortium",
+                    "id": 933
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Consortium - Revered"
+            }
+        },
+        "description": "Teaches you how to make an Elemental Seaforium Charge.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/23819?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23819
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Elemental Seaforium Charge",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/23819?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23819
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/30434?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Elemental Seaforium Charge",
+                            "id": 30434
+                        },
+                        "description": "Use: Blasts open all but the mightiest of locked doors and chests. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 6000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "60",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2505?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Outland Engineering",
+                            "id": 2505
+                        },
+                        "level": 50,
+                        "display_string": "Requires Outland Engineering (50)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23781?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elemental Blasting Powder",
+                        "id": 23781
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23782?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fel Iron Casing",
+                        "id": 23782
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23783?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handful of Fel Iron Bolts",
+                        "id": 23783
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Elemental Blasting Powder (2), Fel Iron Casing, Handful of Fel Iron Bolts"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/181620?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 181620,
+    "name": "Hard Boiled Gorm Egg",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 60,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/181620?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 181620
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 159815,
+    "sell_price": 29953,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/181620?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 181620
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Hard Boiled Gorm Egg",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/181620?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 181620
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/337317?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gorm Protein Burst",
+                    "id": 337317
+                },
+                "description": "Use: Increases your Haste by 168 for 15 sec while outdoors in the Shadowlands.  (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 29953,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "99",
+                "copper": "53"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "expiration_time_left": {
+            "value": 86400,
+            "display_string": "Duration: 1 day"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

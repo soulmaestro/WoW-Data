@@ -1,0 +1,267 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43317?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43317,
+    "name": "Design: Ring of Earthen Might",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43317?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43317
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Ring of Earthen Might",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43317?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43317
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Ring of Earthen Might",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43317?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43317
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Jewelcrafting",
+                    "id": 2522
+                },
+                "level": 45,
+                "display_string": "Requires Northrend Jewelcrafting (45)"
+            }
+        },
+        "description": "Teaches you how to craft a Ring of Earthen Might",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/43250?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 43250
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Ring of Earthen Might",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/43250?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 43250
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "FINGER",
+                    "name": "Finger"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 2,
+                        "display": {
+                            "display_string": "+2 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "DODGE_RATING",
+                            "name": "Dodge"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Dodge",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "VERSATILITY",
+                            "name": "Versatility"
+                        },
+                        "value": 1,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+1 Versatility",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "socket_bonus": "Socket Bonus: +1 Strength",
+                "sell_price": {
+                    "value": 50150,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "5",
+                        "silver": "1",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 29,
+                        "display_string": "Requires Level 29"
+                    }
+                },
+                "level": {
+                    "value": 35,
+                    "display_string": "Item Level 35"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/41163?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Titanium Bar",
+                        "id": 41163
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/35624?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eternal Earth",
+                        "id": 35624
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Titanium Bar (2), Eternal Earth (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

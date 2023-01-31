@@ -1,0 +1,242 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162743?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 162743,
+    "name": "Schematic: Deployable Attire Rearranger",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/162743?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 162743
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Deployable Attire Rearranger more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/162743?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162743
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Deployable Attire Rearranger",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/162743?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162743
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/256156?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Deployable Attire Rearranger",
+                    "id": 256156
+                },
+                "description": "Use: Teaches you how to craft a Deployable Attire Rearranger more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2499?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Engineering",
+                    "id": 2499
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Engineering (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2103?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Zandalari Empire",
+                    "id": 2103
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Zandalari Empire - Revered"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/153597?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 153597
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Deployable Attire Rearranger",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/153597?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 153597
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/256153?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Deployable Attire Rearranger",
+                            "id": 256153
+                        },
+                        "description": "Use: Summons a device that will allow you to alter the look of your armor. Device lasts for up to 2 min."
+                    }
+                ],
+                "sell_price": {
+                    "value": 5,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "5"
+                    }
+                },
+                "description": "Disclaimer: Due to the functionality of this product, slight headaches, nausea and race and/or gender changes have been known to occur. Use with caution.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monelite Ore",
+                        "id": 152512
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/163569?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Insulated Wiring",
+                        "id": 163569
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Monelite Ore (5), Storm Silver Ore (4), Insulated Wiring (5)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

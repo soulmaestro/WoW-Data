@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/188252?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 188252,
+    "name": "Chains of Domination",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 233,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/188252?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 188252
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3525032,
+    "sell_price": 705006,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/188252?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188252
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Chains of Domination",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/188252?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188252
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 82,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+82 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 82,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+82 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/367931?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Chains of Domination",
+                    "id": 367931
+                },
+                "description": "Use: Drive a spike into your target, dealing 24,444 Physical damage and creating a chain link between you for 20 sec. While the chain persists, 25% of all damage dealt to the target is stored within it, up to a maximum of 10,371.\r\n\r\nMoving away from your target will rip the chain out, dealing the stored amount as Shadow damage to all enemies within 8 yds of them. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 633085,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "63",
+                "silver": "30",
+                "copper": "85"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 233,
+            "display_string": "Item Level 233"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

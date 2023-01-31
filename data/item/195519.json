@@ -1,0 +1,220 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/195519?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 195519,
+    "name": "Kharnalex, The First Light",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/195519?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 195519
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Staff",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 8340004,
+    "sell_price": 1668000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/195519?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 195519
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Kharnalex, The First Light",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/195519?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 195519
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Staff",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 462,
+                "max_value": 626,
+                "display_string": "462 - 626 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 151.1111,
+                "display_string": "(151.1 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 1787,
+                "display": {
+                    "display_string": "+1,787 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 982,
+                "display": {
+                    "display_string": "+982 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 491,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+491 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 196,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+196 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/394927?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Light of Creation",
+                    "id": 394927
+                },
+                "description": "Use: Focus the light of the Dracthyr legacy upon your current target, dealing 205,801 Arcane damage over 3 sec. This benefits from Mastery: Giantkiller. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1528085,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "152",
+                "silver": "80",
+                "copper": "85"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Evoker",
+                        "id": 13
+                    }
+                ],
+                "display_string": "Classes: Evoker"
+            }
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

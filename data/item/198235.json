@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198235?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198235,
+    "name": "Lapidary's Khaz'gorite Clamps",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 356,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198235?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198235
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 250000,
+    "sell_price": 50000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Provides all the necessary tools for jewelcrafting in one convenient package.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198235?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198235
+        },
+        "context": 0,
+        "bonus_list": [
+            8843,
+            8842
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Lapidary's Khaz'gorite Clamps",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198235?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198235
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_RESOURCEFULNESS",
+                    "name": "Resourcefulness"
+                },
+                "value": 79,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+79 Resourcefulness",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390014?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+10 Jewelcrafting",
+                    "id": 390014
+                },
+                "description": "Equip: +10 Jewelcrafting Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 50000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "5",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "description": "Provides all the necessary tools for jewelcrafting in one convenient package.",
+        "modified_crafting_stat": [
+            {
+                "id": 76,
+                "type": "BONUS_STAT_PROFESSION_RESOURCEFULNESS",
+                "name": "Resourcefulness"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

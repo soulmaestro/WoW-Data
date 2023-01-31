@@ -1,0 +1,285 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152116?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 152116,
+    "name": "Dreadwake Legplates",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/152116?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 152116
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "LEGS",
+        "name": "Legs"
+    },
+    "purchase_price": 3211347,
+    "sell_price": 642269,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/152116?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152116
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Dreadwake Legplates",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/152116?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152116
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "LEGS",
+            "name": "Legs"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 20,
+            "display": {
+                "display_string": "20 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 6,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+6 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 10,
+                "display": {
+                    "display_string": "+10 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 7,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+7 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 6,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+6 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 2225,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "22",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Death Knight",
+                        "id": 6
+                    }
+                ],
+                "display_string": "Classes: Death Knight"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1330?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dreadwake Armor",
+                "id": 1330
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152112?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadwake Bonecage",
+                        "id": 152112
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152113?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadwake Greatcloak",
+                        "id": 152113
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152114?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadwake Gauntlets",
+                        "id": 152114
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152115?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadwake Helm",
+                        "id": 152115
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152116?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadwake Legplates",
+                        "id": 152116
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152117?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreadwake Pauldrons",
+                        "id": 152117
+                    }
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Dreadwake Armor (0/6)"
+        },
+        "level": {
+            "value": 50,
+            "display_string": "Item Level 50"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,209 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172351?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 172351,
+    "name": "Composite Crossbow",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 100,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/172351?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 172351
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Crossbow",
+        "id": 18
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 4493037,
+    "sell_price": 898607,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/172351?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172351
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Composite Crossbow",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/172351?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172351
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Crossbow",
+            "id": 18
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 28,
+                "max_value": 43,
+                "display_string": "28 - 43 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 11.833332,
+                "display_string": "(11.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 16,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+16 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 24,
+                "display": {
+                    "display_string": "+24 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 16,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+16 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 16,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+16 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 36667,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "66",
+                "copper": "67"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 100,
+            "display_string": "Item Level 100"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 36,
+                "type": "HASTE_RATING",
+                "name": "Haste"
+            },
+            {
+                "id": 32,
+                "type": "CRIT_RATING",
+                "name": "Critical Strike"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139841?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139841,
+    "name": "Totem of the Earth",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139841?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139841
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 323503,
+    "sell_price": 80875,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139841?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139841
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Totem of the Earth",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139841?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139841
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/221948?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "7.0 Follower Equipment - Shaman - Blue - Troop Affinity B",
+                    "id": 221948
+                },
+                "description": "Use: Equip a Champion with Totem of the Earth which grants:  \r\rIncreases success chance of missions by 15% when accompanied by Circles of Earthcallers or Earthen Ring Geomancers."
+            }
+        ],
+        "sell_price": {
+            "value": 80875,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "8",
+                "silver": "8",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shaman",
+                        "id": 7
+                    }
+                ],
+                "display_string": "Classes: Shaman"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Champion Equipment",
+            "color": {
+                "r": 255,
+                "g": 208,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

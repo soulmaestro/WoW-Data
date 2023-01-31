@@ -1,0 +1,195 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21731?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21731,
+    "name": "Schematic: Green Rocket Cluster",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21731?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21731
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3500,
+    "sell_price": 875,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Green Rocket Cluster.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21731?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21731
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Schematic: Green Rocket Cluster",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21731?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21731
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 875,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "8",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 225,
+                "display_string": "Requires Classic Engineering (225)"
+            }
+        },
+        "description": "Teaches you how to make a Green Rocket Cluster.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/21574?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 21574
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Green Rocket Cluster",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/21574?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 21574
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 15
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Holiday",
+                    "id": 3
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/26325?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Green Firework Cluster",
+                            "id": 26325
+                        },
+                        "description": "Use: Throw into a cluster launcher! (2 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 25,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "25"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/10505?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Solid Blasting Powder",
+                        "id": 10505
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/4304?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Thick Leather",
+                        "id": 4304
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Solid Blasting Powder, Thick Leather"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6041?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6041,
+    "name": "Steel Weapon Chain",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 16,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/6041?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6041
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 6000,
+    "sell_price": 1500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/6041?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6041
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Steel Weapon Chain",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/6041?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6041
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/7220?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon Chain",
+                    "id": 7220
+                },
+                "description": "Use: Attaches a chain to your weapon, reducing the duration of Disarm effects by 50%. Does not stack with other similar effects. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 1500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "15",
+                "copper": "0"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

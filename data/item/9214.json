@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/9214?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9214,
+    "name": "Grimoire of Inferno",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 21,
+    "required_level": 21,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/9214?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9214
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "This item appears damaged by the elements and no longer readable.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/9214?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 9214
+        },
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Grimoire of Inferno",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/9214?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 9214
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 21,
+                "display_string": "Requires Level 21"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlock",
+                        "id": 9
+                    }
+                ],
+                "display_string": "Classes: Warlock"
+            }
+        },
+        "description": "This item appears damaged by the elements and no longer readable.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/79813?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 79813,
+    "name": "Alliance Scrap",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/79813?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 79813
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 3,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A scrap of fabric that bears Alliance colors. Perhaps additional scraps can be found on Slingtail Stickypaws.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/79813?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 79813
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Alliance Scrap",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/79813?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 79813
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (3)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/113282?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Combining Scraps",
+                    "id": 113282
+                },
+                "description": "Use: Combine 3 Alliance Scraps together to restore their original form."
+            }
+        ],
+        "description": "A scrap of fabric that bears Alliance colors. Perhaps additional scraps can be found on Slingtail Stickypaws.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

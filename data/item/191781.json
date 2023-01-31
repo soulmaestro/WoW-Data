@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191781?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191781,
+    "name": "Vestige of the Devourers",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 50,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191781?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191781
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/18?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Optional Reagents",
+        "id": 18
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000000,
+    "sell_price": 15000000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191781?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191781
+        },
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Vestige of the Devourers",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191781?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191781
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/18?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Optional Reagents",
+            "id": 18
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1,500",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2478?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Enlightened",
+                    "id": 2478
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Enlightened - Honored"
+            }
+        },
+        "is_subclass_hidden": true,
+        "crafting_reagent": "Crafting Reagent"
+    },
+    "purchase_quantity": 1,
+    "modified_crafting": {
+        "id": 107,
+        "category": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/category/83?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Set Item Level",
+            "id": 83
+        },
+        "description": "Set the Item Level of a rank 1 recipe to 249."
+    }
+}

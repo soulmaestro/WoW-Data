@@ -1,0 +1,287 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87118?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 87118,
+    "name": "Guardian Serpent Mantle",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 40,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/87118?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 87118
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloth",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 3071334,
+    "sell_price": 614266,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/87118?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87118
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Guardian Serpent Mantle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/87118?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87118
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloth",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 3,
+            "display": {
+                "display_string": "3 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +2 Intellect",
+        "sell_price": {
+            "value": 646,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "6",
+                "copper": "46"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Priest",
+                        "id": 5
+                    }
+                ],
+                "display_string": "Classes: Priest"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1137?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vestments of the Guardian Serpent",
+                "id": 1137
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/85359?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Guardian Serpent Mantle",
+                        "id": 85359
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/85360?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Guardian Serpent Robes",
+                        "id": 85360
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/85361?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Guardian Serpent Legwraps",
+                        "id": 85361
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/85362?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Guardian Serpent Cowl",
+                        "id": 85362
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/85363?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Guardian Serpent Handwraps",
+                        "id": 85363
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Reduces the mana cost of your Flash Heal spell by 20%.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Reduces the cooldown of your Penance spell by 3 sec and reduces the cooldown of your  Circle of Healing spell by 4 sec.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Vestments of the Guardian Serpent (0/5)"
+        },
+        "level": {
+            "value": 40,
+            "display_string": "Item Level 40"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        },
+        "name_description": {
+            "display_string": "Heroic",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

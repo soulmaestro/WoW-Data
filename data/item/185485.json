@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/185485?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 185485,
+    "name": "Rune Remover",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/185485?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 185485
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 250,
+    "max_count": 10,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Removes the toughest stains and magical enhancements.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/185485?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 185485
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Rune Remover",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/185485?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 185485
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (10)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/350233?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Putrification Potion",
+                    "id": 350233
+                },
+                "description": "Use: Removes the runes protecting an enemy, inflicting 4,276 Nature damage to enemies within 7 yards, reducing health by 30%, and reducing all damage dealt by 30% for 2 min.\r\n\r\nRemoved runes will be tossed to the ground for collection. (10 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "50"
+            }
+        },
+        "description": "Removes the toughest stains and magical enhancements.",
+        "expiration_time_left": {
+            "value": 7200,
+            "display_string": "Duration: 2 hrs"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 10
+}

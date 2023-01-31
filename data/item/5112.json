@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/5112?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5112,
+    "name": "Ritual Blade",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 8,
+    "required_level": 5,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/5112?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5112
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 3651,
+    "sell_price": 730,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/5112?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 5112
+        },
+        "context": 0,
+        "bonus_list": [
+            3631
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Ritual Blade",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/5112?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 5112
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 35,
+                "max_value": 59,
+                "display_string": "35 - 59 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 26.11111,
+                "display_string": "(26.1 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 44,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+44 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 330420,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "33",
+                "silver": "4",
+                "copper": "20"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 5,
+                "display_string": "Requires Level 5"
+            }
+        },
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "durability": {
+            "value": 25,
+            "display_string": "Durability 25 / 25"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,287 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162379?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 162379,
+    "name": "Design: Owlseye Loop",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/162379?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 162379
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Owlseye Loop more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/162379?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162379
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Owlseye Loop",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/162379?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162379
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/256517?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Owlseye Loop",
+                    "id": 256517
+                },
+                "description": "Use: Teaches you how to craft an Owlseye Loop more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2517?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Jewelcrafting",
+                    "id": 2517
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Jewelcrafting (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2162?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Storm's Wake",
+                    "id": 2162
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Storm's Wake - Revered"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/153685?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 153685
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Owlseye Loop",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/153685?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 153685
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "FINGER",
+                    "name": "Finger"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 7,
+                        "display": {
+                            "display_string": "+7 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "HASTE_RATING",
+                            "name": "Haste"
+                        },
+                        "value": 14,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+14 Haste",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 1644,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "16",
+                        "copper": "44"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "level": {
+                    "value": 59,
+                    "display_string": "Item Level 59"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154120?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Owlseye",
+                        "id": 154120
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Owlseye, Storm Silver Ore (10), Expulsom"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

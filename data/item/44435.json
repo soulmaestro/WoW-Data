@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44435?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44435,
+    "name": "Windle's Lighter",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44435?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44435
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 1250,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Shine on!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44435?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44435
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Windle's Lighter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44435?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44435
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/60535?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Light Lamp",
+                    "id": 60535
+                },
+                "description": "Use: Turn on a wall sconce in Dalaran."
+            }
+        ],
+        "sell_price": {
+            "value": 1250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "description": "Shine on!",
+        "charges": {
+            "value": 5,
+            "display_string": "5 Charges"
+        },
+        "expiration_time_left": {
+            "value": 900,
+            "display_string": "Duration: 15 min"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

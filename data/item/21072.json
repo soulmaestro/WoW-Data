@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21072?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21072,
+    "name": "Smoked Sagefish",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 5,
+    "required_level": 5,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21072?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21072
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 160,
+    "sell_price": 40,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21072?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21072
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Smoked Sagefish",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21072?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21072
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/25690?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Brain Food",
+                    "id": 25690
+                },
+                "description": "Use: Restores 121 health and 181 mana over 21 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 1 Mana every 5 seconds for 15 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 40,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "40"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 5,
+                "display_string": "Requires Level 5"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

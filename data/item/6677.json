@@ -1,0 +1,156 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6677?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6677,
+    "name": "Spellcrafter Wand",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 16,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/6677?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6677
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Wand",
+        "id": 19
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 20010,
+    "sell_price": 4002,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/6677?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6677
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Spellcrafter Wand",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/6677?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6677
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Wand",
+            "id": 19
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 1,
+                "max_value": 1,
+                "display_string": "1 Arcane Damage",
+                "damage_class": {
+                    "type": "ARCANE",
+                    "name": "Arcane"
+                }
+            },
+            "attack_speed": {
+                "value": 2000,
+                "display_string": "Speed 2.00"
+            },
+            "dps": {
+                "value": 0.5,
+                "display_string": "(0.5 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 6,
+                "display": {
+                    "display_string": "+6 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 102,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "2"
+            }
+        },
+        "level": {
+            "value": 16,
+            "display_string": "Item Level 16"
+        },
+        "durability": {
+            "value": 50,
+            "display_string": "Durability 50 / 50"
+        }
+    },
+    "purchase_quantity": 1
+}

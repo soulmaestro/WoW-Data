@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22831?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22831,
+    "name": "Elixir of Major Agility",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 26,
+    "required_level": 23,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22831?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22831
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Elixir",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 16000,
+    "sell_price": 4000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22831?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22831
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Elixir of Major Agility",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22831?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22831
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Elixir",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/54494?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Major Agility",
+                    "id": 54494
+                },
+                "description": "Use: Increases your Agility by 9 and your critical strike by 3 for 1 hour.  Battle Elixir. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 4000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "40",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 23,
+                "display_string": "Requires Level 23"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

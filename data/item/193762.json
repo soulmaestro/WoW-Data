@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193762?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193762,
+    "name": "Blazebinder's Hoof",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 250,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193762?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193762
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2672011,
+    "sell_price": 534402,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193762?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193762
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Blazebinder's Hoof",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193762?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193762
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 109,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+109 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/383926?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bound by Fire and Blaze",
+                    "id": 383926
+                },
+                "description": "Use: Bind with the blaze for 20 sec, giving your attacks a high chance to increase your Strength by 83, stacking up to 6 times. When your binding is complete, emit a burnout wave, dealing up to 21,930 Fire damage split between all nearby enemies, based on the strength of your binding. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 480949,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "48",
+                "silver": "9",
+                "copper": "49"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "level": {
+            "value": 250,
+            "display_string": "Item Level 250"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

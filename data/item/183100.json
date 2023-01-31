@@ -1,0 +1,212 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183100?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183100,
+    "name": "Pattern: Heavy Desolate Armor Kit",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183100?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183100
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 800,
+    "sell_price": 200,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Heavy Desolate Armor Kit.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183100?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183100
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Pattern: Heavy Desolate Armor Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183100?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183100
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 200,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2758?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Leatherworking",
+                    "id": 2758
+                },
+                "level": 50,
+                "display_string": "Requires Shadowlands Leatherworking (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2465?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Wild Hunt",
+                    "id": 2465
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Wild Hunt - Honored"
+            }
+        },
+        "description": "Teaches you how to craft a Heavy Desolate Armor Kit.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/172347?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 172347
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Heavy Desolate Armor Kit",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/172347?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 172347
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/14?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Misc",
+                    "id": 14
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/324068?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Apply Armor Kit",
+                            "id": 324068
+                        },
+                        "description": "Use: Increase the stamina of an item worn on the chest by 32 for 2 hrs. Cannot be applied to items higher than level 316. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 2500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "25",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 51,
+                        "display_string": "Requires Level 51"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172096?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heavy Desolate Leather",
+                        "id": 172096
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/177062?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Penumbra Thread",
+                        "id": 177062
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Heavy Desolate Leather (8), Penumbra Thread (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

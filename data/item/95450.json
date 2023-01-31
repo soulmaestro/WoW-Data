@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/95450?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 95450,
+    "name": "Bag of Enigma Seeds",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/95450?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 95450
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 300000,
+    "sell_price": 75000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "The enigma seed is named for its mysterious ability to germinate into a random Pandaren herb.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/95450?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 95450
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Bag of Enigma Seeds",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/95450?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 95450
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/139978?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Throw Enigma Seeds",
+                    "id": 139978
+                },
+                "description": "Use: Throw a handful of Enigma Seeds in an area, sowing them in up to 4 plots of Tilled Soil."
+            }
+        ],
+        "description": "The enigma seed is named for its mysterious ability to germinate into a random Pandaren herb.",
+        "charges": {
+            "value": 10,
+            "display_string": "10 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

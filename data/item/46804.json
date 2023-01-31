@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46804?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46804,
+    "name": "Recipe: Pumpkin Pie",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46804?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46804
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to bake Pumpkin Pie.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46804?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46804
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Pumpkin Pie",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46804?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46804
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2548?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Cooking",
+                    "id": 2548
+                },
+                "level": 100,
+                "display_string": "Requires Classic Cooking (100)"
+            }
+        },
+        "description": "Teaches you how to bake Pumpkin Pie.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/44836?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 44836
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Pumpkin Pie",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/44836?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 44836
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/65421?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Food",
+                            "id": 65421
+                        },
+                        "description": "Use: Restores you to full health and mana over 20 sec.  Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain critical strike for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "1"
+                    }
+                },
+                "requirements": {
+                    "holiday": {
+                        "display_string": "Requires Pilgrim's Bounty"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/46796?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ripe Tirisfal Pumpkin",
+                        "id": 46796
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/44853?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Honey",
+                        "id": 44853
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Ripe Tirisfal Pumpkin, Honey"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

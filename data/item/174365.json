@@ -1,0 +1,255 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/174365?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 174365,
+    "name": "Design: Unbound Leviathan's Eye Loop",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/174365?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 174365
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Unbound Leviathan's Eye Loop.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/174365?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174365
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Unbound Leviathan's Eye Loop",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/174365?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174365
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/305982?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unbound Leviathan's Eye Loop",
+                    "id": 305982
+                },
+                "description": "Use: Teaches you how to craft an Unbound Leviathan's Eye Loop."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2517?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Jewelcrafting",
+                    "id": 2517
+                },
+                "level": 165,
+                "display_string": "Requires Kul Tiran Jewelcrafting (165)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/171077?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 171077
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Unbound Leviathan's Eye Loop",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/171077?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 171077
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "FINGER",
+                    "name": "Finger"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "limit_category": "Unique-Equipped: Leviathan's Eye Loop (1)",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 12,
+                        "display": {
+                            "display_string": "+12 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 17088,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "70",
+                        "copper": "88"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2517?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Kul Tiran Jewelcrafting",
+                            "id": 2517
+                        },
+                        "level": 165,
+                        "display_string": "Requires Kul Tiran Jewelcrafting (165)"
+                    }
+                },
+                "level": {
+                    "value": 95,
+                    "display_string": "Item Level 95"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168635?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Leviathan's Eye",
+                        "id": 168635
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168188?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sage Agate",
+                        "id": 168188
+                    },
+                    "quantity": 40
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168193?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azsharine",
+                        "id": 168193
+                    },
+                    "quantity": 40
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 30
+                }
+            ],
+            "reagents_display_string": "Leviathan's Eye (5), Sage Agate (40), Azsharine (40), Expulsom (30)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

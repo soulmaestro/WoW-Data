@@ -1,0 +1,238 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/141850?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 141850,
+    "name": "Recipe: Elderhorn Riding Harness",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/141850?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 141850
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 1,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Elderhorn Riding Harness.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/141850?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 141850
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Elderhorn Riding Harness",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/141850?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 141850
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/194780?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elderhorn Riding Harness",
+                    "id": 194780
+                },
+                "description": "Use: Teaches you how to craft an Elderhorn Riding Harness."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2526?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Leatherworking",
+                    "id": 2526
+                },
+                "level": 100,
+                "display_string": "Requires Legion Leatherworking (100)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/129962?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 129962
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Elderhorn Riding Harness",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/129962?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 129962
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 15
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mount",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/213339?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Great Northern Elderhorn",
+                            "id": 213339
+                        },
+                        "description": "Use: Teaches you how to summon a Great Northern Elderhorn. This is a ground mount."
+                    }
+                ],
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2526?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Legion Leatherworking",
+                            "id": 2526
+                        },
+                        "level": 100,
+                        "display_string": "Requires Legion Leatherworking (100)"
+                    },
+                    "ability": {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Apprentice Riding",
+                            "id": 33388
+                        },
+                        "display_string": "Requires Apprentice Riding"
+                    }
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124113?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stonehide Leather",
+                        "id": 124113
+                    },
+                    "quantity": 50
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood of Sargeras",
+                        "id": 124124
+                    },
+                    "quantity": 25
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124116?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felhide",
+                        "id": 124116
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Stonehide Leather (50), Blood of Sargeras (25), Felhide (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

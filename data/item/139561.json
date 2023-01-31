@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139561?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139561,
+    "name": "Legend of the Monkey King",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 45,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139561?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139561
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "A very potent and special brew, said to have been concocted by the Monkey King himself. The keg is exquisite, and might serve other purposes beyond housing brew...",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139561?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139561
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Legend of the Monkey King",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139561?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139561
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/220692?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legend of the Monkey King",
+                    "id": 220692
+                },
+                "description": "Use: Unlocks the Ancient Brewkeeper appearance for Fu Zan, the Wanderer's Companion.",
+                "display_color": {
+                    "r": 255,
+                    "g": 204,
+                    "b": 153,
+                    "a": 1.0
+                }
+            }
+        ],
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Monk",
+                        "id": 10
+                    }
+                ],
+                "display_string": "Classes: Monk"
+            }
+        },
+        "description": "A very potent and special brew, said to have been concocted by the Monkey King himself. The keg is exquisite, and might serve other purposes beyond housing brew...",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

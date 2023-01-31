@@ -1,0 +1,178 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/94893?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 94893,
+    "name": "Schematic: Pierre",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 35,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/94893?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 94893
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create Pierre.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/94893?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 94893
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Schematic: Pierre",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/94893?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 94893
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/202?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Engineering",
+                    "id": 202
+                },
+                "level": 600,
+                "display_string": "Requires Engineering (600)"
+            }
+        },
+        "description": "Teaches you how to create Pierre.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/94903?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 94903
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Pierre",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/94903?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 94903
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 15
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Companion Pets",
+                    "id": 2
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/138824?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Pierre",
+                            "id": 138824
+                        },
+                        "description": "Use: Teaches you how to summon and dismiss this companion."
+                    }
+                ],
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/94113?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Jard's Peculiar Energy Source",
+                        "id": 94113
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/72104?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Living Steel",
+                        "id": 72104
+                    },
+                    "quantity": 15
+                }
+            ],
+            "reagents_display_string": "Jard's Peculiar Energy Source (15), Living Steel (15)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

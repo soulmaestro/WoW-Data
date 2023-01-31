@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152698?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 152698,
+    "name": "Grimestone Stew",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 47,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/152698?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 152698
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A trogg specialty, loved by food connoisseurs. The recipe has eluded many a master's attempts at recreation.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/152698?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152698
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Grimestone Stew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/152698?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152698
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/272818?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Refreshment",
+                    "id": 272818
+                },
+                "description": "Use: Restores 19,230 health and 15,384 mana over 20 sec.  Must remain seated while eating.\r\n\r\nIf you spend at least 10 seconds eating you will become well fed and gain a chance while attacking to toss a grindstone, dealing 1,393 Physical damage. This bonus lasts 10 sec. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "description": "A trogg specialty, loved by food connoisseurs. The recipe has eluded many a master's attempts at recreation.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

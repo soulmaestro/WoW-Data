@@ -1,0 +1,183 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/136709?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 136709,
+    "name": "Recipe: Demonsteel Stirrups",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/136709?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 136709
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Demonsteel Stirrups.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/136709?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 136709
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Demonsteel Stirrups",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/136709?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 136709
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/209564?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Demonsteel Stirrups",
+                    "id": 209564
+                },
+                "description": "Use: Teaches you how to make Demonsteel Stirrups."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2454?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Blacksmithing",
+                    "id": 2454
+                },
+                "level": 1,
+                "display_string": "Requires Legion Blacksmithing (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/136708?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 136708
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Demonsteel Stirrups",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/136708?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 136708
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/209563?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Demonsteel Stirrups",
+                            "id": 209563
+                        },
+                        "description": "Use: Place stirrups onto your mount, allowing you to interact while mounted in the Broken Isles for 2 hrs.\r\n\r\nThe effect's duration is quadrupled for blacksmiths."
+                    }
+                ],
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124461?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demonsteel Bar",
+                        "id": 124461
+                    },
+                    "quantity": 8
+                }
+            ],
+            "reagents_display_string": "Demonsteel Bar (8)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

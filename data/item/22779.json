@@ -1,0 +1,108 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22779?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22779,
+    "name": "Scourgebane Draught",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 5,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22779?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22779
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2800,
+    "sell_price": 700,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22779?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22779
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Scourgebane Draught",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22779?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22779
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/28486?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Scourgebane Draught",
+                    "id": 28486
+                },
+                "description": "Use: Increases attack power by 5 against undead.  Lasts 30 min. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 700,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "7",
+                "copper": "0"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

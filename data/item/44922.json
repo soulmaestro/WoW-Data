@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44922?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44922,
+    "name": "Glyph of Stars",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 11,
+    "required_level": 11,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44922?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44922
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Glyph",
+        "id": 16
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Druid",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 400,
+    "sell_price": 100,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44922?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44922
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Glyph of Stars",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44922?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44922
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Glyph",
+            "id": 16
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Druid",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/62134?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Stars",
+                    "id": 62134
+                },
+                "description": "Use: Your Moonkin Form now appears as Astral Form, conferring all the same benefits, but appearing as an astrally enhanced version of your normal humanoid form."
+            }
+        ],
+        "sell_price": {
+            "value": 100,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 11,
+                "display_string": "Requires Level 11"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/11?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Druid",
+                        "id": 11
+                    }
+                ],
+                "display_string": "Classes: Druid"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

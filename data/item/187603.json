@@ -1,0 +1,106 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/187603?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 187603,
+    "name": "The Mad Duke's Tea",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 120,
+    "required_level": 51,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/187603?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 187603
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/187603?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 187603
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "The Mad Duke's Tea",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/187603?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 187603
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/359040?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Party Favors",
+                    "id": 359040
+                },
+                "description": "Use: Consume The Mad Duke's Tea, increasing your Intellect, Haste, Critical Strike chance, or Versatility for 4 hrs.\r\n\r\nYou can only have the effect of one of The Mad Duke's Tea active at a time. (1 Hr Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 51,
+                "display_string": "Requires Level 51"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

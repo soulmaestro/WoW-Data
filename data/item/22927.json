@@ -1,0 +1,211 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22927?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22927,
+    "name": "Recipe: Ironshield Potion",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22927?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22927
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000,
+    "sell_price": 15000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Ironshield Potion.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22927?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22927
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Ironshield Potion",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22927?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22927
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Alchemy",
+                    "id": 2484
+                },
+                "level": 65,
+                "display_string": "Requires Outland Alchemy (65)"
+            }
+        },
+        "description": "Teaches you how to make an Ironshield Potion.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/22849?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22849
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Ironshield Potion",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/22849?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22849
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Potion",
+                    "id": 1
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/28515?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Ironshield",
+                            "id": 28515
+                        },
+                        "description": "Use: Increases armor by 9 for 15 sec. (5 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 7000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "70",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 25,
+                        "display_string": "Requires Level 25"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22790?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ancient Lichen",
+                        "id": 22790
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22573?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mote of Earth",
+                        "id": 22573
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crystal Vial",
+                        "id": 3371
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Ancient Lichen (2), Mote of Earth (3), Crystal Vial"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

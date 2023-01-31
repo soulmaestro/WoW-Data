@@ -1,0 +1,172 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22564?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22564,
+    "name": "Formula: Arcane Dust",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22564?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22564
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to turn an Arcane Crystal into Arcane Dust.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22564?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22564
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Formula: Arcane Dust",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22564?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22564
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/28021?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Arcane Dust",
+                    "id": 28021
+                },
+                "description": "Use: Teaches you how to turn an Arcane Crystal into Arcane Dust."
+            }
+        ],
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2493?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Enchanting",
+                    "id": 2493
+                },
+                "level": 25,
+                "display_string": "Requires Outland Enchanting (25)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/22445?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22445
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Arcane Dust",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/22445?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22445
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/12?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Enchanting",
+                    "id": 12
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12363?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Arcane Crystal",
+                        "id": 12363
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Arcane Crystal"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23826?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23826,
+    "name": "The Bigger One",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 26,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23826?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23826
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 12000,
+    "sell_price": 3000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23826?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23826
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "The Bigger One",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23826?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23826
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/30461?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Bigger One",
+                    "id": 30461
+                },
+                "description": "Use: Inflicts 43 Fire damage and incapacitates targets for 5 sec in a 10 yard radius.  Any damage will break the effect.  Unreliable against targets higher than level 49. (1 Min Cooldown) (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 3000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2505?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Engineering",
+                    "id": 2505
+                },
+                "level": 25,
+                "display_string": "Requires Outland Engineering (25)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,218 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/195214?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 195214,
+    "name": "Hoursteel Barrier",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 314,
+    "required_level": 68,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/195214?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 195214
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shield",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "SHIELD",
+        "name": "Off Hand"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/195214?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 195214
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Hoursteel Barrier",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/195214?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 195214
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shield",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "SHIELD",
+            "name": "Off Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 1256,
+            "display": {
+                "display_string": "1,256 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "shield_block": {
+            "value": 3140,
+            "display": {
+                "display_string": "3,140 Block",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 282,
+                "display": {
+                    "display_string": "+282 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 92,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+92 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 227,
+                "display": {
+                    "display_string": "+227 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 52,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+52 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 57,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+57 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 452290,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "45",
+                "silver": "22",
+                "copper": "90"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 68,
+                "display_string": "Requires Level 68"
+            }
+        },
+        "level": {
+            "value": 314,
+            "display_string": "Item Level 314"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

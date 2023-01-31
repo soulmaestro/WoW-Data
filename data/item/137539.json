@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137539?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137539,
+    "name": "Faulty Countermeasure",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137539?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137539
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 348192,
+    "sell_price": 69638,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137539?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137539
+        },
+        "context": 0,
+        "bonus_list": [
+            6654
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Faulty Countermeasure",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137539?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137539
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 61,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+61 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/214962?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sheathed in Frost",
+                    "id": 214962
+                },
+                "description": "Use: Sheathe your weapons in ice for 30 sec, giving your melee attacks a chance to cause 1,439 additional Frost damage and slow the target's movement speed by 20% for 8 sec. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 236150,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "23",
+                "silver": "61",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 40,
+                "display_string": "Requires Level 40"
+            }
+        },
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

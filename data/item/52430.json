@@ -1,0 +1,171 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52430?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 52430,
+    "name": "Design: Puissant Dream Emerald",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/52430?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 52430
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Puissant Dream Emerald.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/52430?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 52430
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Puissant Dream Emerald",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/52430?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 52430
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Jewelcrafting",
+                    "id": 2521
+                },
+                "level": 15,
+                "display_string": "Requires Cataclysm Jewelcrafting (15)"
+            }
+        },
+        "description": "Teaches you how to cut a Puissant Dream Emerald.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/52231?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 52231
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Puissant Dream Emerald",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/52231?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 52231
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Multiple Stats",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 8250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "82",
+                        "copper": "50"
+                    }
+                },
+                "description": "Matches any socket.",
+                "gem_properties": {
+                    "min_item_level": {
+                        "value": 35,
+                        "display_string": "Requires Item Level: 35"
+                    },
+                    "effect": "+2 Mastery and +2 Stamina"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52192?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dream Emerald",
+                        "id": 52192
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Dream Emerald"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,261 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168660?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 168660,
+    "name": "Schematic: Blingtron 7000",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/168660?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 168660
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 250000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Blingtron 7000.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/168660?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168660
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Schematic: Blingtron 7000",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/168660?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168660
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/298930?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Blingtron 7000",
+                    "id": 298930
+                },
+                "description": "Use: Teaches you how to make Blingtron 7000."
+            }
+        ],
+        "sell_price": {
+            "value": 250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "25",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2499?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Engineering",
+                    "id": 2499
+                },
+                "level": 175,
+                "display_string": "Requires Kul Tiran Engineering (175)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2391?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rustbolt Resistance",
+                    "id": 2391
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Rustbolt Resistance - Exalted"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/168667?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 168667
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Blingtron 7000",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/168667?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 168667
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/298926?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Blingtron 7000",
+                            "id": 298926
+                        },
+                        "description": "Use: Adds this toy to your Toy Box.\n\nAssembles the upgraded Blingtron 7000, a savage, yet generous, robot.  While he will give out gifts to players once per day, he will also fight other Blingtron units to the death. (4 Hr Cooldown)"
+                    }
+                ],
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2499?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Kul Tiran Engineering",
+                            "id": 2499
+                        },
+                        "level": 1,
+                        "display_string": "Requires Kul Tiran Engineering (1)"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "toy": "Toy"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Platinum Ore",
+                        "id": 152513
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154123?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Amberblaze",
+                        "id": 154123
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154124?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Laribole",
+                        "id": 154124
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/163569?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Insulated Wiring",
+                        "id": 163569
+                    },
+                    "quantity": 25
+                }
+            ],
+            "reagents_display_string": "Platinum Ore (5), Storm Silver Ore (10), Amberblaze (3), Laribole (3), Insulated Wiring (25)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

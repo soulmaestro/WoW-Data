@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193559?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193559,
+    "name": "Reinforced Armor Kit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 385,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193559?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193559
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/14?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Misc",
+        "id": 14
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 37500,
+    "sell_price": 7500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193559?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193559
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Reinforced Armor Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193559?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193559
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/14?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Misc",
+            "id": 14
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/376839?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Apply Reinforced Armor Kit",
+                    "id": 376839
+                },
+                "description": "Use: Apply a Reinforced Armor Kit to your leg armor, causing it to permanently gain 74 Agility or Strength. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 7500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "75",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

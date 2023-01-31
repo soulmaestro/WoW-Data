@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165577?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165577,
+    "name": "Bwonsamdi's Bargain",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 60,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165577?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165577
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3133175,
+    "sell_price": 626635,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165577?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165577
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Bwonsamdi's Bargain",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165577?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165577
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 8,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+8 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 8,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+8 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/288186?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bwonsamdi's Bargain",
+                    "id": 288186
+                },
+                "description": "Equip: Absorbs up to 3,086 damage from an attack that would kill you. When this effect occurs, you instantly heal for 961 and then gain Bwonsamdi's Bargain absorbing healing equal to 60% of the initial damage prevented. May only occur once every 6 min."
+            }
+        ],
+        "sell_price": {
+            "value": 3273,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "32",
+                "copper": "73"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 60,
+            "display_string": "Item Level 60"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

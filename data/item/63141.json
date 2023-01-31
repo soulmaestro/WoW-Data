@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/63141?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 63141,
+    "name": "Tol Barad Searchlight",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/63141?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 63141
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2500000,
+    "sell_price": 625000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/63141?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 63141
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Tol Barad Searchlight",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/63141?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 63141
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/89054?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tol Barad Searchlight",
+                    "id": 89054
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nSet down your Tol Barad Searchlight. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 625000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "62",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1177?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Baradin's Wardens",
+                    "id": 1177
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Baradin's Wardens - Honored"
+            }
+        },
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

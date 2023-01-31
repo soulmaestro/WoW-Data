@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198442?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198442,
+    "name": "Bogthwottle's Shrinky-Do",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198442?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198442
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Elixir",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3500,
+    "sell_price": 175,
+    "max_count": 10,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "The scratched lettering on the label reads, 'Only the finest ingredients from, er... trust me. It's delicious!'.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198442?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198442
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Bogthwottle's Shrinky-Do",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198442?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198442
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Elixir",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (10)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/383416?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bogthwottle's Shrinky-Do",
+                    "id": 383416
+                },
+                "description": "Use: Shrinks the caster and party members within 40 yards for 10 min. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 175,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "75"
+            }
+        },
+        "description": "The scratched lettering on the label reads, 'Only the finest ingredients from, er... trust me. It's delicious!'.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

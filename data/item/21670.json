@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21670?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21670,
+    "name": "Badge of the Swarmguard",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21670?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21670
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 321213,
+    "sell_price": 80303,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21670?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21670
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Badge of the Swarmguard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21670?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21670
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/26480?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Badge of the Swarmguard",
+                    "id": 26480
+                },
+                "description": "Use: Gives a chance on melee or ranged attack to apply an effect on you for 30 sec, increasing your critical strike by 5. The critical strike effect can be applied up to 6 times. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 80303,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "8",
+                "silver": "3",
+                "copper": "3"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            }
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

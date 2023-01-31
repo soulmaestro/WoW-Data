@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21760?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21760,
+    "name": "Figurine - Truesilver Crab",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 24,
+    "required_level": 17,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21760?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21760
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 6000,
+    "sell_price": 1500,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21760?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21760
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Figurine - Truesilver Crab",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21760?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21760
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "DODGE_RATING",
+                    "name": "Dodge"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Dodge",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/26581?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Truesilver Crab",
+                    "id": 26581
+                },
+                "description": "Use: Increase Versatility by 3 for 20 sec. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "15",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 17,
+                "display_string": "Requires Level 17"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2524?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Jewelcrafting",
+                    "id": 2524
+                },
+                "level": 225,
+                "display_string": "Requires Classic Jewelcrafting (225)"
+            }
+        },
+        "level": {
+            "value": 24,
+            "display_string": "Item Level 24"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

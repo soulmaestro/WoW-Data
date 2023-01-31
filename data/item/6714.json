@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6714?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6714,
+    "name": "EZ-Thro Dynamite",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 11,
+    "required_level": 5,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/6714?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6714
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 300,
+    "sell_price": 75,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/6714?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6714
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "EZ-Thro Dynamite",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/6714?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6714
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/8331?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ez-Thro Dynamite",
+                    "id": 8331
+                },
+                "description": "Use: The dynamite for Non-Engineers that nearly always gets to the target!  Inflicts 1 Fire damage in a 5 yard radius. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 75,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 5,
+                "display_string": "Requires Level 5"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

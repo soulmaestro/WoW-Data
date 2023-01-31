@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193540?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193540,
+    "name": "Dragoncloth Tailoring Vestments",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 382,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193540?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193540
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tailoring",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "PROFESSION_GEAR",
+        "name": "Profession Equipment"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 200000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193540?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193540
+        },
+        "context": 0,
+        "bonus_list": [
+            8844,
+            8842
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Dragoncloth Tailoring Vestments",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193540?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193540
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tailoring",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "PROFESSION_GEAR",
+            "name": "Profession Equipment"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Chest (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_INSPIRATION",
+                    "name": "Inspiration"
+                },
+                "value": 53,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+53 Inspiration",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_MULTICRAFT",
+                    "name": "Multicraft"
+                },
+                "value": 35,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+35 Multicraft",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/387313?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dragon Isles Draconic Cloth Scavenger",
+                    "id": 387313
+                },
+                "description": "Equip: +10 Tailoring Skill.\r\n\r\nYou have a chance to occasionally find cloth on Dragonkin in the Dragon Isles."
+            }
+        ],
+        "sell_price": {
+            "value": 200000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "20",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

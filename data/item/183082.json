@@ -1,0 +1,196 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183082?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183082,
+    "name": "Battle Tested Wand",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 151,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183082?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183082
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Wand",
+        "id": 19
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 5264842,
+    "sell_price": 1052968,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183082?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183082
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Battle Tested Wand",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183082?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183082
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Wand",
+            "id": 19
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 14,
+                "max_value": 24,
+                "display_string": "14 - 24 Nature Damage",
+                "damage_class": {
+                    "type": "NATURE",
+                    "name": "Nature"
+                }
+            },
+            "attack_speed": {
+                "value": 2000,
+                "display_string": "Speed 2.00"
+            },
+            "dps": {
+                "value": 9.5,
+                "display_string": "(9.5 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 100,
+                "display": {
+                    "display_string": "+100 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 26,
+                "display": {
+                    "display_string": "+26 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 15,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+15 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 18,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+18 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 268965,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "26",
+                "silver": "89",
+                "copper": "65"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 151,
+            "display_string": "Item Level 151"
+        },
+        "durability": {
+            "value": 90,
+            "display_string": "Durability 90 / 90"
+        }
+    },
+    "purchase_quantity": 1
+}

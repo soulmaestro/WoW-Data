@@ -1,0 +1,319 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/182261?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 182261,
+    "name": "Bladesworn Wraith's Boots",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 155,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/182261?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 182261
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "FEET",
+        "name": "Feet"
+    },
+    "purchase_price": 3063864,
+    "sell_price": 612772,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/182261?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182261
+        },
+        "context": 0,
+        "bonus_list": [
+            7200,
+            1507,
+            6646
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Bladesworn Wraith's Boots",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/182261?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182261
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "FEET",
+            "name": "Feet"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 52,
+            "display": {
+                "display_string": "52 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 43,
+                "display": {
+                    "display_string": "+43 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 43,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+43 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 75,
+                "display": {
+                    "display_string": "+75 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 36,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+36 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 42,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+42 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 352077,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "35",
+                "silver": "20",
+                "copper": "77"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1475?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Guile of Maldraxxus",
+                "id": 1475
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182259?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Visage",
+                        "id": 182259
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182260?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Jerkin",
+                        "id": 182260
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182261?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Boots",
+                        "id": 182261
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182262?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Stranglers",
+                        "id": 182262
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182263?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Breeches",
+                        "id": 182263
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182264?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Shoulders",
+                        "id": 182264
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182265?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Belt",
+                        "id": 182265
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182266?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Armguards",
+                        "id": 182266
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182267?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Wraith's Cloak",
+                        "id": 182267
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(3) Set: Increases your out-of-combat regeneration in outdoor Shadowland zones. While in your Covenant's realm, the regeneration amount is increased.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(5) Set: While Fleshcraft is active your Intellect is increased by 100. \r\n",
+                    "required_count": 5
+                },
+                {
+                    "display_string": "(8) Set: Killing an enemy reduces Fleshcraft's cooldown by 3 sec and your Critical Strike rating is increased by 35, stacking 5 times.",
+                    "required_count": 8
+                }
+            ],
+            "display_string": "Guile of Maldraxxus (0/9)"
+        },
+        "level": {
+            "value": 190,
+            "display_string": "Item Level 190"
+        },
+        "durability": {
+            "value": 80,
+            "display_string": "Durability 80 / 80"
+        }
+    },
+    "purchase_quantity": 1
+}

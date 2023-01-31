@@ -1,0 +1,273 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161135?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 161135,
+    "name": "Schematic: Mecha-Mogul Mk2",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/161135?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 161135
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Mecha-Mogul Mk2.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/161135?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 161135
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Schematic: Mecha-Mogul Mk2",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/161135?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 161135
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/274621?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mecha-Mogul Mk2",
+                    "id": 274621
+                },
+                "description": "Use: Teaches you how to make a Mecha-Mogul Mk2."
+            }
+        ],
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2499?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Engineering",
+                    "id": 2499
+                },
+                "level": 150,
+                "display_string": "Requires Kul Tiran Engineering (150)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/161134?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 161134
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Mecha-Mogul Mk2",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/161134?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 161134
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 15
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mount",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "unique_equipped": "Unique",
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/261437?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Mecha-Mogul Mk2",
+                            "id": 261437
+                        },
+                        "description": "Use: Teaches you how to pilot the Mecha-Mogul Mk2."
+                    }
+                ],
+                "requirements": {
+                    "ability": {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Apprentice Riding",
+                            "id": 33388
+                        },
+                        "display_string": "Requires Apprentice Riding"
+                    }
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Platinum Ore",
+                        "id": 152513
+                    },
+                    "quantity": 50
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 100
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/161136?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerite Forged Protection Plating",
+                        "id": 161136
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/161137?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blast-Fired Electric Servomotor",
+                        "id": 161137
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/161132?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crush Resistant Stabilizer",
+                        "id": 161132
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/161131?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Barely Stable Azerite Reactor",
+                        "id": 161131
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/161129?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mecha-Mogul Mk1 Remote Activation Device",
+                        "id": 161129
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Platinum Ore (50), Storm Silver Ore (100), Expulsom (20), Azerite Forged Protection Plating (20), Blast-Fired Electric Servomotor (20), Crush Resistant Stabilizer (20), Barely Stable Azerite Reactor, Mecha-Mogul Mk1 Remote Activation Device"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

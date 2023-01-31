@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13515?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13515,
+    "name": "Ramstein's Lightning Bolts",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 27,
+    "required_level": 21,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13515?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13515
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 38400,
+    "sell_price": 9600,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13515?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13515
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Ramstein's Lightning Bolts",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13515?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13515
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 4,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+4 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/17668?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ramstein's Lightning Bolts",
+                    "id": 17668
+                },
+                "description": "Use: Harness the power of lightning to strike down all enemies around you for 49 Nature damage. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 9600,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "96",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 21,
+                "display_string": "Requires Level 21"
+            }
+        },
+        "level": {
+            "value": 27,
+            "display_string": "Item Level 27"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

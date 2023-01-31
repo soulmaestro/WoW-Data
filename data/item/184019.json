@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/184019?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 184019,
+    "name": "Soul Igniter",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 200,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/184019?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 184019
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3470436,
+    "sell_price": 694087,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/184019?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184019
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Soul Igniter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/184019?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184019
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 60,
+                "display": {
+                    "display_string": "+60 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/345251?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Soul Ignition",
+                    "id": 345251
+                },
+                "description": "Use: Activate Soul Igniter, sacrificing up to 7,892 health over 15 sec to empower Blazing Surge.\r\n\r\nReactivate to cast Blazing Surge, dealing 5,637 Fire damage split between enemies in a 40 yd cone, plus up to 40% additional damage, based on how long Soul Igniter was active.\r\n\r\nDamage is increased per enemy struck, up to 5 enemies. (1 min Cooldown) (0 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 446254,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "44",
+                "silver": "62",
+                "copper": "54"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 200,
+            "display_string": "Item Level 200"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

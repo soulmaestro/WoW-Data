@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/178770?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 178770,
+    "name": "Slimy Consumptive Organ",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 158,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/178770?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 178770
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2753178,
+    "sell_price": 550635,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/178770?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 178770
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Slimy Consumptive Organ",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/178770?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 178770
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 55,
+                "display": {
+                    "display_string": "+55 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/334512?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Slimy Consumptive Organ",
+                    "id": 334512
+                },
+                "description": "Equip: Taking damage has a high chance to grant you Gluttonous, stacking up to 9 times.\r\n\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/345595?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Voracity",
+                    "id": 345595
+                },
+                "description": "Use: Spew out a Slimey Morsel for every stack of Gluttonous. The Morsels immediately attempt to return to you, each healing you for 407. (20 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 202399,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "20",
+                "silver": "23",
+                "copper": "99"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 158,
+            "display_string": "Item Level 158"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

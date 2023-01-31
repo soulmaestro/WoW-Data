@@ -1,0 +1,261 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35699?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35699,
+    "name": "Design: Figurine - Seaspray Albatross",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35699?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35699
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 250000,
+    "sell_price": 62500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create a Figure - Seaspray Albatross.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35699?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35699
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Figurine - Seaspray Albatross",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35699?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35699
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 62500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "6",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Jewelcrafting",
+                    "id": 2523
+                },
+                "level": 75,
+                "display_string": "Requires Outland Jewelcrafting (75)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1077?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shattered Sun Offensive",
+                    "id": 1077
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Shattered Sun Offensive - Revered"
+            }
+        },
+        "description": "Teaches you how to create a Figure - Seaspray Albatross.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/35703?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35703
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Figurine - Seaspray Albatross",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/35703?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35703
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "TRINKET",
+                    "name": "Trinket"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "VERSATILITY",
+                            "name": "Versatility"
+                        },
+                        "value": 5,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+5 Versatility",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/46785?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Seaspray Albatross",
+                            "id": 46785
+                        },
+                        "description": "Use: Restores 80 mana over 12 sec. (3 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 15000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Outland Jewelcrafting",
+                            "id": 2523
+                        },
+                        "level": 75,
+                        "display_string": "Requires Outland Jewelcrafting (75)"
+                    }
+                },
+                "level": {
+                    "value": 32,
+                    "display_string": "Item Level 32"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23447?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eternium Bar",
+                        "id": 23447
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/32249?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Seaspray Emerald",
+                        "id": 32249
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22457?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Mana",
+                        "id": 22457
+                    },
+                    "quantity": 8
+                }
+            ],
+            "reagents_display_string": "Eternium Bar (8), Seaspray Emerald (2), Primal Mana (8)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

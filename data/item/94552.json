@@ -1,0 +1,181 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/94552?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 94552,
+    "name": "Plans: Lightning Steel Ingot",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 35,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/94552?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 94552
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create Lightning Steel Ingots.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/94552?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 94552
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Lightning Steel Ingot",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/94552?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 94552
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/138646?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Lightning Steel Ingot",
+                    "id": 138646
+                },
+                "description": "Use: Teaches you how to create Lightning Steel Ingots."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2473?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Blacksmithing",
+                    "id": 2473
+                },
+                "level": 1,
+                "display_string": "Requires Pandaria Blacksmithing (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/94111?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 94111
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Lightning Steel Ingot",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/94111?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 94111
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Parts",
+                    "id": 1
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "sell_price": {
+                    "value": 500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "5",
+                        "copper": "0"
+                    }
+                },
+                "description": "Used by Blacksmiths in the creation of powerful items.",
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/72096?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ghost Iron Bar",
+                        "id": 72096
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Ghost Iron Bar (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

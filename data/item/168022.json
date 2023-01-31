@@ -1,0 +1,283 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168022?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 168022,
+    "name": "Recipe: Khaz'gorian Smithing Hammer",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/168022?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 168022
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 500000,
+    "sell_price": 125000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Khaz'gorian Smithing Hammer.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/168022?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168022
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Recipe: Khaz'gorian Smithing Hammer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/168022?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168022
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/253145?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Khaz'gorian Smithing Hammer",
+                    "id": 253145
+                },
+                "description": "Use: Teaches you how to craft a Khaz'gorian Smithing Hammer."
+            }
+        ],
+        "sell_price": {
+            "value": 125000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "12",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2437?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Blacksmithing",
+                    "id": 2437
+                },
+                "level": 150,
+                "display_string": "Requires Kul Tiran Blacksmithing (150)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/152839?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 152839
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Khaz'gorian Smithing Hammer",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/152839?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 152839
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Profession",
+                    "id": 19
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Blacksmithing",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "PROFESSION_TOOL",
+                    "name": "Profession Tool"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique",
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/253205?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Khaz'gorian Hammer - Aura (DNT)",
+                            "id": 253205
+                        },
+                        "description": "When crafting blacksmithing armor or weapons, there's a chance it will be given the \"Indestructible\" property.\r\n"
+                    },
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/253201?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Khaz'gorian Hammer - Repair",
+                            "id": 253201
+                        },
+                        "description": "Use: Allows the user to repair a piece of their equipment instantly. (1 Hr Cooldown) (Requires level 50 or below)"
+                    },
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/390067?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "+4 Blacksmithing",
+                            "id": 390067
+                        },
+                        "description": "Equip: +4 Blacksmithing Skill."
+                    }
+                ],
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2437?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Kul Tiran Blacksmithing",
+                            "id": 2437
+                        },
+                        "level": 150,
+                        "display_string": "Requires Kul Tiran Blacksmithing (150)"
+                    }
+                },
+                "description": "This hammer may be used in lieu of a normal blacksmithing hammer for crafting."
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168135?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Titan's Blood",
+                        "id": 168135
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168137?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Precision Blessing Tools",
+                        "id": 168137
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168136?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerokk's Fist",
+                        "id": 168136
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Storm Silver Ore",
+                        "id": 152579
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Platinum Ore",
+                        "id": 152513
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Titan's Blood (30), Precision Blessing Tools, Azerokk's Fist, Storm Silver Ore (30), Platinum Ore (20), Expulsom (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

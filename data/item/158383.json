@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/158383?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 158383,
+    "name": "Tidespray Pet Bandage",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 45,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/158383?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 158383
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 50,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Sometimes you just can't find a Stable Master.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/158383?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 158383
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Tidespray Pet Bandage",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/158383?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 158383
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/133994?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Revive Battle Pets",
+                    "id": 133994
+                },
+                "description": "Use: Heals and resurrects all of your battle pets to 100% health. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 50,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/119467?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Battle Pet Training",
+                    "id": 119467
+                },
+                "display_string": "Requires Battle Pet Training"
+            }
+        },
+        "description": "Sometimes you just can't find a Stable Master.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 25
+}

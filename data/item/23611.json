@@ -1,0 +1,351 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23611?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23611,
+    "name": "Plans: Ragesteel Gloves",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23611?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23611
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Ragesteel Gloves.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23611?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23611
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Plans: Ragesteel Gloves",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23611?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23611
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2476?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Blacksmithing",
+                    "id": 2476
+                },
+                "level": 65,
+                "display_string": "Requires Outland Blacksmithing (65)"
+            }
+        },
+        "description": "Teaches you how to make Ragesteel Gloves.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/23520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23520
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Ragesteel Gloves",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/23520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23520
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Plate",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "HAND",
+                    "name": "Hands"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 9,
+                    "display": {
+                        "display_string": "9 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 4,
+                        "display": {
+                            "display_string": "+4 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 4,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+4 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "CRIT_RATING",
+                            "name": "Critical Strike"
+                        },
+                        "value": 4,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+4 Critical Strike",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 30896,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "8",
+                        "copper": "96"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "set": {
+                    "item_set": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item-set/566?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Burning Rage",
+                        "id": 566
+                    },
+                    "items": [
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/23522?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Ragesteel Breastplate",
+                                "id": 23522
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/23521?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Ragesteel Helm",
+                                "id": 23521
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/23520?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Ragesteel Gloves",
+                                "id": 23520
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/33173?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Ragesteel Shoulders",
+                                "id": 33173
+                            }
+                        }
+                    ],
+                    "effects": [
+                        {
+                            "display_string": "(2) Set: Increases your critical strike by 9.",
+                            "required_count": 2
+                        }
+                    ],
+                    "display_string": "Burning Rage (0/4)",
+                    "requirements": {
+                        "skill": {
+                            "profession": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/profession/164?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Blacksmithing",
+                                "id": 164
+                            },
+                            "level": 350,
+                            "display_string": "Requires Blacksmithing (350)"
+                        }
+                    }
+                },
+                "level": {
+                    "value": 32,
+                    "display_string": "Item Level 32"
+                },
+                "durability": {
+                    "value": 50,
+                    "display_string": "Durability 50 / 50"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23445?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fel Iron Bar",
+                        "id": 23445
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Fire",
+                        "id": 21884
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23449?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Khorium Bar",
+                        "id": 23449
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22824?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elixir of Major Strength",
+                        "id": 22824
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Fel Iron Bar (8), Primal Fire (6), Khorium Bar (3), Elixir of Major Strength (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

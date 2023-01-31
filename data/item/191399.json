@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191399?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191399,
+    "name": "Potion of Shocking Disclosure",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 385,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191399?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191399
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 75000,
+    "sell_price": 3000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191399?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191399
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Potion of Shocking Disclosure",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191399?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191399
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/370816?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shocking Disclosure",
+                    "id": 370816
+                },
+                "description": "Use: Envelops you in a field of static for 30 sec, discharging every 5 sec to deal 6,685 damage and reveal nearby enemies.\r\n\r\nEnemies struck by this effect are unable to enter stealth or invisibility for 6 sec. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 3000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

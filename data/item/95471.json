@@ -1,0 +1,236 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/95471?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 95471,
+    "name": "Design: Primal Diamond",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/95471?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 95471
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create a Primal Diamond.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/95471?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 95471
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Primal Diamond",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/95471?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 95471
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/140060?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Primal Diamond",
+                    "id": 140060
+                },
+                "description": "Use: Teaches you how to create a Primal Diamond."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Jewelcrafting",
+                    "id": 2520
+                },
+                "level": 1,
+                "display_string": "Requires Pandaria Jewelcrafting (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/76132?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 76132
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Primal Diamond",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/76132?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 76132
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 6000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "60",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76061?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spirit of Harmony",
+                        "id": 76061
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76130?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tiger Opal",
+                        "id": 76130
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76133?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lapis Lazuli",
+                        "id": 76133
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76134?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sunstone",
+                        "id": 76134
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76135?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Roguestone",
+                        "id": 76135
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76136?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pandarian Garnet",
+                        "id": 76136
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/76137?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Alexandrite",
+                        "id": 76137
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Spirit of Harmony, Tiger Opal (5), Lapis Lazuli (5), Sunstone (5), Roguestone (5), Pandarian Garnet (5), Alexandrite (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

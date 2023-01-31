@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41178?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 41178,
+    "name": "ZX-5103 Mechanical Suit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/41178?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 41178
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 95000,
+    "sell_price": 23750,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/41178?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41178
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "ZX-5103 Mechanical Suit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/41178?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41178
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/54903?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mechanical Suit ZX-5103",
+                    "id": 54903
+                },
+                "description": "Use: Summons a ZX-5103 mechanical suit complete with weaponry.  The suit can operate for 5 min before it needs to recharge and repair any damage. (4 Hr Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 23750,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "37",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Engineering",
+                    "id": 2504
+                },
+                "level": 75,
+                "display_string": "Requires Northrend Engineering (75)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

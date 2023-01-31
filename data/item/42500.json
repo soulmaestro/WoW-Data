@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42500?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42500,
+    "name": "Titanium Shield Spike",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 30,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42500?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42500
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shield/Off-hand",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 48000,
+    "sell_price": 12000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42500?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42500
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Titanium Shield Spike",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42500?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42500
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shield/Off-hand",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/56353?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Titanium Shield Spike",
+                    "id": 56353
+                },
+                "description": "Use: Attaches a Titanium Spike to your shield that deals 3 damage every time you block with it.\r\r\r\n\r\r\r\nAttaching a Titanium Shield Spike to your shield causes it to become soulbound. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 12000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "20",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/198239?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 198239,
+    "name": "Creature Combustion Canister",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 385,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/198239?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 198239
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 25000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/198239?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198239
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Creature Combustion Canister",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/198239?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 198239
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/386690?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Creature Combustion Canister",
+                    "id": 386690
+                },
+                "description": "Use: Throw the canister, exploding the nearest meaty corpse into chunks of meat. Only usable outdoors. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2827?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dragon Isles Engineering",
+                    "id": 2827
+                },
+                "level": 1,
+                "display_string": "Requires Dragon Isles Engineering (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1,
+    "modified_crafting": {
+        "id": 265,
+        "category": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/category/430?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Creature Combustion Canister",
+            "id": 430
+        }
+    }
+}

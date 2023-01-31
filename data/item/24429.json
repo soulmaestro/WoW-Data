@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/24429?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 24429,
+    "name": "Expedition Flare",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 26,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/24429?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 24429
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 8000,
+    "sell_price": 2000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/24429?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 24429
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Expedition Flare",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/24429?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 24429
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/32027?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Expedition Flare",
+                    "id": 32027
+                },
+                "description": "Use: Send a distress flare into the sky, calling for a Cenarion Expedition unit to come to your aid.  Can only be used in Zangarmarsh while outdoors. (1 Hr Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "20",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/942?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cenarion Expedition",
+                    "id": 942
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Cenarion Expedition - Friendly"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

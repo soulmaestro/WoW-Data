@@ -1,0 +1,207 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87247?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 87247,
+    "name": "Recipe: Banquet of the Brew",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/87247?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 87247
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to prepare a Banquet of the Brew.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/87247?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87247
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Banquet of the Brew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/87247?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87247
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2544?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Cooking",
+                    "id": 2544
+                },
+                "level": 75,
+                "display_string": "Requires Pandaria Cooking (75)"
+            }
+        },
+        "description": "Teaches you how to prepare a Banquet of the Brew.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/87246?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87246
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Banquet of the Brew",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/87246?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87246
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/126503?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Banquet of the Brew",
+                            "id": 126503
+                        },
+                        "description": "Use: Set out a Banquet of the Brew to feed up to 10 people in your raid or party!\r\n\r\nRestores 10,841 health and 10,000 mana over 20 sec.  If you spend at least 10 seconds eating you will become well fed and gain 6 in a stat for 1 hour."
+                    }
+                ],
+                "sell_price": {
+                    "value": 1500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "15",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74853?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "100 Year Soy Sauce",
+                        "id": 74853
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74840?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Green Cabbage",
+                        "id": 74840
+                    },
+                    "quantity": 50
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74846?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Witchberries",
+                        "id": 74846
+                    },
+                    "quantity": 50
+                }
+            ],
+            "reagents_display_string": "100 Year Soy Sauce, Green Cabbage (50), Witchberries (50)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

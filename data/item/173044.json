@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173044?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 173044,
+    "name": "Wreathed Fishing Pole",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 8,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/173044?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 173044
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fishing",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 4977,
+    "sell_price": 995,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/173044?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 173044
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Wreathed Fishing Pole",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/173044?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 173044
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fishing",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/174481?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+14 Fishing",
+                    "id": 174481
+                },
+                "description": "Equip: +14 Fishing Skill."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/310674?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Brokers Angle'r - Bait Aura",
+                    "id": 310674
+                },
+                "description": "Equip: Increases your chance to find bait while fishing in the Shadowlands."
+            }
+        ],
+        "sell_price": {
+            "value": 995,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "9",
+                "copper": "95"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/356?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing",
+                    "id": 356
+                },
+                "level": 1,
+                "display_string": "Requires Fishing (1)"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,319 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/180900?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 180900,
+    "name": "Dread Sentinel's Ebony Headgear",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 155,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/180900?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 180900
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 3007429,
+    "sell_price": 601485,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/180900?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180900
+        },
+        "context": 0,
+        "bonus_list": [
+            7197,
+            1488,
+            6616
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Dread Sentinel's Ebony Headgear",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/180900?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180900
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 123,
+            "display": {
+                "display_string": "123 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 47,
+                "display": {
+                    "display_string": "+47 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 47,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+47 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 71,
+                "display": {
+                    "display_string": "+71 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 27,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+27 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 60,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+60 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 199023,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "19",
+                "silver": "90",
+                "copper": "23"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1483?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dread Sentinel's Ebony Battleplate",
+                "id": 1483
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180900?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Headgear",
+                        "id": 180900
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180902?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Chestplate",
+                        "id": 180902
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180905?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Greatboots",
+                        "id": 180905
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180910?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Grips",
+                        "id": 180910
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180916?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Legguards",
+                        "id": 180916
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180921?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Spaulders",
+                        "id": 180921
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180924?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Girdle",
+                        "id": 180924
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180929?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Vambraces",
+                        "id": 180929
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180938?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dread Sentinel's Ebony Cloak",
+                        "id": 180938
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(3) Set: Increases your out-of-combat regeneration in outdoor Shadowland zones. While in your Covenant's realm, the regeneration amount is increased.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(5) Set: Your spells and abilities have a chance to inflict Penance Brand on your target dealing 660 Shadow damage over 6 sec and healing you for the same amount.",
+                    "required_count": 5
+                },
+                {
+                    "display_string": "(8) Set: While Door of Shadows is off cooldown your Intellect is increased by 80 and its range is increased by 5 while in outdoor Shadowland zones.\r\n",
+                    "required_count": 8
+                }
+            ],
+            "display_string": "Dread Sentinel's Ebony Battleplate (0/9)"
+        },
+        "level": {
+            "value": 171,
+            "display_string": "Item Level 171"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

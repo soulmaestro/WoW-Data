@@ -1,0 +1,102 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/8075?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 8075,
+    "name": "Conjured Sourdough",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 15,
+    "required_level": 15,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/8075?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 8075
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/8075?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 8075
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Conjured Sourdough",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/8075?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 8075
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/1129?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 1129
+                },
+                "description": "Use: Restores 975 health over 30 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 15,
+                "display_string": "Requires Level 15"
+            }
+        },
+        "conjured": "Conjured Item",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

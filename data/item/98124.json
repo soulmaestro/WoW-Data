@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/98124?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 98124,
+    "name": "Bloodberry Tart",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 35,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/98124?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 98124
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 260000,
+    "sell_price": 13000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Bloodberries are actually quite common, but almost nobody goes to Quel'Danas to pick them anymore.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/98124?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 98124
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Bloodberry Tart",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/98124?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 98124
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/125073?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Refreshment",
+                    "id": 125073
+                },
+                "description": "Use: Restores 10,841 health over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 7 parry for 1 hour. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 13000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "description": "Bloodberries are actually quite common, but almost nobody goes to Quel'Danas to pick them anymore.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

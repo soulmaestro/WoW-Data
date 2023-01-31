@@ -1,0 +1,215 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/62800?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 62800,
+    "name": "Recipe: Seafood Magnifique Feast",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/62800?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 62800
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1500000,
+    "sell_price": 375000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook a Seafood Magnifique Feast.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/62800?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 62800
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Recipe: Seafood Magnifique Feast",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/62800?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 62800
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 375000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "37",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2545?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Cooking",
+                    "id": 2545
+                },
+                "level": 75,
+                "display_string": "Requires Cataclysm Cooking (75)"
+            }
+        },
+        "description": "Teaches you how to cook a Seafood Magnifique Feast.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/62290?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62290
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Seafood Magnifique Feast",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/62290?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62290
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/87644?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Seafood Magnifique Feast",
+                            "id": 87644
+                        },
+                        "description": "Use: Set out a seafood feast to feed your entire raid or party!\r\n\r\nRestores 8,131 health and 7,499 mana over 30 sec.  If you spend at least 10 seconds eating you will become well fed and gain 10 Stamina and 10 in another useful stat for 1 hour."
+                    }
+                ],
+                "sell_price": {
+                    "value": 500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "5",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 30,
+                        "display_string": "Requires Level 30"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/53064?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Highland Guppy",
+                        "id": 53064
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/53068?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lavascale Catfish",
+                        "id": 53068
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/53070?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fathom Eel",
+                        "id": 53070
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Highland Guppy (2), Lavascale Catfish (2), Fathom Eel (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

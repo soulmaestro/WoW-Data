@@ -1,0 +1,149 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35693?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35693,
+    "name": "Figurine - Empyrean Tortoise",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 32,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35693?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35693
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 60000,
+    "sell_price": 15000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35693?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35693
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Figurine - Empyrean Tortoise",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35693?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35693
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "DODGE_RATING",
+                    "name": "Dodge"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Dodge",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/46780?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Empyrean Tortoise",
+                    "id": 46780
+                },
+                "description": "Use: Increases dodge by 22 for 20 sec. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 15000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Jewelcrafting",
+                    "id": 2523
+                },
+                "level": 75,
+                "display_string": "Requires Outland Jewelcrafting (75)"
+            }
+        },
+        "level": {
+            "value": 32,
+            "display_string": "Item Level 32"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

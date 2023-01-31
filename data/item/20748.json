@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20748?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20748,
+    "name": "Brilliant Mana Oil",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 23,
+    "required_level": 20,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/20748?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20748
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 4000,
+    "sell_price": 1000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/20748?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20748
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Brilliant Mana Oil",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/20748?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20748
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/25123?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Brilliant Mana Oil",
+                    "id": 25123
+                },
+                "description": "Use: Applies brilliant mana oil to your weapon, increasing Intellect and Versatility by 4.  Effect lasts for 1 hour.  Cannot be applied to items higher than level 50. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "10",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 20,
+                "display_string": "Requires Level 20"
+            }
+        },
+        "charges": {
+            "value": 5,
+            "display_string": "5 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

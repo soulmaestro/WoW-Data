@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/78000?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 78000,
+    "name": "Cunning of the Cruel",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 38,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/78000?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 78000
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 1828524,
+    "sell_price": 457131,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/78000?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 78000
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Cunning of the Cruel",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/78000?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 78000
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Cunning of the Cruel (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/109801?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowbolt Volley",
+                    "id": 109801
+                },
+                "description": "Equip: Your damage dealing spells have a chance to trigger a Shadowbolt Volley, dealing 1,775 damage to all enemies within 10 yards of your current target."
+            }
+        ],
+        "sell_price": {
+            "value": 457131,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "45",
+                "silver": "71",
+                "copper": "31"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "level": {
+            "value": 38,
+            "display_string": "Item Level 38"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

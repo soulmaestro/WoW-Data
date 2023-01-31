@@ -1,0 +1,154 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137378?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137378,
+    "name": "Bottled Hurricane",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137378?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137378
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 329265,
+    "sell_price": 65853,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Compressing the raging storm into a tiny flask had been accomplished by others, but keeping it cold was Stormcaller Inayad's greatest contribution to the field.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137378?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137378
+        },
+        "context": 0,
+        "bonus_list": [
+            6654
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Bottled Hurricane",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137378?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137378
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 61,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+61 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/215293?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Raging Storm",
+                    "id": 215293
+                },
+                "description": "Equip: Your healing spells have a chance to grant you Gathering Clouds, stacking up to 10 times.\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/215296?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Raging Storm",
+                    "id": 215296
+                },
+                "description": "Use: Consume all Gathering Clouds, creating a Raging Storm for 6 sec that heals up to 5 nearby allies every 1 sec for 124 health per Gathering Cloud consumed. (20 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 223314,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "22",
+                "silver": "33",
+                "copper": "14"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 40,
+                "display_string": "Requires Level 40"
+            }
+        },
+        "description": "Compressing the raging storm into a tiny flask had been accomplished by others, but keeping it cold was Stormcaller Inayad's greatest contribution to the field.",
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

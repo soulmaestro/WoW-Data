@@ -1,0 +1,204 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/187832?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 187832,
+    "name": "Schematic: Pure-Air Sail Extensions",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/187832?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 187832
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 250000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft the Pure-Air Sail Extensions.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/187832?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 187832
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Schematic: Pure-Air Sail Extensions",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/187832?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 187832
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "25",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Engineering",
+                    "id": 2755
+                },
+                "level": 100,
+                "display_string": "Requires Shadowlands Engineering (100)"
+            }
+        },
+        "description": "Teaches you how to craft the Pure-Air Sail Extensions.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/187831?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 187831
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Pure-Air Sail Extensions",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/187831?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 187831
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/18?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Optional Reagents",
+                    "id": 18
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 250000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "25",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/187700?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Progenium Ore",
+                        "id": 187700
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/187703?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Silken Protofiber",
+                        "id": 187703
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172934?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handful of Laestrite Bolts",
+                        "id": 172934
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/172935?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Porous Polishing Abrasive",
+                        "id": 172935
+                    },
+                    "quantity": 20
+                }
+            ],
+            "reagents_display_string": "Progenium Ore (4), Silken Protofiber (6), Handful of Laestrite Bolts (10), Porous Polishing Abrasive (20)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

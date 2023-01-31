@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/184029?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 184029,
+    "name": "Manabound Mirror",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 207,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/184029?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 184029
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3618599,
+    "sell_price": 723719,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/184029?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184029
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Manabound Mirror",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/184029?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184029
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 64,
+                "display": {
+                    "display_string": "+64 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344243?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Manabound Mirror",
+                    "id": 344243
+                },
+                "description": "Equip: For every 3,240 mana spent, store 1,014 healing within the mirror, up to 8,446 for 30 sec."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344245?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Manabound Mirror",
+                    "id": 344245
+                },
+                "description": "Use: Heal your target for 5,808 plus all healing stored within the mirror. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 510781,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "51",
+                "silver": "7",
+                "copper": "81"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 207,
+            "display_string": "Item Level 207"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

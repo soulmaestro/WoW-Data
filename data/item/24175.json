@@ -1,0 +1,278 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/24175?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 24175,
+    "name": "Design: Pendant of Thawing",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/24175?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 24175
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 120000,
+    "sell_price": 30000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Pendant of Thawing.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/24175?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 24175
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Pendant of Thawing",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/24175?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 24175
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Jewelcrafting",
+                    "id": 2523
+                },
+                "level": 60,
+                "display_string": "Requires Outland Jewelcrafting (60)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1011?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Lower City",
+                    "id": 1011
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Lower City - Revered"
+            }
+        },
+        "description": "Teaches you how to craft a Pendant of Thawing.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/24093?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 24093
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Pendant of Thawing",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/24093?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 24093
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NECK",
+                    "name": "Neck"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 2,
+                        "display": {
+                            "display_string": "+2 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "FROST_RESISTANCE",
+                            "name": "Frost Resistance"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Frost Resistance",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/30994?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Frost Absorption",
+                            "id": 30994
+                        },
+                        "description": "Use: Absorbs 149 Frost damage on all nearby party members.  Lasts 5 min. (1 Hr Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 39470,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "94",
+                        "copper": "70"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "level": {
+                    "value": 32,
+                    "display_string": "Item Level 32"
+                },
+                "charges": {
+                    "value": 1,
+                    "display_string": "1 Charge"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23448?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felsteel Bar",
+                        "id": 23448
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Fire",
+                        "id": 21884
+                    },
+                    "quantity": 6
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Water",
+                        "id": 21885
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/31079?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mercurial Adamantite",
+                        "id": 31079
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Felsteel Bar (2), Primal Fire (6), Primal Water (4), Mercurial Adamantite"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

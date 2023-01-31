@@ -1,0 +1,236 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/25869?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 25869,
+    "name": "Recipe: Transmute Earthstorm Diamond",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/25869?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 25869
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to Transmute an Earthstorm Diamond.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/25869?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25869
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Transmute Earthstorm Diamond",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/25869?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25869
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/32765?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Transmute: Earthstorm Diamond",
+                    "id": 32765
+                },
+                "description": "Use: Teaches you how to Transmute an Earthstorm Diamond."
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Alchemy",
+                    "id": 2484
+                },
+                "level": 50,
+                "display_string": "Requires Outland Alchemy (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/942?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cenarion Expedition",
+                    "id": 942
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Cenarion Expedition - Honored"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/25867?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25867
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Earthstorm Diamond",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/25867?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25867
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 30000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23079?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deep Peridot",
+                        "id": 23079
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23107?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shadow Draenite",
+                        "id": 23107
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23112?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Golden Draenite",
+                        "id": 23112
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Earth",
+                        "id": 22452
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Water",
+                        "id": 21885
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Deep Peridot (3), Shadow Draenite (3), Golden Draenite (3), Primal Earth (2), Primal Water (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

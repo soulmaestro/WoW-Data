@@ -1,0 +1,162 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42946?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42946,
+    "name": "Charmed Ancient Bone Bow",
+    "quality": {
+        "type": "HEIRLOOM",
+        "name": "Heirloom"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42946?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42946
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bow",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "RANGED",
+        "name": "Ranged"
+    },
+    "purchase_price": 15000000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42946?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42946
+        },
+        "quality": {
+            "type": "HEIRLOOM",
+            "name": "Heirloom"
+        },
+        "name": "Charmed Ancient Bone Bow",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42946?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42946
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Bow",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "RANGED",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 108,
+                "max_value": 146,
+                "display_string": "108 - 146 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 42.33333,
+                "display_string": "(42.3 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 56,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+56 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 77,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+77 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 77,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+77 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "level": {
+            "value": 187,
+            "display_string": "Item Level 187"
+        }
+    },
+    "purchase_quantity": 1
+}

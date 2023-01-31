@@ -1,0 +1,126 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193480?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193480,
+    "name": "Durable Pack",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 317,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193480?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193480
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skinning",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "PROFESSION_GEAR",
+        "name": "Profession Equipment"
+    },
+    "purchase_price": 100000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193480?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193480
+        },
+        "context": 0,
+        "bonus_list": [
+            8841,
+            8842
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Durable Pack",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193480?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193480
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Skinning",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "PROFESSION_GEAR",
+            "name": "Profession Equipment"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "limit_category": "Unique-Equipped: Back (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_FINESSE",
+                    "name": "Finesse"
+                },
+                "value": 46,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+46 Finesse",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

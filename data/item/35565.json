@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35565?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35565,
+    "name": "Juicy Bear Burger",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 20,
+    "required_level": 20,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35565?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35565
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 240,
+    "sell_price": 12,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35565?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35565
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Juicy Bear Burger",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35565?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35565
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/46683?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 46683
+                },
+                "description": "Use: Restores 674 health over 27 sec.   Must remain seated while eating.   If you eat for 10 seconds will also increase your Intellect by 2 for 15 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 12,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "12"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 20,
+                "display_string": "Requires Level 20"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

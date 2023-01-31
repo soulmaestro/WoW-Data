@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/32765?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32765,
+    "name": "Flaskataur's Tears",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 26,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/32765?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32765
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Flask",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "The distilled tears of the elusive Flaskataur.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/32765?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 32765
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Flaskataur's Tears",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/32765?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 32765
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Flask",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/28520?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Flask of Relentless Assault",
+                    "id": 28520
+                },
+                "description": "Use: Increases attack power by 14 for 1 hour. Counts as both a Battle and Guardian elixir.  This effect persists through death. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 26,
+                "display_string": "Requires Level 26"
+            }
+        },
+        "description": "The distilled tears of the elusive Flaskataur.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,181 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/64914?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 64914,
+    "name": "Shroud of Silvermoon",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 22,
+    "required_level": 15,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/64914?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 64914
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloth",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "CLOAK",
+        "name": "Back"
+    },
+    "purchase_price": 33751,
+    "sell_price": 6750,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/64914?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 64914
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Shroud of Silvermoon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/64914?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 64914
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloth",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "CLOAK",
+            "name": "Back"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 2,
+            "display": {
+                "display_string": "2 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 2,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+2 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 84,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "84"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 15,
+                "display_string": "Requires Level 15"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/911?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Silvermoon City",
+                    "id": 911
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Silvermoon City - Exalted"
+            }
+        },
+        "level": {
+            "value": 22,
+            "display_string": "Item Level 22"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

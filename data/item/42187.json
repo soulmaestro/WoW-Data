@@ -1,0 +1,222 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42187?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42187,
+    "name": "Pattern: Brilliant Spellthread",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42187?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42187
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tailoring",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Brilliant Spellthread.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42187?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42187
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pattern: Brilliant Spellthread",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42187?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42187
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tailoring",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2538?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Tailoring",
+                    "id": 2538
+                },
+                "level": 55,
+                "display_string": "Requires Northrend Tailoring (55)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1106?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Argent Crusade",
+                    "id": 1106
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Argent Crusade - Exalted"
+            }
+        },
+        "description": "Teaches you how to make Brilliant Spellthread.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/41602?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 41602
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Brilliant Spellthread",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/41602?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 41602
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legs",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/55631?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Brilliant Spellthread",
+                            "id": 55631
+                        },
+                        "description": "Use: Permanently embroiders spellthread into pants, increasing spell power by 3 and Versatility by 3.\r\r\r\n\r\r\r\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "sell_price": {
+                    "value": 20000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/35625?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eternal Life",
+                        "id": 35625
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/42253?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Iceweb Spider Silk",
+                        "id": 42253
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43102?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Frozen Orb",
+                        "id": 43102
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Eternal Life (4), Iceweb Spider Silk (4), Frozen Orb"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

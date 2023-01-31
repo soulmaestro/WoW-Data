@@ -1,0 +1,192 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/19954?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19954,
+    "name": "Renataki's Charm of Trickery",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/19954?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19954
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 69392,
+    "sell_price": 13878,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/19954?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19954
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Renataki's Charm of Trickery",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/19954?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19954
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "sell_price": {
+            "value": 268,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "68"
+            }
+        },
+        "legacy": "Legacy Item: Effects are inactive",
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/478?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Madcap's Outfit",
+                "id": 478
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19617?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Zandalarian Shadow Mastery Talisman",
+                        "id": 19617
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19954?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Renataki's Charm of Trickery",
+                        "id": 19954
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19836?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Zandalar Madcap's Bracers",
+                        "id": 19836
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19835?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Zandalar Madcap's Mantle",
+                        "id": 19835
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19834?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Zandalar Madcap's Tunic",
+                        "id": 19834
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases Agility by 0.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(3) Set: Decreases the cooldown of Blind by 5 sec.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(5) Set: Decrease the energy cost of Eviscerate and Rupture by 5.",
+                    "required_count": 5
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Madcap's Outfit (0/5)"
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

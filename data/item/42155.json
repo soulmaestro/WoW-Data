@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42155?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42155,
+    "name": "Stormy Dragon's Eye",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42155?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42155
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gem",
+        "id": 3
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 45000,
+    "sell_price": 8000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Matches any socket.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42155?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42155
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Stormy Dragon's Eye",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42155?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42155
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Gem",
+            "id": 3
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 8000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "80",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Jewelcrafting",
+                    "id": 2522
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Jewelcrafting (1)"
+            }
+        },
+        "description": "Matches any socket.",
+        "is_subclass_hidden": true,
+        "gem_properties": {
+            "effect": "+3 Versatility"
+        }
+    },
+    "purchase_quantity": 1
+}

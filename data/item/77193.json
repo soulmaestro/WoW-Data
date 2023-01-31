@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/77193?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 77193,
+    "name": "Souldrinker",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 38,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/77193?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 77193
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sword",
+        "id": 7
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 395992,
+    "sell_price": 79198,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "With each sip, a moment forever banished.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/77193?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 77193
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Souldrinker",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/77193?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 77193
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Sword",
+            "id": 7
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 4,
+                "max_value": 8,
+                "display_string": "4 - 8 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 2.3076923,
+                "display_string": "(2.3 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 2,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+2 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/107895?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Dragon Soul - Proc - Str Tank Sword",
+                    "id": 107895
+                },
+                "description": "Equip: Your melee attacks have a chance to drain your target's health, damaging the target for an amount equal to 1.5% of your maximum health and healing you for twice that amount. (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 979,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "9",
+                "copper": "79"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "description": "With each sip, a moment forever banished.",
+        "level": {
+            "value": 38,
+            "display_string": "Item Level 38"
+        },
+        "durability": {
+            "value": 110,
+            "display_string": "Durability 110 / 110"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,226 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/133813?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 133813,
+    "name": "Recipe: Pickled Stormray",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/133813?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 133813
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 120000,
+    "sell_price": 30000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook Pickled Stormray.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/133813?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 133813
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Pickled Stormray",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/133813?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 133813
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/201497?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pickled Stormray",
+                    "id": 201497
+                },
+                "description": "Use: Teaches you how to cook Pickled Stormray."
+            }
+        ],
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2542?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Cooking",
+                    "id": 2542
+                },
+                "level": 1,
+                "display_string": "Requires Legion Cooking (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/133562?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 133562
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Pickled Stormray",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/133562?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 133562
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/201331?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Refreshment",
+                            "id": 201331
+                        },
+                        "description": "Use: Restores 16,346 health and 8,173 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 5 Mastery for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "12",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 40,
+                        "display_string": "Requires Level 40"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124110?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stormray",
+                        "id": 124110
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/133588?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Flaked Sea Salt",
+                        "id": 133588
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Stormray (5), Flaked Sea Salt (3)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 1",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

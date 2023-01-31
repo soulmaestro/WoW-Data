@@ -1,0 +1,319 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/182281?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 182281,
+    "name": "Bladesworn Tactician's Chausses",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 155,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/182281?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 182281
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "LEGS",
+        "name": "Legs"
+    },
+    "purchase_price": 4201710,
+    "sell_price": 840342,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/182281?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182281
+        },
+        "context": 0,
+        "bonus_list": [
+            7195,
+            1472,
+            6616
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Bladesworn Tactician's Chausses",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/182281?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182281
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "LEGS",
+            "name": "Legs"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 72,
+            "display": {
+                "display_string": "72 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 37,
+                "display": {
+                    "display_string": "+37 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 37,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+37 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 55,
+                "display": {
+                    "display_string": "+55 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 31,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+31 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 40,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+40 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 198207,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "19",
+                "silver": "82",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1476?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alacrity of Maldraxxus",
+                "id": 1476
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182277?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Faceguard",
+                        "id": 182277
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182278?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Hauberk",
+                        "id": 182278
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182279?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Sabatons",
+                        "id": 182279
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182280?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Gauntlets",
+                        "id": 182280
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182281?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Chausses",
+                        "id": 182281
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182282?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Spaulders",
+                        "id": 182282
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182283?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Girdle",
+                        "id": 182283
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182284?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Bracers",
+                        "id": 182284
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182285?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Tactician's Drape",
+                        "id": 182285
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(3) Set: Increases your out-of-combat regeneration in outdoor Shadowland zones. While in your Covenant's realm, the regeneration amount is increased.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(5) Set: While Fleshcraft is active your Intellect is increased by 100. \r\n",
+                    "required_count": 5
+                },
+                {
+                    "display_string": "(8) Set: Killing an enemy reduces Fleshcraft's cooldown by 3 sec and your Critical Strike rating is increased by 35, stacking 5 times.",
+                    "required_count": 8
+                }
+            ],
+            "display_string": "Alacrity of Maldraxxus (0/9)"
+        },
+        "level": {
+            "value": 155,
+            "display_string": "Item Level 155"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/84660?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 84660,
+    "name": "Pandaren Fishing Pole",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/84660?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 84660
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fishing",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 250000,
+    "sell_price": 50000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/84660?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 84660
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Pandaren Fishing Pole",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/84660?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 84660
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fishing",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/7825?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+7 Fishing",
+                    "id": 7825
+                },
+                "description": "Equip: +7 Fishing Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 50000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "5",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1302?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Anglers",
+                    "id": 1302
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Anglers - Honored"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

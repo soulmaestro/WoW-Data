@@ -1,0 +1,208 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137787?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137787,
+    "name": "Technique: Songs of Battle",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137787?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137787
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft Songs of Battle.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137787?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137787
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Technique: Songs of Battle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137787?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137787
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/210653?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Songs of Battle",
+                    "id": 210653
+                },
+                "description": "Use: Teaches you how to craft Songs of Battle."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2508?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Inscription",
+                    "id": 2508
+                },
+                "level": 1,
+                "display_string": "Requires Legion Inscription (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/136852?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 136852
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Songs of Battle",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/136852?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 136852
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/210608?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Songs of Battle",
+                            "id": 210608
+                        },
+                        "description": "Use: Apply the musical track \"Songs of Battle\" to your Sonic Environment Enhancer."
+                    }
+                ],
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Light Parchment",
+                        "id": 39354
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129032?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Roseate Pigment",
+                        "id": 129032
+                    },
+                    "quantity": 50
+                }
+            ],
+            "reagents_display_string": "Light Parchment, Roseate Pigment (50)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

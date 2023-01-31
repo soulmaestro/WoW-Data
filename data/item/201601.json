@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/201601?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 201601,
+    "name": "Runed Serevite Rod",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 270,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/201601?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 201601
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 100000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Serves as a runed enchanting rod.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/201601?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 201601
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Runed Serevite Rod",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/201601?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 201601
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_INSPIRATION",
+                    "name": "Inspiration"
+                },
+                "value": 31,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+31 Inspiration",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390069?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+4 Enchanting",
+                    "id": 390069
+                },
+                "description": "Equip: +4 Enchanting Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "description": "Serves as a runed enchanting rod.",
+        "modified_crafting_stat": [
+            {
+                "id": 75,
+                "type": "BONUS_STAT_PROFESSION_INSPIRATION",
+                "name": "Inspiration"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

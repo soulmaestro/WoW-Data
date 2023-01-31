@@ -1,0 +1,235 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137661?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137661,
+    "name": "Truthguard",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 48,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137661?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137661
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shield",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "SHIELD",
+        "name": "Off Hand"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "This shield will shine light upon Loken's lies and treachery. Would that I could stay with you and help you fight this war.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137661?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137661
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Truthguard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137661?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137661
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shield",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "SHIELD",
+            "name": "Off Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "armor": {
+            "value": 64,
+            "display": {
+                "display_string": "64 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "shield_block": {
+            "value": 160,
+            "display": {
+                "display_string": "160 Block",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 9,
+                "display": {
+                    "display_string": "+9 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 3,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+3 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/209202?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Eye of Tyr",
+                    "id": 209202
+                },
+                "description": "Use: Releases a blinding flash from Truthguard, causing 299 Holy damage to all nearby enemies within 8 yds and reducing all damage they deal to you by 25% for 9 sec. (1 Min Cooldown)",
+                "display_color": {
+                    "r": 255,
+                    "g": 204,
+                    "b": 153,
+                    "a": 1.0
+                }
+            }
+        ],
+        "legacy": "Legacy Item: Effects are inactive",
+        "requirements": {
+            "playable_specializations": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Protection",
+                        "id": 66
+                    }
+                ],
+                "display_string": "Requires: Protection"
+            }
+        },
+        "description": "This shield will shine light upon Loken's lies and treachery. Would that I could stay with you and help you fight this war.",
+        "level": {
+            "value": 48,
+            "display_string": "Item Level 48"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,185 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189841?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189841,
+    "name": "Soulwarped Seal of Menethil",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 226,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189841?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189841
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+    },
+    "purchase_price": 2715592,
+    "sell_price": 543118,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "No king rules forever, my son.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189841?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189841
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Soulwarped Seal of Menethil",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189841?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189841
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "FINGER",
+            "name": "Finger"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 90,
+                "display": {
+                    "display_string": "+90 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 50,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+50 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 150,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+150 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/367951?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Remnant's Despair",
+                    "id": 367951
+                },
+                "description": "Equip: Your damaging spells have a chance to inflict Despair upon your enemies, increasing the effect of your Diseases against them by 184 for 12 seconds. You have a greater chance to inflict Despair against enemies who are at higher health.\r\n\r\n (Requires level 60 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 487281,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "48",
+                "silver": "72",
+                "copper": "81"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/6?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Death Knight",
+                        "id": 6
+                    }
+                ],
+                "display_string": "Classes: Death Knight"
+            }
+        },
+        "description": "No king rules forever, my son.",
+        "level": {
+            "value": 226,
+            "display_string": "Item Level 226"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

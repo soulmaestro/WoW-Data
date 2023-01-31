@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/67271?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 67271,
+    "name": "Hell-Hoot Barbecue",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 20,
+    "required_level": 20,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/67271?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 67271
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 4000,
+    "sell_price": 200,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "You're about to eat a legend.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/67271?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 67271
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Hell-Hoot Barbecue",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/67271?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 67271
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/262265?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 262265
+                },
+                "description": "Use: Restores 2,730 health over 30 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 200,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 20,
+                "display_string": "Requires Level 20"
+            }
+        },
+        "description": "You're about to eat a legend.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

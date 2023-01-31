@@ -1,0 +1,215 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/190514?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 190514,
+    "name": "Obsidian Seared Claymore",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 350,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/190514?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 190514
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sword",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 8118023,
+    "sell_price": 1623604,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/190514?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 190514
+        },
+        "context": 0,
+        "bonus_list": [
+            8836,
+            8840,
+            8902
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Obsidian Seared Claymore",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/190514?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 190514
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Sword",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 703,
+                "max_value": 1174,
+                "display_string": "703 - 1,174 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 260.55554,
+                "display_string": "(260.6 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 346,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+346 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 793,
+                "display": {
+                    "display_string": "+793 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 313,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+313 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 313,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+313 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1511668,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "151",
+                "silver": "16",
+                "copper": "68"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "level": {
+            "value": 382,
+            "display_string": "Item Level 382"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 36,
+                "type": "HASTE_RATING",
+                "name": "Haste"
+            },
+            {
+                "id": 49,
+                "type": "MASTERY_RATING",
+                "name": "Mastery"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

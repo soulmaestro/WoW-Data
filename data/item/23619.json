@@ -1,0 +1,216 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23619?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23619,
+    "name": "Plans: Felsteel Shield Spike",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23619?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23619
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000,
+    "sell_price": 15000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Felsteel Shield Spike.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23619?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23619
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Felsteel Shield Spike",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23619?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23619
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2476?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Blacksmithing",
+                    "id": 2476
+                },
+                "level": 60,
+                "display_string": "Requires Outland Blacksmithing (60)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/946?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Honor Hold",
+                    "id": 946
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Honor Hold - Exalted"
+            }
+        },
+        "description": "Teaches you how to make a Felsteel Shield Spike.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/23530?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23530
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Felsteel Shield Spike",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/23530?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23530
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/13?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shield/Off-hand",
+                    "id": 13
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/29454?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Felsteel Shield Spike",
+                            "id": 29454
+                        },
+                        "description": "Use: Attaches a Felsteel Spike to your shield that deals 3 damage every time you block with it. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "sell_price": {
+                    "value": 12000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "20",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23448?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felsteel Bar",
+                        "id": 23448
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Fire",
+                        "id": 21884
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Earth",
+                        "id": 22452
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Felsteel Bar (4), Primal Fire (4), Primal Earth (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193489?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193489,
+    "name": "Reinforced Pack",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 356,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193489?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193489
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skinning",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "PROFESSION_GEAR",
+        "name": "Profession Equipment"
+    },
+    "purchase_price": 750000,
+    "sell_price": 150000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193489?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193489
+        },
+        "context": 0,
+        "bonus_list": [
+            8843,
+            8842
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Reinforced Pack",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193489?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193489
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Skinning",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "PROFESSION_GEAR",
+            "name": "Profession Equipment"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Back (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_FINESSE",
+                    "name": "Finesse"
+                },
+                "value": 64,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+64 Finesse",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390131?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+6 Skinning",
+                    "id": 390131
+                },
+                "description": "Equip: +6 Skinning Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 150000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "15",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

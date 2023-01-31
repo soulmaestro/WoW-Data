@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189755?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189755,
+    "name": "Fortialic Fluidic Spheroid",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 230,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189755?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189755
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gem",
+        "id": 3
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 4,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189755?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189755
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Fortialic Fluidic Spheroid",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189755?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189755
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Gem",
+            "id": 3
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/365548?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fortialic",
+                    "id": 365548
+                },
+                "description": "Use: This effect will absorb a lethal attack, recovering 25% of your maximum health instead.\r\n\r\nThis effect can only occur once every 10 min. This effect will last for 15 min. Only works in Shadowlands outdoor areas or Oribos."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "expiration_time_left": {
+            "value": 3600,
+            "display_string": "Duration: 1 hour"
+        },
+        "conjured": "Conjured Item",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

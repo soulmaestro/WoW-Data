@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193773?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193773,
+    "name": "Spoils of Neltharus",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 250,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193773?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193773
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2859270,
+    "sell_price": 571854,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193773?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193773
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Spoils of Neltharus",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193773?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193773
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 96,
+                "display": {
+                    "display_string": "+96 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/381768?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Spoils of Neltharus",
+                    "id": 381768
+                },
+                "description": "Use: Open the spoils and loot the first item you find to gain its fleeting power, increasing a secondary stat by 547 for 20 sec. (2 Min Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/381766?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Spoils of Neltharus",
+                    "id": 381766
+                },
+                "description": "Equip: Your spells have a chance to jostle the spoils, reordering the treasure within."
+            }
+        ],
+        "sell_price": {
+            "value": 514655,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "51",
+                "silver": "46",
+                "copper": "55"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "level": {
+            "value": 250,
+            "display_string": "Item Level 250"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

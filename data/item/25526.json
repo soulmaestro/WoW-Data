@@ -1,0 +1,202 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/25526?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 25526,
+    "name": "Plans: Greater Rune of Warding",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/25526?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 25526
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 60000,
+    "sell_price": 15000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Greater Rune of Warding.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/25526?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25526
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Greater Rune of Warding",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/25526?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25526
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2476?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Blacksmithing",
+                    "id": 2476
+                },
+                "level": 50,
+                "display_string": "Requires Outland Blacksmithing (50)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/942?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cenarion Expedition",
+                    "id": 942
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Cenarion Expedition - Honored"
+            }
+        },
+        "description": "Teaches you how to make a Greater Rune of Warding.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/25521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25521
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Greater Rune of Warding",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/25521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25521
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/32282?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Greater Rune of Warding",
+                            "id": 32282
+                        },
+                        "description": "Use: Enchant a piece of chest armor so it has a 25% chance per hit of giving you 21 points of physical damage absorption.  90 sec. cooldown.  Lasts for 1 hour.\r\n\r\nCannot be applied to items higher than level 50. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 3000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "30",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 25,
+                        "display_string": "Requires Level 25"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23449?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Khorium Bar",
+                        "id": 23449
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Khorium Bar"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

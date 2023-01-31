@@ -1,0 +1,328 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/181910?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 181910,
+    "name": "Runewarden's Boots",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 155,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/181910?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 181910
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "FEET",
+        "name": "Feet"
+    },
+    "purchase_price": 2366361,
+    "sell_price": 473272,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/181910?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 181910
+        },
+        "context": 0,
+        "bonus_list": [
+            7197,
+            1488,
+            6616
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Runewarden's Boots",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/181910?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 181910
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "FEET",
+            "name": "Feet"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 68,
+            "display": {
+                "display_string": "68 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 35,
+                "display": {
+                    "display_string": "+35 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 35,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+35 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 53,
+                "display": {
+                    "display_string": "+53 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 45,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+45 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 20,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+20 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 208799,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "20",
+                "silver": "87",
+                "copper": "99"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1479?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Runewarden's Guise",
+                "id": 1479
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181877?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Greatcloak",
+                        "id": 181877
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181909?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Hauberk",
+                        "id": 181909
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181910?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Boots",
+                        "id": 181910
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181911?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Gloves",
+                        "id": 181911
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181912?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Guise",
+                        "id": 181912
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181913?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Legguards",
+                        "id": 181913
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181914?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Spaulders",
+                        "id": 181914
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181915?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Buckle",
+                        "id": 181915
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181916?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Armguards",
+                        "id": 181916
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/181979?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Runewarden's Vestment",
+                        "id": 181979
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(3) Set: Increases your out-of-combat regeneration in outdoor Shadowland zones. While in your Covenant's realm, the regeneration amount is increased.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(5) Set: Soulshape's duration is increased by 4 sec and Flicker grants a short burst of speed while in outdoor Shadowland zones.",
+                    "required_count": 5
+                },
+                {
+                    "display_string": "(8) Set: Your spells and abilities have a low chance to summon a Fae Guardian to protect you for 30 sec, increasing your Intellect by 60 while alive and periodically healing 5 nearby allies for 450 health. \r\n",
+                    "required_count": 8
+                }
+            ],
+            "display_string": "Runewarden's Guise (0/9)"
+        },
+        "level": {
+            "value": 171,
+            "display_string": "Item Level 171"
+        },
+        "durability": {
+            "value": 65,
+            "display_string": "Durability 65 / 65"
+        }
+    },
+    "purchase_quantity": 1
+}

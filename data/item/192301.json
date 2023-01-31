@@ -1,0 +1,207 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/192301?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 192301,
+    "name": "Eternal Gladiator's Fastidious Resolve",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 200,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/192301?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 192301
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3633622,
+    "sell_price": 726724,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/192301?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 192301
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Eternal Gladiator's Fastidious Resolve",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/192301?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 192301
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Gladiator's Medallions (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 60,
+                "display": {
+                    "display_string": "+60 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 60,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+60 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 60,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+60 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/363117?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gladiator's Fastidious Resolve",
+                    "id": 363117
+                },
+                "description": "Use: Activate the Broker defenses, protecting yourself from spell interruption and crowd control effects. The defenses withstand up to 2 effects and persist for 12 sec. (3 Min Cooldown) (Requires level 60 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 458844,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "45",
+                "silver": "88",
+                "copper": "44"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1458?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Gladiator's Distinction",
+                "id": 1458
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/184268?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Emblem",
+                        "id": 184268
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/184269?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gladiator's Medallion",
+                        "id": 184269
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Duration of incoming crowd control effects reduced by 10%. Does not stack with similar effects. Increases your Intellect by 300 and Stamina by 1,931 when in Arenas, Battlegrounds, and War Mode.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Gladiator's Distinction (0/2)"
+        },
+        "level": {
+            "value": 200,
+            "display_string": "Item Level 200"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

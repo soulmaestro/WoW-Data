@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161909?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 161909,
+    "name": "Reins of the Stormsong Coastwatcher",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 30,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/161909?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 161909
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mount",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to summon a Stormsong Coastwatcher.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/161909?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 161909
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Reins of the Stormsong Coastwatcher",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/161909?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 161909
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mount",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/275866?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Stormsong Coastwatcher",
+                    "id": 275866
+                },
+                "description": "Use: Teaches you how to summon a Stormsong Coastwatcher."
+            }
+        ],
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2162?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Storm's Wake",
+                    "id": 2162
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Storm's Wake - Exalted"
+            },
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Apprentice Riding",
+                    "id": 33388
+                },
+                "display_string": "Requires Apprentice Riding"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

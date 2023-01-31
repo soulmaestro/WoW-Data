@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193701?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193701,
+    "name": "Algeth'ar Puzzle Box",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 250,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193701?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193701
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2868787,
+    "sell_price": 573757,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193701?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193701
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Algeth'ar Puzzle Box",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193701?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193701
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 96,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+96 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 96,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+96 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/383781?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Algeth'ar Puzzle",
+                    "id": 383781
+                },
+                "description": "Use: Solve a puzzle, increasing your Mastery by 846 for 20 sec. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 516368,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "51",
+                "silver": "63",
+                "copper": "68"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        },
+        "level": {
+            "value": 250,
+            "display_string": "Item Level 250"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

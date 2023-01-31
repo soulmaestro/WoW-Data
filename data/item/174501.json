@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/174501?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 174501,
+    "name": "Ornate Voldunai Jewelry",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/174501?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 174501
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100,
+    "sell_price": 25,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/174501?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174501
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Ornate Voldunai Jewelry",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/174501?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174501
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/315616?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ornate Voldunai Jewelry",
+                    "id": 315616
+                },
+                "description": "Use: Grants 250 reputation with the Voldunai, up to Exalted reputation. (2 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 25,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "faction": {
+                "value": {
+                    "type": "HORDE",
+                    "name": "Horde"
+                },
+                "display_string": "Horde Only"
+            }
+        },
+        "level": {
+            "value": 40,
+            "display_string": "Item Level 40"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

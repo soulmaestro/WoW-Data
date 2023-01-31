@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/153247?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 153247,
+    "name": "Boon of the Lightbearer",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/153247?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 153247
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shoulder",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2000000,
+    "sell_price": 500000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/153247?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 153247
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Boon of the Lightbearer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/153247?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 153247
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shoulder",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/254706?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Boon of the Lightbearer",
+                    "id": 254706
+                },
+                "description": "Use: Permanently enchants shoulders with the Lightbearer enchantment, allowing the wearer to obtain Light's Fortune from the corpses of their enemies. Cannot be applied to items above level 60."
+            }
+        ],
+        "sell_price": {
+            "value": 500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "50",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2165?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Army of the Light",
+                    "id": 2165
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Army of the Light - Revered"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

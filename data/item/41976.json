@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41976?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 41976,
+    "name": "Titanium Weapon Chain",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 30,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/41976?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 41976
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 72000,
+    "sell_price": 18000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/41976?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41976
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Titanium Weapon Chain",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/41976?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 41976
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/55836?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Titanium Weapon Chain",
+                    "id": 55836
+                },
+                "description": "Use: Attaches a chain to your weapon, reducing the duration of Disarm effects by 50% and increasing your haste by 11. Does not stack with other similar effects.  Attaching the weapon chain causes the weapon to become soulbound. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 18000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "80",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,136 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/140656?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 140656,
+    "name": "Rod of the Ascended",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 45,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/140656?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 140656
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000000,
+    "sell_price": 5000000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "An exquisite staff, crafted to channel great power for a long-forgotten vrykul mystic.  Without the right headpiece, the staff lies dormant.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/140656?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140656
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Rod of the Ascended",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/140656?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140656
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/224310?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Staff of the Lightborn",
+                    "id": 224310
+                },
+                "description": "Use: Combine the Crest of the Lightborn with the Rod of the Ascended to create the Staff of the Lightborn.\r\n"
+            }
+        ],
+        "sell_price": {
+            "value": 5000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "500",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/5?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Priest",
+                        "id": 5
+                    }
+                ],
+                "display_string": "Classes: Priest"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1948?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Valarjar",
+                    "id": 1948
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Valarjar - Exalted"
+            }
+        },
+        "description": "An exquisite staff, crafted to channel great power for a long-forgotten vrykul mystic.  Without the right headpiece, the staff lies dormant.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/88535?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 88535,
+    "name": "Sharpened Tuskarr Spear",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 5,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/88535?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 88535
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/14?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 14
+    },
+    "inventory_type": {
+        "type": "WEAPONMAINHAND",
+        "name": "Main Hand"
+    },
+    "purchase_price": 15000000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "A traditional Tuskarr fishing spear; the craftsmanship is a sight to behold.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/88535?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 88535
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Sharpened Tuskarr Spear",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/88535?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 88535
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/14?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 14
+        },
+        "inventory_type": {
+            "type": "WEAPONMAINHAND",
+            "name": "Main Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 1,
+                "max_value": 2,
+                "display_string": "1 - 2 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2500,
+                "display_string": "Speed 2.50"
+            },
+            "dps": {
+                "value": 0.6,
+                "display_string": "(0.6 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/128329?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Summon Tuskarr Fishing Spear",
+                    "id": 128329
+                },
+                "description": "Use: Plant the spear in the ground, increasing Fishing skill by 5 for anyone who remains within 15 yds.  Lasts 10 min. (10 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1302?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Anglers",
+                    "id": 1302
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Anglers - Revered"
+            }
+        },
+        "description": "A traditional Tuskarr fishing spear; the craftsmanship is a sight to behold.",
+        "level": {
+            "value": 5,
+            "display_string": "Item Level 5"
+        },
+        "durability": {
+            "value": 25,
+            "display_string": "Durability 25 / 25"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

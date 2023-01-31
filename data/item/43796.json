@@ -1,0 +1,210 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43796?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43796,
+    "name": "Redemption Gauntlets",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 1,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43796?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43796
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 4,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43796?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43796
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Redemption Gauntlets",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43796?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43796
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 2,
+            "display": {
+                "display_string": "2 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "socket_bonus": "Socket Bonus: +1 Stamina",
+        "sell_price": {
+            "value": 2,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "2"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/789?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Redemption Battlegear",
+                "id": 789
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43794?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Chestpiece",
+                        "id": 43794
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43796?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Gauntlets",
+                        "id": 43796
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43801?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Helm",
+                        "id": 43801
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43803?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Legplates",
+                        "id": 43803
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43805?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Shoulderplates",
+                        "id": 43805
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases the damage dealt by your Divine Storm by 10%.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: Reduces the cooldown of your Judgment ability by 1 second.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Redemption Battlegear (0/5)"
+        },
+        "level": {
+            "value": 1,
+            "display_string": "Item Level 1"
+        },
+        "durability": {
+            "value": 18,
+            "display_string": "Durability 18 / 18"
+        }
+    },
+    "purchase_quantity": 1
+}

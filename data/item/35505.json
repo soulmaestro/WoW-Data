@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35505?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35505,
+    "name": "Design: Ember Skyfire Diamond",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35505?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35505
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 150000,
+    "sell_price": 37500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut an Ember Skyfire Diamond.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35505?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35505
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Ember Skyfire Diamond",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35505?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35505
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 37500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "75",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2523?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Jewelcrafting",
+                    "id": 2523
+                },
+                "level": 70,
+                "display_string": "Requires Outland Jewelcrafting (70)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1077?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shattered Sun Offensive",
+                    "id": 1077
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Shattered Sun Offensive - Revered"
+            }
+        },
+        "description": "Teaches you how to cut an Ember Skyfire Diamond.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/35503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35503
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Ember Skyfire Diamond",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/35503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 35503
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 9
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 6250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "62",
+                        "copper": "50"
+                    }
+                },
+                "description": "Only fits in a meta gem slot.",
+                "is_subclass_hidden": true,
+                "gem_properties": {
+                    "effect": "+3 Intellect and +2% Maximum Mana"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/25868?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Skyfire Diamond",
+                        "id": 25868
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Skyfire Diamond"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

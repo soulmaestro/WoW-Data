@@ -1,0 +1,159 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/25827?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 25827,
+    "name": "Muck-Covered Drape",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 31,
+    "required_level": 26,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/25827?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 25827
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloth",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "CLOAK",
+        "name": "Back"
+    },
+    "purchase_price": 61647,
+    "sell_price": 12329,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/25827?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25827
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Muck-Covered Drape",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/25827?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25827
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloth",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "CLOAK",
+            "name": "Back"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 3,
+            "display": {
+                "display_string": "3 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/32641?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Soothe",
+                    "id": 32641
+                },
+                "description": "Use: Reduces your threat to enemy targets within 30 yards, making them less likely to attack you. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 215,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "15"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 26,
+                "display_string": "Requires Level 26"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/970?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sporeggar",
+                    "id": 970
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Sporeggar - Honored"
+            }
+        },
+        "level": {
+            "value": 31,
+            "display_string": "Item Level 31"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

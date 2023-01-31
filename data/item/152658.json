@@ -1,0 +1,183 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152658?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 152658,
+    "name": "Formula: Chaos Shatter",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/152658?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 152658
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to shatter a Chaos Crystal into Leylight Shards.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/152658?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152658
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Formula: Chaos Shatter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/152658?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152658
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/252106?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Chaos Shatter",
+                    "id": 252106
+                },
+                "description": "Use: Teaches you how to shatter a Chaos Crystal into Leylight Shards."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2487?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Enchanting",
+                    "id": 2487
+                },
+                "level": 1,
+                "display_string": "Requires Legion Enchanting (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2170?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Argussian Reach",
+                    "id": 2170
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Argussian Reach - Friendly"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/124441?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 124441
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Leylight Shard",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/124441?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 124441
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/12?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Enchanting",
+                    "id": 12
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124442?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chaos Crystal",
+                        "id": 124442
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Chaos Crystal"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

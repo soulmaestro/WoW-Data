@@ -1,0 +1,221 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137691?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137691,
+    "name": "Schematic: Intra-Dalaran Wormhole Generator",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137691?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137691
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Intra-Dalaran Wormhole Generator.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137691?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137691
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Intra-Dalaran Wormhole Generator",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137691?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137691
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/198979?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Intra-Dalaran Wormhole Generator",
+                    "id": 198979
+                },
+                "description": "Use: Teaches you how to craft an Intra-Dalaran Wormhole Generator."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Engineering",
+                    "id": 2500
+                },
+                "level": 1,
+                "display_string": "Requires Legion Engineering (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/132517?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 132517
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Intra-Dalaran Wormhole Generator",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/132517?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 132517
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/199978?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Intra-Dalaran Wormhole",
+                            "id": 199978
+                        },
+                        "description": "Use: Teleport to a point up to 90 yards away. Can only be used in Dalaran."
+                    }
+                ],
+                "sell_price": {
+                    "value": 875,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "8",
+                        "copper": "75"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Leystone Ore",
+                        "id": 123918
+                    },
+                    "quantity": 150
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/136632?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chaos Blaster",
+                        "id": 136632
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124106?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felwort",
+                        "id": 124106
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Leystone Ore (150), Chaos Blaster, Felwort (3)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

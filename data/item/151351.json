@@ -1,0 +1,171 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/151351?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 151351,
+    "name": "Glowing Gift",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 44,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/151351?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 151351
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 120000,
+    "sell_price": 30000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Maybe don't shake it.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/151351?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151351
+        },
+        "context": 0,
+        "bonus_list": [
+            8171
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Glowing Gift",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/151351?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151351
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 266,
+                "display": {
+                    "display_string": "+266 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 266,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+266 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 266,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+266 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/246422?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Perfect Gift",
+                    "id": 246422
+                },
+                "description": "Use: Increase your Critical Strike, Haste, Mastery, and Versatility by 264 for 20 sec. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "description": "Maybe don't shake it.",
+        "level": {
+            "value": 359,
+            "display_string": "Item Level 359"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

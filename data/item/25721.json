@@ -1,0 +1,212 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/25721?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 25721,
+    "name": "Pattern: Vindicator's Armor Kit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/25721?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 25721
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Vindicator's Armor Kit.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/25721?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25721
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pattern: Vindicator's Armor Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/25721?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 25721
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2531?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Leatherworking",
+                    "id": 2531
+                },
+                "level": 25,
+                "display_string": "Requires Outland Leatherworking (25)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/932?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Aldor",
+                    "id": 932
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Aldor - Revered"
+            }
+        },
+        "description": "Teaches you how to make a Vindicator's Armor Kit.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/25651?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25651
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Vindicator's Armor Kit",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/25651?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 25651
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/14?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Misc",
+                    "id": 14
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/32398?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Vindicator's Armor Kit",
+                            "id": 32398
+                        },
+                        "description": "Use: Permanently increase the dodge of an item worn on the chest, legs, hands or feet by 3.\r\r\r\n\r\r\r\nAttaching the armor kit causes the item to become soulbound. Cannot be applied to items higher than level 50. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 22500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "25",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 23,
+                        "display_string": "Requires Level 23"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23793?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heavy Knothide Leather",
+                        "id": 23793
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Earth",
+                        "id": 22452
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Heavy Knothide Leather (3), Primal Earth"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,224 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186724?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186724,
+    "name": "Technique: Contract: Death's Advance",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186724?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186724
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000,
+    "sell_price": 250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Contract: Death's Advance.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186724?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186724
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Technique: Contract: Death's Advance",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186724?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186724
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2756?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Inscription",
+                    "id": 2756
+                },
+                "level": 60,
+                "display_string": "Requires Shadowlands Inscription (60)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2470?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Death's Advance",
+                    "id": 2470
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Death's Advance - Revered"
+            }
+        },
+        "description": "Teaches you how to craft a Contract: Death's Advance.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/186522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 186522
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Contract: Death's Advance",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/186522?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 186522
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/353999?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Contract: Death's Advance",
+                            "id": 353999
+                        },
+                        "description": "Use: Enter a contract with the Death's Advance that allows you to gain reputation with them every time you complete a world quest in the Shadowlands."
+                    }
+                ],
+                "requirements": {
+                    "level": {
+                        "value": 51,
+                        "display_string": "Requires Level 51"
+                    },
+                    "reputation": {
+                        "faction": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2470?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Death's Advance",
+                            "id": 2470
+                        },
+                        "min_reputation_level": 4,
+                        "display_string": "Requires Death's Advance - Friendly"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173059?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Luminous Ink",
+                        "id": 173059
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/173058?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Umbral Ink",
+                        "id": 173058
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/175886?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dark Parchment",
+                        "id": 175886
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Luminous Ink, Umbral Ink, Dark Parchment"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

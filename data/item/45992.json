@@ -1,0 +1,123 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/45992?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 45992,
+    "name": "Jeweled Fishing Pole",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 8,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/45992?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 45992
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fishing",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 4852,
+    "sell_price": 970,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "A Tiffany Cartier original.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/45992?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 45992
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Jeweled Fishing Pole",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/45992?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 45992
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fishing",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/59731?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+13 Fishing",
+                    "id": 59731
+                },
+                "description": "Equip: +13 Fishing Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 970,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "9",
+                "copper": "70"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2590?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Fishing",
+                    "id": 2590
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Fishing (1)"
+            }
+        },
+        "description": "A Tiffany Cartier original."
+    },
+    "purchase_quantity": 1
+}

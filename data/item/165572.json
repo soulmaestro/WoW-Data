@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165572?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165572,
+    "name": "Variable Intensity Gigavolt Oscillating Reactor",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 60,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165572?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165572
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3075112,
+    "sell_price": 615022,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165572?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165572
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Variable Intensity Gigavolt Oscillating Reactor",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165572?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165572
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 8,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+8 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/287915?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "V.I.G.O.R. Engaged",
+                    "id": 287915
+                },
+                "description": "Equip: Your Critical Strike increases by 4 every 2 sec, capping at 25 Critical Strike for 6 sec, then decreasing and turning off for 6 sec, cycling every 32 sec. \r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/287917?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Oscillating Overload",
+                    "id": 287917
+                },
+                "description": "Use: Maintain the current Oscillation for 6 sec. (1 Min 30 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 3212,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "32",
+                "copper": "12"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 60,
+            "display_string": "Item Level 60"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

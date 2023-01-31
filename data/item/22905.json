@@ -1,0 +1,222 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22905?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22905,
+    "name": "Recipe: Elixir of Major Agility",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22905?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22905
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Elixir of Major Agility.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22905?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22905
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Elixir of Major Agility",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22905?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22905
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2484?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Alchemy",
+                    "id": 2484
+                },
+                "level": 30,
+                "display_string": "Requires Outland Alchemy (30)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/946?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Honor Hold",
+                    "id": 946
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Honor Hold - Honored"
+            }
+        },
+        "description": "Teaches you how to make an Elixir of Major Agility.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/22831?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22831
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Elixir of Major Agility",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/22831?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22831
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elixir",
+                    "id": 2
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/54494?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Major Agility",
+                            "id": 54494
+                        },
+                        "description": "Use: Increases your Agility by 9 and your critical strike by 3 for 1 hour.  Battle Elixir. (3 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 4000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "40",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 23,
+                        "display_string": "Requires Level 23"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22789?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Terocone",
+                        "id": 22789
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22785?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felweed",
+                        "id": 22785
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crystal Vial",
+                        "id": 3371
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Terocone, Felweed (2), Crystal Vial"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,217 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87233?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 87233,
+    "name": "Recipe: Great Banquet of the Wok",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/87233?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 87233
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to prepare a Great Banquet of the Wok.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/87233?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87233
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Great Banquet of the Wok",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/87233?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87233
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2544?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Cooking",
+                    "id": 2544
+                },
+                "level": 75,
+                "display_string": "Requires Pandaria Cooking (75)"
+            }
+        },
+        "description": "Teaches you how to prepare a Great Banquet of the Wok.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/87232?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87232
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Great Banquet of the Wok",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/87232?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87232
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/126496?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Great Banquet of the Wok",
+                            "id": 126496
+                        },
+                        "description": "Use: Set out a Great Banquet of the Wok to feed up to 30 people in your raid or party!\r\n\r\nRestores 10,841 health and 10,000 mana over 20 sec.  If you spend at least 10 seconds eating you will become well fed and gain 6 in a stat for 1 hour.  May benefit some more than others."
+                    }
+                ],
+                "sell_price": {
+                    "value": 1600,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "16",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74853?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "100 Year Soy Sauce",
+                        "id": 74853
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74857?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Giant Mantis Shrimp",
+                        "id": 74857
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/75014?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Crocolisk Belly",
+                        "id": 75014
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74844?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Red Blossom Leek",
+                        "id": 74844
+                    },
+                    "quantity": 100
+                }
+            ],
+            "reagents_display_string": "100 Year Soy Sauce, Giant Mantis Shrimp (20), Raw Crocolisk Belly (20), Red Blossom Leek (100)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

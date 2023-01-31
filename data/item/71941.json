@@ -1,0 +1,172 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/71941?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 71941,
+    "name": "Design: Brilliant Queen's Garnet",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/71941?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 71941
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Brilliant Queen's Garnet.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/71941?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 71941
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Brilliant Queen's Garnet",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/71941?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 71941
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Jewelcrafting",
+                    "id": 2521
+                },
+                "level": 75,
+                "display_string": "Requires Cataclysm Jewelcrafting (75)"
+            }
+        },
+        "description": "Teaches you how to cut a Brilliant Queen's Garnet.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/71881?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 71881
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Brilliant Queen's Garnet",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/71881?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 71881
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Intellect",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 9000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "90",
+                        "copper": "0"
+                    }
+                },
+                "description": "Matches any socket.",
+                "is_subclass_hidden": true,
+                "gem_properties": {
+                    "min_item_level": {
+                        "value": 36,
+                        "display_string": "Requires Item Level: 36"
+                    },
+                    "effect": "+6 Intellect"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/71805?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Queen's Garnet",
+                        "id": 71805
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Queen's Garnet"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

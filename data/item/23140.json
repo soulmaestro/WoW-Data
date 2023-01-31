@@ -1,0 +1,172 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23140?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23140,
+    "name": "Design: Radiant Deep Peridot",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 25,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23140?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23140
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 40000,
+    "sell_price": 10000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Radiant Deep Peridot.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23140?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23140
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Radiant Deep Peridot",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23140?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23140
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 10000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2524?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Jewelcrafting",
+                    "id": 2524
+                },
+                "level": 300,
+                "display_string": "Requires Classic Jewelcrafting (300)"
+            }
+        },
+        "description": "Teaches you how to cut a Radiant Deep Peridot.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/23103?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23103
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Radiant Deep Peridot",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/23103?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23103
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Multiple Stats",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 6250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "62",
+                        "copper": "50"
+                    }
+                },
+                "description": "Matches any socket.",
+                "gem_properties": {
+                    "effect": "+1 Critical Strike and +1 Versatility"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23079?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Deep Peridot",
+                        "id": 23079
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Deep Peridot"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

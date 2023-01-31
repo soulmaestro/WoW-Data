@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43828?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43828,
+    "name": "Touch of Light",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 34,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43828?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43828
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Wand",
+        "id": 19
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 4163656,
+    "sell_price": 832731,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43828?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43828
+        },
+        "context": 0,
+        "bonus_list": [
+            3631
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Touch of Light",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43828?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43828
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Wand",
+            "id": 19
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 19,
+                "max_value": 33,
+                "display_string": "19 - 33 Frost Damage",
+                "damage_class": {
+                    "type": "FROST",
+                    "name": "Frost"
+                }
+            },
+            "attack_speed": {
+                "value": 2000,
+                "display_string": "Speed 2.00"
+            },
+            "dps": {
+                "value": 13.0,
+                "display_string": "(13 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 134,
+                "display": {
+                    "display_string": "+134 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 35,
+                "display": {
+                    "display_string": "+35 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 32,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+32 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 383858,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "38",
+                "silver": "38",
+                "copper": "58"
+            }
+        },
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "durability": {
+            "value": 75,
+            "display_string": "Durability 75 / 75"
+        }
+    },
+    "purchase_quantity": 1
+}

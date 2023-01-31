@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/63384?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 63384,
+    "name": "Mechanical Suit ZX-5103",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 31,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/63384?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 63384
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 45000,
+    "sell_price": 11250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/63384?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 63384
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Mechanical Suit ZX-5103",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/63384?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 63384
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/54903?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mechanical Suit ZX-5103",
+                    "id": 54903
+                },
+                "description": "Use: Summons a ZX-5103 mechanical suit complete with weaponry.  The suit can operate for 5 min before it needs to recharge and repair any damage. (5 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 11250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Engineering",
+                    "id": 2503
+                },
+                "level": 1,
+                "display_string": "Requires Cataclysm Engineering (1)"
+            }
+        },
+        "charges": {
+            "value": 3,
+            "display_string": "3 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,232 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/29722?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 29722,
+    "name": "Pattern: Nethercobra Leg Armor",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/29722?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 29722
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 120000,
+    "sell_price": 30000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Nethercobra Leg Armor.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/29722?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29722
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pattern: Nethercobra Leg Armor",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/29722?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29722
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2531?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Leatherworking",
+                    "id": 2531
+                },
+                "level": 65,
+                "display_string": "Requires Outland Leatherworking (65)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/946?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Honor Hold",
+                    "id": 946
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Honor Hold - Exalted"
+            }
+        },
+        "description": "Teaches you how to make Nethercobra Leg Armor.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/29535?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 29535
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Nethercobra Leg Armor",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/29535?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 29535
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legs",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/35490?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Nethercobra Leg Armor",
+                            "id": 35490
+                        },
+                        "description": "Use: Permanently attach nethercobra armor onto pants to increase attack power by 2 and critical strike by 3.  Enchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "sell_price": {
+                    "value": 40000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "4",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 25,
+                        "display_string": "Requires Level 25"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23793?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heavy Knothide Leather",
+                        "id": 23793
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/29539?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Cobra Scales",
+                        "id": 29539
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22451?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Air",
+                        "id": 22451
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23572?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Nether",
+                        "id": 23572
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Heavy Knothide Leather (4), Cobra Scales (4), Primal Air (8), Primal Nether"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

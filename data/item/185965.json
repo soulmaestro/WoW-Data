@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/185965?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 185965,
+    "name": "Memories of Sunless Skies",
+    "quality": {
+        "type": "HEIRLOOM",
+        "name": "Heirloom"
+    },
+    "level": 60,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/185965?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 185965
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Book",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you Shadowlands Flying, allowing all characters on this account to fly in Bastion, Ardenweald, Revendreth, and Maldraxxus.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/185965?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 185965
+        },
+        "quality": {
+            "type": "HEIRLOOM",
+            "name": "Heirloom"
+        },
+        "name": "Memories of Sunless Skies",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/185965?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 185965
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Book",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/352177?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Flying",
+                    "id": 352177
+                },
+                "description": "Use: Allows you to ride flying mounts in the Shadowlands."
+            }
+        ],
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/762?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Riding",
+                    "id": 762
+                },
+                "level": 225,
+                "display_string": "Requires Riding (225)"
+            }
+        },
+        "description": "Teaches you Shadowlands Flying, allowing all characters on this account to fly in Bastion, Ardenweald, Revendreth, and Maldraxxus.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

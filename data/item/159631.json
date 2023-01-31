@@ -1,0 +1,167 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/159631?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 159631,
+    "name": "Lady Waycrest's Music Box",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 59,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/159631?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 159631
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 2184835,
+    "sell_price": 436967,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/159631?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159631
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Lady Waycrest's Music Box",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/159631?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159631
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 8,
+                "display": {
+                    "display_string": "+8 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/271631?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Lady Waycrest's Music Box",
+                    "id": 271631
+                },
+                "description": "Equip: Your damaging spells have a chance to cause a Cacaphonous Chord, dealing 69 damage to a nearby enemy.\r\n\r\nYour healing spells have a chance to cause a Harmonious Chord, restoring 83 health to a nearby injured ally."
+            }
+        ],
+        "sell_price": {
+            "value": 2279,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "22",
+                "copper": "79"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1439?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Waycrest Legacy",
+                "id": 1439
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/158362?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lord Waycrest's Signet",
+                        "id": 158362
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/159631?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lady Waycrest's Music Box",
+                        "id": 159631
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: When you trigger a Cacaphonous Chord or Harmonious Chord there is a 40% chance to trigger the other chord at 60% of the power.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Waycrest Legacy (0/2)"
+        },
+        "level": {
+            "value": 59,
+            "display_string": "Item Level 59"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

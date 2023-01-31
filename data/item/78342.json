@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/78342?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 78342,
+    "name": "Plump Dig Rat",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 10,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/78342?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 78342
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 800,
+    "sell_price": 200,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Cook this over a fire to learn the recipe for Dig Rat Stew.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/78342?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 78342
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Plump Dig Rat",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/78342?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 78342
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 200,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/185?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cooking",
+                    "id": 185
+                },
+                "level": 1,
+                "display_string": "Requires Cooking (1)"
+            }
+        },
+        "description": "Cook this over a fire to learn the recipe for Dig Rat Stew.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/5478?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 5478
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Dig Rat Stew",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/5478?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 5478
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/435?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Food",
+                            "id": 435
+                        },
+                        "description": "Use: Restores 240 health over 24 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 70,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "70"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 7,
+                        "display_string": "Requires Level 7"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/5051?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dig Rat",
+                        "id": 5051
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Dig Rat"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

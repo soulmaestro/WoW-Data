@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/62333?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 62333,
+    "name": "Greater Inscription of Unbreakable Quartz",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 32,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/62333?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 62333
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 750000,
+    "sell_price": 187500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/62333?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 62333
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Greater Inscription of Unbreakable Quartz",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/62333?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 62333
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/86854?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Greater Inscription of Unbreakable Quartz",
+                    "id": 86854
+                },
+                "description": "Use: Permanently adds 4 Stamina and 2 dodge to a shoulder slot item.\r\r\r\n\r\r\r\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 187500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "18",
+                "silver": "75",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1171?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Therazane",
+                    "id": 1171
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Therazane - Exalted"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

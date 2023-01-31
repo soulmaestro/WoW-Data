@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/14531?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14531,
+    "name": "Frightskull Shaft",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 24,
+    "required_level": 17,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/14531?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14531
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 51363,
+    "sell_price": 10272,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/14531?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 14531
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Frightskull Shaft",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/14531?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 14531
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 5,
+                "max_value": 8,
+                "display_string": "5 - 8 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 1.8055555,
+                "display_string": "(1.8 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/18633?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weakening Disease",
+                    "id": 18633
+                },
+                "description": "Chance on hit: Deals 1 Shadow damage every 2 sec for 30 sec and lowers their Strength for the duration of the disease."
+            }
+        ],
+        "sell_price": {
+            "value": 254,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "54"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 17,
+                "display_string": "Requires Level 17"
+            }
+        },
+        "level": {
+            "value": 24,
+            "display_string": "Item Level 24"
+        },
+        "durability": {
+            "value": 90,
+            "display_string": "Durability 90 / 90"
+        }
+    },
+    "purchase_quantity": 1
+}

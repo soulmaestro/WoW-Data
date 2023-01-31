@@ -1,0 +1,294 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171152?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 171152,
+    "name": "Formula: Uncanny Combatant's Sorcerous Scepter",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/171152?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 171152
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Uncanny Combatant's Sorcerous Scepter more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/171152?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171152
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Formula: Uncanny Combatant's Sorcerous Scepter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/171152?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171152
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/305938?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Uncanny Combatant's Sorcerous Scepter",
+                    "id": 305938
+                },
+                "description": "Use: Teaches you how to craft an Uncanny Combatant's Sorcerous Scepter more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2486?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Enchanting",
+                    "id": 2486
+                },
+                "level": 1,
+                "display_string": "Requires Kul Tiran Enchanting (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/170312?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 170312
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Uncanny Combatant's Sorcerous Scepter",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/170312?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 170312
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/19?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Wand",
+                    "id": 19
+                },
+                "inventory_type": {
+                    "type": "RANGEDRIGHT",
+                    "name": "Ranged"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 4,
+                        "max_value": 7,
+                        "display_string": "4 - 7 Fire Damage",
+                        "damage_class": {
+                            "type": "FIRE",
+                            "name": "Fire"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 2000,
+                        "display_string": "Speed 2.00"
+                    },
+                    "dps": {
+                        "value": 2.75,
+                        "display_string": "(2.8 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 30,
+                        "display": {
+                            "display_string": "+30 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 8,
+                        "display": {
+                            "display_string": "+8 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 13529,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "35",
+                        "copper": "29"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "level": {
+                    "value": 72,
+                    "display_string": "Item Level 72"
+                },
+                "durability": {
+                    "value": 110,
+                    "display_string": "Durability 110 / 110"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/11291?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Star Wood",
+                        "id": 11291
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152875?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gloom Dust",
+                        "id": 152875
+                    },
+                    "quantity": 25
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152876?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Umbra Shard",
+                        "id": 152876
+                    },
+                    "quantity": 7
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Star Wood, Gloom Dust (25), Umbra Shard (7), Expulsom (3)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

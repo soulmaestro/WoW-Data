@@ -1,0 +1,287 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/32441?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32441,
+    "name": "Plans: Shadesteel Sabots",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/32441?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32441
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 80000,
+    "sell_price": 20000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Shadesteel Sabots.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/32441?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 32441
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Shadesteel Sabots",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/32441?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 32441
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 20000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2476?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Blacksmithing",
+                    "id": 2476
+                },
+                "level": 75,
+                "display_string": "Requires Outland Blacksmithing (75)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1012?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ashtongue Deathsworn",
+                    "id": 1012
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Ashtongue Deathsworn - Honored"
+            }
+        },
+        "description": "Teaches you how to make Shadesteel Sabots.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/32402?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 32402
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Shadesteel Sabots",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/32402?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 32402
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Plate",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "FEET",
+                    "name": "Feet"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 10,
+                    "display": {
+                        "display_string": "10 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "SHADOW_RESISTANCE",
+                            "name": "Shadow Resistance"
+                        },
+                        "value": 4,
+                        "display": {
+                            "display_string": "+4 Shadow Resistance",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 303,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "3",
+                        "copper": "3"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "level": {
+                    "value": 32,
+                    "display_string": "Item Level 32"
+                },
+                "durability": {
+                    "value": 80,
+                    "display_string": "Durability 80 / 80"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/32428?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heart of Darkness",
+                        "id": 32428
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22450?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Void Crystal",
+                        "id": 22450
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21886?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Life",
+                        "id": 21886
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22456?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Shadow",
+                        "id": 22456
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23446?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Adamantite Bar",
+                        "id": 23446
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Heart of Darkness (2), Void Crystal, Primal Life (2), Primal Shadow (4), Adamantite Bar (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

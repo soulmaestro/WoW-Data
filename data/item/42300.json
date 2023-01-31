@@ -1,0 +1,185 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42300?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42300,
+    "name": "Design: Brilliant Dragon's Eye",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42300?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42300
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Brilliant Dragon's Eye",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42300?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42300
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Brilliant Dragon's Eye",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42300?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42300
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 755
+                },
+                "level": 370,
+                "display_string": "Requires Jewelcrafting (370)"
+            }
+        },
+        "description": "Teaches you how to cut a Brilliant Dragon's Eye",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/42144?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 42144
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Brilliant Dragon's Eye",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/42144?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 42144
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Intellect",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "sell_price": {
+                    "value": 8000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "80",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2522?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Northrend Jewelcrafting",
+                            "id": 2522
+                        },
+                        "level": 1,
+                        "display_string": "Requires Northrend Jewelcrafting (1)"
+                    }
+                },
+                "description": "Matches any socket.",
+                "is_subclass_hidden": true,
+                "gem_properties": {
+                    "effect": "+3 Intellect"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/42225?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dragon's Eye",
+                        "id": 42225
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Dragon's Eye"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

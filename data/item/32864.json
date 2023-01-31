@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/32864?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32864,
+    "name": "Commander's Badge",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/32864?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32864
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 50113,
+    "sell_price": 10022,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/32864?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 32864
+        },
+        "context": 0,
+        "bonus_list": [
+            6691
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Commander's Badge",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/32864?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 32864
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 82,
+                "display": {
+                    "display_string": "+82 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/40815?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Netherwing Ally",
+                    "id": 40815
+                },
+                "description": "Use: Calls forth a Netherwing Ally to fight at your side. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 256649,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "25",
+                "silver": "66",
+                "copper": "49"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1015?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Netherwing",
+                    "id": 1015
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Netherwing - Revered"
+            }
+        },
+        "level": {
+            "value": 180,
+            "display_string": "Item Level 180"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

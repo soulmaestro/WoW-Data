@@ -1,0 +1,214 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193383?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193383,
+    "name": "Bonewrought Crossbow",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 270,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193383?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193383
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Crossbow",
+        "id": 18
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 210538,
+    "sell_price": 42107,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193383?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193383
+        },
+        "context": 0,
+        "bonus_list": [
+            8851,
+            8852
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Bonewrought Crossbow",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193383?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193383
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Crossbow",
+            "id": 18
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 429,
+                "max_value": 429,
+                "display_string": "429 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 164.99998,
+                "display_string": "(165.0 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 219,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+219 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 483,
+                "display": {
+                    "display_string": "+483 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 184,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+184 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 184,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+184 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 42107,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "4",
+                "silver": "21",
+                "copper": "7"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "level": {
+            "value": 333,
+            "display_string": "Item Level 333"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        },
+        "modified_crafting_stat": [
+            {
+                "id": 40,
+                "type": "VERSATILITY",
+                "name": "Versatility"
+            },
+            {
+                "id": 32,
+                "type": "CRIT_RATING",
+                "name": "Critical Strike"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

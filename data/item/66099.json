@@ -1,0 +1,189 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/66099?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 66099,
+    "name": "Plans: Obsidium Skeleton Key",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/66099?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 66099
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Obsidium Skeleton Key.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/66099?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66099
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Obsidium Skeleton Key",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/66099?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66099
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/164?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Blacksmithing",
+                    "id": 164
+                },
+                "level": 425,
+                "display_string": "Requires Blacksmithing (425)"
+            }
+        },
+        "description": "Teaches you how to make an Obsidium Skeleton Key.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/55053?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 55053
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Obsidium Skeleton Key",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/55053?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 55053
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/94574?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Obsidium Skeleton Key",
+                            "id": 94574
+                        },
+                        "description": "Use: Allows opening of locks that require up to 35 lockpicking skill.  The skeleton key is consumed in the process."
+                    }
+                ],
+                "sell_price": {
+                    "value": 875,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "8",
+                        "copper": "75"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2474?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Cataclysm Blacksmithing",
+                            "id": 2474
+                        },
+                        "level": 25,
+                        "display_string": "Requires Cataclysm Blacksmithing (25)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/65365?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Folded Obsidium",
+                        "id": 65365
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Folded Obsidium (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

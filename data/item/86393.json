@@ -1,0 +1,226 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/86393?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 86393,
+    "name": "Tablet of Ren Yun",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 33,
+    "required_level": 20,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/86393?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 86393
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Four Senses Brew.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/86393?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86393
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Tablet of Ren Yun",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/86393?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 86393
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "level": {
+                "value": 20,
+                "display_string": "Requires Level 20"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/980?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Way of the Brew",
+                    "id": 980
+                },
+                "level": 75,
+                "display_string": "Requires Way of the Brew (75)"
+            }
+        },
+        "description": "Teaches you how to make Four Senses Brew.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/87264?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87264
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Four Senses Brew",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/87264?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 87264
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/126144?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Four Senses Brew",
+                            "id": 126144
+                        },
+                        "description": "Use: Heightens your senses and allows you to perform without the burden of vision."
+                    }
+                ],
+                "sell_price": {
+                    "value": 616,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "6",
+                        "copper": "16"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 33,
+                        "display_string": "Requires Level 33"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74853?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "100 Year Soy Sauce",
+                        "id": 74853
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74662?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rice Flour",
+                        "id": 74662
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74661?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Black Pepper",
+                        "id": 74661
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74660?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pandaren Peach",
+                        "id": 74660
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74844?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Red Blossom Leek",
+                        "id": 74844
+                    },
+                    "quantity": 200
+                }
+            ],
+            "reagents_display_string": "100 Year Soy Sauce, Rice Flour, Black Pepper, Pandaren Peach, Red Blossom Leek (200)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

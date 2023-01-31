@@ -1,0 +1,160 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/142169?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 142169,
+    "name": "Raven Eidolon",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/142169?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 142169
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 471233,
+    "sell_price": 94246,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Marked with a raven silhouette.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/142169?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142169
+        },
+        "context": 0,
+        "bonus_list": [
+            6654
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Raven Eidolon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/142169?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142169
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 56,
+                "display": {
+                    "display_string": "+56 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 52,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+52 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/230121?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Guardian's Familiar",
+                    "id": 230121
+                },
+                "description": "Use: Conjure a Guardian's Familiar to watch over up to 4 nearby allies for 20 sec. 50% of damage each ally takes is transferred to you, up to 1,660 total damage per target. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 319599,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "31",
+                "silver": "95",
+                "copper": "99"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 40,
+                "display_string": "Requires Level 40"
+            }
+        },
+        "description": "Marked with a raven silhouette.",
+        "level": {
+            "value": 170,
+            "display_string": "Item Level 170"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

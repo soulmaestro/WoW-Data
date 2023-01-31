@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/160092?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 160092,
+    "name": "Pineapple Pizza",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 37,
+    "required_level": 37,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/160092?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 160092
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 1000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Just terrible.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/160092?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 160092
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pineapple Pizza",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/160092?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 160092
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/270372?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pineapple Pizza",
+                    "id": 270372
+                },
+                "description": "Use: Restores no health, and reduces Stamina by 5% for 30 sec. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "10",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 37,
+                "display_string": "Requires Level 37"
+            }
+        },
+        "description": "Just terrible.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

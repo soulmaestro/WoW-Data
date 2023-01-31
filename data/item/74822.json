@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/74822?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 74822,
+    "name": "Sasparilla Sinker",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/74822?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 74822
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 13750,
+    "sell_price": 687,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A fizzy sasparilla containing vanilla ice cream.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/74822?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 74822
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Sasparilla Sinker",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/74822?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 74822
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/80167?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Drink",
+                    "id": 80167
+                },
+                "description": "Use: Restores 7,499 mana over 30 sec.  Must remain seated while drinking. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 687,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "6",
+                "copper": "87"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "description": "A fizzy sasparilla containing vanilla ice cream.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

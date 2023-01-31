@@ -1,0 +1,241 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21956?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21956,
+    "name": "Design: Dark Iron Scorpid",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 25,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21956?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21956
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 12500,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Dark Iron Scorpid.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21956?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21956
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Design: Dark Iron Scorpid",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21956?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21956
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2524?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Jewelcrafting",
+                    "id": 2524
+                },
+                "level": 300,
+                "display_string": "Requires Classic Jewelcrafting (300)"
+            }
+        },
+        "description": "Teaches you how to craft a Dark Iron Scorpid.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/21789?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 21789
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Figurine - Dark Iron Scorpid",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/21789?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 21789
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "TRINKET",
+                    "name": "Trinket"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique-Equipped",
+                "stats": [
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 2,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+2 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/26614?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Dark Iron Scorpid",
+                            "id": 26614
+                        },
+                        "description": "Use: Every swing poisons your foe for 1 damage every second for 10 sec. (5 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 15000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 23,
+                        "display_string": "Requires Level 23"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2524?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Classic Jewelcrafting",
+                            "id": 2524
+                        },
+                        "level": 300,
+                        "display_string": "Requires Classic Jewelcrafting (300)"
+                    }
+                },
+                "level": {
+                    "value": 29,
+                    "display_string": "Item Level 29"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/11371?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dark Iron Bar",
+                        "id": 11371
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12360?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Arcanite Bar",
+                        "id": 12360
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7910?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Star Ruby",
+                        "id": 7910
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Dark Iron Bar (4), Arcanite Bar (2), Star Ruby (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,222 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/24294?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 24294,
+    "name": "Pattern: Runic Spellthread",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/24294?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 24294
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tailoring",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 360000,
+    "sell_price": 90000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create Runic Spellthread.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/24294?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 24294
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Pattern: Runic Spellthread",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/24294?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 24294
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tailoring",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 90000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "9",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2539?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Tailoring",
+                    "id": 2539
+                },
+                "level": 75,
+                "display_string": "Requires Outland Tailoring (75)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/934?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Scryers",
+                    "id": 934
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires The Scryers - Exalted"
+            }
+        },
+        "description": "Teaches you how to create Runic Spellthread.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/24274?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 24274
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Runic Spellthread",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/24274?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 24274
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legs",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/31372?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Runic Spellthread",
+                            "id": 31372
+                        },
+                        "description": "Use: Permanently embroiders spellthread into pants, increasing spell power by 3 and Stamina by 3.\r\r\r\n\r\r\r\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "sell_price": {
+                    "value": 50000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "5",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 25,
+                        "display_string": "Requires Level 25"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/14341?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rune Thread",
+                        "id": 14341
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/22457?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Mana",
+                        "id": 22457
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23572?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Nether",
+                        "id": 23572
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Rune Thread, Primal Mana (10), Primal Nether"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,785 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/159391?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 159391,
+    "name": "Hood of the Dark Reaper",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 59,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/159391?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 159391
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 1951678,
+    "sell_price": 390335,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "azerite_class_powers": [
+        {
+            "powers": [
+                {
+                    "id": 192,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/273682?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Meticulous Scheming",
+                        "id": 273682
+                    }
+                },
+                {
+                    "id": 366,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/279806?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Instincts",
+                        "id": 279806
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Beast Mastery",
+                            "id": 253
+                        }
+                    ]
+                },
+                {
+                    "id": 369,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/278530?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rapid Reload",
+                        "id": 278530
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Beast Mastery",
+                            "id": 253
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Marksmanship",
+                            "id": 254
+                        }
+                    ]
+                },
+                {
+                    "id": 213,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/274590?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Venomous Fangs",
+                        "id": 274590
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Survival",
+                            "id": 255
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "tier": 2,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/266180?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Overwhelming Power",
+                        "id": 266180
+                    }
+                },
+                {
+                    "id": 462,
+                    "tier": 2,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/266936?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerite Globules",
+                        "id": 266936
+                    }
+                },
+                {
+                    "id": 18,
+                    "tier": 2,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/264108?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood Siphon",
+                        "id": 264108
+                    }
+                },
+                {
+                    "id": 543,
+                    "tier": 1,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/287938?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Nature's Salve",
+                        "id": 287938
+                    }
+                },
+                {
+                    "id": 83,
+                    "tier": 1,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/268437?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Impassive Visage",
+                        "id": 268437
+                    }
+                },
+                {
+                    "id": 13,
+                    "tier": 0,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/263978?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerite Empowered",
+                        "id": 263978
+                    }
+                },
+                {
+                    "id": 107,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/272717?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Serrated Jaws",
+                        "id": 272717
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Beast Mastery",
+                            "id": 253
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Survival",
+                            "id": 255
+                        }
+                    ]
+                },
+                {
+                    "id": 367,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/278529?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Feeding Frenzy",
+                        "id": 278529
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Beast Mastery",
+                            "id": 253
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/264198?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "In The Rhythm",
+                        "id": 264198
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Marksmanship",
+                            "id": 254
+                        }
+                    ]
+                },
+                {
+                    "id": 370,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/278531?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Focused Fire",
+                        "id": 278531
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Marksmanship",
+                            "id": 254
+                        }
+                    ]
+                },
+                {
+                    "id": 110,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/272742?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wildfire Cluster",
+                        "id": 272742
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Survival",
+                            "id": 255
+                        }
+                    ]
+                },
+                {
+                    "id": 373,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/288570?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primeval Intuition",
+                        "id": 288570
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Survival",
+                            "id": 255
+                        }
+                    ]
+                }
+            ],
+            "playable_class": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hunter",
+                "id": 3
+            }
+        },
+        {
+            "powers": [
+                {
+                    "id": 192,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/273682?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Meticulous Scheming",
+                        "id": 273682
+                    }
+                },
+                {
+                    "id": 448,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/277671?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Synapse Shock",
+                        "id": 277671
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Elemental",
+                            "id": 262
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Enhancement",
+                            "id": 263
+                        }
+                    ]
+                },
+                {
+                    "id": 416,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/278697?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Natural Harmony",
+                        "id": 278697
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Elemental",
+                            "id": 262
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Enhancement",
+                            "id": 263
+                        }
+                    ]
+                },
+                {
+                    "id": 224,
+                    "tier": 3,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/275488?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Swelling Stream",
+                        "id": 275488
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "tier": 2,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/266180?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Overwhelming Power",
+                        "id": 266180
+                    }
+                },
+                {
+                    "id": 462,
+                    "tier": 2,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/266936?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerite Globules",
+                        "id": 266936
+                    }
+                },
+                {
+                    "id": 38,
+                    "tier": 2,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/267879?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "On My Way",
+                        "id": 267879
+                    }
+                },
+                {
+                    "id": 539,
+                    "tier": 1,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/287774?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ancient Ankh Talisman",
+                        "id": 287774
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Elemental",
+                            "id": 262
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Enhancement",
+                            "id": 263
+                        }
+                    ]
+                },
+                {
+                    "id": 83,
+                    "tier": 1,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/268437?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Impassive Visage",
+                        "id": 268437
+                    }
+                },
+                {
+                    "id": 13,
+                    "tier": 0,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/263978?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerite Empowered",
+                        "id": 263978
+                    }
+                },
+                {
+                    "id": 457,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/279829?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Igneous Potential",
+                        "id": 279829
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Elemental",
+                            "id": 262
+                        },
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        }
+                    ]
+                },
+                {
+                    "id": 417,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/286949?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tectonic Thunder",
+                        "id": 286949
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Elemental",
+                            "id": 262
+                        }
+                    ]
+                },
+                {
+                    "id": 137,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/272992?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Primer",
+                        "id": 272992
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Enhancement",
+                            "id": 263
+                        }
+                    ]
+                },
+                {
+                    "id": 420,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/278719?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Roiling Storm",
+                        "id": 278719
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Enhancement",
+                            "id": 263
+                        }
+                    ]
+                },
+                {
+                    "id": 138,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/272989?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Soothing Waters",
+                        "id": 272989
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        }
+                    ]
+                },
+                {
+                    "id": 423,
+                    "tier": 4,
+                    "spell": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/spell/278715?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spouting Spirits",
+                        "id": 278715
+                    },
+                    "allowed_specializations": [
+                        {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Restoration",
+                            "id": 264
+                        }
+                    ]
+                }
+            ],
+            "playable_class": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shaman",
+                "id": 7
+            }
+        }
+    ],
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/159391?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159391
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Hood of the Dark Reaper",
+        "azerite_details": {
+            "selected_powers_string": "Fully Upgraded"
+        },
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/159391?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 159391
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 14,
+            "display": {
+                "display_string": "14 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 16,
+                "display": {
+                    "display_string": "+16 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 16,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+16 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 19,
+                "display": {
+                    "display_string": "+19 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 2036,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "20",
+                "copper": "36"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 59,
+            "display_string": "Item Level 59"
+        },
+        "durability": {
+            "value": 85,
+            "display_string": "Durability 85 / 85"
+        }
+    },
+    "purchase_quantity": 1
+}

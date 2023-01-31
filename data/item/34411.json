@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/34411?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34411,
+    "name": "Hot Apple Cider",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 26,
+    "required_level": 26,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/34411?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34411
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 640,
+    "sell_price": 160,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/34411?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 34411
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Hot Apple Cider",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/34411?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 34411
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/45020?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Holiday Drink",
+                    "id": 45020
+                },
+                "description": "Use: Restores 1,573 mana over 30 sec.  Must remain seated while drinking.  If you spend at least 10 seconds drinking you will become well fed and gain 2 Stamina and Versatility for 30 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 160,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "60"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 26,
+                "display_string": "Requires Level 26"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

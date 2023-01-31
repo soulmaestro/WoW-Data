@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193616?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193616,
+    "name": "Resplendent Cover",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 356,
+    "required_level": 58,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193616?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193616
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "PROFESSION_GEAR",
+        "name": "Profession Equipment"
+    },
+    "purchase_price": 750000,
+    "sell_price": 150000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193616?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193616
+        },
+        "context": 0,
+        "bonus_list": [
+            8843,
+            8842
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Resplendent Cover",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193616?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193616
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "PROFESSION_GEAR",
+            "name": "Profession Equipment"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Chest (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_RESOURCEFULNESS",
+                    "name": "Resourcefulness"
+                },
+                "value": 25,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+25 Resourcefulness",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "BONUS_STAT_PROFESSION_CRAFTING_SPEED",
+                    "name": "Crafting Speed"
+                },
+                "value": 38,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+38 Crafting Speed",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/390044?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+6 Jewelcrafting",
+                    "id": 390044
+                },
+                "description": "Equip: +6 Jewelcrafting Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 150000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "15",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 58,
+                "display_string": "Requires Level 58"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

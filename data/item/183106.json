@@ -1,0 +1,216 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/183106?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 183106,
+    "name": "Recipe: Eternal Cauldron",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/183106?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 183106
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 62000,
+    "sell_price": 15500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Eternal Cauldron.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/183106?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183106
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Recipe: Eternal Cauldron",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/183106?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 183106
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 15500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "55",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2750?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shadowlands Alchemy",
+                    "id": 2750
+                },
+                "level": 175,
+                "display_string": "Requires Shadowlands Alchemy (175)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2465?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Wild Hunt",
+                    "id": 2465
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Wild Hunt - Revered"
+            }
+        },
+        "description": "Teaches you how to craft an Eternal Cauldron.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/171284?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 171284
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Eternal Cauldron",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/171284?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 171284
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "TO_BNETACCOUNT",
+                    "name": "Binds to Blizzard account"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/307157?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Eternal Cauldron",
+                            "id": 307157
+                        },
+                        "description": "Use: Creates a cauldron that raid members can use to gain the benefit of a flask appropriate to their class and talents. This cauldron has 30 uses and lasts for 10 min."
+                    }
+                ],
+                "sell_price": {
+                    "value": 6250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "62",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 51,
+                        "display_string": "Requires Level 51"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/171276?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spectral Flask of Power",
+                        "id": 171276
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/180457?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shadestone",
+                        "id": 180457
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Spectral Flask of Power (8), Shadestone (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

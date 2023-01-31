@@ -1,0 +1,221 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/142333?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 142333,
+    "name": "Recipe: Feathered Luffa",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/142333?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 142333
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "First Aid",
+        "id": 7
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 6000000,
+    "sell_price": 1500000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/142333?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142333
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Feathered Luffa",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/142333?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142333
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "First Aid",
+            "id": 7
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/230047?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Feathered Luffa",
+                    "id": 230047
+                },
+                "description": "Use: "
+            }
+        ],
+        "sell_price": {
+            "value": 1500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "150",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2534?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Tailoring",
+                    "id": 2534
+                },
+                "level": 1,
+                "display_string": "Requires Legion Tailoring (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1894?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Wardens",
+                    "id": 1894
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Wardens - Honored"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/142332?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 142332
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Feathered Luffa",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/142332?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 142332
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bandage",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/230048?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Luffa Scrub",
+                            "id": 230048
+                        },
+                        "description": "Use: Heals 892 damage and removes bleeds. Only usable in the Broken Isles. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 172,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "72"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 40,
+                        "display_string": "Requires Level 40"
+                    }
+                },
+                "charges": {
+                    "value": 1,
+                    "display_string": "1 Charge"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/142335?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pristine Falcosaur Feather",
+                        "id": 142335
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Pristine Falcosaur Feather (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

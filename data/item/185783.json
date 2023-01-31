@@ -1,0 +1,209 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/185783?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 185783,
+    "name": "Yasahm the Riftbreaker",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 155,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/185783?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 185783
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Crossbow",
+        "id": 18
+    },
+    "inventory_type": {
+        "type": "RANGEDRIGHT",
+        "name": "Ranged"
+    },
+    "purchase_price": 5606819,
+    "sell_price": 1121363,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/185783?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 185783
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Yasahm the Riftbreaker",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/185783?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 185783
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/18?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Crossbow",
+            "id": 18
+        },
+        "inventory_type": {
+            "type": "RANGEDRIGHT",
+            "name": "Ranged"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 66,
+                "max_value": 100,
+                "display_string": "66 - 100 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3000,
+                "display_string": "Speed 3.00"
+            },
+            "dps": {
+                "value": 27.666664,
+                "display_string": "(27.7 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 37,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+37 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 55,
+                "display": {
+                    "display_string": "+55 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 43,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+43 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 28,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+28 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/351527?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Preternatural Charge",
+                    "id": 351527
+                },
+                "description": "Equip: Your damaging critical strikes grant you a stack of Preternatural Charge. When you reach 5 stacks of Preternatural Charge, your next critical strike will consume all stacks to tear open a rift near your target, inflicting 93 Arcane damage."
+            }
+        ],
+        "sell_price": {
+            "value": 352658,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "35",
+                "silver": "26",
+                "copper": "58"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 155,
+            "display_string": "Item Level 155"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

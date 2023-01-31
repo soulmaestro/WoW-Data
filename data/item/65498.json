@@ -1,0 +1,223 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/65498?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 65498,
+    "name": "Recipe: Big Cauldron of Battle",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/65498?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 65498
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1500000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Big Cauldron of Battle.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/65498?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65498
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Big Cauldron of Battle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/65498?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65498
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2482?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Alchemy",
+                    "id": 2482
+                },
+                "level": 75,
+                "display_string": "Requires Cataclysm Alchemy (75)"
+            }
+        },
+        "description": "Teaches you how to make a Big Cauldron of Battle.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/65460?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 65460
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Big Cauldron of Battle",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/65460?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 65460
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "TO_BNETACCOUNT",
+                    "name": "Binds to Blizzard account"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/92712?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Big Cauldron of Battle",
+                            "id": 92712
+                        },
+                        "description": "Use: Creates a cauldron that raid members can use to gain the benefit of a flask appropriate to their class and talents.   Cauldron has 30 uses and lasts for 10 min."
+                    }
+                ],
+                "sell_price": {
+                    "value": 6250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "62",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "reputation": {
+                        "faction": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1168?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Guild",
+                            "id": 1168
+                        },
+                        "min_reputation_level": 4,
+                        "display_string": "Requires Guild - Friendly"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/58085?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Flask of Steelskin",
+                        "id": 58085
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/58086?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Flask of the Draconic Mind",
+                        "id": 58086
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/58087?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Flask of the Winds",
+                        "id": 58087
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/58088?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Flask of Titanic Strength",
+                        "id": 58088
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Flask of Steelskin (3), Flask of the Draconic Mind (3), Flask of the Winds (3), Flask of Titanic Strength (3)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,244 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/151717?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 151717,
+    "name": "Schematic: Wormhole Generator: Argus",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/151717?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 151717
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Wormhole Generator: Argus.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/151717?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151717
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Wormhole Generator: Argus",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/151717?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 151717
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/247744?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Wormhole Generator: Argus",
+                    "id": 247744
+                },
+                "description": "Use: Teaches you how to make a Wormhole Generator: Argus."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Engineering",
+                    "id": 2500
+                },
+                "level": 1,
+                "display_string": "Requires Legion Engineering (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/151652?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 151652
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Wormhole Generator: Argus",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/151652?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 151652
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_USE",
+                    "name": "Binds when used"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/250796?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Wormhole Teleport",
+                            "id": 250796
+                        },
+                        "description": "Use: Adds this toy to your Toy Box.\n\nTeleports the player to a random location on Argus. (15 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 5000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 39,
+                        "display_string": "Requires Level 39"
+                    },
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Legion Engineering",
+                            "id": 2500
+                        },
+                        "level": 1,
+                        "display_string": "Requires Legion Engineering (1)"
+                    }
+                },
+                "description": "The user is responsible for final destinations teleported to, and may not take any legal action against the maker of this device.",
+                "is_subclass_hidden": true,
+                "toy": "Toy"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/151564?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Empyrium",
+                        "id": 151564
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/136633?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Loose Trigger",
+                        "id": 136633
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/151568?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Sargerite",
+                        "id": 151568
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Empyrium (30), Loose Trigger (2), Primal Sargerite (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

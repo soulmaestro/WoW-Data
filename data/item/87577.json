@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87577?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 87577,
+    "name": "Ox Horn Inscription",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 35,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/87577?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 87577
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shoulder",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 75000,
+    "sell_price": 18750,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/87577?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87577
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Ox Horn Inscription",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/87577?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87577
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shoulder",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/127012?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ox Horn Inscription",
+                    "id": 127012
+                },
+                "description": "Use: Permanently adds 4 Stamina and 2 Dodge to a shoulder slot item.\r\n\r\nEnchanting the item causes it to become soulbound. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 18750,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "87",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

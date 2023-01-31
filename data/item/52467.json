@@ -1,0 +1,286 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52467?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 52467,
+    "name": "Design: Elementium Guardian",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/52467?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 52467
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create an Elementium Guardian.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/52467?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 52467
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Design: Elementium Guardian",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/52467?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 52467
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Jewelcrafting",
+                    "id": 2521
+                },
+                "level": 75,
+                "display_string": "Requires Cataclysm Jewelcrafting (75)"
+            }
+        },
+        "description": "Teaches you how to create an Elementium Guardian.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/52323?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 52323
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Elementium Guardian",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/52323?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 52323
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NECK",
+                    "name": "Neck"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 1,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+1 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "DODGE_RATING",
+                            "name": "Dodge"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Dodge",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "CRIT_RATING",
+                            "name": "Critical Strike"
+                        },
+                        "value": 1,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+1 Critical Strike",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "socket_bonus": "Socket Bonus: +1 Critical Strike",
+                "sell_price": {
+                    "value": 55086,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "5",
+                        "silver": "50",
+                        "copper": "86"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 32,
+                        "display_string": "Requires Level 32"
+                    }
+                },
+                "level": {
+                    "value": 37,
+                    "display_string": "Item Level 37"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52186?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elementium Bar",
+                        "id": 52186
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52196?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chimera's Eye",
+                        "id": 52196
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52191?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ocean Sapphire",
+                        "id": 52191
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52327?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Volatile Earth",
+                        "id": 52327
+                    },
+                    "quantity": 75
+                }
+            ],
+            "reagents_display_string": "Elementium Bar (4), Chimera's Eye (4), Ocean Sapphire (4), Volatile Earth (75)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

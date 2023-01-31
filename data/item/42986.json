@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42986?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42986,
+    "name": "The RP-GG",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 27,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/42986?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42986
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "For Military Use Only",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/42986?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42986
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "The RP-GG",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/42986?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 42986
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/49761?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rocket-Propelled Goblin Grenade",
+                    "id": 49761
+                },
+                "description": "Use: Fires a heat seeking missile that attempts to track enemy tanks. (1 Sec Cooldown)"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/57348?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Carrying an RP-GG",
+                    "id": 57348
+                },
+                "description": "Rocket-Propelled Goblin Grenade launchers will be dropped on death."
+            }
+        ],
+        "requirements": {
+            "areas": [
+                {
+                    "name": "Wintergrasp",
+                    "id": 4197
+                }
+            ]
+        },
+        "description": "For Military Use Only",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

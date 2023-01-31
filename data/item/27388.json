@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/27388?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 27388,
+    "name": "Mr. Pinchy",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 27,
+    "required_level": 23,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/27388?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 27388
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 40000,
+    "sell_price": 2000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/27388?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 27388
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Mr. Pinchy",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/27388?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 27388
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33060?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Make a Wish",
+                    "id": 33060
+                },
+                "description": "Use: Speak with Mr. Pinchy and be granted a Wish!   Maybe something good...maybe something bad....Mr. Pinchy does not know! (4 Hr Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "20",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 23,
+                "display_string": "Requires Level 23"
+            }
+        },
+        "charges": {
+            "value": 3,
+            "display_string": "3 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

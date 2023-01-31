@@ -1,0 +1,192 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/65414?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 65414,
+    "name": "Recipe: Starfire Espresso",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/65414?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 65414
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to brew a Starfire Espresso.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/65414?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65414
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Starfire Espresso",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/65414?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65414
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2545?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Cooking",
+                    "id": 2545
+                },
+                "level": 1,
+                "display_string": "Requires Cataclysm Cooking (1)"
+            }
+        },
+        "description": "Teaches you how to brew a Starfire Espresso.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/62675?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62675
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Starfire Espresso",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/62675?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62675
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/87648?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Starfire Espresso",
+                            "id": 87648
+                        },
+                        "description": "Use: Restores 3,360 mana over 30 sec and sobers you up somewhat.  Must remain seated while drinking. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 150,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 30,
+                        "display_string": "Requires Level 30"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/62786?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Cocoa Beans",
+                        "id": 62786
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/159?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Refreshing Spring Water",
+                        "id": 159
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Cocoa Beans, Refreshing Spring Water"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

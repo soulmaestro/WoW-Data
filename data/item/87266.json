@@ -1,0 +1,226 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87266?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 87266,
+    "name": "Recipe: Banana Infused Rum",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/87266?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 87266
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Banana Infused Rum.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/87266?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87266
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Banana Infused Rum",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/87266?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 87266
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/980?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Way of the Brew",
+                    "id": 980
+                },
+                "level": 75,
+                "display_string": "Requires Way of the Brew (75)"
+            }
+        },
+        "description": "Teaches you how to make Banana Infused Rum.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/86432?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 86432
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Banana Infused Rum",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/86432?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 86432
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/125686?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Banana Infused Rum",
+                            "id": 125686
+                        },
+                        "description": "Use: A strong alcoholic beverage that makes you think you're a Hozen Pirate for 30 seconds. (10 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 616,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "6",
+                        "copper": "16"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 33,
+                        "display_string": "Requires Level 33"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/4537?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tel'Abim Banana",
+                        "id": 4537
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/9260?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Volatile Rum",
+                        "id": 9260
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74846?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Witchberries",
+                        "id": 74846
+                    },
+                    "quantity": 200
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/85584?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Silkworm Pupa",
+                        "id": 85584
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74661?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Black Pepper",
+                        "id": 74661
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Tel'Abim Banana, Volatile Rum, Witchberries (200), Silkworm Pupa, Black Pepper"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189721?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189721,
+    "name": "Glyph of the Sayaad",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 11,
+    "required_level": 11,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189721?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189721
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Glyph",
+        "id": 16
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Warlock",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189721?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189721
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Glyph of the Sayaad",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189721?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189721
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Glyph",
+            "id": 16
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Warlock",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/366330?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Random Sayaad",
+                    "id": 366330
+                },
+                "description": "Use: End your strengthened pact, allowing either a Succubus or Incubus to be summoned at random.\r\n"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 11,
+                "display_string": "Requires Level 11"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Warlock",
+                        "id": 9
+                    }
+                ],
+                "display_string": "Classes: Warlock"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,119 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191324?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191324,
+    "name": "Phial of Icy Preservation",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 385,
+    "required_level": 61,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191324?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191324
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Flask",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 4000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191324?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191324
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Phial of Icy Preservation",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191324?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191324
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Flask",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/370653?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Phial of Icy Preservation",
+                    "id": 370653
+                },
+                "description": "Use: Damage taken is decreased by 4% while over 50% health, but increased by 4% while under 50% health.\n\nLasts 30 min and through death. Consuming an identical phial will add another 30 min. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 4000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "40",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 61,
+                "display_string": "Requires Level 61"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Toxic",
+            "color": {
+                "r": 158,
+                "g": 197,
+                "b": 30,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 5
+}

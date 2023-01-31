@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/19445?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19445,
+    "name": "Formula: Enchant Weapon - Agility",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/19445?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19445
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanting",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 30000,
+    "sell_price": 7500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to perform the Agility enchantment on a weapon.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/19445?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19445
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Formula: Enchant Weapon - Agility",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/19445?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19445
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Enchanting",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23800?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Agility",
+                    "id": 23800
+                },
+                "description": "Use: Teaches you how to perform the Agility enchantment on a weapon."
+            }
+        ],
+        "sell_price": {
+            "value": 7500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "75",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2494?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Enchanting",
+                    "id": 2494
+                },
+                "level": 290,
+                "display_string": "Requires Classic Enchanting (290)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/576?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Timbermaw Hold",
+                    "id": 576
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Timbermaw Hold - Honored"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

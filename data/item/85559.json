@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/85559?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 85559,
+    "name": "Sha Armor Kit",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 33,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/85559?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 85559
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/14?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Misc",
+        "id": 14
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 8500,
+    "sell_price": 2125,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/85559?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 85559
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Sha Armor Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/85559?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 85559
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/14?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Misc",
+            "id": 14
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/124091?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sha Armor Kit",
+                    "id": 124091
+                },
+                "description": "Use: Permanently increase the Stamina of an item worn on the chest, shoulders, legs, hands or feet by 3. Cannot be applied to items higher than level 50."
+            }
+        ],
+        "sell_price": {
+            "value": 2125,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "21",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 32,
+                "display_string": "Requires Level 32"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

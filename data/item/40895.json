@@ -1,0 +1,132 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40895?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40895,
+    "name": "Gnomish X-Ray Specs",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/40895?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40895
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 163048,
+    "sell_price": 32609,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/40895?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40895
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Gnomish X-Ray Specs",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/40895?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 40895
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/54844?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "X-Ray Specs",
+                    "id": 54844
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nAllows you to see players without clothing and armor. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 32609,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "26",
+                "copper": "9"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Engineering",
+                    "id": 2504
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Engineering (1)"
+            },
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/20219?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gnomish Engineer",
+                    "id": 20219
+                },
+                "display_string": "Requires Gnomish Engineer"
+            }
+        },
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

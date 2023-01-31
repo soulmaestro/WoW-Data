@@ -1,0 +1,303 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171123?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 171123,
+    "name": "Pattern: Maddening Cragscale Boots",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/171123?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 171123
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft Maddening Cragscale Boots.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/171123?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171123
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Pattern: Maddening Cragscale Boots",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/171123?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 171123
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/305802?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Maddening Cragscale Boots",
+                    "id": 305802
+                },
+                "description": "Use: Teaches you how to craft Maddening Cragscale Boots."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2525?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Leatherworking",
+                    "id": 2525
+                },
+                "level": 170,
+                "display_string": "Requires Kul Tiran Leatherworking (170)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/170439?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 170439
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Maddening Cragscale Boots",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/170439?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 170439
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mail",
+                    "id": 3
+                },
+                "inventory_type": {
+                    "type": "FEET",
+                    "name": "Feet"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "armor": {
+                    "value": 26,
+                    "display": {
+                        "display_string": "26 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 14,
+                        "display": {
+                            "display_string": "+14 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "AGILITY",
+                            "name": "Agility"
+                        },
+                        "value": 14,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+14 Agility",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 21,
+                        "display": {
+                            "display_string": "+21 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 31170,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "11",
+                        "copper": "70"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 50,
+                        "display_string": "Requires Level 50"
+                    }
+                },
+                "level": {
+                    "value": 110,
+                    "display_string": "Item Level 110"
+                },
+                "durability": {
+                    "value": 80,
+                    "display_string": "Durability 80 / 80"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168650?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Cragscale",
+                        "id": 168650
+                    },
+                    "quantity": 200
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/153051?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mistscale",
+                        "id": 153051
+                    },
+                    "quantity": 25
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154165?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Calcified Bone",
+                        "id": 154165
+                    },
+                    "quantity": 75
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 35
+                }
+            ],
+            "reagents_display_string": "Cragscale (200), Mistscale (25), Calcified Bone (75), Expulsom (35)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

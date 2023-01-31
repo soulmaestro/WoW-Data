@@ -1,0 +1,147 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/194310?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 194310,
+    "name": "Desperate Invoker's Codex",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 398,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/194310?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 194310
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3912844,
+    "sell_price": 782568,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/194310?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194310
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Desperate Invoker's Codex",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/194310?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 194310
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 382,
+                "display": {
+                    "display_string": "+382 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/377465?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Desperate Invocation",
+                    "id": 377465
+                },
+                "description": "Equip: Casting spells grants stacks of Hatred, permanently lowering this trinket's cooldown by 1 second until combat ends. This effect stacks up to 180 times.\r\n\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/377464?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Desperate Invocation",
+                    "id": 377464
+                },
+                "description": "Use: Let loose a dangerous current of lightning, dealing 115,990 Nature damage to your target and 615 Nature damage to yourself. Self-damage increases with your stacks of Hatred. (4 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 716925,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "71",
+                "silver": "69",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "level": {
+            "value": 398,
+            "display_string": "Item Level 398"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

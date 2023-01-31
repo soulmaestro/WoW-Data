@@ -1,0 +1,189 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/65408?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 65408,
+    "name": "Recipe: Feathered Lure",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/65408?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 65408
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create a Feathered Lure.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/65408?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65408
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Feathered Lure",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/65408?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 65408
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2545?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Cooking",
+                    "id": 2545
+                },
+                "level": 1,
+                "display_string": "Requires Cataclysm Cooking (1)"
+            }
+        },
+        "description": "Teaches you how to create a Feathered Lure.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/62673?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62673
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Feathered Lure",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/62673?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 62673
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/87646?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Feathered Lure",
+                            "id": 87646
+                        },
+                        "description": "Use: When applied to your fishing pole, increases Fishing by 9 for 10 minutes."
+                    }
+                ],
+                "sell_price": {
+                    "value": 625,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "6",
+                        "copper": "25"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2589?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Cataclysm Fishing",
+                            "id": 2589
+                        },
+                        "level": 75,
+                        "display_string": "Requires Cataclysm Fishing (75)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/62785?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Delicate Wing",
+                        "id": 62785
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Delicate Wing"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

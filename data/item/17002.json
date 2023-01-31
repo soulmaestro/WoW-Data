@@ -1,0 +1,134 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/17002?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 17002,
+    "name": "Ichor Spitter",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 29,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/17002?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 17002
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Axe",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 71983,
+    "sell_price": 14396,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/17002?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17002
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Ichor Spitter",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/17002?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17002
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Axe",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 2,
+                "max_value": 6,
+                "display_string": "2 - 6 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 1.5384614,
+                "display_string": "(1.5 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/265238?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Ichor Spitter",
+                    "id": 265238
+                },
+                "description": "Equip: Poisons target for 1 Nature damage every 2 sec for 20 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 278,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "2",
+                "copper": "78"
+            }
+        },
+        "level": {
+            "value": 29,
+            "display_string": "Item Level 29"
+        },
+        "durability": {
+            "value": 75,
+            "display_string": "Durability 75 / 75"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,166 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/49463?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 49463,
+    "name": "Purified Shard of the Flame",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/49463?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 49463
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 183658,
+    "sell_price": 45914,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/49463?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 49463
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Purified Shard of the Flame",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/49463?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 49463
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "HEALTH_REGEN",
+                    "name": "Health Per 5 Sec."
+                },
+                "value": 16,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+16 Health Per 5 Sec.",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 45914,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "4",
+                "silver": "59",
+                "copper": "14"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/881?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Purified Shard of the Gods",
+                "id": 881
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/49310?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Purified Shard of the Scale",
+                        "id": 49310
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/49463?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Purified Shard of the Flame",
+                        "id": 49463
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases Intellect by 9.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(2) Set: Your direct heals have a chance to cause Cauterizing Heal. Your direct damage spells have a chance to cause Searing Flame.",
+                    "required_count": 2
+                }
+            ],
+            "display_string": "Purified Shard of the Gods (0/2)"
+        },
+        "level": {
+            "value": 35,
+            "display_string": "Item Level 35"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

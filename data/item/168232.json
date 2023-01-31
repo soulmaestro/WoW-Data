@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168232?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 168232,
+    "name": "Murloco's \"Fish\" Tacos",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 50,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/168232?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 168232
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 254000,
+    "sell_price": 12700,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/168232?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168232
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Murloco's \"Fish\" Tacos",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/168232?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168232
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/296453?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Refreshment",
+                    "id": 296453
+                },
+                "description": "Use: Restores 8,446 health and 8,446 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and increase all stats by 34 for 30 min while in Nazjatar. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 12700,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "27",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

@@ -1,0 +1,196 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20761?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20761,
+    "name": "Recipe: Transmute Elemental Fire",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 25,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/20761?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20761
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 120000,
+    "sell_price": 30000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to transmute a Heart of Fire into three Elemental Fires.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/20761?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20761
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Transmute Elemental Fire",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/20761?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20761
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/25146?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Transmute: Elemental Fire",
+                    "id": 25146
+                },
+                "description": "Use: Teaches you how to transmute a Heart of Fire into three Elemental Fires."
+            }
+        ],
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2485?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Alchemy",
+                    "id": 2485
+                },
+                "level": 300,
+                "display_string": "Requires Classic Alchemy (300)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/59?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Thorium Brotherhood",
+                    "id": 59
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Thorium Brotherhood - Friendly"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/7068?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 7068
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Elemental Fire",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/7068?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 7068
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/10?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elemental",
+                    "id": 10
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 400,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "4",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7077?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heart of Fire",
+                        "id": 7077
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Heart of Fire"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

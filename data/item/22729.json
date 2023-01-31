@@ -1,0 +1,203 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22729?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22729,
+    "name": "Schematic: Steam Tonk Controller",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22729?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22729
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 8000,
+    "sell_price": 2000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Steam Tonk Controller.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22729?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22729
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Steam Tonk Controller",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22729?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22729
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 2000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "20",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 275,
+                "display_string": "Requires Classic Engineering (275)"
+            }
+        },
+        "description": "Teaches you how to make a Steam Tonk Controller.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/22728?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22728
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Steam Tonk Controller",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/22728?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 22728
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_USE",
+                    "name": "Binds when used"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/45440?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Steam Tonk Controller",
+                            "id": 45440
+                        },
+                        "description": "Use: Summon and control your steam tonk. (30 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 5000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "charges": {
+                    "value": 1,
+                    "display_string": "1 Charge"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mithril Bar",
+                        "id": 3860
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/10558?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gold Power Core",
+                        "id": 10558
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Mithril Bar (3), Gold Power Core"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

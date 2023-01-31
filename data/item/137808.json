@@ -1,0 +1,302 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137808?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 137808,
+    "name": "Design: Intrepid Necklace of Prophecy",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/137808?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 137808
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft an Intrepid Necklace of Prophecy.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/137808?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137808
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Intrepid Necklace of Prophecy",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/137808?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 137808
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/195872?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Intrepid Necklace of Prophecy",
+                    "id": 195872
+                },
+                "description": "Use: Teaches you how to craft an Intrepid Necklace of Prophecy."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2518?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Jewelcrafting",
+                    "id": 2518
+                },
+                "level": 1,
+                "display_string": "Requires Legion Jewelcrafting (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/130240?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 130240
+                },
+                "sockets": [
+                    {
+                        "socket_type": {
+                            "type": "PRISMATIC",
+                            "name": "Prismatic Socket"
+                        }
+                    }
+                ],
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Intrepid Necklace of Prophecy",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/130240?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 130240
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Miscellaneous",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NECK",
+                    "name": "Neck"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 5,
+                        "display": {
+                            "display_string": "+5 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/222040?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Intrepid",
+                            "id": 222040
+                        },
+                        "description": "Equip: Your pet enrages when fighting creatures of the same family, increasing its damage by 60% for 10 sec. May only occur once every 2.5 min."
+                    }
+                ],
+                "sell_price": {
+                    "value": 944,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "9",
+                        "copper": "44"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 45,
+                        "display_string": "Requires Level 45"
+                    },
+                    "playable_classes": {
+                        "links": [
+                            {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Hunter",
+                                "id": 3
+                            }
+                        ],
+                        "display_string": "Classes: Hunter"
+                    }
+                },
+                "level": {
+                    "value": 50,
+                    "display_string": "Item Level 50"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130179?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eye of Prophecy",
+                        "id": 130179
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130178?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Furystone",
+                        "id": 130178
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/130181?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Pandemonite",
+                        "id": 130181
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124444?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Infernal Brimstone",
+                        "id": 124444
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood of Sargeras",
+                        "id": 124124
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Eye of Prophecy (8), Furystone, Pandemonite, Infernal Brimstone (2), Blood of Sargeras (5)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 1",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

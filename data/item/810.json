@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/810?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 810,
+    "name": "Hammer of the Northern Wind",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 27,
+    "required_level": 21,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/810?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 810
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mace",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 79496,
+    "sell_price": 15899,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/810?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 810
+        },
+        "context": 0,
+        "bonus_list": [
+            6661
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Hammer of the Northern Wind",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/810?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 810
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mace",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_EQUIP",
+            "name": "Binds when equipped"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 79,
+                "max_value": 102,
+                "display_string": "79 - 102 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 34.80769,
+                "display_string": "(34.8 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/13439?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Frostbolt",
+                    "id": 13439
+                },
+                "description": "Chance on hit: Launches a bolt of frost at the enemy causing 36 Frost damage and slowing movement speed by 50% for 5 sec. (Requires level 49 or below)"
+            }
+        ],
+        "sell_price": {
+            "value": 698379,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "69",
+                "silver": "83",
+                "copper": "79"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 21,
+                "display_string": "Requires Level 21"
+            }
+        },
+        "level": {
+            "value": 196,
+            "display_string": "Item Level 196"
+        },
+        "durability": {
+            "value": 100,
+            "display_string": "Durability 100 / 100"
+        }
+    },
+    "purchase_quantity": 1
+}

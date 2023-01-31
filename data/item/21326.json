@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21326?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21326,
+    "name": "Defender of the Timbermaw",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 29,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21326?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21326
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 51131,
+    "sell_price": 10226,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21326?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21326
+        },
+        "context": 0,
+        "bonus_list": [
+            6694
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Defender of the Timbermaw",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21326?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21326
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/26066?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Defender of the Timbermaw",
+                    "id": 26066
+                },
+                "description": "Use: Calls forth a Timbermaw Ancestor to fight at your side and heal you. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 413611,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "41",
+                "silver": "36",
+                "copper": "11"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/576?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Timbermaw Hold",
+                    "id": 576
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Timbermaw Hold - Exalted"
+            }
+        },
+        "level": {
+            "value": 190,
+            "display_string": "Item Level 190"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

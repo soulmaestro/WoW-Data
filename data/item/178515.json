@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/178515?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 178515,
+    "name": "Stitched Surprise Cake",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 90,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/178515?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 178515
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2675,
+    "sell_price": 66,
+    "max_count": 100,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A delicious fresh cake that's moving!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/178515?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 178515
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Stitched Surprise Cake",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/178515?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 178515
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (100)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/326411?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Stitched Surprise Cake",
+                    "id": 326411
+                },
+                "description": "Use: Set down one of Moma Tomalin's Stitched Surpise Cakes to feed your entire raid or party.\r\n\r\nRestores 10,841 health and 10,000 mana over 20 sec. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 66,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "66"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            }
+        },
+        "description": "A delicious fresh cake that's moving!",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 10
+}

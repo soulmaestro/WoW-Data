@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/27499?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 27499,
+    "name": "Scroll of Intellect V",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 21,
+    "required_level": 21,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/27499?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 27499
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 600,
+    "sell_price": 112,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/27499?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 27499
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Scroll of Intellect V",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/27499?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 27499
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33078?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Intellect",
+                    "id": 33078
+                },
+                "description": "Use: Increases the target's Intellect by 4 for 30 min.  This effect counts as a Battle Elixir. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 112,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "12"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 21,
+                "display_string": "Requires Level 21"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

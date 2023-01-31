@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44071?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44071,
+    "name": "Slow-Roasted Eel",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 28,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44071?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44071
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 16000,
+    "sell_price": 800,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Scales on for added crunch!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44071?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44071
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Slow-Roasted Eel",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44071?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44071
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/45548?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food",
+                    "id": 45548
+                },
+                "description": "Use: Restores 6,093 health over 30 sec.  Must remain seated while eating. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 800,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "8",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1105?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Oracles",
+                    "id": 1105
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Oracles - Honored"
+            }
+        },
+        "description": "Scales on for added crunch!",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

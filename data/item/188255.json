@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/188255?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 188255,
+    "name": "Heart of the Swarm",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 233,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/188255?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 188255
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3566060,
+    "sell_price": 713212,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/188255?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188255
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Heart of the Swarm",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/188255?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 188255
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 82,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+82 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/364152?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Heart of the Swarm",
+                    "id": 364152
+                },
+                "description": "Use: Invoke the swarm, losing the ability to cast or attack but transforming into a swarm of hungering locusts, gaining 98 Speed and 494 Leech, and dealing 35,440 Shadow damage split between all nearby enemies over 3 sec.\r\n\r\nDamage is increased for each enemy struck, up to 5 enemies. (3 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 640454,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "64",
+                "silver": "4",
+                "copper": "54"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 233,
+            "display_string": "Item Level 233"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

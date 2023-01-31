@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/174508?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 174508,
+    "name": "Fallen Soldier's Insignia",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/174508?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 174508
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100,
+    "sell_price": 25,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/174508?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174508
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Fallen Soldier's Insignia",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/174508?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 174508
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "TO_BNETACCOUNT",
+            "name": "Binds to Blizzard account"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/315649?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fallen Soldier's Insignia",
+                    "id": 315649
+                },
+                "description": "Use: Grants 250 reputation with the Honorbound, up to Exalted reputation. (2 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 25,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "faction": {
+                "value": {
+                    "type": "HORDE",
+                    "name": "Horde"
+                },
+                "display_string": "Horde Only"
+            }
+        },
+        "level": {
+            "value": 40,
+            "display_string": "Item Level 40"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

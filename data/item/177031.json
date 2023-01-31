@@ -1,0 +1,116 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/177031?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 177031,
+    "name": "Precious Metal Cracker",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 2,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/177031?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 177031
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mining",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 127,
+    "sell_price": 25,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/177031?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 177031
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Precious Metal Cracker",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/177031?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 177031
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mining",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/124349?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+4 Mining Skill",
+                    "id": 124349
+                },
+                "description": "Equip: +4 Mining Skill."
+            }
+        ],
+        "sell_price": {
+            "value": 25,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "25"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2572?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Mining",
+                    "id": 2572
+                },
+                "level": 1,
+                "display_string": "Requires Classic Mining (1)"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

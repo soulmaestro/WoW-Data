@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169468?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169468,
+    "name": "Ancestral Ale",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169468?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169468
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 400,
+    "sell_price": 100,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A beer to cheers your ancestors, served in a traditional frostboar tusk.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169468?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169468
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Ancestral Ale",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169468?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169468
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/11008?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Standard Alcohol",
+                    "id": 11008
+                },
+                "description": "Use: A typical alcoholic beverage. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 100,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "holiday": {
+                "display_string": "Requires Brewfest"
+            }
+        },
+        "description": "A beer to cheers your ancestors, served in a traditional frostboar tusk.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,214 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/180273?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 180273,
+    "name": "Sorrowbane",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 85,
+    "required_level": 51,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/180273?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 180273
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sword",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 7260473,
+    "sell_price": 1452094,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/180273?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180273
+        },
+        "context": 0,
+        "bonus_list": [
+            1567
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Sorrowbane",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/180273?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180273
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Sword",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 107,
+                "max_value": 179,
+                "display_string": "107 - 179 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 39.72222,
+                "display_string": "(39.7 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 53,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+53 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 88,
+                "display": {
+                    "display_string": "+88 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 34,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+34 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 63,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+63 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/335840?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sorrowbane",
+                    "id": 335840
+                },
+                "description": "Equip: Auto attacks have a chance to instantly execute lesser creatures below 20% health."
+            }
+        ],
+        "sell_price": {
+            "value": 766398,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "76",
+                "silver": "63",
+                "copper": "98"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 51,
+                "display_string": "Requires Level 51"
+            }
+        },
+        "level": {
+            "value": 180,
+            "display_string": "Item Level 180"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

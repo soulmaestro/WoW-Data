@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3386?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 3386,
+    "name": "Potion of Curing",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 23,
+    "required_level": 7,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/3386?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 3386
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 140,
+    "sell_price": 35,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/3386?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 3386
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Potion of Curing",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/3386?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 3386
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Potion",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/26677?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cure Poison",
+                    "id": 26677
+                },
+                "description": "Use: Imbiber is cured of up to four poisons. Ineffective above level 49. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 35,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "35"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 7,
+                "display_string": "Requires Level 7"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

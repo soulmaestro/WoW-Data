@@ -1,0 +1,239 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23888?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23888,
+    "name": "Schematic: Zapthrottle Mote Extractor",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23888?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23888
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 24000,
+    "sell_price": 6000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Zapthrottle Mote Extractor.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23888?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23888
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Zapthrottle Mote Extractor",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23888?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23888
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 6000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "60",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2505?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Outland Engineering",
+                    "id": 2505
+                },
+                "level": 5,
+                "display_string": "Requires Outland Engineering (5)"
+            }
+        },
+        "description": "Teaches you how to make a Zapthrottle Mote Extractor.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/23821?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23821
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Zapthrottle Mote Extractor",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/23821?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 23821
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "unique_equipped": "Unique",
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/30427?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Extract Gas",
+                            "id": 30427
+                        },
+                        "description": "Use: Extracts gas from a nearby gas cloud."
+                    },
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/30645?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Gas Cloud Tracking",
+                            "id": 30645
+                        },
+                        "description": "Shows the location of nearby gas clouds on the minimap while the mote extractor remains in your inventory."
+                    }
+                ],
+                "sell_price": {
+                    "value": 15000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "1",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2505?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Outland Engineering",
+                            "id": 2505
+                        },
+                        "level": 5,
+                        "display_string": "Requires Outland Engineering (5)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23782?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fel Iron Casing",
+                        "id": 23782
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/23783?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handful of Fel Iron Bolts",
+                        "id": 23783
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/21886?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Primal Life",
+                        "id": 21886
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/16006?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Delicate Arcanite Converter",
+                        "id": 16006
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Fel Iron Casing (2), Handful of Fel Iron Bolts (2), Primal Life (4), Delicate Arcanite Converter"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/180008?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 180008,
+    "name": "Resonating Anima Core",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/180008?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 180008
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Explosives and Devices",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 20,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/180008?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180008
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Resonating Anima Core",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/180008?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180008
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Explosives and Devices",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (20)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/329582?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Throw Fragment",
+                    "id": 329582
+                },
+                "description": "Use: Inflicts 3,555 Arcane damage to all enemies in a 5 yard radius and closing nearby devourer rifts.\r\n\r\nIf a devourer in Elder Stand is hit its anima will destabilize, reducing its damage done by 50% and increasing its damage taken by 200% for 1 min. (10 Sec Cooldown)"
+            }
+        ],
+        "expiration_time_left": {
+            "value": 3600,
+            "display_string": "Duration: 1 hour"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

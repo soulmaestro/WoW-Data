@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/98117?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 98117,
+    "name": "Moneybrau",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 3,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/98117?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 98117
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000000,
+    "sell_price": 2500000,
+    "max_count": 24,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/98117?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 98117
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Moneybrau",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/98117?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 98117
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "unique_equipped": "Unique (24)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/142278?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Moneybrau Bloat",
+                    "id": 142278
+                },
+                "description": "Use: Quaff the gold-colored drink.  This is a non-alcoholic beverage. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "250",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,133 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/180136?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 180136,
+    "name": "\"The Brokers Angle'r\"",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/180136?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 180136
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fishing",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 516985,
+    "sell_price": 103397,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "The only apparatus required to extract aquatic wildlife from their habitats!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/180136?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180136
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "\"The Brokers Angle'r\"",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/180136?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 180136
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fishing",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/8083?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+5 Fishing",
+                    "id": 8083
+                },
+                "description": "Equip: +5 Fishing Skill."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/310674?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Brokers Angle'r - Bait Aura",
+                    "id": 310674
+                },
+                "description": "Equip: Increases your chance to find bait while fishing in the Shadowlands."
+            }
+        ],
+        "sell_price": {
+            "value": 103397,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "10",
+                "silver": "33",
+                "copper": "97"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/356?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing",
+                    "id": 356
+                },
+                "level": 1,
+                "display_string": "Requires Fishing (1)"
+            }
+        },
+        "description": "The only apparatus required to extract aquatic wildlife from their habitats!"
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/88710?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 88710,
+    "name": "Nat's Hat",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 5,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/88710?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 88710
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cosmetic",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 2500000,
+    "sell_price": 500000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "This sun-baked hat is held together by bits of fishing line and old lures.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/88710?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 88710
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Nat's Hat",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/88710?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 88710
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cosmetic",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/7823?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+5 Fishing",
+                    "id": 7823
+                },
+                "description": "Equip: +5 Fishing Skill."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/128587?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing Hat Lure",
+                    "id": 128587
+                },
+                "description": "Use: Attach a special lure to your equipped fishing pole, increasing Fishing by 10 for 10 min. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "50",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1358?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Nat Pagle",
+                    "id": 1358
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Nat Pagle - Best Friend"
+            }
+        },
+        "description": "This sun-baked hat is held together by bits of fishing line and old lures.",
+        "level": {
+            "value": 5,
+            "display_string": "Item Level 5"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

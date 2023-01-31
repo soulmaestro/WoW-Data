@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/186526?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 186526,
+    "name": "The Mad Duke's Tea of Haste",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 120,
+    "required_level": 51,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/186526?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 186526
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/186526?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186526
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "The Mad Duke's Tea of Haste",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/186526?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 186526
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/354016?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Mad Duke's Tea",
+                    "id": 354016
+                },
+                "description": "Use: Speak with Theotar in Sinfall to obtain The Mad Duke's Tea.\r\n\r\nDrinking The Mad Duke's Tea increases your Haste, Versatility, Critical Strike Chance, or Intellect for 4 hrs.\r\n\r\nYou can only have the effects of one of The Mad Duke's Tea at a time. (3 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 51,
+                "display_string": "Requires Level 51"
+            }
+        },
+        "expiration_time_left": {
+            "value": 259200,
+            "display_string": "Duration: 3 days"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,217 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/142331?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 142331,
+    "name": "Recipe: Spiced Falcosaur Omelet",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/142331?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 142331
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000000,
+    "sell_price": 2500000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/142331?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142331
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Spiced Falcosaur Omelet",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/142331?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142331
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/230046?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Spiced Falcosaur Omelet",
+                    "id": 230046
+                },
+                "description": "Use: "
+            }
+        ],
+        "sell_price": {
+            "value": 2500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "250",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2542?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Cooking",
+                    "id": 2542
+                },
+                "level": 1,
+                "display_string": "Requires Legion Cooking (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1894?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Wardens",
+                    "id": 1894
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires The Wardens - Revered"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/142334?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 142334
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Spiced Falcosaur Omelet",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/142334?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 142334
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/230058?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Refreshment",
+                            "id": 230058
+                        },
+                        "description": "Use: Restores 16,346 health and 8,173 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain movement and attack speed for a short time after killing an enemy. Only usable in the Broken Isles. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 205,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "5"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 40,
+                        "display_string": "Requires Level 40"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/142336?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Falcosaur Egg",
+                        "id": 142336
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Falcosaur Egg (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

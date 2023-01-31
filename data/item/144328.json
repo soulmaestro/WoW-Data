@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/144328?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 144328,
+    "name": "Boon of the Builder",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/144328?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 144328
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shoulder",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1500000,
+    "sell_price": 375000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/144328?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 144328
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Boon of the Builder",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/144328?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 144328
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shoulder",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/235731?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Boon of the Builder",
+                    "id": 235731
+                },
+                "description": "Use: Permanently enchants shoulders with the Builder enchantment, allowing the wearer to obtain Sprocket Containers from the corpses of their enemies. Cannot be applied to items above level 60."
+            }
+        ],
+        "sell_price": {
+            "value": 375000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "37",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Engineering",
+                    "id": 2500
+                },
+                "level": 1,
+                "display_string": "Requires Legion Engineering (1)"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

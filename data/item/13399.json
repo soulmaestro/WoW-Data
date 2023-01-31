@@ -1,0 +1,144 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13399?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13399,
+    "name": "Gargoyle Shredder Talons",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 27,
+    "required_level": 21,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/13399?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13399
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fist Weapon",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 61354,
+    "sell_price": 12270,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/13399?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13399
+        },
+        "context": 0,
+        "bonus_list": [
+            6710
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Gargoyle Shredder Talons",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/13399?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 13399
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fist Weapon",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 73,
+                "max_value": 104,
+                "display_string": "73 - 104 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 34.03846,
+                "display_string": "(34.0 damage per second)"
+            }
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/18202?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rend",
+                    "id": 18202
+                },
+                "description": "Chance on hit: Wounds the target causing them to bleed for 160 damage over 30 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 524220,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "52",
+                "silver": "42",
+                "copper": "20"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 21,
+                "display_string": "Requires Level 21"
+            }
+        },
+        "level": {
+            "value": 194,
+            "display_string": "Item Level 194"
+        },
+        "durability": {
+            "value": 60,
+            "display_string": "Durability 60 / 60"
+        }
+    },
+    "purchase_quantity": 1
+}

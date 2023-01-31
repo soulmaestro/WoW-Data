@@ -1,0 +1,236 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162125?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 162125,
+    "name": "Vantus Rune Technique: Uldir",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/162125?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 162125
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Vantus Rune: Uldir more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/162125?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162125
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Vantus Rune Technique: Uldir",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/162125?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 162125
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/256305?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Vantus Rune: Uldir",
+                    "id": 256305
+                },
+                "description": "Use: Teaches you how to craft a Vantus Rune: Uldir more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2507?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Inscription",
+                    "id": 2507
+                },
+                "level": 100,
+                "display_string": "Requires Kul Tiran Inscription (100)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/153673?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 153673
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Vantus Rune: Uldir",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/153673?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 153673
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/9?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Vantus Rune",
+                    "id": 9
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/256302?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Vantus Rune: Uldir",
+                            "id": 256302
+                        },
+                        "description": "Use: Attune yourself to the energies of the targeted Uldir raid boss, increasing your Versatility by 64 when fighting that boss. This effect lasts for an entire week.\r\n\r\nYou can only use one Vantus Rune per week."
+                    }
+                ],
+                "sell_price": {
+                    "value": 4852,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "48",
+                        "copper": "52"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 45,
+                        "display_string": "Requires Level 45"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Light Parchment",
+                        "id": 39354
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/158188?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crimson Ink",
+                        "id": 158188
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/158189?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Viridescent Ink",
+                        "id": 158189
+                    },
+                    "quantity": 6
+                }
+            ],
+            "reagents_display_string": "Light Parchment, Crimson Ink (15), Viridescent Ink (6)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

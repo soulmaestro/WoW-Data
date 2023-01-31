@@ -1,0 +1,172 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52441?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 52441,
+    "name": "Design: Destructive Shadowspirit Diamond",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/52441?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 52441
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Destructive Shadowspirit Diamond.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/52441?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 52441
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Design: Destructive Shadowspirit Diamond",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/52441?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 52441
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2521?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Jewelcrafting",
+                    "id": 2521
+                },
+                "level": 40,
+                "display_string": "Requires Cataclysm Jewelcrafting (40)"
+            }
+        },
+        "description": "Teaches you how to cut a Destructive Shadowspirit Diamond.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/52298?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 52298
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Destructive Shadowspirit Diamond",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/52298?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 52298
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/9?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 9
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 8250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "82",
+                        "copper": "50"
+                    }
+                },
+                "description": "Only fits in a meta gem slot.",
+                "is_subclass_hidden": true,
+                "gem_properties": {
+                    "min_item_level": {
+                        "value": 35,
+                        "display_string": "Requires Item Level: 35"
+                    },
+                    "effect": "+4 Critical Strike and 1% Spell Reflect"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52303?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shadowspirit Diamond",
+                        "id": 52303
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Shadowspirit Diamond"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

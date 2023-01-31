@@ -1,0 +1,211 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/17201?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 17201,
+    "name": "Recipe: Winter Veil Egg Nog",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/17201?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 17201
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 240,
+    "sell_price": 60,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Winter Veil Egg Nog.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/17201?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17201
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Winter Veil Egg Nog",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/17201?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 17201
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 60,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "60"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2548?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Cooking",
+                    "id": 2548
+                },
+                "level": 35,
+                "display_string": "Requires Classic Cooking (35)"
+            }
+        },
+        "description": "Teaches you how to make Winter Veil Egg Nog.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/17198?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 17198
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Winter Veil Egg Nog",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/17198?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 17198
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/21149?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Egg Nog",
+                            "id": 21149
+                        },
+                        "description": "Use: Restores 72 health over 18 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 1 Stamina for 15 min. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 9,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "9"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/6889?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Small Egg",
+                        "id": 6889
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/1179?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ice Cold Milk",
+                        "id": 1179
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/17196?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Holiday Spirits",
+                        "id": 17196
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/17194?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Holiday Spices",
+                        "id": 17194
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Small Egg, Ice Cold Milk, Holiday Spirits, Holiday Spices"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

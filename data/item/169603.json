@@ -1,0 +1,270 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169603?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169603,
+    "name": "Recipe: Greater Mystical Cauldron",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169603?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169603
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Greater Mystical Cauldron more efficiently.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169603?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169603
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Recipe: Greater Mystical Cauldron",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169603?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169603
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/298864?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Greater Mystical Cauldron",
+                    "id": 298864
+                },
+                "description": "Use: Teaches you how to craft a Greater Mystical Cauldron more efficiently."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2478?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Alchemy",
+                    "id": 2478
+                },
+                "level": 175,
+                "display_string": "Requires Kul Tiran Alchemy (175)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2373?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Unshackled",
+                    "id": 2373
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires The Unshackled - Exalted"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/168656?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 168656
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Greater Mystical Cauldron",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/168656?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 168656
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "TO_BNETACCOUNT",
+                    "name": "Binds to Blizzard account"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/298861?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Greater Mystical Cauldron",
+                            "id": 298861
+                        },
+                        "description": "Use: Creates a cauldron that raid members can use to gain the benefit of a flask appropriate to their class and talents.   Cauldron has 30 uses and lasts for 10 min."
+                    }
+                ],
+                "sell_price": {
+                    "value": 6250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "62",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 45,
+                        "display_string": "Requires Level 45"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168651?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Greater Flask of the Currents",
+                        "id": 168651
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168652?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Greater Flask of Endless Fathoms",
+                        "id": 168652
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168653?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Greater Flask of the Vast Horizon",
+                        "id": 168653
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168654?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Greater Flask of the Undertow",
+                        "id": 168654
+                    },
+                    "quantity": 3
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Expulsom",
+                        "id": 152668
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Greater Flask of the Currents (3), Greater Flask of Endless Fathoms (3), Greater Flask of the Vast Horizon (3), Greater Flask of the Undertow (3), Expulsom (4)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

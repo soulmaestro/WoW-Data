@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/197793?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 197793,
+    "name": "Yusa's Hearty Stew",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 60,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/197793?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 197793
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/197793?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 197793
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Yusa's Hearty Stew",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/197793?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 197793
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/382423?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Yusa's Hearty Stew",
+                    "id": 382423
+                },
+                "description": "Use: Set out a fresh batch of Yusa's Hearty Stew for all players to partake in.\r\n\r\nRestores 50,000 health and 66,666 mana over 20 sec. Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 105 to your lowest secondary stat for 1 hour."
+            }
+        ],
+        "sell_price": {
+            "value": 2000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "20",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

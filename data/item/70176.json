@@ -1,0 +1,180 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/70176?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 70176,
+    "name": "Pattern: Luxurious Silk Gem Bag",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/70176?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 70176
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tailoring",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3000000,
+    "sell_price": 600000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Luxurious Silk Gem Bag.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/70176?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 70176
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Pattern: Luxurious Silk Gem Bag",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/70176?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 70176
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tailoring",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 600000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "60",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2537?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Tailoring",
+                    "id": 2537
+                },
+                "level": 65,
+                "display_string": "Requires Cataclysm Tailoring (65)"
+            }
+        },
+        "description": "Teaches you how to craft a Luxurious Silk Gem Bag.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/70138?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 70138
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Luxurious Silk Gem Bag",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/70138?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 70138
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Container",
+                    "id": 1
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem Bag",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "BAG",
+                    "name": "Bag"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "sell_price": {
+                    "value": 37500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "75",
+                        "copper": "0"
+                    }
+                },
+                "container_slots": {
+                    "value": 36,
+                    "display_string": "36 Slot Gem Bag"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/54440?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dreamcloth",
+                        "id": 54440
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Dreamcloth (3)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

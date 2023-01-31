@@ -1,0 +1,298 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/66097?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 66097,
+    "name": "Plans: Lifeforce Hammer",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/66097?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 66097
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Lifeforce Hammer.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/66097?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66097
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Plans: Lifeforce Hammer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/66097?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 66097
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/164?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Blacksmithing",
+                    "id": 164
+                },
+                "level": 425,
+                "display_string": "Requires Blacksmithing (425)"
+            }
+        },
+        "description": "Teaches you how to make a Lifeforce Hammer.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/55046?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 55046
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Lifeforce Hammer",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/55046?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 55046
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mace",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 2,
+                        "max_value": 3,
+                        "display_string": "2 - 3 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 2600,
+                        "display_string": "Speed 2.60"
+                    },
+                    "dps": {
+                        "value": 0.96153843,
+                        "display_string": "(1.0 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 12,
+                        "display": {
+                            "display_string": "+12 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "VERSATILITY",
+                            "name": "Versatility"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Versatility",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "MASTERY_RATING",
+                            "name": "Mastery"
+                        },
+                        "value": 2,
+                        "is_equip_bonus": true,
+                        "display": {
+                            "display_string": "+2 Mastery",
+                            "color": {
+                                "r": 0,
+                                "g": 255,
+                                "b": 0,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 635,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "6",
+                        "copper": "35"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 30,
+                        "display_string": "Requires Level 30"
+                    }
+                },
+                "level": {
+                    "value": 36,
+                    "display_string": "Item Level 36"
+                },
+                "durability": {
+                    "value": 90,
+                    "display_string": "Durability 90 / 90"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/65365?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Folded Obsidium",
+                        "id": 65365
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52186?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elementium Bar",
+                        "id": 52186
+                    },
+                    "quantity": 12
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52327?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Volatile Earth",
+                        "id": 52327
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52326?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Volatile Water",
+                        "id": 52326
+                    },
+                    "quantity": 6
+                }
+            ],
+            "reagents_display_string": "Folded Obsidium (4), Elementium Bar (12), Volatile Earth (10), Volatile Water (6)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,165 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/29181?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 29181,
+    "name": "Timelapse Shard",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 31,
+    "required_level": 27,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/29181?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 29181
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 790112,
+    "sell_price": 197528,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/29181?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29181
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Timelapse Shard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/29181?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 29181
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/35352?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Soothe",
+                    "id": 35352
+                },
+                "description": "Use: Reduces your threat to enemy targets within 30 yards, making them less likely to attack you. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 197528,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "19",
+                "silver": "75",
+                "copper": "28"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 27,
+                "display_string": "Requires Level 27"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/989?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Keepers of Time",
+                    "id": 989
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Keepers of Time - Exalted"
+            }
+        },
+        "level": {
+            "value": 31,
+            "display_string": "Item Level 31"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

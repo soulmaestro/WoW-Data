@@ -1,0 +1,210 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43806?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 43806,
+    "name": "Redemption Spaulders",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 1,
+    "required_level": 30,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/43806?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 43806
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": "Shoulder"
+    },
+    "purchase_price": 6,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/43806?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43806
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Redemption Spaulders",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/43806?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 43806
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": "Shoulder"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 3,
+            "display": {
+                "display_string": "3 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "socket_bonus": "Socket Bonus: +1 Versatility",
+        "sell_price": {
+            "value": 3,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "3"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 30,
+                "display_string": "Requires Level 30"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Paladin",
+                        "id": 2
+                    }
+                ],
+                "display_string": "Classes: Paladin"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/790?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Redemption Regalia",
+                "id": 790
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43797?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Gloves",
+                        "id": 43797
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43798?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Greaves",
+                        "id": 43798
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43800?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Headpiece",
+                        "id": 43800
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43806?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Spaulders",
+                        "id": 43806
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43807?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Redemption Tunic",
+                        "id": 43807
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your Holy Shock gains an additional 10% chance to critically strike.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: The cost of your Holy Light is reduced by 5%.",
+                    "required_count": 4
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Redemption Regalia (0/5)"
+        },
+        "level": {
+            "value": 1,
+            "display_string": "Item Level 1"
+        },
+        "durability": {
+            "value": 30,
+            "display_string": "Durability 30 / 30"
+        }
+    },
+    "purchase_quantity": 1
+}

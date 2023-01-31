@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/146757?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 146757,
+    "name": "Prepared Ingredients",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/146757?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 146757
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000,
+    "sell_price": 1250,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "As prepared by your sous chef, Nomi.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/146757?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 146757
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Prepared Ingredients",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/146757?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 146757
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/239550?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Prepared Ingredients",
+                    "id": 239550
+                },
+                "description": "Use: Combine 10 Prepared Ingredients to cook several servings of food. You may also discover Legion cooking recipes while making these dishes.\r\n\r\nRequires Cooking Fire."
+            }
+        ],
+        "sell_price": {
+            "value": 1250,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "12",
+                "copper": "50"
+            }
+        },
+        "description": "As prepared by your sous chef, Nomi.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

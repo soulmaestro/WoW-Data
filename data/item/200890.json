@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/200890?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 200890,
+    "name": "Stonetalon Bloom Skewer",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 70,
+    "required_level": 65,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/200890?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 200890
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 254700,
+    "sell_price": 1875,
+    "max_count": 20,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/200890?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200890
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Stonetalon Bloom Skewer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/200890?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 200890
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (20)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/391615?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Stonetalon Bloom Skewer",
+                    "id": 391615
+                },
+                "description": "Use: A skewer of lightly grilled and freshly seasoned vegetables straight from the Bloodhoof farms of Kalimdor.\r\r\n\r\r\nIncreases Mana Regen by 30% for 1 hour. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1875,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "18",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 65,
+                "display_string": "Requires Level 65"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

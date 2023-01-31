@@ -1,0 +1,180 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6220?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6220,
+    "name": "Meteor Shard",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 13,
+    "required_level": 8,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/6220?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6220
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 8223,
+    "sell_price": 1644,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/6220?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6220
+        },
+        "context": 0,
+        "bonus_list": [
+            6710
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Meteor Shard",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/6220?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 6220
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "weapon": {
+            "damage": {
+                "min_value": 46,
+                "max_value": 77,
+                "display_string": "46 - 77 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 34.166664,
+                "display_string": "(34.2 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 30,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+30 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 53,
+                "display": {
+                    "display_string": "+53 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/245729?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Meteor Shard",
+                    "id": 245729
+                },
+                "description": "Equip: Your melee attacks have a chance to blast the target for 407 Fire damage.\r\n"
+            }
+        ],
+        "sell_price": {
+            "value": 535481,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "53",
+                "silver": "54",
+                "copper": "81"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 8,
+                "display_string": "Requires Level 8"
+            }
+        },
+        "level": {
+            "value": 194,
+            "display_string": "Item Level 194"
+        },
+        "durability": {
+            "value": 35,
+            "display_string": "Durability 35 / 35"
+        }
+    },
+    "purchase_quantity": 1
+}

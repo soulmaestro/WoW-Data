@@ -1,0 +1,238 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/144343?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 144343,
+    "name": "Schematic: Rechargeable Reaves Battery",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/144343?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 144343
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Rechargeable Reaves Battery.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/144343?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 144343
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Rechargeable Reaves Battery",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/144343?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 144343
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/235775?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rechargeable Reaves Battery",
+                    "id": 235775
+                },
+                "description": "Use: Teaches you how to craft a Rechargeable Reaves Battery."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Engineering",
+                    "id": 2500
+                },
+                "level": 1,
+                "display_string": "Requires Legion Engineering (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/144341?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 144341
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Rechargeable Reaves Battery",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/144341?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 144341
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "unique_equipped": "Unique",
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/200061?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Summon Reaves",
+                            "id": 200061
+                        },
+                        "description": "Use: Summon Reaves. (30 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 87500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "8",
+                        "silver": "75",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2500?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Legion Engineering",
+                            "id": 2500
+                        },
+                        "level": 1,
+                        "display_string": "Requires Legion Engineering (1)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/132523?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Reaves Battery",
+                        "id": 132523
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Leystone Ore",
+                        "id": 123918
+                    },
+                    "quantity": 75
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood of Sargeras",
+                        "id": 124124
+                    },
+                    "quantity": 15
+                }
+            ],
+            "reagents_display_string": "Reaves Battery, Leystone Ore (75), Blood of Sargeras (15)"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 1",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

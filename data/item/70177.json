@@ -1,0 +1,225 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/70177?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 70177,
+    "name": "Schematic: Flintlocke's Woodchucker",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 32,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/70177?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 70177
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3000000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Flintlocke's Woodchucker.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/70177?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 70177
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Schematic: Flintlocke's Woodchucker",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/70177?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 70177
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2503?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cataclysm Engineering",
+                    "id": 2503
+                },
+                "level": 65,
+                "display_string": "Requires Cataclysm Engineering (65)"
+            }
+        },
+        "description": "Teaches you how to make Flintlocke's Woodchucker.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/70139?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 70139
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Flintlocke's Woodchucker",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/70139?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 70139
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/99623?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Flintlocke's Woodchucker",
+                            "id": 99623
+                        },
+                        "description": "Use: Attaches a permanent device to a bow or gun that sometimes launches a rabid critter, dealing additional damage to the target and increasing your Agility by 48 for 10 sec.\r\r\r\n\r\r\r\nAttaching this device to a ranged weapon causes it to become soulbound. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "sell_price": {
+                    "value": 25000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 30,
+                        "display_string": "Requires Level 30"
+                    },
+                    "playable_classes": {
+                        "links": [
+                            {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/3?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Hunter",
+                                "id": 3
+                            }
+                        ],
+                        "display_string": "Classes: Hunter"
+                    }
+                },
+                "description": "'slike a wee angry bullet wit' teeth, son.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/53039?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Hardened Elementium Bar",
+                        "id": 53039
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/67749?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Electrified Ether",
+                        "id": 67749
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/60224?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handful of Obsidium Bolts",
+                        "id": 60224
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/52192?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dream Emerald",
+                        "id": 52192
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Hardened Elementium Bar, Electrified Ether (4), Handful of Obsidium Bolts (5), Dream Emerald (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

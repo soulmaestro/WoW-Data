@@ -1,0 +1,224 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/131773?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 131773,
+    "name": "Flamescale Mail",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 44,
+    "required_level": 39,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/131773?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 131773
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mail",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "CHEST",
+        "name": "Chest"
+    },
+    "purchase_price": 496295,
+    "sell_price": 99259,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Usually quenched by the sea.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/131773?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 131773
+        },
+        "context": 0,
+        "bonus_list": [
+            6691
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Flamescale Mail",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/131773?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 131773
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mail",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "CHEST",
+            "name": "Chest"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 116,
+            "display": {
+                "display_string": "116 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 53,
+                "display": {
+                    "display_string": "+53 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 53,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+53 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 88,
+                "display": {
+                    "display_string": "+88 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 34,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+34 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 63,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+63 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/215767?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Flamescale",
+                    "id": 215767
+                },
+                "description": "Equip: Warming Up."
+            }
+        ],
+        "sell_price": {
+            "value": 296829,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "29",
+                "silver": "68",
+                "copper": "29"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 39,
+                "display_string": "Requires Level 39"
+            }
+        },
+        "description": "Usually quenched by the sea.",
+        "level": {
+            "value": 180,
+            "display_string": "Item Level 180"
+        },
+        "durability": {
+            "value": 140,
+            "display_string": "Durability 140 / 140"
+        }
+    },
+    "purchase_quantity": 1
+}

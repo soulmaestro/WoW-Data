@@ -1,0 +1,222 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20014?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20014,
+    "name": "Recipe: Mighty Troll's Blood Elixir",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/20014?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20014
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Mighty Troll's Blood Elixir.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/20014?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20014
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Mighty Troll's Blood Elixir",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/20014?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 20014
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2485?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Alchemy",
+                    "id": 2485
+                },
+                "level": 290,
+                "display_string": "Requires Classic Alchemy (290)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/270?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Zandalar Tribe",
+                    "id": 270
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Zandalar Tribe - Honored"
+            }
+        },
+        "description": "Teaches you how to make a Mighty Troll's Blood Elixir.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/20004?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 20004
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Mighty Troll's Blood Elixir",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/20004?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 20004
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Elixir",
+                    "id": 2
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/24361?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Mighty Troll's Blood Elixir",
+                            "id": 24361
+                        },
+                        "description": "Use: Regenerate 1 health every 5 sec for 1 hour.  Guardian Elixir. (5 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "10",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 22,
+                        "display_string": "Requires Level 22"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/8846?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gromsblood",
+                        "id": 8846
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/13466?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sorrowmoss",
+                        "id": 13466
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Crystal Vial",
+                        "id": 3371
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Gromsblood, Sorrowmoss (2), Crystal Vial"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,158 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/167864?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 167864,
+    "name": "Trident of Deep Ocean",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 60,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/167864?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 167864
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Polearm",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "TWOHWEAPON",
+        "name": "Two-Hand"
+    },
+    "purchase_price": 6385332,
+    "sell_price": 1277066,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/167864?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 167864
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Trident of Deep Ocean",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/167864?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 167864
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Polearm",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "TWOHWEAPON",
+            "name": "Two-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 16,
+                "max_value": 31,
+                "display_string": "16 - 31 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 3600,
+                "display_string": "Speed 3.60"
+            },
+            "dps": {
+                "value": 6.5277777,
+                "display_string": "(6.5 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 13,
+                "display": {
+                    "display_string": "+13 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/292650?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Custody of the Deep",
+                    "id": 292650
+                },
+                "description": "Equip: Taking damage has a low chance to form a protective bubble around you for 40 sec that absorbs 25% of incoming damage, up to 503. When the bubble bursts, increase your primary stat by 4 for 1 min, stacking up to 3 times."
+            }
+        ],
+        "sell_price": {
+            "value": 6671,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "66",
+                "copper": "71"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 60,
+            "display_string": "Item Level 60"
+        },
+        "durability": {
+            "value": 120,
+            "display_string": "Durability 120 / 120"
+        }
+    },
+    "purchase_quantity": 1
+}

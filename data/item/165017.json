@@ -1,0 +1,121 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165017?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 165017,
+    "name": "Contract: The Honorbound",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/165017?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 165017
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 46000,
+    "sell_price": 11500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/165017?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165017
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Contract: The Honorbound",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/165017?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 165017
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/284277?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Contract: The Honorbound",
+                    "id": 284277
+                },
+                "description": "Use: Enter a contract with The Honorbound that allows you to gain reputation with them every time you complete a world quest on Kul Tiras and Zandalar."
+            }
+        ],
+        "sell_price": {
+            "value": 11500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "15",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2157?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Honorbound",
+                    "id": 2157
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires The Honorbound - Friendly"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

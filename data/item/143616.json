@@ -1,0 +1,238 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/143616?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 143616,
+    "name": "Technique: Glyph of the Trusted Steed",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 45,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/143616?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 143616
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft a Glyph of the Trusted Steed.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/143616?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 143616
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Technique: Glyph of the Trusted Steed",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/143616?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 143616
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/232275?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Glyph of the Trusted Steed",
+                    "id": 232275
+                },
+                "description": "Use: Teaches you how to craft a Glyph of the Trusted Steed."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2508?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Inscription",
+                    "id": 2508
+                },
+                "level": 1,
+                "display_string": "Requires Legion Inscription (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/143588?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 143588
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Glyph of the Trusted Steed",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/143588?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 143588
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Glyph",
+                    "id": 16
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Paladin",
+                    "id": 2
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/231997?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Trusted Steed",
+                            "id": 231997
+                        },
+                        "description": "Use: Your Divine Steed is a charger instead of your racial mount."
+                    }
+                ],
+                "sell_price": {
+                    "value": 100,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 11,
+                        "display_string": "Requires Level 11"
+                    },
+                    "playable_classes": {
+                        "links": [
+                            {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/2?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Paladin",
+                                "id": 2
+                            }
+                        ],
+                        "display_string": "Classes: Paladin"
+                    }
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Light Parchment",
+                        "id": 39354
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129034?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sallow Pigment",
+                        "id": 129034
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/129032?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Roseate Pigment",
+                        "id": 129032
+                    },
+                    "quantity": 70
+                }
+            ],
+            "reagents_display_string": "Light Parchment, Sallow Pigment (2), Roseate Pigment (70)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

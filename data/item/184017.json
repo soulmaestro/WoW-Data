@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/184017?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 184017,
+    "name": "Bargast's Leash",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 200,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/184017?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 184017
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3806963,
+    "sell_price": 761392,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/184017?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184017
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Bargast's Leash",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/184017?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 184017
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 60,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+60 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 60,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+60 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344384?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Huntsman's Bond",
+                    "id": 344384
+                },
+                "description": "Use: Form a Huntsman's Bond with a target ally for 30 sec. 25% of damage you suffer will be redirected to your bonded ally, up to 41,677 total damage redirected. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 489527,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "48",
+                "silver": "95",
+                "copper": "27"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "level": {
+            "value": 200,
+            "display_string": "Item Level 200"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

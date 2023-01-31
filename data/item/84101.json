@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/84101?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 84101,
+    "name": "Reins of the Grand Expedition Yak",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 10,
+    "required_level": 32,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/84101?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 84101
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mount",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1200000000,
+    "sell_price": 300000000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to summon this three-person mount with vendors. Excellent for those long journies up the summit of Mount Neverest. Be the envy of your friends.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/84101?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 84101
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Reins of the Grand Expedition Yak",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/84101?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 84101
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Mount",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/122708?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Grand Expedition Yak",
+                    "id": 122708
+                },
+                "description": "Use: Teaches you how to summon this three-person mount with vendors. Excellent for those long journies up the summit of Mount Neverest. Be the envy of your friends."
+            }
+        ],
+        "sell_price": {
+            "value": 300000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "30,000",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "ability": {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/33388?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Apprentice Riding",
+                    "id": 33388
+                },
+                "display_string": "Requires Apprentice Riding"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

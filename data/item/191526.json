@@ -1,0 +1,120 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/191526?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 191526,
+    "name": "Lesser Illustrious Insight",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 61,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/191526?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 191526
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Finishing Reagents",
+        "id": 19
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/191526?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191526
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Lesser Illustrious Insight",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/191526?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 191526
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Finishing Reagents",
+            "id": 19
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/395663?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Combine Lesser Illustrious Insight (DNT)",
+                    "id": 395663
+                },
+                "description": "Use: Combine 5 Lesser Illustrious Insight into a full Illustrious Insight."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "is_subclass_hidden": true,
+        "crafting_reagent": "Crafting Reagent"
+    },
+    "purchase_quantity": 1,
+    "modified_crafting": {
+        "id": 165,
+        "category": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/category/134?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Lesser Illustrious Insight",
+            "id": 134
+        },
+        "description": "Increases $en1 by $ev1."
+    }
+}

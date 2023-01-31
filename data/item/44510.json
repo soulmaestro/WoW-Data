@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44510?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44510,
+    "name": "Pattern: Mammoth Mining Bag",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44510?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44510
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 50000,
+    "sell_price": 12500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Mammoth Mining Bag.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44510?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44510
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Pattern: Mammoth Mining Bag",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44510?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44510
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 12500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2530?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Leatherworking",
+                    "id": 2530
+                },
+                "level": 40,
+                "display_string": "Requires Northrend Leatherworking (40)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1119?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Sons of Hodir",
+                    "id": 1119
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Sons of Hodir - Honored"
+            }
+        },
+        "description": "Teaches you how to make a Mammoth Mining Bag.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/38347?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 38347
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Mammoth Mining Bag",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/38347?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 38347
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Container",
+                    "id": 1
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/1/item-subclass/6?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mining Bag",
+                    "id": 6
+                },
+                "inventory_type": {
+                    "type": "BAG",
+                    "name": "Bag"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "sell_price": {
+                    "value": 55000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "5",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "container_slots": {
+                    "value": 32,
+                    "display_string": "32 Slot Mining Bag"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/38425?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heavy Borean Leather",
+                        "id": 38425
+                    },
+                    "quantity": 8
+                }
+            ],
+            "reagents_display_string": "Heavy Borean Leather (8)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

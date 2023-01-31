@@ -1,0 +1,114 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/68648?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 68648,
+    "name": "Dousing Agent",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/68648?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 68648
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Fight fire with insanely toxic low-pressure vaporising liquid.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/68648?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 68648
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Dousing Agent",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/68648?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 68648
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "QUEST",
+            "name": "Quest Item"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/95964?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Dousing Agent",
+                    "id": 95964
+                },
+                "description": "Use: Throw at the Wickerman in Ruins of Lordaeron to unleash a chemical reaction that smothers the flames. (10 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "faction": {
+                "value": {
+                    "type": "ALLIANCE",
+                    "name": "Alliance"
+                },
+                "display_string": "Alliance Only"
+            },
+            "holiday": {
+                "display_string": "Requires Hallow's End"
+            }
+        },
+        "description": "Fight fire with insanely toxic low-pressure vaporising liquid.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

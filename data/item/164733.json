@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164733?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 164733,
+    "name": "Synchronous Thread",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 50,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/164733?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 164733
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloth",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "A stitch in time saves the world from its demise.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/164733?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 164733
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Synchronous Thread",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/164733?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 164733
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloth",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/282465?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Synchronous Thread - Aura",
+                    "id": 282465
+                },
+                "description": "Kul Tiran and Zandalari cloth displaced in time can be found more often in the world.\r\n"
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/282473?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mending Time",
+                    "id": 282473
+                },
+                "description": "Use: Allows Synchronous Tailors to mend tears in the fabric of time across Kul Tiras and Zandalar. \r\n"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2533?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Tailoring",
+                    "id": 2533
+                },
+                "level": 150,
+                "display_string": "Requires Kul Tiran Tailoring (150)"
+            }
+        },
+        "description": "A stitch in time saves the world from its demise.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

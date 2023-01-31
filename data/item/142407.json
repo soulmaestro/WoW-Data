@@ -1,0 +1,220 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/142407?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 142407,
+    "name": "Recipe: Drums of the Mountain",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/142407?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 142407
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Drums of the Mountain.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/142407?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142407
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Drums of the Mountain",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/142407?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 142407
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/230936?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Drums of the Mountain",
+                    "id": 230936
+                },
+                "description": "Use: Teaches you how to make Drums of the Mountain."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2526?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Legion Leatherworking",
+                    "id": 2526
+                },
+                "level": 1,
+                "display_string": "Requires Legion Leatherworking (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/142406?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 142406
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Drums of the Mountain",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/142406?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 142406
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/230935?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Drums of the Mountain",
+                            "id": 230935
+                        },
+                        "description": "Use: Increases Haste by 15% for all party and raid members. Lasts 40 sec.\r\n\r\nAllies receiving this effect will become Exhausted and be unable to benefit from Bloodlust, Heroism or Time Warp again for 10 min.\r\n\r\nDoes not does affect allies above level 50. (2 Min Cooldown) (Requires level 50 or below)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 5000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124113?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stonehide Leather",
+                        "id": 124113
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124438?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Unbroken Claw",
+                        "id": 124438
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/124439?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Unbroken Tooth",
+                        "id": 124439
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Stonehide Leather (10), Unbroken Claw (5), Unbroken Tooth (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

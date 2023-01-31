@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168961?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 168961,
+    "name": "Exothermic Evaporator Coil",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/168961?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 168961
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Key",
+        "id": 13
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/13/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Key",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "An experimental heat exchange device. Corrodes quickly when detached from a power source.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/168961?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168961
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Exothermic Evaporator Coil",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/168961?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168961
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Key",
+            "id": 13
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/13/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Key",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/299676?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Installing",
+                    "id": 299676
+                },
+                "description": "Use: Install in the Weather Alteration Machine to activate it."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "description": "An experimental heat exchange device. Corrodes quickly when detached from a power source.",
+        "expiration_time_left": {
+            "value": 3600,
+            "display_string": "Duration: 1 hour"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

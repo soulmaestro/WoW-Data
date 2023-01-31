@@ -1,0 +1,279 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/77949?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 77949,
+    "name": "Golad, Twilight of Aspects",
+    "quality": {
+        "type": "LEGENDARY",
+        "name": "Legendary"
+    },
+    "level": 38,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/77949?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 77949
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPONMAINHAND",
+        "name": "Main Hand"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/77949?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 77949
+        },
+        "sockets": [
+            {
+                "socket_type": {
+                    "type": "PRISMATIC",
+                    "name": "Prismatic Socket"
+                }
+            }
+        ],
+        "context": 0,
+        "bonus_list": [
+            9270
+        ],
+        "quality": {
+            "type": "LEGENDARY",
+            "name": "Legendary"
+        },
+        "name": "Golad, Twilight of Aspects",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/77949?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 77949
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPONMAINHAND",
+            "name": "Main Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 17,
+                "max_value": 29,
+                "display_string": "17 - 29 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 12.777778,
+                "display_string": "(12.8 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 8,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+8 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 17,
+                "display": {
+                    "display_string": "+17 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 9,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+9 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 8,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+8 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 6,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+6 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "socket_bonus": "Socket Bonus: +1 Agility",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/107082?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Embrace of the Destroyer",
+                    "id": 107082
+                },
+                "description": "Use: Slows your falling speed for 15 sec. (5 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1087?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fangs of the Father",
+                "id": 1087
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77949?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Golad, Twilight of Aspects",
+                        "id": 77949
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/77950?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Tiriosh, Nightmare of Ages",
+                        "id": 77950
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Your melee attacks have a chance to grant Shadows of the Destroyer, increasing your Agility by 15, stacking up to 50 times. Each application past 30 grants an increasing chance to trigger Fury of the Destroyer, which immediately grants 5 combo points and causes your finishing moves to generate 5 combo points. Lasts 6 sec.",
+                    "required_count": 2
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Fangs of the Father (0/2)"
+        },
+        "level": {
+            "value": 124,
+            "display_string": "Item Level 124"
+        },
+        "durability": {
+            "value": 95,
+            "display_string": "Durability 95 / 95"
+        }
+    },
+    "purchase_quantity": 1
+}

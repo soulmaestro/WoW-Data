@@ -1,0 +1,243 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/49050?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 49050,
+    "name": "Schematic: Jeeves",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/49050?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 49050
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 480000,
+    "sell_price": 120000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Jeeves.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/49050?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 49050
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Schematic: Jeeves",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/49050?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 49050
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 120000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "12",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Engineering",
+                    "id": 2504
+                },
+                "level": 75,
+                "display_string": "Requires Northrend Engineering (75)"
+            }
+        },
+        "description": "Teaches you how to make Jeeves.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/49040?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 49040
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Jeeves",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/49040?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 49040
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/67826?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Jeeves",
+                            "id": 67826
+                        },
+                        "description": "Use: Requests the presence of Jeeves, the perfect gentleman robot butler, who will attend to your needs for 10 min.\r\n\r\nJeeves can grant bank access to very skilled engineers and perform mundane tasks such as buying, selling, and repairing for anyone. (1 Hr Cooldown)"
+                    }
+                ],
+                "requirements": {
+                    "skill": {
+                        "profession": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/profession/2504?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Northrend Engineering",
+                            "id": 2504
+                        },
+                        "level": 75,
+                        "display_string": "Requires Northrend Engineering (75)"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/18232?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Field Repair Bot 74A",
+                        "id": 18232
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/34113?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Field Repair Bot 110G",
+                        "id": 34113
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/40769?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Scrapbot Construction Kit",
+                        "id": 40769
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/37663?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Titansteel Bar",
+                        "id": 37663
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/36922?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "King's Amber",
+                        "id": 36922
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39681?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Handful of Cobalt Bolts",
+                        "id": 39681
+                    },
+                    "quantity": 30
+                }
+            ],
+            "reagents_display_string": "Field Repair Bot 74A (2), Field Repair Bot 110G (10), Scrapbot Construction Kit (20), Titansteel Bar (8), King's Amber (2), Handful of Cobalt Bolts (30)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

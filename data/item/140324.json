@@ -1,0 +1,122 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/140324?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 140324,
+    "name": "Mobile Telemancy Beacon",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/140324?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 140324
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 3000000,
+    "sell_price": 750000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/140324?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140324
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Mobile Telemancy Beacon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/140324?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 140324
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/223444?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mobile Telemancy Beacon Return",
+                    "id": 223444
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nSet up the beacon in the field to return to Shal'aran. The beacon is the pinnacle of Telemancy technology and provides 85% coverage of Suramar as well as only requiring 20 hours to recharge!  (20 Hr Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 750000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "75",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1859?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Nightfallen",
+                    "id": 1859
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Nightfallen - Honored"
+            }
+        },
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

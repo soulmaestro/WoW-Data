@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169319?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169319,
+    "name": "Dribbling Inkpod",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 72,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169319?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169319
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3220557,
+    "sell_price": 644111,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169319?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169319
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Dribbling Inkpod",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169319?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169319
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 10,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+10 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 10,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+10 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/296963?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Conductive Ink",
+                    "id": 296963
+                },
+                "description": "Equip: Your damaging abilities against enemies above 30% health have a very high chance to apply Conductive Ink. When an enemy falls below 30% health, Conductive Ink inflicts 65 Nature damage per stack."
+            }
+        ],
+        "sell_price": {
+            "value": 6591,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "65",
+                "copper": "91"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            }
+        },
+        "level": {
+            "value": 72,
+            "display_string": "Item Level 72"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

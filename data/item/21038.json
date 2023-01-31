@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21038?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21038,
+    "name": "Hardpacked Snowball",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 3,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/21038?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21038
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10,
+    "sell_price": 0,
+    "max_count": 5,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/21038?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21038
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Hardpacked Snowball",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/21038?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 21038
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "unique_equipped": "Unique (5)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/25677?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Snowball",
+                    "id": 25677
+                },
+                "description": "Use: Throw me before I melt! (30 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "areas": [
+                {
+                    "name": "Alterac Valley",
+                    "id": 2597
+                },
+                {
+                    "name": "Alterac Valley",
+                    "id": 10458
+                }
+            ]
+        },
+        "expiration_time_left": {
+            "value": 300,
+            "display_string": "Duration: 5 min"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

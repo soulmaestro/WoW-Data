@@ -1,0 +1,206 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/193496?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 193496,
+    "name": "Witherrot Tome",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 350,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/193496?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 193496
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "HOLDABLE",
+        "name": "Held In Off-hand"
+    },
+    "purchase_price": 4058027,
+    "sell_price": 811605,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/193496?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193496
+        },
+        "context": 0,
+        "bonus_list": [
+            8836,
+            8840,
+            8902,
+            8960
+        ],
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Witherrot Tome",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/193496?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 193496
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "HOLDABLE",
+            "name": "Held In Off-hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Embellished (2)",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 531,
+                "display": {
+                    "display_string": "+531 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 396,
+                "display": {
+                    "display_string": "+396 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 156,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+156 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 156,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+156 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/378391?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tome-Wrought Rot",
+                    "id": 378391
+                },
+                "description": "Equip: Dealing damage with spells and abilities has a small chance to inflict a Tome-Wrought Rot upon your target, causing them to take 1,177 Nature damage every 2 sec. and slowing their movement speed by 30% for 10 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 755650,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "75",
+                "silver": "56",
+                "copper": "50"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "level": {
+            "value": 382,
+            "display_string": "Item Level 382"
+        },
+        "is_subclass_hidden": true,
+        "modified_crafting_stat": [
+            {
+                "id": 49,
+                "type": "MASTERY_RATING",
+                "name": "Mastery"
+            },
+            {
+                "id": 36,
+                "type": "HASTE_RATING",
+                "name": "Haste"
+            }
+        ]
+    },
+    "purchase_quantity": 1
+}

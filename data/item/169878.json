@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169878?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 169878,
+    "name": "Irradiated Undercoat",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/169878?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 169878
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cosmetic",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "BODY",
+        "name": "Shirt"
+    },
+    "purchase_price": 68000,
+    "sell_price": 17000,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "The metal links have a slight green glow to them. Wearing it cannot possibly be good for you.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/169878?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169878
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Irradiated Undercoat",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/169878?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 169878
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cosmetic",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "BODY",
+            "name": "Shirt"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/303003?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Irradiated Undercoat",
+                    "id": 303003
+                },
+                "description": "Equip: Chance on hit to draw Unstable Isotopes from any Irradiated Elemental or Contaminated Glob."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/302987?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unstable Regeneration",
+                    "id": 302987
+                },
+                "description": "Use: Absorb 100 Unstable Isotopes, increasing threat generation by 20%, Nature damage taken by 5%, and periodically heals the caster for 1% to 5% per 6 sec for 30 min.\r\n\r\nOnly usable on Mechagon Island. (1 Day Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 17000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "70",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            }
+        },
+        "description": "The metal links have a slight green glow to them. Wearing it cannot possibly be good for you.",
+        "level": {
+            "value": 1,
+            "display_string": "Item Level 1"
+        },
+        "charges": {
+            "value": 5,
+            "display_string": "5 Charges"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

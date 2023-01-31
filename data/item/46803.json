@@ -1,0 +1,191 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/46803?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46803,
+    "name": "Recipe: Spice Bread Stuffing",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/46803?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46803
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cook Spice Bread Stuffing.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/46803?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46803
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Spice Bread Stuffing",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/46803?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 46803
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2548?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Cooking",
+                    "id": 2548
+                },
+                "level": 1,
+                "display_string": "Requires Classic Cooking (1)"
+            }
+        },
+        "description": "Teaches you how to cook Spice Bread Stuffing.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/44837?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 44837
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Spice Bread Stuffing",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/44837?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 44837
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/65419?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Food",
+                            "id": 65419
+                        },
+                        "description": "Use: Restores you to full health and mana over 20 sec.  Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain Stamina for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "0",
+                        "copper": "1"
+                    }
+                },
+                "requirements": {
+                    "holiday": {
+                        "display_string": "Requires Pilgrim's Bounty"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/30816?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Spice Bread",
+                        "id": 30816
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/44835?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Autumnal Herbs",
+                        "id": 44835
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Spice Bread, Autumnal Herbs"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

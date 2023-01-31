@@ -1,0 +1,142 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44050?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44050,
+    "name": "Mastercraft Kalu'ak Fishing Pole",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 35,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44050?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44050
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Profession",
+        "id": 19
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fishing",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "PROFESSION_TOOL",
+        "name": "Profession Tool"
+    },
+    "purchase_price": 348571,
+    "sell_price": 69714,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44050?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44050
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Mastercraft Kalu'ak Fishing Pole",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44050?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44050
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Profession",
+            "id": 19
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/19/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fishing",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "PROFESSION_TOOL",
+            "name": "Profession Tool"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/59731?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+13 Fishing",
+                    "id": 59731
+                },
+                "description": "Equip: +13 Fishing Skill."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/11789?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Water Breathing",
+                    "id": 11789
+                },
+                "description": "Equip: Allows underwater breathing."
+            }
+        ],
+        "sell_price": {
+            "value": 69714,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "6",
+                "silver": "97",
+                "copper": "14"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2590?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Fishing",
+                    "id": 2590
+                },
+                "level": 1,
+                "display_string": "Requires Northrend Fishing (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1073?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Kalu'ak",
+                    "id": 1073
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires The Kalu'ak - Exalted"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

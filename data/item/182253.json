@@ -1,0 +1,319 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/182253?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 182253,
+    "name": "Bladesworn Harbinger's Crushers",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 155,
+    "required_level": 60,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/182253?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 182253
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Plate",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 1997469,
+    "sell_price": 399493,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/182253?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182253
+        },
+        "context": 0,
+        "bonus_list": [
+            7197,
+            1488,
+            6616
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Bladesworn Harbinger's Crushers",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/182253?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 182253
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Plate",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 92,
+            "display": {
+                "display_string": "92 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 35,
+                "display": {
+                    "display_string": "+35 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 35,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+35 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 53,
+                "display": {
+                    "display_string": "+53 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 30,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+30 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 35,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+35 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 132187,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "13",
+                "silver": "21",
+                "copper": "87"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 60,
+                "display_string": "Requires Level 60"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1477?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Authority of Maldraxxus",
+                "id": 1477
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182250?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Greathelm",
+                        "id": 182250
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182251?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Chestguard",
+                        "id": 182251
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182252?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Stompers",
+                        "id": 182252
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182253?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Crushers",
+                        "id": 182253
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182254?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Greaves",
+                        "id": 182254
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182255?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Pauldrons",
+                        "id": 182255
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182256?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Warbelt",
+                        "id": 182256
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182257?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Vambraces",
+                        "id": 182257
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/182258?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Bladesworn Harbinger's Greatcloak",
+                        "id": 182258
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(3) Set: Increases your out-of-combat regeneration in outdoor Shadowland zones. While in your Covenant's realm, the regeneration amount is increased.",
+                    "required_count": 3
+                },
+                {
+                    "display_string": "(5) Set: While Fleshcraft is active your Intellect is increased by 100. \r\n",
+                    "required_count": 5
+                },
+                {
+                    "display_string": "(8) Set: Killing an enemy reduces Fleshcraft's cooldown by 3 sec and your Critical Strike rating is increased by 35, stacking 5 times.",
+                    "required_count": 8
+                }
+            ],
+            "display_string": "Authority of Maldraxxus (0/9)"
+        },
+        "level": {
+            "value": 171,
+            "display_string": "Item Level 171"
+        },
+        "durability": {
+            "value": 50,
+            "display_string": "Durability 50 / 50"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,336 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/139741?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 139741,
+    "name": "Gloves of the Uncrowned",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 50,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/139741?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 139741
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leather",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "HAND",
+        "name": "Hands"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 1250000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/139741?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139741
+        },
+        "context": 0,
+        "bonus_list": [
+            3382
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Gloves of the Uncrowned",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/139741?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 139741
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leather",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "HAND",
+            "name": "Hands"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "armor": {
+            "value": 6,
+            "display": {
+                "display_string": "6 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 5,
+                "display": {
+                    "display_string": "+5 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 5,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+5 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 8,
+                "display": {
+                    "display_string": "+8 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 3,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+3 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 7,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+7 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 1250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "125",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1859?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "The Nightfallen",
+                    "id": 1859
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires The Nightfallen - Honored"
+            }
+        },
+        "set": {
+            "item_set": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item-set/1277?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Battlegear of the Uncrowned",
+                "id": 1277
+            },
+            "items": [
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139739?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chestguard of the Uncrowned",
+                        "id": 139739
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139740?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Footpads of the Uncrowned",
+                        "id": 139740
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139741?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gloves of the Uncrowned",
+                        "id": 139741
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139742?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mask of the Uncrowned",
+                        "id": 139742
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139743?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Leggings of the Uncrowned",
+                        "id": 139743
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139744?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shoulderblades of the Uncrowned",
+                        "id": 139744
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139745?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Belt of the Uncrowned",
+                        "id": 139745
+                    }
+                },
+                {
+                    "item": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/139746?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Wristbands of the Uncrowned",
+                        "id": 139746
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "display_string": "(2) Set: Increases your out-of-combat regeneration in outdoor Broken Isles zones.",
+                    "required_count": 2
+                },
+                {
+                    "display_string": "(4) Set: While you are below 35% health you take 50% reduced damage in outdoor Broken Isles zones.",
+                    "required_count": 4
+                },
+                {
+                    "display_string": "(6) Set: Agility increased by 11.",
+                    "required_count": 6
+                },
+                {
+                    "display_string": "(8) Set: Your finishing moves have a chance to increase your Haste by 46 for 12 sec.",
+                    "required_count": 8
+                }
+            ],
+            "legacy": "Legacy Set: Bonus is inactive",
+            "display_string": "Battlegear of the Uncrowned (0/8)"
+        },
+        "level": {
+            "value": 51,
+            "display_string": "Item Level 51"
+        },
+        "durability": {
+            "value": 50,
+            "display_string": "Durability 50 / 50"
+        }
+    },
+    "purchase_quantity": 1
+}

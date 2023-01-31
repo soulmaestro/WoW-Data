@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152964?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 152964,
+    "name": "Krokul Flute",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 45,
+    "required_level": 45,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/152964?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 152964
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 1250000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "The strange tones of Krokul Flutes float on the hot winds of Argus and carry messages and calls for assistance between krokul camps.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/152964?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152964
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Krokul Flute",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/152964?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 152964
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/253938?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Argussian Krokul Signal",
+                    "id": 253938
+                },
+                "description": "Use: Upgrade your Flight Master's Whistle to summon a krokul tunneler to take you to the nearest Lightforged Beacon while on Argus.\r\n"
+            }
+        ],
+        "sell_price": {
+            "value": 1250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "125",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 45,
+                "display_string": "Requires Level 45"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2170?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Argussian Reach",
+                    "id": 2170
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Argussian Reach - Revered"
+            }
+        },
+        "description": "The strange tones of Krokul Flutes float on the hot winds of Argus and carry messages and calls for assistance between krokul camps.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/187216?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 187216,
+    "name": "Soultwining Crescent",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 60,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/187216?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 187216
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 450000,
+    "sell_price": 250000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Can be used at the Forge of Bonds to uncover an unknown conduit or conduit rank.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/187216?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 187216
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Soultwining Crescent",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/187216?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 187216
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/356593?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unraveling Energy",
+                    "id": 356593
+                },
+                "description": "Use: Discover an upgrade to a random Conduit from among your lowest item level Conduits for your current specialization, up to item level 226."
+            }
+        ],
+        "sell_price": {
+            "value": 250000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "25",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "description": "Can be used at the Forge of Bonds to uncover an unknown conduit or conduit rank.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

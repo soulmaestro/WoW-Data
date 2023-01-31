@@ -1,0 +1,277 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168368?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 168368,
+    "name": "Recipe: Famine Evaluator And Snack Table",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/168368?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 168368
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 22500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft F.E.A.S.T. more effectively.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/168368?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168368
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Famine Evaluator And Snack Table",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/168368?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 168368
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/297107?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Famine Evaluator And Snack Table",
+                    "id": 297107
+                },
+                "description": "Use: Teaches you how to craft F.E.A.S.T. more effectively."
+            }
+        ],
+        "sell_price": {
+            "value": 22500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2541?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Kul Tiran Cooking",
+                    "id": 2541
+                },
+                "level": 175,
+                "display_string": "Requires Kul Tiran Cooking (175)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2391?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rustbolt Resistance",
+                    "id": 2391
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Rustbolt Resistance - Exalted"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/168315?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 168315
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Famine Evaluator And Snack Table",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/168315?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 168315
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/297048?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Famine Evaluator And Snack Table",
+                            "id": 297048
+                        },
+                        "description": "Use: Set out a F.E.A.S.T. to feed up to 35 people in your raid or party!\r\n\r\nRestores 25,384 health and 15,384 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 25 in a stat for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 1250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "12",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 45,
+                        "display_string": "Requires Level 45"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/168302?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Viper Fish",
+                        "id": 168302
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/167562?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Ionized Minnow",
+                        "id": 167562
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154897?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Stringy Loins",
+                        "id": 154897
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/154898?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Meaty Haunch",
+                        "id": 154898
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/160709?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fresh Potato",
+                        "id": 160709
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/169610?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "S.P.A.R.E. Crate",
+                        "id": 169610
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Viper Fish (15), Ionized Minnow (15), Stringy Loins (15), Meaty Haunch (15), Fresh Potato (20), S.P.A.R.E. Crate"
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Rank 3",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

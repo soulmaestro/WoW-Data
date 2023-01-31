@@ -1,0 +1,155 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189631?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189631,
+    "name": "10.0 Raid Template - Physical DPS - Trinket",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 280,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189631?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189631
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3761789,
+    "sell_price": 752357,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189631?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189631
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "10.0 Raid Template - Physical DPS - Trinket",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189631?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189631
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 127,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+127 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 127,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+127 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344662?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shattered Psyche",
+                    "id": 344662
+                },
+                "description": "Use: Your next 5 damaging abilities inflict Shattered Psyche, dealing 8,444 Shadow damage and increasing the target's damage taken from Shattered Psyche by 1% for 5 sec, stacking up to 25 times. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 679909,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "67",
+                "silver": "99",
+                "copper": "9"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "level": {
+            "value": 280,
+            "display_string": "Item Level 280"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

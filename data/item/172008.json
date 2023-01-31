@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172008?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 172008,
+    "name": "Contract: Rajani",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 50,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/172008?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 172008
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 46000,
+    "sell_price": 11500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/172008?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172008
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Contract: Rajani",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/172008?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172008
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/308188?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Contract: Rajani",
+                    "id": 308188
+                },
+                "description": "Use: Enter a contract with the Rajani that allows you to gain reputation with them every time you complete a world quest on Kul Tiras and Zandalar."
+            }
+        ],
+        "sell_price": {
+            "value": 11500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "15",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/2415?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Rajani",
+                    "id": 2415
+                },
+                "min_reputation_level": 4,
+                "display_string": "Requires Rajani - Friendly"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

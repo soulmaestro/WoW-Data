@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/189633?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 189633,
+    "name": "10.0 Raid Template - INT - Trinket",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 280,
+    "required_level": 70,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/189633?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 189633
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 3789876,
+    "sell_price": 757975,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/189633?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189633
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "10.0 Raid Template - INT - Trinket",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/189633?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 189633
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 127,
+                "display": {
+                    "display_string": "+127 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/344806?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Crimson Chorus",
+                    "id": 344806
+                },
+                "description": "Equip: Join the Crimson Chorus. Every minute, your Critical Strike swells by 353 over 30 sec. before returning to normal. This effect is increased by 5% for each member of the Crimson Chorus in your party."
+            }
+        ],
+        "sell_price": {
+            "value": 684986,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "68",
+                "silver": "49",
+                "copper": "86"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 70,
+                "display_string": "Requires Level 70"
+            }
+        },
+        "level": {
+            "value": 280,
+            "display_string": "Item Level 280"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

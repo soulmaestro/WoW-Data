@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22710?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22710,
+    "name": "Bloodthistle",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 3,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/22710?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22710
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tradeskill",
+        "id": 7
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Herb",
+        "id": 9
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 120,
+    "sell_price": 30,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/22710?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22710
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Bloodthistle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/22710?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 22710
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tradeskill",
+            "id": 7
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Herb",
+            "id": 9
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/28273?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Bloodthistle",
+                    "id": 28273
+                },
+                "description": "Use: Increases spell power by a small amount for 10 minutes."
+            }
+        ],
+        "sell_price": {
+            "value": 30,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "30"
+            }
+        },
+        "requirements": {
+            "playable_races": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blood Elf",
+                        "id": 10
+                    }
+                ],
+                "display_string": "Races: Blood Elf"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

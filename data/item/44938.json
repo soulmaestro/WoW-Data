@@ -1,0 +1,203 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44938?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44938,
+    "name": "Plans: Titanium Plating",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 30,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/44938?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44938
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 150000,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Titanium Plating.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/44938?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44938
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Plans: Titanium Plating",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/44938?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 44938
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2475?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Northrend Blacksmithing",
+                    "id": 2475
+                },
+                "level": 75,
+                "display_string": "Requires Northrend Blacksmithing (75)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1052?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Horde Expedition",
+                    "id": 1052
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Horde Expedition - Exalted"
+            }
+        },
+        "description": "Teaches you how to make a Titanium Plating.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/44936?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 44936
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Titanium Plating",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/44936?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 44936
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item Enhancement",
+                    "id": 8
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/13?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shield/Off-hand",
+                    "id": 13
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/62201?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Titanium Plating",
+                            "id": 62201
+                        },
+                        "description": "Use: Permanently attach lightweight titanium plating to a shield, increasing parry by 3 and reducing the duration of Disarm effects by 50%. Does not stack with other similar effects.\r\r\r\n\r\r\r\nAttaching Titanium Plating to your shield causes it to become soulbound. Cannot be applied to items higher than level 50."
+                    }
+                ],
+                "sell_price": {
+                    "value": 30000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "3",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 27,
+                        "display_string": "Requires Level 27"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/41163?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Titanium Bar",
+                        "id": 41163
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/35627?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Eternal Shadow",
+                        "id": 35627
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Titanium Bar (4), Eternal Shadow (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

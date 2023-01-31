@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172448?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 172448,
+    "name": "Super Sticky Honey",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 50,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/172448?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 172448
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 18000,
+    "sell_price": 4500,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "Honey this sticky might be useful for something....",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/172448?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172448
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Super Sticky Honey",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/172448?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 172448
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/309429?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sticky Fingers",
+                    "id": 309429
+                },
+                "description": "Use: Your fingers are covered in honey, making them incredibly sticky for 15 min. (2 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 4500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "45",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 50,
+                "display_string": "Requires Level 50"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "description": "Honey this sticky might be useful for something....",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/35257?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35257,
+    "name": "Design: Rigid Empyrean Sapphire",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/35257?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35257
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 10
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 500000,
+    "sell_price": 125000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to cut a Rigid Empyrean Sapphire.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/35257?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35257
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Design: Rigid Empyrean Sapphire",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/35257?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 35257
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/10?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Jewelcrafting",
+            "id": 10
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 125000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "12",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/755?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Jewelcrafting",
+                    "id": 755
+                },
+                "level": 375,
+                "display_string": "Requires Jewelcrafting (375)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1077?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shattered Sun Offensive",
+                    "id": 1077
+                },
+                "min_reputation_level": 7,
+                "display_string": "Requires Shattered Sun Offensive - Exalted"
+            }
+        },
+        "description": "Teaches you how to cut a Rigid Empyrean Sapphire.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/32206?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 32206
+                },
+                "quality": {
+                    "type": "EPIC",
+                    "name": "Epic"
+                },
+                "name": "Rigid Empyrean Sapphire",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/32206?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 32206
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gem",
+                    "id": 3
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/3/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Critical Strike",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 7000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "70",
+                        "copper": "0"
+                    }
+                },
+                "description": "Matches any socket.",
+                "is_subclass_hidden": true,
+                "gem_properties": {
+                    "effect": "+3 Critical Strike"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/32228?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Empyrean Sapphire",
+                        "id": 32228
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Empyrean Sapphire"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

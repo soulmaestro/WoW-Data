@@ -1,0 +1,217 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23042?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23042,
+    "name": "Loatheb's Reflection",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 30,
+    "required_level": 25,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/23042?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23042
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 364641,
+    "sell_price": 91160,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/23042?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23042
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Loatheb's Reflection",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/23042?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 23042
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "display": {
+                    "display_string": "+1 to All Resistances",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "FIRE_RESISTANCE",
+                    "name": "Fire Resistance"
+                },
+                "value": 1,
+                "is_hidden": true,
+                "display": {
+                    "display_string": "+1 Fire Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "FROST_RESISTANCE",
+                    "name": "Frost Resistance"
+                },
+                "value": 1,
+                "is_hidden": true,
+                "display": {
+                    "display_string": "+1 Frost Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "SHADOW_RESISTANCE",
+                    "name": "Shadow Resistance"
+                },
+                "value": 1,
+                "is_hidden": true,
+                "display": {
+                    "display_string": "+1 Shadow Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "NATURE_RESISTANCE",
+                    "name": "Nature Resistance"
+                },
+                "value": 1,
+                "is_hidden": true,
+                "display": {
+                    "display_string": "+1 Nature Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "ARCANE_RESISTANCE",
+                    "name": "Arcane Resistance"
+                },
+                "value": 1,
+                "is_hidden": true,
+                "display": {
+                    "display_string": "+1 Arcane Resistance",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/28778?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Loatheb's Reflection",
+                    "id": 28778
+                },
+                "description": "Use: Increases resistances to all schools of magic by 4 for 20 sec. (2 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 91160,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "9",
+                "silver": "11",
+                "copper": "60"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 25,
+                "display_string": "Requires Level 25"
+            }
+        },
+        "level": {
+            "value": 30,
+            "display_string": "Item Level 30"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

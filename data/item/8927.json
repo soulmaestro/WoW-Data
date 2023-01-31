@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/8927?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 8927,
+    "name": "Empty Poison Vial",
+    "quality": {
+        "type": "POOR",
+        "name": "Poor"
+    },
+    "level": 22,
+    "required_level": 22,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/8927?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 8927
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 700,
+    "sell_price": 175,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A leftover poison vial, predating Rogues' discovery of replenishable toxin pouches.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/8927?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 8927
+        },
+        "quality": {
+            "type": "POOR",
+            "name": "Poor"
+        },
+        "name": "Empty Poison Vial",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/8927?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 8927
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 175,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "75"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 22,
+                "display_string": "Requires Level 22"
+            },
+            "playable_classes": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/4?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rogue",
+                        "id": 4
+                    }
+                ],
+                "display_string": "Classes: Rogue"
+            }
+        },
+        "description": "A leftover poison vial, predating Rogues' discovery of replenishable toxin pouches.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

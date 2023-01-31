@@ -1,0 +1,207 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/19442?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19442,
+    "name": "Formula: Powerful Anti-Venom",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/19442?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19442
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemy",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 100000,
+    "sell_price": 25000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Powerful Anti-Venom.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/19442?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19442
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Formula: Powerful Anti-Venom",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/19442?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 19442
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Alchemy",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23787?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Powerful Anti-Venom",
+                    "id": 23787
+                },
+                "description": "Use: Teaches you how to make Powerful Anti-Venom."
+            }
+        ],
+        "sell_price": {
+            "value": 25000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "2",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2485?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Alchemy",
+                    "id": 2485
+                },
+                "level": 1,
+                "display_string": "Requires Classic Alchemy (1)"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/529?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Argent Dawn",
+                    "id": 529
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Argent Dawn - Honored"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/19440?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 19440
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Powerful Anti-Venom",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/19440?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 19440
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/23786?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Powerful Anti-Venom",
+                            "id": 23786
+                        },
+                        "description": "Use: Target is cured of poisons up to level 49. (1 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "5",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/19441?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Huge Venom Sac",
+                        "id": 19441
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Huge Venom Sac"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}
