@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/100948?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 100948,
+    "name": "Skeleton Key",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/100948?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 100948
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Key",
+        "id": 13
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/13/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Key",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1,
+    "sell_price": 1,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/100948?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 100948
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Skeleton Key",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/100948?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 100948
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Key",
+            "id": 13
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/13/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Key",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/143917?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unlocking",
+                    "id": 143917
+                },
+                "description": "Use: Unlocks a single cage in Garrosh's menagerie."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/146589?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Skeleton Key",
+                    "id": 146589
+                },
+                "description": "This player is holding a skeleton key. It will unlock a single cage in the menagerie."
+            }
+        ],
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "areas": [
+                {
+                    "name": "Siege of Orgrimmar",
+                    "id": 6738
+                }
+            ]
+        },
+        "expiration_time_left": {
+            "value": 180,
+            "display_string": "Duration: 3 min"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

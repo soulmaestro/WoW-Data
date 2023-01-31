@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47133?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47133,
+    "name": "Fierce Armor Kit",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47133?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47133
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190316?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Earth",
+                "id": 190316
+            },
+            "quantity": 10
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/150?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stonecrust Hide (DNT)",
+                "id": 150
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/146?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resilient Leather (DNT)",
+                "id": 146
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 2
+        }
+    ]
+}

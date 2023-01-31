@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4364?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4364,
+    "name": "Minor Agility",
+    "description": "Permanently enchant bracers to increase Agility by 1. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4364?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4364
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10940?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Strange Dust",
+                "id": 10940
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10939?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Magic Essence",
+                "id": 10939
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

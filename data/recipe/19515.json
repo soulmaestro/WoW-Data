@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19515?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19515,
+    "name": "Bloodstone Band",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19515?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19515
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42336?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Bloodstone Band",
+        "id": 42336
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37701?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Earth",
+                "id": 37701
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36917?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bloodstone",
+                "id": 36917
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

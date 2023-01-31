@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2037?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2037,
+    "name": "Smelt Steel",
+    "description": "Allows the miner to smelt an iron bar and a lump of coal into a steel bar.  Smelting steel requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2037?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2037
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3859?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Steel Bar",
+        "id": 3859
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3857?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coal",
+                "id": 3857
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

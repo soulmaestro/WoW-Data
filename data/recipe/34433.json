@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34433?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34433,
+    "name": "Ancient Rejuvenation Potion",
+    "description": "Mix an Ancient Rejuvenation Potion at the Dalaran Alchemy Station.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34433?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34433
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/127836?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Ancient Rejuvenation Potion",
+        "id": 127836
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/127834?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ancient Healing Potion",
+                "id": 127834
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/127835?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ancient Mana Potion",
+                "id": 127835
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/111960?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 111960,
+    "name": "Lunarfall Inn, Level 1",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/111960?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 111960
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2000000,
+    "sell_price": 2000000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/111960?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 111960
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Lunarfall Inn, Level 1",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/111960?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 111960
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/162014?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Learning",
+                    "id": 162014
+                },
+                "description": "Use: Provides the plans needed to build a Lunarfall Inn building in your Garrison.\r\n\r\nLevel 1\nEach day, a visitor offering a dungeon quest with generous rewards will spend the day at your inn.\n\nLevel 2\nRecruits random followers each week.  You can specify traits and abilities you're especially interested in.\n\nLevel 3\nUnlocks the particularly lucrative garrison resource missions.\n (1 Sec Cooldown)",
+                "display_color": {
+                    "r": 157,
+                    "g": 157,
+                    "b": 157,
+                    "a": 1.0
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 2000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "200",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "faction": {
+                "value": {
+                    "type": "ALLIANCE",
+                    "name": "Alliance"
+                },
+                "display_string": "Alliance Only"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Garrison Blueprint",
+            "color": {
+                "r": 102,
+                "g": 187,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

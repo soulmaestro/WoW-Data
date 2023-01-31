@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19562?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19562,
+    "name": "Noise Machine",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19562?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19562
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40865?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Noise Machine",
+        "id": 40865
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/39683?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Froststeel Tube",
+                "id": 39683
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/39682?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Overcharged Capacitor",
+                "id": 39682
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/39681?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Handful of Cobalt Bolts",
+                "id": 39681
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

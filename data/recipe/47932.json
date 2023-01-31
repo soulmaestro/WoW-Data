@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47932?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47932,
+    "name": "Scepter of Spectacle: Order",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47932?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47932
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194123?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chromatic Dust",
+                "id": 194123
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190322?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Order",
+                "id": 190322
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/99?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Writhebark (DNT)",
+                "id": 99
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47142?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47142,
+    "name": "Protective Gloves",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47142?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47142
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Artisan's Mettle",
+                "id": 190456
+            },
+            "quantity": 0
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/149?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lustrous Scaled Hide (DNT)",
+                "id": 149
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/147?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Adamant Scales (DNT)",
+                "id": 147
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 2
+        }
+    ]
+}

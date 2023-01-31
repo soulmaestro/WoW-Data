@@ -1,0 +1,204 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/114851?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 114851,
+    "name": "Recipe: Hexweave Cloth",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/114851?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 114851
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tailoring",
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 271828,
+    "sell_price": 67957,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Hexweave Cloth.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/114851?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 114851
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Hexweave Cloth",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/114851?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 114851
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Tailoring",
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/168835?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Hexweave Cloth",
+                    "id": 168835
+                },
+                "description": "Use: Teaches you how to make a Hexweave Cloth."
+            }
+        ],
+        "sell_price": {
+            "value": 67957,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "6",
+                "silver": "79",
+                "copper": "57"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/197?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tailoring",
+                    "id": 197
+                },
+                "level": 1,
+                "display_string": "Requires Tailoring (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/111556?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111556
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Hexweave Cloth",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/111556?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111556
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Cloth",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "sell_price": {
+                    "value": 875,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "8",
+                        "copper": "75"
+                    }
+                },
+                "description": "Fur woven into fine cloth.  The basis for most Tailoring in Draenor.",
+                "is_subclass_hidden": true,
+                "crafting_reagent": "Crafting Reagent"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/111557?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sumptuous Fur",
+                        "id": 111557
+                    },
+                    "quantity": 20
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109126?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gorgrond Flytrap",
+                        "id": 109126
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Sumptuous Fur (20), Gorgrond Flytrap (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

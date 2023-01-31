@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35110?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35110,
+    "name": "Gunshoes",
+    "description": "Craft a Gunshoes.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35110?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35110
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/132516?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gunshoes",
+        "id": 132516
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 60
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136629?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Felgibber Shotgun",
+                "id": 136629
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136633?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Loose Trigger",
+                "id": 136633
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

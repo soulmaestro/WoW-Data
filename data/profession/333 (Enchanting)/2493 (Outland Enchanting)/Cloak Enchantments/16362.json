@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16362?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16362,
+    "name": "Greater Dodge",
+    "description": "Permanently enchant a cloak to increase dodge by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16362?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16362
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Planar Essence",
+                "id": 22446
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Earth",
+                "id": 22452
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39030?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39030,
+    "name": "Coarse Leather Waistguard",
+    "description": "Create a Coarse Leather Waistguard.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39030?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39030
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161944?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Coarse Leather Waistguard",
+        "id": 161944
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154144?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Coarse Leather Waistguard",
+        "id": 154144
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152541?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coarse Leather",
+                "id": 152541
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154164?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood-Stained Bone",
+                "id": 154164
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

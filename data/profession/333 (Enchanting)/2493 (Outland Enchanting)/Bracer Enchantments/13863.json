@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13863?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13863,
+    "name": "Superior Healing",
+    "description": "Permanently enchant bracers to increase spell power by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13863?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13863
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Planar Essence",
+                "id": 22446
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21886?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Life",
+                "id": 21886
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

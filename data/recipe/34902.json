@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34902?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34902,
+    "name": "Battlebound Warhelm",
+    "description": "Reduces the materials required to craft a Battlebound Warhelm.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34902?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34902
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128895?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battlebound Warhelm",
+        "id": 128895
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124115?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormscale",
+                "id": 124115
+            },
+            "quantity": 24
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

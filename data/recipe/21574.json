@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21574?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21574,
+    "name": "Critical Strike",
+    "description": "Permanently enchant bracers to increase critical strike by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21574?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21574
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52555?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hypnotic Dust",
+                "id": 52555
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52718?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Celestial Essence",
+                "id": 52718
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

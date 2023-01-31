@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/111927?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 111927,
+    "name": "Fishing Shack, Level 2",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/111927?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 111927
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000000,
+    "sell_price": 10000000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/111927?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 111927
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Fishing Shack, Level 2",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/111927?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 111927
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/161854?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Learning",
+                    "id": 161854
+                },
+                "description": "Use: Provides the plans needed to upgrade your Fishing Shack building to level 2.\r\n\r\nLevel 1\nAllows small Draenor fish to be caught in garrison waters and provides access to daily Fishing quests.\n\nLevel 2\nAllows medium Draenor fish to be caught in garrison waters.\n\nLevel 3\nAllows enormous Draenor fish to be caught in garrison waters.  Also grants you a chance to catch a unique fish that can be used to lure mysterious creatures onto the shore.\n (1 Sec Cooldown)",
+                "display_color": {
+                    "r": 157,
+                    "g": 157,
+                    "b": 157,
+                    "a": 1.0
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 10000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1,000",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Garrison Blueprint",
+            "color": {
+                "r": 102,
+                "g": 187,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

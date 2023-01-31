@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21576?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21576,
+    "name": "Protection",
+    "description": "Permanently enchant a shield to increase Stamina by 7. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21576?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21576
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52719?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Celestial Essence",
+                "id": 52719
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Earth",
+                "id": 52327
+            },
+            "quantity": 15
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

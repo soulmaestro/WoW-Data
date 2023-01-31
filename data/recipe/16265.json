@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16265?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16265,
+    "name": "Hard Khorium Choker",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16265?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16265
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/34358?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hard Khorium Choker",
+        "id": 34358
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35128?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hardened Khorium",
+                "id": 35128
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23572?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Nether",
+                "id": 23572
+            },
+            "quantity": 9
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

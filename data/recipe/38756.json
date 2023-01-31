@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38756?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38756,
+    "name": "Monel-Hardened Shanker",
+    "description": "Create a Monel-Hardened Shanker.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38756?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38756
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161916?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Monel-Hardened Shanker",
+        "id": 161916
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152832?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Monel-Hardened Shanker",
+        "id": 152832
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Monelite Ore",
+                "id": 152512
+            },
+            "quantity": 14
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/160298?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Durable Flux",
+                "id": 160298
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

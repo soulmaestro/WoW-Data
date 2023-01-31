@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2395?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2395,
+    "name": "Azure Silk Vest",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2395?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2395
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4324?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Azure Silk Vest",
+        "id": 4324
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4305?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Silk Cloth",
+                "id": 4305
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/6260?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blue Dye",
+                "id": 6260
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

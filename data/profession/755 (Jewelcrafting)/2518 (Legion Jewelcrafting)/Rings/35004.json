@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35004?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35004,
+    "name": "Skystone Loop",
+    "description": "Greatly reduces the materials required to craft a Skystone Loop.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35004?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35004
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130224?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skystone Loop",
+        "id": 130224
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130176?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Skystone",
+                "id": 130176
+            },
+            "quantity": 2
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

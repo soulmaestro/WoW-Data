@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16198?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16198,
+    "name": "Goldthorn Tea",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16198?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16198
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10841?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Goldthorn Tea",
+        "id": 10841
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3821?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Goldthorn",
+                "id": 3821
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/159?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Refreshing Spring Water",
+                "id": 159
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 4.0
+    }
+}

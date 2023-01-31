@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7670?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7670,
+    "name": "Fiery Weapon",
+    "description": "Permanently enchant a melee weapon to often strike for 17 additional Fire damage. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7670?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7670
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7078?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Fire",
+                "id": 7078
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47168?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47168,
+    "name": "Tuskarr Beanbag",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47168?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47168
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/193053?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Contoured Fowlfeather",
+                "id": 193053
+            },
+            "quantity": 100
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/148?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dense Hide (DNT)",
+                "id": 148
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/146?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resilient Leather (DNT)",
+                "id": 146
+            },
+            "display_order": 1
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/101663?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 101663,
+    "name": "Recipe: Pandaren Treasure Noodle Cart Kit",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/101663?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 101663
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000,
+    "sell_price": 2500,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to create a Pandaren Treasure Noodle Cart Kit.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/101663?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 101663
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Recipe: Pandaren Treasure Noodle Cart Kit",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/101663?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 101663
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "sell_price": {
+            "value": 2500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "25",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2544?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Cooking",
+                    "id": 2544
+                },
+                "level": 75,
+                "display_string": "Requires Pandaria Cooking (75)"
+            }
+        },
+        "description": "Teaches you how to create a Pandaren Treasure Noodle Cart Kit.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/101662?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 101662
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Pandaren Treasure Noodle Cart Kit",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/101662?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 101662
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/145196?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Pandaren Treasure Noodle Cart",
+                            "id": 145196
+                        },
+                        "description": "Use: Set out a Pandaren Treasure Noodle Cart to sell Pandaren Treasure Noodle Soup!\r\n\r\nEach Pandaren Treasure Noodle Soup restores 4,807 health and 5,000 mana over 20 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 13 in a useful stat for 1 hour. (1 Sec Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 22500,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "2",
+                        "silver": "25",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "description": "Contains everything you need to set up your own pandaren treasure noodle cart.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74646?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Black Pepper Ribs and Shrimp",
+                        "id": 74646
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74656?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Chun Tian Spring Rolls",
+                        "id": 74656
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74650?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mogu Fish Stew",
+                        "id": 74650
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74653?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Steamed Crab Surprise",
+                        "id": 74653
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/74648?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sea Mist Rice Noodles",
+                        "id": 74648
+                    },
+                    "quantity": 5
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/75038?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Mad Brewer's Breakfast",
+                        "id": 75038
+                    },
+                    "quantity": 5
+                }
+            ],
+            "reagents_display_string": "Black Pepper Ribs and Shrimp (5), Chun Tian Spring Rolls (5), Mogu Fish Stew (5), Steamed Crab Surprise (5), Sea Mist Rice Noodles (5), Mad Brewer's Breakfast (5)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

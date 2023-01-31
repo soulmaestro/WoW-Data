@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/5685?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5685,
+    "name": "Nightscape Pants",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/5685?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5685
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/8193?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Nightscape Pants",
+        "id": 8193
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4304?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thick Leather",
+                "id": 4304
+            },
+            "quantity": 14
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4291?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Thread",
+                "id": 4291
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

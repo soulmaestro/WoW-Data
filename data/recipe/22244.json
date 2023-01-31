@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22244?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22244,
+    "name": "Smelt Obsidium",
+    "description": "Allows the miner to smelt obsidium ore into an obsidium bar.  Requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22244?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22244
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/54849?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Obsidium Bar",
+        "id": 54849
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/53038?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Obsidium Ore",
+                "id": 53038
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

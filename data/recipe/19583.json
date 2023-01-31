@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19583?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19583,
+    "name": "Ornate Saronite Walkers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19583?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19583
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/42730?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Ornate Saronite Walkers",
+        "id": 42730
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36913?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saronite Bar",
+                "id": 36913
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35627?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Shadow",
+                "id": 35627
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

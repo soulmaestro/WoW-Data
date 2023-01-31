@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13536?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13536,
+    "name": "Blood Crown",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13536?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13536
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21780?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blood Crown",
+        "id": 21780
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12359?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thorium Bar",
+                "id": 12359
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/11382?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood of the Mountain",
+                "id": 11382
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7910?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Ruby",
+                "id": 7910
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12938?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood of Heroes",
+                "id": 12938
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

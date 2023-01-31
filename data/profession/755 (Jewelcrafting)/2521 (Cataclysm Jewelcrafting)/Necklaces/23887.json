@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/23887?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23887,
+    "name": "Nightstone Choker",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/23887?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23887
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52309?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Nightstone Choker",
+        "id": 52309
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52188?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Jeweler's Setting",
+                "id": 52188
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52180?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nightstone",
+                "id": 52180
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

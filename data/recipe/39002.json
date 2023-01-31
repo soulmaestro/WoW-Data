@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39002?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39002,
+    "name": "Mass Prospect Monelite",
+    "description": "Prospect multiple batches of monelite ore at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39002?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39002
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Monelite Ore",
+        "id": 152512
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Monelite Ore",
+                "id": 152512
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

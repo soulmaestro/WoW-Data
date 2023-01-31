@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47744?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47744,
+    "name": "Devotion of Versatility",
+    "description": "Permanently enchants a ring to increase your Versatility by $ec1. Cannot be applied to items lower than level $ecim.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47744?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47744
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194123?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chromatic Dust",
+                "id": 194123
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 0
+        }
+    ]
+}

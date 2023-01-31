@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42671?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42671,
+    "name": "Bargain of Mastery",
+    "description": "Permanently enchants a ring to increase your Mastery by 12.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42671?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42671
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172230?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Soul Dust",
+                "id": 172230
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

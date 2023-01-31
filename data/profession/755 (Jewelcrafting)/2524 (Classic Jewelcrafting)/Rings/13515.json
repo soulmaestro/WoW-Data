@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13515?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13515,
+    "name": "The Aquamarine Ward",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13515?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13515
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21754?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "The Aquamarine Ward",
+        "id": 21754
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7909?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Aquamarine",
+                "id": 7909
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21752?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thorium Setting",
+                "id": 21752
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

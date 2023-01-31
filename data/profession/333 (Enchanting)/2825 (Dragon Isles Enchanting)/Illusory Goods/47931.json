@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47931?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47931,
+    "name": "Scepter of Spectacle: Air",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47931?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47931
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194123?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chromatic Dust",
+                "id": 194123
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190326?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Air",
+                "id": 190326
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/99?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Writhebark (DNT)",
+                "id": 99
+            },
+            "display_order": 0
+        }
+    ]
+}

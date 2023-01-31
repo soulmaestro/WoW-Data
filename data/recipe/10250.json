@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/10250?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 10250,
+    "name": "Lobster Stew",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/10250?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 10250
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13933?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Lobster Stew",
+        "id": 13933
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/13888?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Darkclaw Lobster",
+                "id": 13888
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/159?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Refreshing Spring Water",
+                "id": 159
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

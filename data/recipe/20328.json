@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20328?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20328,
+    "name": "Cloak of Harsh Winds",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20328?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20328
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/38441?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak of Harsh Winds",
+        "id": 38441
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/33568?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Borean Leather",
+                "id": 33568
+            },
+            "quantity": 16
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37700?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Air",
+                "id": 37700
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128827?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 128827,
+    "name": "Xal'atath, Blade of the Black Empire",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/128827?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 128827
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dagger",
+        "id": 15
+    },
+    "inventory_type": {
+        "type": "WEAPONMAINHAND",
+        "name": "Main Hand"
+    },
+    "purchase_price": 76196,
+    "sell_price": 15239,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Xal'atath has a mind of its own. Ignore its maddening whispers. Do not trust the lies it spins. Take from it what you need, but always remember that the dark presence in the blade is not your ally.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/128827?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128827
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Xal'atath, Blade of the Black Empire",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/128827?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128827
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Dagger",
+            "id": 15
+        },
+        "inventory_type": {
+            "type": "WEAPONMAINHAND",
+            "name": "Main Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 1,
+                "max_value": 1,
+                "display_string": "1 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 1800,
+                "display_string": "Speed 1.80"
+            },
+            "dps": {
+                "value": 0.5555555,
+                "display_string": "(0.6 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 7,
+                "display": {
+                    "display_string": "+7 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/214860?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Void Torrent",
+                    "id": 214860
+                },
+                "description": "Equip: Grants the Void Torrent ability, which unleashes massive shadowy damage, and delays your descent from madness."
+            }
+        ],
+        "legacy": "Legacy Item: Effects are inactive",
+        "requirements": {
+            "playable_specializations": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Shadow",
+                        "id": 258
+                    }
+                ],
+                "display_string": "Requires: Shadow"
+            }
+        },
+        "description": "Xal'atath has a mind of its own. Ignore its maddening whispers. Do not trust the lies it spins. Take from it what you need, but always remember that the dark presence in the blade is not your ally.",
+        "level": {
+            "value": 20,
+            "display_string": "Item Level 20"
+        }
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,42 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/36421?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 36421,
+    "name": "Mark of the Master",
+    "description": "Permanently enchants a necklace to increase Mastery by 5. Cannot be applied to items above level 60. Reduced materials.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/36421?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 36421
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124441?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leylight Shard",
+                "id": 124441
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124440?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arkhana",
+                "id": 124440
+            },
+            "quantity": 10
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

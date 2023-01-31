@@ -1,0 +1,117 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118729?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118729,
+    "name": "Gorgrond Treasure Map",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 36,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118729?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118729
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 1000000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "A map of treasures to be found in Gorgrond.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118729?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118729
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Gorgrond Treasure Map",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118729?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118729
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/175895?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Acquire Treasure Map: Gorgrond",
+                    "id": 175895
+                },
+                "description": "Use: Adds treasure locations to your map."
+            }
+        ],
+        "sell_price": {
+            "value": 1000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "100",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 36,
+                "display_string": "Requires Level 36"
+            }
+        },
+        "description": "A map of treasures to be found in Gorgrond.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

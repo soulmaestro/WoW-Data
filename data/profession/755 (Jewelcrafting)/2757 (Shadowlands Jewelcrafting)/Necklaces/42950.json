@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42950?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42950,
+    "name": "Quick Oxxein Necklace",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42950?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42950
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173146?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quick Oxxein Necklace",
+        "id": 173146
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173128?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Quick Jewel Cluster",
+                "id": 173128
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171830?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Oxxein Ore",
+                "id": 171830
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/183954?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Malleable Wire",
+                "id": 183954
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/73?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Specify a Secondary Stat",
+                "id": 73
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/16?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Major",
+                "id": 16
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/79?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Add Progenitor Enhancement",
+                "id": 79
+            },
+            "display_order": 2
+        }
+    ]
+}

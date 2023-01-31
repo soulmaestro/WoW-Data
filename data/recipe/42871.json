@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42871?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42871,
+    "name": "Newly Departed Codex",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42871?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42871
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173050?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Newly Departed Codex",
+        "id": 173050
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173059?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Luminous Ink",
+                "id": 173059
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173058?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Umbral Ink",
+                "id": 173058
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/175886?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dark Parchment",
+                "id": 175886
+            },
+            "quantity": 50
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/77?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Minor",
+                "id": 77
+            },
+            "display_order": 0
+        }
+    ]
+}

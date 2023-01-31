@@ -1,0 +1,201 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118489?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118489,
+    "name": "Schematic: Swapblaster",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118489?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118489
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 30000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Swapblaster.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118489?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118489
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Swapblaster",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118489?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118489
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2501?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Engineering",
+                    "id": 2501
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Engineering (1)"
+            }
+        },
+        "description": "Teaches you how to make a Swapblaster.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/111820?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111820
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Swapblaster",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/111820?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111820
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_USE",
+                    "name": "Binds when used"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/161399?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Swap",
+                            "id": 161399
+                        },
+                        "description": "Use: Swaps your location with another party member.  Cannot be used in combat. (1 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 75000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "7",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "description": "Warning: Swapping with someone using a Neural Silencer is highly dangerous.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/111366?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gearspring Parts",
+                        "id": 111366
+                    },
+                    "quantity": 50
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/113588?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Temporal Crystal",
+                        "id": 113588
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Gearspring Parts (50), Temporal Crystal"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

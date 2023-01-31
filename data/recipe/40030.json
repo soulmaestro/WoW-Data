@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40030?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40030,
+    "name": "Sinister Combatant's Shield",
+    "description": "Greatly reduce the materials required to craft a Sinister Combatant's Shield.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40030?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40030
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164684?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sinister Combatant's Shield",
+        "id": 164684
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164648?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sinister Combatant's Shield",
+        "id": 164648
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Storm Silver Ore",
+                "id": 152579
+            },
+            "quantity": 30
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152513?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Platinum Ore",
+                "id": 152513
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/18567?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elemental Flux",
+                "id": 18567
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Expulsom",
+                "id": 152668
+            },
+            "quantity": 2
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42938?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42938,
+    "name": "Mass Prospect Oxxein",
+    "description": "Prospect multiple batches of oxxein ore at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42938?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42938
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171830?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Oxxein Ore",
+        "id": 171830
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171830?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Oxxein Ore",
+                "id": 171830
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

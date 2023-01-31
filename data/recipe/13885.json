@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13885?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13885,
+    "name": "Major Intellect",
+    "description": "Permanently enchant a melee weapon to increase Intellect by 12. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13885?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13885
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22449?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Prismatic Shard",
+                "id": 22449
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Planar Essence",
+                "id": 22446
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

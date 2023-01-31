@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7499?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7499,
+    "name": "Fishing",
+    "description": "Permanently enchant gloves to increase Fishing skill by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7499?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7499
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16204?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Illusion Dust",
+                "id": 16204
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/6370?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blackmouth Oil",
+                "id": 6370
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13137?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13137,
+    "name": "Minor Wizard Oil",
+    "description": "Creates Minor Wizard Oil.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13137?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13137
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20744?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Minor Wizard Oil",
+        "id": 20744
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10940?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Strange Dust",
+                "id": 10940
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

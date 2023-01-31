@@ -1,0 +1,138 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/113986?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 113986,
+    "name": "Auto-Repairing Autoclave",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 44,
+    "required_level": 40,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/113986?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 113986
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 578766,
+    "sell_price": 115753,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/113986?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 113986
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Auto-Repairing Autoclave",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/113986?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 113986
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
+                },
+                "value": 14,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+14 Versatility",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/177090?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - Proc Haste",
+                    "id": 177090
+                },
+                "description": "Equip: Your spells have a chance to trigger Sanitizing for 10 sec.  While Sanitizing is active, you gain 2 Haste every 0.5 sec, stacking up to 20 times.  (Approximately 0.92 procs per minute)"
+            }
+        ],
+        "sell_price": {
+            "value": 1062,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "10",
+                "copper": "62"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 40,
+                "display_string": "Requires Level 40"
+            }
+        },
+        "level": {
+            "value": 44,
+            "display_string": "Item Level 44"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

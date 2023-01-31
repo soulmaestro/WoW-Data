@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22009?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22009,
+    "name": "Transmute: Amberjewel",
+    "description": "Transmutes lesser yellow gems and the timeless essense of whiptail to create an amberjewel.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22009?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22009
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52195?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Amberjewel",
+        "id": 52195
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52179?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alicite",
+                "id": 52179
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52988?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Whiptail",
+                "id": 52988
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

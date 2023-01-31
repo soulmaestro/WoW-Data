@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46965?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46965,
+    "name": "Draconic Vial",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46965?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46965
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190320?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Fire",
+                "id": 190320
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/192872?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fractured Glass",
+                "id": 192872
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/200860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draconic Stopper",
+                "id": 200860
+            },
+            "quantity": 5
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/158?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Gemdust (DNT)",
+                "id": 158
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Polishing Cloth",
+                "id": 182
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 2
+        }
+    ]
+}

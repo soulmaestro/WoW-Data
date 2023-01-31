@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39607?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39607,
+    "name": "Solstone Ring",
+    "description": "Craft a Solstone Ring.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39607?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39607
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/153690?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Solstone Ring",
+        "id": 153690
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153703?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Solstone",
+                "id": 153703
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152512?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Monelite Ore",
+                "id": 152512
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

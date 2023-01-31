@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47796?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47796,
+    "name": "Wafting Devotion",
+    "description": "Permanently enchants a weapon to sometimes sway the winds, increasing your Haste by $ec1s1 and Speed by $ec1s2 for 15 sec. Cannot be applied to items lower than level $ecim.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47796?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47796
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/200113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resonant Crystal",
+                "id": 200113
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Air",
+                "id": 190327
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201406?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Glowing Titan Orb",
+                "id": 201406
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 0
+        }
+    ]
+}

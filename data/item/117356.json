@@ -1,0 +1,209 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/117356?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 117356,
+    "name": "The Horseman's Sinister Slicer",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 44,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/117356?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 117356
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sword",
+        "id": 7
+    },
+    "inventory_type": {
+        "type": "WEAPON",
+        "name": "One-Hand"
+    },
+    "purchase_price": 990789,
+    "sell_price": 198157,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Soldiers arise, stand and fight!",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/117356?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 117356
+        },
+        "context": 0,
+        "bonus_list": [
+            8171
+        ],
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "The Horseman's Sinister Slicer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/117356?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 117356
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Sword",
+            "id": 7
+        },
+        "inventory_type": {
+            "type": "WEAPON",
+            "name": "One-Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "weapon": {
+            "damage": {
+                "min_value": 309,
+                "max_value": 516,
+                "display_string": "309 - 516 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 158.65384,
+                "display_string": "(158.7 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 93,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+93 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 356,
+                "display": {
+                    "display_string": "+356 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 135,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+135 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 135,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+135 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/177944?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Summon Pumpkin Soldiers",
+                    "id": 177944
+                },
+                "description": "Use: Summon Pumpkin Soldiers to burn your foes. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 911008,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "91",
+                "silver": "10",
+                "copper": "8"
+            }
+        },
+        "description": "Soldiers arise, stand and fight!",
+        "level": {
+            "value": 359,
+            "display_string": "Item Level 359"
+        },
+        "durability": {
+            "value": 90,
+            "display_string": "Durability 90 / 90"
+        }
+    },
+    "purchase_quantity": 1
+}

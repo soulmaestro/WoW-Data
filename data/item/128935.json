@@ -1,0 +1,207 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128935?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 128935,
+    "name": "The Fist of Ra-den",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/128935?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 128935
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Weapon",
+        "id": 2
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fist Weapon",
+        "id": 13
+    },
+    "inventory_type": {
+        "type": "WEAPONMAINHAND",
+        "name": "Main Hand"
+    },
+    "purchase_price": 72799,
+    "sell_price": 14559,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "To seal Al'Akir's demise, Master Ra slammed his fist into the mountaintop. The heavens split wide, and all the fire and fury they contained crashed down atop the Windlord's head.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/128935?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128935
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "The Fist of Ra-den",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/128935?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128935
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Weapon",
+            "id": 2
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Fist Weapon",
+            "id": 13
+        },
+        "inventory_type": {
+            "type": "WEAPONMAINHAND",
+            "name": "Main Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "weapon": {
+            "damage": {
+                "min_value": 1,
+                "max_value": 2,
+                "display_string": "1 - 2 Damage",
+                "damage_class": {
+                    "type": "PHYSICAL",
+                    "name": "Physical"
+                }
+            },
+            "attack_speed": {
+                "value": 2600,
+                "display_string": "Speed 2.60"
+            },
+            "dps": {
+                "value": 0.5769231,
+                "display_string": "(0.6 damage per second)"
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 7,
+                "display": {
+                    "display_string": "+7 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/214864?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Stormkeeper",
+                    "id": 214864
+                },
+                "description": "Equip: Grants the Stormkeeper ability, which massively empowers your Lightning Bolts or Chain Lightnings."
+            }
+        ],
+        "legacy": "Legacy Item: Effects are inactive",
+        "requirements": {
+            "playable_specializations": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Elemental",
+                        "id": 262
+                    }
+                ],
+                "display_string": "Requires: Elemental"
+            }
+        },
+        "description": "To seal Al'Akir's demise, Master Ra slammed his fist into the mountaintop. The heavens split wide, and all the fire and fury they contained crashed down atop the Windlord's head.",
+        "level": {
+            "value": 20,
+            "display_string": "Item Level 20"
+        }
+    },
+    "purchase_quantity": 1
+}

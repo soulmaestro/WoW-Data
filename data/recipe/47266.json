@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47266?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47266,
+    "name": "Blue Silken Lining",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47266?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47266
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201405?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tuft of Primal Wool",
+                "id": 201405
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/177?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spool of Wilderthread (DNT)",
+                "id": 177
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/173?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Azureweave Bolt (DNT)",
+                "id": 173
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/181?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Embroidery Thread",
+                "id": 181
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 3
+        }
+    ]
+}

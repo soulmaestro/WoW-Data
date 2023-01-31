@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13898?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13898,
+    "name": "Large Prismatic Shard",
+    "description": "Transforms three Small Prismatic Shard into a Large Prismatic Shard.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13898?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13898
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22449?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Large Prismatic Shard",
+        "id": 22449
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22448?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Small Prismatic Shard",
+                "id": 22448
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

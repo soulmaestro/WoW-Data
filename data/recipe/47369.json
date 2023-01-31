@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47369?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47369,
+    "name": "Sweet and Sour Clam Chowder",
+    "description": "Recipe for 4 servings. Actual number of servings will vary based on cooking skill.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47369?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47369
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197742?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ribbed Mollusk Meat",
+                "id": 197742
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197752?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Conveniently Packaged Ingredients",
+                "id": 197752
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197749?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ohn'ahran Potato",
+                "id": 197749
+            },
+            "quantity": 5
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/192?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Finishing Touches",
+                "id": 192
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/193?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Secret Ingredient",
+                "id": 193
+            },
+            "display_order": 1
+        }
+    ]
+}

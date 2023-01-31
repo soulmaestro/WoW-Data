@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34984?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34984,
+    "name": "Azsunite Loop",
+    "description": "Reduces the materials required to craft an Azsunite Loop.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34984?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34984
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130225?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Azsunite Loop",
+        "id": 130225
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130174?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Azsunite",
+                "id": 130174
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130176?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Skystone",
+                "id": 130176
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130175?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chaotic Spinel",
+                "id": 130175
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

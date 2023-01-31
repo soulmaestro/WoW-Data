@@ -1,0 +1,161 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/109262?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 109262,
+    "name": "Draenic Philosopher's Stone",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 44,
+    "required_level": 35,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/109262?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 109262
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 425528,
+    "sell_price": 85105,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Can be used for transmutations in place of a Philosopher's Stone.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/109262?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 109262
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Draenic Philosopher's Stone",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/109262?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 109262
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "limit_category": "Unique-Equipped: Alchemist Stone (1)",
+        "stats": [
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 5,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+5 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/157136?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenic Philosopher's Stone",
+                    "id": 157136
+                },
+                "description": "Equip: When you heal or deal damage you have a chance to increase your Strength, Agility, or Intellect by 24 for 15 sec.  Your highest stat is always chosen."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/17619?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Alchemist Stone",
+                    "id": 17619
+                },
+                "description": "Equip: Increases the effect that healing and mana potions have on the wearer by 40%.  This effect does not stack."
+            }
+        ],
+        "sell_price": {
+            "value": 781,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "7",
+                "copper": "81"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 35,
+                "display_string": "Requires Level 35"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2480?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Alchemy",
+                    "id": 2480
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Alchemy (1)"
+            }
+        },
+        "description": "Can be used for transmutations in place of a Philosopher's Stone.",
+        "level": {
+            "value": 44,
+            "display_string": "Item Level 44"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

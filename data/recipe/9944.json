@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/9944?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9944,
+    "name": "Transmute: Earth to Water",
+    "description": "Transmutes Earth into Water.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/9944?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9944
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7080?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Essence of Water",
+        "id": 7080
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7076?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Earth",
+                "id": 7076
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13534?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13534,
+    "name": "Band of Natural Fire",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13534?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13534
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/21779?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Band of Natural Fire",
+        "id": 21779
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21929?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Flame Spessarite",
+                "id": 21929
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7078?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Fire",
+                "id": 7078
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12803?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Living Essence",
+                "id": 12803
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

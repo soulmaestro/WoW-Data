@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/23413?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23413,
+    "name": "Runed Staff",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/23413?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23413
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/87566?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Runed Staff",
+        "id": 87566
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/79740?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Plain Wooden Staff",
+                "id": 79740
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/61981?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Inferno Ink",
+                "id": 61981
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47377?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47377,
+    "name": "Delicious Dragon Spittle",
+    "description": "Recipe for 4 servings. Actual number of servings will vary based on cooking skill.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47377?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47377
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194691?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Artisanal Berry Juice",
+                "id": 194691
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197742?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ribbed Mollusk Meat",
+                "id": 197742
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/192?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Finishing Touches",
+                "id": 192
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/193?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Secret Ingredient",
+                "id": 193
+            },
+            "display_order": 1
+        }
+    ]
+}

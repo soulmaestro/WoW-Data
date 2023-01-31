@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/33388?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33388,
+    "name": "Powerful Burnished Cloak",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/33388?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33388
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/116171?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Powerful Burnished Cloak",
+        "id": 116171
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/110611?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Burnished Leather",
+                "id": 110611
+            },
+            "quantity": 100
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/240?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Burnished Essence",
+                "id": 240
+            },
+            "display_order": 1
+        }
+    ]
+}

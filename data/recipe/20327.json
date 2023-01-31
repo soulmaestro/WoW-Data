@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20327?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20327,
+    "name": "Scaled Icewalkers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20327?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20327
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/44445?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Scaled Icewalkers",
+        "id": 44445
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/38557?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Icy Dragonscale",
+                "id": 38557
+            },
+            "quantity": 30
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37703?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Shadow",
+                "id": 37703
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

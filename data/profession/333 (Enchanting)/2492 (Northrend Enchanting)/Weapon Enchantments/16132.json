@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16132?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16132,
+    "name": "Exceptional Agility",
+    "description": "Permanently enchant a melee weapon to increase Agility by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16132?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16132
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34052?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dream Shard",
+                "id": 34052
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35623?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Air",
+                "id": 35623
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

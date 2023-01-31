@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42937?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42937,
+    "name": "Mass Prospect Phaedrum",
+    "description": "Prospect multiple batches of phaedrum ore at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42937?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42937
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171831?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Phaedrum Ore",
+        "id": 171831
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171831?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Phaedrum Ore",
+                "id": 171831
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

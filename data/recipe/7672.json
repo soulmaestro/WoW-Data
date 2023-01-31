@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7672?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7672,
+    "name": "Demonslaying",
+    "description": "Permanently enchant a melee weapon to have a chance of stunning and doing additional damage against demons. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7672?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7672
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/156930?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rich Illusion Dust",
+                "id": 156930
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/9224?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elixir of Demonslaying",
+                "id": 9224
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

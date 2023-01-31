@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16109?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16109,
+    "name": "Lifeward",
+    "description": "Permanently enchant a melee weapon to sometimes heal the wielder when striking in melee. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16109?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16109
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34052?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dream Shard",
+                "id": 34052
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35625?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Life",
+                "id": 35625
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

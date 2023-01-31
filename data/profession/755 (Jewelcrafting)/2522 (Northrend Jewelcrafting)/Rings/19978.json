@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19978?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19978,
+    "name": "Windfire Band",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19978?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19978
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43252?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Windfire Band",
+        "id": 43252
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/41163?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Titanium Bar",
+                "id": 41163
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35623?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Air",
+                "id": 35623
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Fire",
+                "id": 36860
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12818?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 12818,
+    "name": "Plans: Inlaid Thorium Hammer",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/12818?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 12818
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 12000,
+    "sell_price": 3000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make an Inlaid Thorium Hammer.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/12818?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12818
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Plans: Inlaid Thorium Hammer",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/12818?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12818
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 3000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 270,
+                "display_string": "Requires Classic Blacksmithing (270)"
+            }
+        },
+        "description": "Teaches you how to make an Inlaid Thorium Hammer.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/12772?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12772
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Inlaid Thorium Hammer",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/12772?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12772
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Mace",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "TWOHWEAPON",
+                    "name": "Two-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 6,
+                        "max_value": 9,
+                        "display_string": "6 - 9 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 3600,
+                        "display_string": "Speed 3.60"
+                    },
+                    "dps": {
+                        "value": 2.0833333,
+                        "display_string": "(2.1 damage per second)"
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 5,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+5 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 291,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "91"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 21,
+                        "display_string": "Requires Level 21"
+                    }
+                },
+                "level": {
+                    "value": 27,
+                    "display_string": "Item Level 27"
+                },
+                "durability": {
+                    "value": 80,
+                    "display_string": "Durability 80 / 80"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12359?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Thorium Bar",
+                        "id": 12359
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/3577?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gold Bar",
+                        "id": 3577
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/6037?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Truesilver Bar",
+                        "id": 6037
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12361?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blue Sapphire",
+                        "id": 12361
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/8170?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rugged Leather",
+                        "id": 8170
+                    },
+                    "quantity": 4
+                }
+            ],
+            "reagents_display_string": "Thorium Bar (30), Gold Bar (4), Truesilver Bar (2), Blue Sapphire (2), Rugged Leather (4)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

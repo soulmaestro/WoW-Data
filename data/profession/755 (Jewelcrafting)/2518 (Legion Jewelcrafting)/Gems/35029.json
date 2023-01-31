@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35029?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35029,
+    "name": "Quick Dawnlight",
+    "description": "Cut a Quick Dawnlight.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35029?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35029
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130220?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quick Dawnlight",
+        "id": 130220
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130180?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dawnlight",
+                "id": 130180
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood of Sargeras",
+                "id": 124124
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

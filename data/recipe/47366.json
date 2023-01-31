@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47366?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47366,
+    "name": "Mackerel Snackerel",
+    "description": "Recipe for 4 servings. Actual number of servings will vary based on cooking skill.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47366?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47366
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194730?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Scalebelly Mackerel",
+                "id": 194730
+            },
+            "quantity": 4
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/192?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Finishing Touches",
+                "id": 192
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/193?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Secret Ingredient",
+                "id": 193
+            },
+            "display_order": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34446?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34446,
+    "name": "Skaggldrynk",
+    "description": "No longer requires the Dalaran Alchemy Station.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34446?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34446
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/127840?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skaggldrynk",
+        "id": 127840
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124104?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fjarnskaggl",
+                "id": 124104
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/127835?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ancient Mana Potion",
+                "id": 127835
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

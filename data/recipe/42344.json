@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42344?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42344,
+    "name": "Spiritual Alchemy Stone",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42344?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42344
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171323?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Spiritual Alchemy Stone",
+        "id": 171323
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/180457?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadestone",
+                "id": 180457
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171285?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowcore Oil",
+                "id": 171285
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171286?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Embalmer's Oil",
+                "id": 171286
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/16?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Major",
+                "id": 16
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/79?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Add Progenitor Enhancement",
+                "id": 79
+            },
+            "display_order": 1
+        }
+    ]
+}

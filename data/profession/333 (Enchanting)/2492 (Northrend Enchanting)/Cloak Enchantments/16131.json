@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16131?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16131,
+    "name": "Shadow Armor",
+    "description": "Permanently enchant a cloak to increase Agility by 2 and armor by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16131?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16131
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34054?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Infinite Dust",
+                "id": 34054
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34057?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Abyss Crystal",
+                "id": 34057
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

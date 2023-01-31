@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35792?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35792,
+    "name": "Queen's Opal Pendant",
+    "description": "Craft a Queen's Opal Pendant.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35792?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35792
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/136712?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Queen's Opal Pendant",
+        "id": 136712
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130177?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Queen's Opal",
+                "id": 130177
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130173?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Deep Amber",
+                "id": 130173
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130172?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sangrite",
+                "id": 130172
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

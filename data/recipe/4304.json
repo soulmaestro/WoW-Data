@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4304?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4304,
+    "name": "Blue Linen Vest",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4304?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4304
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/6240?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blue Linen Vest",
+        "id": 6240
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2996?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Linen Cloth",
+                "id": 2996
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2320?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coarse Thread",
+                "id": 2320
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/6260?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blue Dye",
+                "id": 6260
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47507?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47507,
+    "name": "Bundle of Fireworks",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47507?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47507
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190320?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Fire",
+                "id": 190320
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/196?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Everburning Blasting Powder (DNT)",
+                "id": 196
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/150?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stonecrust Hide (DNT)",
+                "id": 150
+            },
+            "display_order": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35907?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35907,
+    "name": "Transmute: Ore to Cloth",
+    "description": "Transmute Broken Isles ore into cloth.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35907?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35907
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/137590?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Pile of Silk",
+        "id": 137590
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123918?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Leystone Ore",
+                "id": 123918
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123919?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Felslate",
+                "id": 123919
+            },
+            "quantity": 5
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

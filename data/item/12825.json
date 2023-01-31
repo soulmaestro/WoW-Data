@@ -1,0 +1,257 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12825?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 12825,
+    "name": "Plans: Blazing Rapier",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/12825?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 12825
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 20000,
+    "sell_price": 5000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Blazing Rapier.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/12825?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12825
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Plans: Blazing Rapier",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/12825?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12825
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 5000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 280,
+                "display_string": "Requires Classic Blacksmithing (280)"
+            }
+        },
+        "description": "Teaches you how to make a Blazing Rapier.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/12777?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12777
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Blazing Rapier",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/12777?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12777
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Sword",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 3,
+                        "max_value": 6,
+                        "display_string": "3 - 6 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 2600,
+                        "display_string": "Speed 2.60"
+                    },
+                    "dps": {
+                        "value": 1.7307692,
+                        "display_string": "(1.7 damage per second)"
+                    }
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/16898?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Blaze",
+                            "id": 16898
+                        },
+                        "description": "Chance on hit: Burns the enemy for 10 damage over 30 sec."
+                    }
+                ],
+                "sell_price": {
+                    "value": 283,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "83"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 22,
+                        "display_string": "Requires Level 22"
+                    }
+                },
+                "level": {
+                    "value": 28,
+                    "display_string": "Item Level 28"
+                },
+                "durability": {
+                    "value": 85,
+                    "display_string": "Durability 85 / 85"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12655?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Enchanted Thorium Bar",
+                        "id": 12655
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7078?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Essence of Fire",
+                        "id": 7078
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7077?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Heart of Fire",
+                        "id": 7077
+                    },
+                    "quantity": 4
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12800?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Azerothian Diamond",
+                        "id": 12800
+                    },
+                    "quantity": 2
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12644?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dense Grinding Stone",
+                        "id": 12644
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Enchanted Thorium Bar (10), Essence of Fire (4), Heart of Fire (4), Azerothian Diamond (2), Dense Grinding Stone (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

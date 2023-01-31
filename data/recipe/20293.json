@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20293?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20293,
+    "name": "Dark Arctic Chestpiece",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20293?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20293
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/38592?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dark Arctic Chestpiece",
+        "id": 38592
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/38425?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Borean Leather",
+                "id": 38425
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37703?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Shadow",
+                "id": 37703
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

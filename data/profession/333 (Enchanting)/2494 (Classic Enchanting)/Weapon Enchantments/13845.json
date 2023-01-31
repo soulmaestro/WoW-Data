@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13845?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13845,
+    "name": "Agility",
+    "description": "Permanently enchant a two-handed melee weapon to increase Agility by 11. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13845?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13845
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7082?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Air",
+                "id": 7082
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46968?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46968,
+    "name": "Shimmering Clasp",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46968?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46968
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/192833?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Misshapen Filigree",
+                "id": 192833
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/129?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mystic Sapphire (DNT)",
+                "id": 129
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Polishing Cloth",
+                "id": 182
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 2
+        }
+    ]
+}

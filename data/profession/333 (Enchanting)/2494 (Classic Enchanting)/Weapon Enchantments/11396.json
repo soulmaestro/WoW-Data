@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/11396?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 11396,
+    "name": "Lifestealing",
+    "description": "Permanently enchant a melee weapon to often steal life from the enemy and give it to the wielder.  Has a reduced effect for players above level 49. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/11396?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 11396
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12808?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Undeath",
+                "id": 12808
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12803?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Living Essence",
+                "id": 12803
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

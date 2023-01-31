@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4292?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4292,
+    "name": "Minor Absorption",
+    "description": "Permanently enchant chest armor so it has a 2% chance per hit of giving you 4 points of damage absorption. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4292?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4292
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10940?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Strange Dust",
+                "id": 10940
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10938?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Magic Essence",
+                "id": 10938
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

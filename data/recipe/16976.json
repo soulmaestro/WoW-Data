@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16976?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16976,
+    "name": "Smelt Saronite",
+    "description": "Allows the miner to smelt 2 saronite ore into a saronite bar.  Requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16976?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16976
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/36913?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Saronite Bar",
+        "id": 36913
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36912?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saronite Ore",
+                "id": 36912
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

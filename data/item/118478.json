@@ -1,0 +1,193 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118478?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118478,
+    "name": "Schematic: Megawatt Filament",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118478?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118478
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 30000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Megawatt Filament.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118478?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118478
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Megawatt Filament",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118478?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118478
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2501?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Engineering",
+                    "id": 2501
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Engineering (1)"
+            }
+        },
+        "description": "Teaches you how to make Megawatt Filament.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/109122?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 109122
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Megawatt Filament",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/109122?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 109122
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/156061?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Megawatt Filament",
+                            "id": 156061
+                        },
+                        "description": "Use: Permanently attaches an electrified device to a ranged weapon, sometimes increasing Critical Strike by 87 for 12 sec when dealing damage with ranged attacks.\r\n\r\nAttaching this device to a ranged weapon causes it to become soulbound. Cannot be applied to items above level 48."
+                    }
+                ],
+                "sell_price": {
+                    "value": 300000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "30",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "description": "Everything is better when it's electrified.",
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/111366?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gearspring Parts",
+                        "id": 111366
+                    },
+                    "quantity": 20
+                }
+            ],
+            "reagents_display_string": "Gearspring Parts (20)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

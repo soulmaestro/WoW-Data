@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46967?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46967,
+    "name": "Glossy Stone",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46967?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46967
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/192880?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crumbled Stone",
+                "id": 192880
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190315?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Earth",
+                "id": 190315
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/132?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternity Amber (DNT)",
+                "id": 132
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Polishing Cloth",
+                "id": 182
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 2
+        }
+    ]
+}

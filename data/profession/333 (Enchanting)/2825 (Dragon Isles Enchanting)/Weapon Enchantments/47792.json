@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47792?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47792,
+    "name": "Burning Devotion",
+    "description": "Permanently enchants a weapon to sometimes ignite, causing your next heal to additionally cauterize an ally's wounds, healing for $ec1s1. Cannot be applied to items lower than level $ecim.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47792?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47792
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/200113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resonant Crystal",
+                "id": 200113
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190321?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Fire",
+                "id": 190321
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201406?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Glowing Titan Orb",
+                "id": 201406
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 0
+        }
+    ]
+}

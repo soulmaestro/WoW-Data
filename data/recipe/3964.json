@@ -1,0 +1,47 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/3964?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 3964,
+    "name": "Boiled Clams",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/3964?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 3964
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/5525?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Boiled Clams",
+        "id": 5525
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/5503?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Clam Meat",
+                "id": 5503
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/159?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Refreshing Spring Water",
+                "id": 159
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

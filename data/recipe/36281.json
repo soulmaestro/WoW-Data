@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/36281?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 36281,
+    "name": "Potion of Prolonged Power",
+    "description": "Chance to create more than 10 potions.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/36281?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 36281
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/142117?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion of Prolonged Power",
+        "id": 142117
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood of Sargeras",
+                "id": 124124
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 10
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

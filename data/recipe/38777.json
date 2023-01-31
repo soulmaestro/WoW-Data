@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38777?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38777,
+    "name": "Potion of Replenishment",
+    "description": "Reduce the materials required to create a Potion of Replenishment.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38777?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38777
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152561?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Potion of Replenishment",
+        "id": 152561
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152509?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Siren's Pollen",
+                "id": 152509
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152506?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Moss",
+                "id": 152506
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

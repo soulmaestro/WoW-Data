@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21676?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21676,
+    "name": "Dream of Hyjal",
+    "description": "Combines cloth and the elements of life to weave a piece of Dreamcloth.  This Dreamcloth recipe can only be created once a week.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21676?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21676
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/54440?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dreamcloth",
+        "id": 54440
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/53643?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Embersilk Cloth",
+                "id": 53643
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52329?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Life",
+                "id": 52329
+            },
+            "quantity": 30
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

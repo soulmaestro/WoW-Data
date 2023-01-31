@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42683?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42683,
+    "name": "Enchanted Twilight Wand",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42683?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42683
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172462?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Enchanted Twilight Wand",
+        "id": 172462
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/177061?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Twilight Bark",
+                "id": 177061
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172230?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Soul Dust",
+                "id": 172230
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/183951?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Immortal Shard",
+                "id": 183951
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/77?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Minor",
+                "id": 77
+            },
+            "display_order": 0
+        }
+    ]
+}

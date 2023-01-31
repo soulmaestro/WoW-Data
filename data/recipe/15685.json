@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15685?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15685,
+    "name": "Red Ring of Destruction",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15685?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15685
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/30421?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Red Ring of Destruction",
+        "id": 30421
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7910?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Ruby",
+                "id": 7910
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21752?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thorium Setting",
+                "id": 21752
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

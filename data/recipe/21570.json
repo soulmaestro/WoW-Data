@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21570?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21570,
+    "name": "Avalanche",
+    "description": "Permanently enchant a weapon to often deal 51 Nature damage to an enemy damaged by your spells or struck by your melee attacks. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21570?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21570
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52555?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hypnotic Dust",
+                "id": 52555
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52719?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Celestial Essence",
+                "id": 52719
+            },
+            "quantity": 6
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14791?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14791,
+    "name": "Malachite Pendant",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14791?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14791
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/25438?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Malachite Pendant",
+        "id": 25438
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/774?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Malachite",
+                "id": 774
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/20816?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Delicate Copper Wire",
+                "id": 20816
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

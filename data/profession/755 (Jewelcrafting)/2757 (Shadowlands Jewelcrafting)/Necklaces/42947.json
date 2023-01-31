@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42947?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42947,
+    "name": "Deadly Laestrite Choker",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42947?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42947
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/173143?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Deadly Laestrite Choker",
+        "id": 173143
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173121?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Deadly Jewel Doublet",
+                "id": 173121
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171828?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Laestrite Ore",
+                "id": 171828
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/46?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Modify Item Level - Minor",
+                "id": 46
+            },
+            "display_order": 0
+        }
+    ]
+}

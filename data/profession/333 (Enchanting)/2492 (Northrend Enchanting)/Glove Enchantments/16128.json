@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16128?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16128,
+    "name": "Armsman",
+    "description": "Permanently enchant gloves to increase threat caused by 2% and increase parry by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16128?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16128
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34052?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dream Shard",
+                "id": 34052
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35624?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Earth",
+                "id": 35624
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47778?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47778,
+    "name": "Plainsrunner's Breeze",
+    "description": "Permanently enchants boots to increase your Speed by $ec1. Cannot be applied to items lower than level $ecim.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47778?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47778
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Air",
+                "id": 190327
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190316?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Earth",
+                "id": 190316
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 0
+        }
+    ]
+}

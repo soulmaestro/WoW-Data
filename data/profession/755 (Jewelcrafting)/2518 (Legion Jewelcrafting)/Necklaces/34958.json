@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34958?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34958,
+    "name": "Skystone Pendant",
+    "description": "Craft a Skystone Pendant.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34958?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34958
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130227?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Skystone Pendant",
+        "id": 130227
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130176?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Skystone",
+                "id": 130176
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130174?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Azsunite",
+                "id": 130174
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130172?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sangrite",
+                "id": 130172
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

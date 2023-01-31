@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40700?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40700,
+    "name": "Maroon Ink",
+    "description": "Create a vial of Maroon Ink.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40700?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40700
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/168663?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Maroon Ink",
+        "id": 168663
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/158186?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Distilled Water",
+                "id": 158186
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/168662?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Maroon Pigment",
+                "id": 168662
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

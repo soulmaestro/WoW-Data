@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19970?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19970,
+    "name": "Crystal Citrine Necklace",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19970?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19970
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43244?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Crystal Citrine Necklace",
+        "id": 43244
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37701?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Earth",
+                "id": 37701
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36929?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Huge Citrine",
+                "id": 36929
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

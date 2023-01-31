@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/115472?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 115472,
+    "name": "Permanent Time Bubble",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/115472?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 115472
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10000000,
+    "sell_price": 2500000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "A magical orb imbued with Oru'kai's time enchant.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/115472?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 115472
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Permanent Time Bubble",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/115472?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 115472
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/170298?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Displaced",
+                    "id": 170298
+                },
+                "description": "Use: Adds this toy to your Toy Box.\n\nInteracting with the enchanted orb takes the person out of time for 20 sec. (10 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "250",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1731?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Council of Exarchs",
+                    "id": 1731
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Council of Exarchs - Honored"
+            }
+        },
+        "description": "A magical orb imbued with Oru'kai's time enchant.",
+        "is_subclass_hidden": true,
+        "toy": "Toy"
+    },
+    "purchase_quantity": 1
+}

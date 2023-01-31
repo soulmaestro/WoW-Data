@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35802?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35802,
+    "name": "Mass Mill Aethril",
+    "description": "Mill multiple aethril at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35802?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35802
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/129100?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gem Chip",
+        "id": 129100
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124101?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Aethril",
+                "id": 124101
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

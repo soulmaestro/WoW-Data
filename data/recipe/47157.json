@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47157?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47157,
+    "name": "Earthshine Scales",
+    "description": "A potent Elementally-Infused reagent.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47157?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47157
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190316?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Earth",
+                "id": 190316
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190329?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Frost",
+                "id": 190329
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/149?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lustrous Scaled Hide (DNT)",
+                "id": 149
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 1
+        }
+    ]
+}

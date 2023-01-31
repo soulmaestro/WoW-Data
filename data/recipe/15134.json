@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15134?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15134,
+    "name": "Greater Agility",
+    "description": "Permanently enchant a cloak to increase Agility by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15134?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15134
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Planar Essence",
+                "id": 22446
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22445?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arcane Dust",
+                "id": 22445
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22451?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Air",
+                "id": 22451
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

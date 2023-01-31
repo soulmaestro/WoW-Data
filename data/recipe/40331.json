@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40331?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40331,
+    "name": "Veiled Shatter",
+    "description": "Shatters a Veiled Crystal into 2 Umbra Shards.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40331?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40331
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152876?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Umbra Shard",
+        "id": 152876
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152877?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Veiled Crystal",
+                "id": 152877
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 2.0
+    }
+}

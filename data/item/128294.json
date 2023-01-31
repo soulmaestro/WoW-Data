@@ -1,0 +1,124 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128294?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 128294,
+    "name": "Trade Agreement: Arakkoa Outcasts",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/128294?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 128294
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 30000000,
+    "sell_price": 7500000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "An accord to secure supply lines between your garrison and the remaining Arakkoa Outcasts.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/128294?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128294
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Trade Agreement: Arakkoa Outcasts",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/128294?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128294
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/189205?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Trade Agreement: Arakkoa Outcasts",
+                    "id": 189205
+                },
+                "description": "Use: Increases the maximum cache size of your garrison to 1,000."
+            }
+        ],
+        "sell_price": {
+            "value": 7500000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "750",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1515?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Arakkoa Outcasts",
+                    "id": 1515
+                },
+                "min_reputation_level": 6,
+                "display_string": "Requires Arakkoa Outcasts - Revered"
+            }
+        },
+        "description": "An accord to secure supply lines between your garrison and the remaining Arakkoa Outcasts.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

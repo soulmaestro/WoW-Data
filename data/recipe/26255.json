@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26255?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26255,
+    "name": "Pandaren's Step",
+    "description": "Permanently enchants a pair of boots to increase movement speed slightly and mastery by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26255?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26255
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74249?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spirit Dust",
+                "id": 74249
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74250?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mysterious Essence",
+                "id": 74250
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

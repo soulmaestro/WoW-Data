@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2437?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2437,
+    "name": "Shadow Goggles",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2437?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2437
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4373?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shadow Goggles",
+        "id": 4373
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2319?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Medium Leather",
+                "id": 2319
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1210?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowgem",
+                "id": 1210
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

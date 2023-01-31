@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7296?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7296,
+    "name": "The Mortar: Reloaded",
+    "description": "Reloads an empty Goblin mortar.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7296?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7296
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10577?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Goblin Mortar",
+        "id": 10577
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10577?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Goblin Mortar",
+                "id": 10577
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mithril Bar",
+                "id": 3860
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10505?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Solid Blasting Powder",
+                "id": 10505
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

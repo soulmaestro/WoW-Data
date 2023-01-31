@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26739?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26739,
+    "name": "Ethereal Shatter",
+    "description": "Shatters an Ethereal Shard into three Mysterious Essence.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26739?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26739
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/74250?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mysterious Essence",
+        "id": 74250
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74247?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ethereal Shard",
+                "id": 74247
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 3.0
+    }
+}

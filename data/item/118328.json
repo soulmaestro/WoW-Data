@@ -1,0 +1,248 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118328?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118328,
+    "name": "Recipe Idea: Feast of Blood",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118328?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118328
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Feast of Blood.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118328?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118328
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe Idea: Feast of Blood",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118328?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118328
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/173978?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Feast of Blood",
+                    "id": 173978
+                },
+                "description": "Use: Teaches you how to make a Feast of Blood."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2543?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Cooking",
+                    "id": 2543
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Cooking (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/111457?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111457
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Feast of Blood",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/111457?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111457
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/160740?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Feast of Blood",
+                            "id": 160740
+                        },
+                        "description": "Use: Feed up to 30 people in your raid or party with a Feast of Blood.\r\n\r\nIn so doing, you have a chance to obtain the recipe.\r\n\r\nRestores 6,250 health and 6,500 mana over 20 sec.  If you spend at least 10 seconds eating you will become well fed and gain 6 in your attuned stat for 1 hour."
+                    }
+                ],
+                "sell_price": {
+                    "value": 1600,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "16",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109134?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Elekk Meat",
+                        "id": 109134
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109136?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Boar Meat",
+                        "id": 109136
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109132?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Talbuk Meat",
+                        "id": 109132
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109135?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Riverbeast Meat",
+                        "id": 109135
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109133?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rylak Egg",
+                        "id": 109133
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109131?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Raw Clefthoof Meat",
+                        "id": 109131
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Raw Elekk Meat (10), Raw Boar Meat (10), Raw Talbuk Meat (10), Raw Riverbeast Meat (10), Rylak Egg (10), Raw Clefthoof Meat (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/24064?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 24064,
+    "name": "Electrified Ether",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/24064?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 24064
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/67749?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Electrified Ether",
+        "id": 67749
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52328?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Air",
+                "id": 52328
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.5,
+        "maximum": 3.5
+    }
+}

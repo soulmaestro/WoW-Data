@@ -1,0 +1,195 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/127722?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 127722,
+    "name": "Recipe: Mighty Burnished Essence",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/127722?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 127722
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Mighty Burnished Essence.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/127722?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 127722
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Mighty Burnished Essence",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/127722?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 127722
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2527?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Leatherworking",
+                    "id": 2527
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Leatherworking (1)"
+            }
+        },
+        "description": "Teaches you how to make a Mighty Burnished Essence.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/127712?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 127712
+                },
+                "quality": {
+                    "type": "POOR",
+                    "name": "Poor"
+                },
+                "name": "Mighty Burnished Essence",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/127712?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 127712
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 11
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "level": {
+                    "value": 45,
+                    "display_string": "Item Level 45"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/110611?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Burnished Leather",
+                        "id": 110611
+                    },
+                    "quantity": 175
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/113262?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sorcerous Water",
+                        "id": 113262
+                    },
+                    "quantity": 30
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/127759?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Felblight",
+                        "id": 127759
+                    },
+                    "quantity": 30
+                }
+            ],
+            "reagents_display_string": "Burnished Leather (175), Sorcerous Water (30), Felblight (30)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

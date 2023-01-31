@@ -1,0 +1,207 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/116745?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 116745,
+    "name": "Recipe: Steelforged Essence",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/116745?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 116745
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 90000,
+    "sell_price": 1,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Steelforged Essence.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/116745?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 116745
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe: Steelforged Essence",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/116745?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 116745
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 1,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "1"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2472?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Blacksmithing",
+                    "id": 2472
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Blacksmithing (1)"
+            }
+        },
+        "description": "Teaches you how to make Steelforged Essence.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/128016?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 128016
+                },
+                "quality": {
+                    "type": "POOR",
+                    "name": "Poor"
+                },
+                "name": "Steelforged Essence",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/128016?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 128016
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Tradeskill",
+                    "id": 7
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/7/item-subclass/11?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 11
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "sell_price": {
+                    "value": 250,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "2",
+                        "copper": "50"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "level": {
+                    "value": 44,
+                    "display_string": "Item Level 44"
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/108257?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Truesteel Ingot",
+                        "id": 108257
+                    },
+                    "quantity": 70
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/113263?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sorcerous Earth",
+                        "id": 113263
+                    },
+                    "quantity": 15
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/118472?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Savage Blood",
+                        "id": 118472
+                    },
+                    "quantity": 15
+                }
+            ],
+            "reagents_display_string": "Truesteel Ingot (70), Sorcerous Earth (15), Savage Blood (15)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

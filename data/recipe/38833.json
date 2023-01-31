@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/38833?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 38833,
+    "name": "Transmute: Cloth to Skins",
+    "description": "Transmute cloth into skins.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/38833?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 38833
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/152582?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Stack of Skins",
+        "id": 152582
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152576?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tidespray Linen",
+                "id": 152576
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152577?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Deep Sea Satin",
+                "id": 152577
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

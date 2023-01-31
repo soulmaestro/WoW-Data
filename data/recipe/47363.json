@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47363?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47363,
+    "name": "Salad on the Side",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47363?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47363
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197755?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lava Beetle",
+                "id": 197755
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/98?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hochenblume (DNT)",
+                "id": 98
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/100?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saxifrage (DNT)",
+                "id": 100
+            },
+            "display_order": 1
+        }
+    ]
+}

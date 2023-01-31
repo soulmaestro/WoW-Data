@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20099?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20099,
+    "name": "Savage Titanium Ring",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20099?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20099
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43482?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Savage Titanium Ring",
+        "id": 43482
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/41163?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Titanium Bar",
+                "id": 41163
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Fire",
+                "id": 36860
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

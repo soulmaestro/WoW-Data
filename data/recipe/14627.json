@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14627?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14627,
+    "name": "Cloak of Eternity",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14627?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14627
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/24253?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak of Eternity",
+        "id": 24253
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21842?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Imbued Netherweave",
+                "id": 21842
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Earth",
+                "id": 22452
+            },
+            "quantity": 6
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

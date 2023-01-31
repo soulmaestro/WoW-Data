@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46860?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46860,
+    "name": "Alvin the Anvil",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46860?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46860
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/193920?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Earthen Soul",
+                "id": 193920
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/82?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Molten Alloy (DNT)",
+                "id": 82
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/83?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Frostfire Alloy (DNT)",
+                "id": 83
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/85?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Infurious Alloy (DNT)",
+                "id": 85
+            },
+            "display_order": 2
+        }
+    ]
+}

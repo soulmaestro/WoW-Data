@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7497?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7497,
+    "name": "Mining",
+    "description": "Permanently enchant gloves to increase Mining skill by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7497?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7497
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16204?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Illusion Dust",
+                "id": 16204
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2772?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Ore",
+                "id": 2772
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 2.0
+    }
+}

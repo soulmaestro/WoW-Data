@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46777?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46777,
+    "name": "Potion of Frozen Focus",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46777?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46777
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190329?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Frost",
+                "id": 190329
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/104?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draconic Vial (DNT)",
+                "id": 104
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/98?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hochenblume (DNT)",
+                "id": 98
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/100?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saxifrage (DNT)",
+                "id": 100
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/91?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alchemical Catalyst",
+                "id": 91
+            },
+            "display_order": 3
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 4
+        }
+    ]
+}

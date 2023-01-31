@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21320?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21320,
+    "name": "Abyssal Shatter",
+    "description": "Disenchant an Abyss Crystal into Greater Cosmic Essence or Infinite Dust.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21320?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21320
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/89738?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Essence or Dust",
+        "id": 89738
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34057?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Abyss Crystal",
+                "id": 34057
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

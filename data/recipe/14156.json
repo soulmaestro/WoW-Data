@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14156?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14156,
+    "name": "Smelt Hardened Adamantite",
+    "description": "Allows the miner to smelt adamantite bars into a hardened adamantite bar.  Smelting hardened adamantite requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14156?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14156
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23573?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hardened Adamantite Bar",
+        "id": 23573
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Adamantite Bar",
+                "id": 23446
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39228?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39228,
+    "name": "Ultramarine Ink",
+    "description": "Create a vial of Ultramarine Ink.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39228?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39228
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/158187?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Ultramarine Ink",
+        "id": 158187
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/158186?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Distilled Water",
+                "id": 158186
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153635?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ultramarine Pigment",
+                "id": 153635
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

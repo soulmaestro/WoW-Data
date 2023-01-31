@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/33567?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33567,
+    "name": "Mark of Bleeding Hollow",
+    "description": "Permanently enchants a melee weapon to sometimes increase mastery by 58 for 12 sec. \r\n\r\nCannot be applied to items above level 60.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/33567?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33567
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/113588?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Temporal Crystal",
+                "id": 113588
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/113264?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sorcerous Air",
+                "id": 113264
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

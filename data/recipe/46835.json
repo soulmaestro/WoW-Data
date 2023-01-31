@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46835?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46835,
+    "name": "Black Dragon Touched Hammer",
+    "description": "Find the Earth Warder's Forge within Dragonbane Keep, located in the west of The Waking Shores.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46835?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46835
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Artisan's Mettle",
+                "id": 190456
+            },
+            "quantity": 400
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/193920?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Earthen Soul",
+                "id": 193920
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/84?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Obsidian Seared Alloy (DNT)",
+                "id": 84
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Quenching Fluid",
+                "id": 124
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/222?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Customize Crafting Stat",
+                "id": 222
+            },
+            "display_order": 3
+        }
+    ]
+}

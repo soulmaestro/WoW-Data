@@ -1,0 +1,67 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39456?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39456,
+    "name": "Honorable Combatant's Plate Armguards",
+    "description": "Greatly reduces the materials required to craft Honorable Combatant's Plate Armguards.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39456?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39456
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161897?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Honorable Combatant's Plate Armguards",
+        "id": 161897
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/159866?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Honorable Combatant's Plate Armguards",
+        "id": 159866
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152579?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Storm Silver Ore",
+                "id": 152579
+            },
+            "quantity": 20
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/18567?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elemental Flux",
+                "id": 18567
+            },
+            "quantity": 4
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

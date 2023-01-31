@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34961?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34961,
+    "name": "Maelstrom Band",
+    "description": "Craft a Maelstrom Band.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34961?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34961
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130230?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Maelstrom Band",
+        "id": 130230
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Maelstrom Sapphire",
+                "id": 130182
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130179?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eye of Prophecy",
+                "id": 130179
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130181?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pandemonite",
+                "id": 130181
+            },
+            "quantity": 2
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

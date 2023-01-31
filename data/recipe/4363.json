@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4363?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4363,
+    "name": "Lesser Mana",
+    "description": "Permanently enchant chest armor to increase mana by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4363?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4363
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10939?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Magic Essence",
+                "id": 10939
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10938?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Magic Essence",
+                "id": 10938
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

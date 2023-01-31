@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46859?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46859,
+    "name": "Serevite Skeleton Key",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46859?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46859
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Flux",
+                "id": 190452
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/114?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Serevite Ore (DNT)",
+                "id": 114
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Quenching Fluid",
+                "id": 124
+            },
+            "display_order": 1
+        }
+    ]
+}

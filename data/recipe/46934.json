@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46934?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46934,
+    "name": "Crafty Queen's Ruby",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46934?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46934
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190326?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Air",
+                "id": 190326
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/128?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Queen's Ruby (DNT)",
+                "id": 128
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Polishing Cloth",
+                "id": 182
+            },
+            "display_order": 1
+        }
+    ]
+}

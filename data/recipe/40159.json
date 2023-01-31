@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40159?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40159,
+    "name": "Sanguinated Alteration",
+    "description": "Convert one Breath of Bwonsamdi into one Sanguicell.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40159?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40159
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162461?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sanguicell",
+        "id": 162461
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/165703?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Breath of Bwonsamdi",
+                "id": 165703
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/159959?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nylon Thread",
+                "id": 159959
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

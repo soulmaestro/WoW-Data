@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/44548?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 44548,
+    "name": "Eternal Bounds",
+    "description": "Permanently enchants chest to increase your Intellect by 20 and your mana pool by 6%.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/44548?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 44548
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172232?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Crystal",
+                "id": 172232
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

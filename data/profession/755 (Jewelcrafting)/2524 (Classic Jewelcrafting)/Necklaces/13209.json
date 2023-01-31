@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13209?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13209,
+    "name": "Amulet of the Moon",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13209?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13209
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20830?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Amulet of the Moon",
+        "id": 20830
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1705?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Moonstone",
+                "id": 1705
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/20817?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bronze Setting",
+                "id": 20817
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

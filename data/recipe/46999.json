@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46999?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46999,
+    "name": "Fine-Print Trifocals",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46999?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46999
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Artisan's Mettle",
+                "id": 190456
+            },
+            "quantity": 225
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/140?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Frameless Lens (DNT)",
+                "id": 140
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/143?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shimmering Clasp (DNT)",
+                "id": 143
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/137?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nozdorite (DNT)",
+                "id": 137
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Polishing Cloth",
+                "id": 182
+            },
+            "display_order": 3
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 4
+        }
+    ]
+}

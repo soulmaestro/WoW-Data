@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2431?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2431,
+    "name": "Deadly Blunderbuss",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2431?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2431
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4369?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Deadly Blunderbuss",
+        "id": 4369
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bronze Tube",
+                "id": 4371
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4406?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Standard Scope",
+                "id": 4406
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4399?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Wooden Stock",
+                "id": 4399
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

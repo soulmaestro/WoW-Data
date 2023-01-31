@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13124?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13124,
+    "name": "Fire Power",
+    "description": "Permanently enchant gloves to increase Fire spell power by 3. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13124?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13124
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7078?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Fire",
+                "id": 7078
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20372?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20372,
+    "name": "Swiftarrow Boots",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20372?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20372
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43443?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Swiftarrow Boots",
+        "id": 43443
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/38425?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Borean Leather",
+                "id": 38425
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/35623?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Air",
+                "id": 35623
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

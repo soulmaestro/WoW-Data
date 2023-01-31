@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47755?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47755,
+    "name": "Writ of Avoidance",
+    "description": "Permanently enchants a cloak to increase your Avoidance by $ec1. Cannot be applied to items lower than level $ecim.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47755?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47755
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194123?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Chromatic Dust",
+                "id": 194123
+            },
+            "quantity": 12
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 0
+        }
+    ]
+}

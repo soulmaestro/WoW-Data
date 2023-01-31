@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2444?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2444,
+    "name": "Silver-plated Shotgun",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2444?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2444
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4379?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Silver-Plated Shotgun",
+        "id": 4379
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bronze Tube",
+                "id": 4371
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4375?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Whirring Bronze Gizmo",
+                "id": 4375
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4400?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Stock",
+                "id": 4400
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2842?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silver Bar",
+                "id": 2842
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

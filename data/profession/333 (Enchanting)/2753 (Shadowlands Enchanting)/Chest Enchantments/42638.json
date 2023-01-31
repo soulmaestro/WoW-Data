@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42638?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42638,
+    "name": "Eternal Bulwark",
+    "description": "Permanently enchants your chest to increase your Armor by 25 and your Strength or Agility by 20. Your highest stat is always chosen.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42638?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42638
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172232?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Crystal",
+                "id": 172232
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

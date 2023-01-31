@@ -1,0 +1,115 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/114238?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 114238,
+    "name": "Spiced Barbed Trout",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/114238?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 114238
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Food & Drink",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10,
+    "sell_price": 2,
+    "max_count": 10,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "A Barbed Trout steak that has been infused with the subtle spices of the Arakkoa.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/114238?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 114238
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Spiced Barbed Trout",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/114238?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 114238
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Food & Drink",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (10)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/168349?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Well Fed",
+                    "id": 168349
+                },
+                "description": "Use: Eating this Arakkoan dish will increase your Versatility by 9 for 30 min.\r\n\r\nThis buff only persists while in the area of the Skettis Ruins of the Spires of Arak. (1 Sec Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "2"
+            }
+        },
+        "description": "A Barbed Trout steak that has been infused with the subtle spices of the Arakkoa.",
+        "expiration_time_left": {
+            "value": 10800,
+            "display_string": "Duration: 3 hrs"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35803?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35803,
+    "name": "Mass Mill Dreamleaf",
+    "description": "Mill multiple dreamleaf at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35803?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35803
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/136926?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Nightmare Pod",
+        "id": 136926
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124102?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dreamleaf",
+                "id": 124102
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

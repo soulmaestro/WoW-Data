@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/8000?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 8000,
+    "name": "Greater Magic Wand",
+    "description": "Creates a greater magic wand.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/8000?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 8000
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/11288?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Greater Magic Wand",
+        "id": 11288
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4470?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Simple Wood",
+                "id": 4470
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10939?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Magic Essence",
+                "id": 10939
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

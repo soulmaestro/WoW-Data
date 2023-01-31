@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4158?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4158,
+    "name": "Fine Leather Pants",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4158?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4158
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/5958?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fine Leather Pants",
+        "id": 5958
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2319?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Medium Leather",
+                "id": 2319
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2997?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Woolen Cloth",
+                "id": 2997
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2321?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fine Thread",
+                "id": 2321
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

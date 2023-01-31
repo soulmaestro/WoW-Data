@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22349?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22349,
+    "name": "Hardened Scale Cloak",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22349?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22349
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/56489?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hardened Scale Cloak",
+        "id": 56489
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52976?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Savage Leather",
+                "id": 52976
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52982?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Deepsea Scale",
+                "id": 52982
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/6020?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6020,
+    "name": "Transmute: Iron to Gold",
+    "description": "Turns a bar of Iron into a bar of Gold.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/6020?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6020
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3577?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gold Bar",
+        "id": 3577
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

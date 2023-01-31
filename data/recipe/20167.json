@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20167?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20167,
+    "name": "Brilliant Saronite Helm",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20167?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20167
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43870?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Brilliant Saronite Helm",
+        "id": 43870
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36913?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saronite Bar",
+                "id": 36913
+            },
+            "quantity": 14
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37705?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Water",
+                "id": 37705
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

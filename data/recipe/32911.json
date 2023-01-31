@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/32911?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32911,
+    "name": "Research: Moonglow Ink",
+    "description": "Create random scrolls in an effort to discover new glyph recipes made with Moonglow Ink.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/32911?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32911
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/141644?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Assorted Glyphs",
+        "id": 141644
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Parchment",
+                "id": 39354
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/39469?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Moonglow Ink",
+                "id": 39469
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

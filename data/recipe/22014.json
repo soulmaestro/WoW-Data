@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22014?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22014,
+    "name": "Transmute: Truegold",
+    "description": "Transmutes pyrium bars into truegold.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22014?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22014
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/58480?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Truegold",
+        "id": 58480
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/51950?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pyrium Bar",
+                "id": 51950
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52325?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Fire",
+                "id": 52325
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52328?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Air",
+                "id": 52328
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52326?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Water",
+                "id": 52326
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

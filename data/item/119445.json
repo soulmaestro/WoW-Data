@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/119445?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 119445,
+    "name": "Riverwallow-In-Training Whistle",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 1,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/119445?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 119445
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 12
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Quest",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "This mount-in-training will tire out after only a few battles.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/119445?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 119445
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Riverwallow-In-Training Whistle",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/119445?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 119445
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 12
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/12/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Quest",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/174220?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Summon Riverwallow-In-Training",
+                    "id": 174220
+                },
+                "description": "Use: Call your Riverwallow-In-Training to your side and mount it. Lasts for 5 min. (10 Sec Cooldown)"
+            }
+        ],
+        "description": "This mount-in-training will tire out after only a few battles.",
+        "charges": {
+            "value": 3,
+            "display_string": "3 Charges"
+        },
+        "expiration_time_left": {
+            "value": 86400,
+            "display_string": "Duration: 1 day"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

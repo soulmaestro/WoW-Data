@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20756?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20756,
+    "name": "Titanguard",
+    "description": "Permanently enchant a melee weapon to increase Stamina by 9. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20756?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20756
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34052?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dream Shard",
+                "id": 34052
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37663?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Titansteel Bar",
+                "id": 37663
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

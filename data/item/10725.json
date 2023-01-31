@@ -1,0 +1,125 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10725?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 10725,
+    "name": "Gnomish Battle Chicken",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 24,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/10725?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 10725
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 6000,
+    "sell_price": 1500,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/10725?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 10725
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Gnomish Battle Chicken",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/10725?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 10725
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/23133?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gnomish Battle Chicken",
+                    "id": 23133
+                },
+                "description": "Use: Creates a Battle Chicken that will fight for you for 1.5 min or until it is destroyed. (20 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 1500,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "15",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2506?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Engineering",
+                    "id": 2506
+                },
+                "level": 230,
+                "display_string": "Requires Classic Engineering (230)"
+            }
+        },
+        "level": {
+            "value": 24,
+            "display_string": "Item Level 24"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

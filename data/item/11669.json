@@ -1,0 +1,137 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/11669?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 11669,
+    "name": "Naglering",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 28,
+    "required_level": 22,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/11669?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 11669
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "FINGER",
+        "name": "Finger"
+    },
+    "purchase_price": 68630,
+    "sell_price": 17157,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/11669?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 11669
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Naglering",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/11669?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 11669
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "FINGER",
+            "name": "Finger"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique-Equipped",
+        "stats": [
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 3,
+                "display": {
+                    "display_string": "+3 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/248200?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Naglering",
+                    "id": 248200
+                },
+                "description": "Equip: When struck in combat you have a chance to inflict 30 Arcane damage to the attacker."
+            }
+        ],
+        "sell_price": {
+            "value": 17157,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "71",
+                "copper": "57"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 22,
+                "display_string": "Requires Level 22"
+            }
+        },
+        "level": {
+            "value": 28,
+            "display_string": "Item Level 28"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

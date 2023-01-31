@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39861?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39861,
+    "name": "Battle Potion of Intellect",
+    "description": "Chance to create multiple potions.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39861?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39861
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/163222?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battle Potion of Intellect",
+        "id": 163222
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152509?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Siren's Pollen",
+                "id": 152509
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152505?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Riverbud",
+                "id": 152505
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

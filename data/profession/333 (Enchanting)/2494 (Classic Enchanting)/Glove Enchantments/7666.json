@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7666?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7666,
+    "name": "Advanced Herbalism",
+    "description": "Permanently enchant gloves to increase Herbalism skill by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7666?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7666
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/156930?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rich Illusion Dust",
+                "id": 156930
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/8838?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sungrass",
+                "id": 8838
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 5.0
+    }
+}

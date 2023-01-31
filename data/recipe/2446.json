@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2446?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2446,
+    "name": "Minor Recombobulator",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2446?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2446
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4381?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Minor Recombobulator",
+        "id": 4381
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bronze Tube",
+                "id": 4371
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4375?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Whirring Bronze Gizmo",
+                "id": 4375
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2319?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Medium Leather",
+                "id": 2319
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1206?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Moss Agate",
+                "id": 1206
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

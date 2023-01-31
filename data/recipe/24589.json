@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/24589?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 24589,
+    "name": "Smelt Trillium",
+    "description": "Allows the miner to smelt an equal amount of black and white trillium ore into a trillium bar.  Smelting requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/24589?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 24589
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/72095?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Trillium Bar",
+        "id": 72095
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/72094?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Black Trillium Ore",
+                "id": 72094
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/72103?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "White Trillium Ore",
+                "id": 72103
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

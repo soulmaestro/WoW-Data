@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15627?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15627,
+    "name": "Stoneforged Claymore",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15627?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15627
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/30086?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Stoneforged Claymore",
+        "id": 30086
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Adamantite Bar",
+                "id": 23446
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22452?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Earth",
+                "id": 22452
+            },
+            "quantity": 6
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

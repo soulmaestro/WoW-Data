@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16491?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16491,
+    "name": "Wisdom",
+    "description": "Permanently enchant a cloak to reduce threat slightly and increase Versatility by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16491?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16491
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34055?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Cosmic Essence",
+                "id": 34055
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34057?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Abyss Crystal",
+                "id": 34057
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

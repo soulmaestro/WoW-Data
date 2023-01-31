@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21569?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21569,
+    "name": "Mending",
+    "description": "Permanently enchant a weapon to sometimes heal you when damaging an enemy with spells and melee attacks. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21569?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21569
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52555?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hypnotic Dust",
+                "id": 52555
+            },
+            "quantity": 11
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52719?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Celestial Essence",
+                "id": 52719
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

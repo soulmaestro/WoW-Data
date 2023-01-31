@@ -1,0 +1,352 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12687?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 12687,
+    "name": "Plans: Imperial Plate Shoulders",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/12687?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 12687
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 12000,
+    "sell_price": 3000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Imperial Plate Shoulders.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/12687?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12687
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Plans: Imperial Plate Shoulders",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/12687?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12687
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "sell_price": {
+            "value": 3000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "30",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 265,
+                "display_string": "Requires Classic Blacksmithing (265)"
+            }
+        },
+        "description": "Teaches you how to make Imperial Plate Shoulders.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/12428?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12428
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Imperial Plate Shoulders",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/12428?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12428
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Armor",
+                    "id": 4
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Plate",
+                    "id": 4
+                },
+                "inventory_type": {
+                    "type": "SHOULDER",
+                    "name": "Shoulder"
+                },
+                "binding": {
+                    "type": "ON_EQUIP",
+                    "name": "Binds when equipped"
+                },
+                "armor": {
+                    "value": 9,
+                    "display": {
+                        "display_string": "9 Armor",
+                        "color": {
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
+                            "a": 1.0
+                        }
+                    }
+                },
+                "stats": [
+                    {
+                        "type": {
+                            "type": "INTELLECT",
+                            "name": "Intellect"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Intellect",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STRENGTH",
+                            "name": "Strength"
+                        },
+                        "value": 3,
+                        "is_negated": true,
+                        "display": {
+                            "display_string": "+3 Strength",
+                            "color": {
+                                "r": 128,
+                                "g": 128,
+                                "b": 128,
+                                "a": 1.0
+                            }
+                        }
+                    },
+                    {
+                        "type": {
+                            "type": "STAMINA",
+                            "name": "Stamina"
+                        },
+                        "value": 3,
+                        "display": {
+                            "display_string": "+3 Stamina",
+                            "color": {
+                                "r": 255,
+                                "g": 255,
+                                "b": 255,
+                                "a": 1.0
+                            }
+                        }
+                    }
+                ],
+                "sell_price": {
+                    "value": 119,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "19"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 20,
+                        "display_string": "Requires Level 20"
+                    }
+                },
+                "set": {
+                    "item_set": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item-set/321?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Imperial Plate",
+                        "id": 321
+                    },
+                    "items": [
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12424?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Belt",
+                                "id": 12424
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12426?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Boots",
+                                "id": 12426
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12425?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Bracers",
+                                "id": 12425
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12422?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Chest",
+                                "id": 12422
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12427?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Helm",
+                                "id": 12427
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12429?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Leggings",
+                                "id": 12429
+                            }
+                        },
+                        {
+                            "item": {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/item/12428?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Imperial Plate Shoulders",
+                                "id": 12428
+                            }
+                        }
+                    ],
+                    "effects": [
+                        {
+                            "display_string": "(2) Set: +2 Armor.",
+                            "required_count": 2
+                        },
+                        {
+                            "display_string": "(4) Set: Increases Strength by 4.",
+                            "required_count": 4
+                        },
+                        {
+                            "display_string": "(6) Set: +6 Stamina.",
+                            "required_count": 6
+                        }
+                    ],
+                    "display_string": "Imperial Plate (0/7)"
+                },
+                "level": {
+                    "value": 27,
+                    "display_string": "Item Level 27"
+                },
+                "durability": {
+                    "value": 65,
+                    "display_string": "Durability 65 / 65"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12359?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Thorium Bar",
+                        "id": 12359
+                    },
+                    "quantity": 12
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/8170?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Rugged Leather",
+                        "id": 8170
+                    },
+                    "quantity": 6
+                }
+            ],
+            "reagents_display_string": "Thorium Bar (12), Rugged Leather (6)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

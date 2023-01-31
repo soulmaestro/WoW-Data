@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13203?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13203,
+    "name": "Gloom Band",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13203?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13203
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20823?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Gloom Band",
+        "id": 20823
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1210?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowgem",
+                "id": 1210
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/20817?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bronze Setting",
+                "id": 20817
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/20816?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Delicate Copper Wire",
+                "id": 20816
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

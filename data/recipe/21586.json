@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21586?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21586,
+    "name": "Hurricane",
+    "description": "Permanently enchant a melee weapon to sometimes increase haste by 32 for 12 sec when healing or dealing spell or melee damage. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21586?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21586
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52721?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavenly Shard",
+                "id": 52721
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52328?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Air",
+                "id": 52328
+            },
+            "quantity": 6
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

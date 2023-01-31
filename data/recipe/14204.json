@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14204?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14204,
+    "name": "Flamebane Bracers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14204?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14204
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/23515?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Flamebane Bracers",
+        "id": 23515
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23445?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fel Iron Bar",
+                "id": 23445
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Water",
+                "id": 21885
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21884?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Fire",
+                "id": 21884
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

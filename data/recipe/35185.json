@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35185?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35185,
+    "name": "Pickled Stormray",
+    "description": "Prepare more Pickled Stormray in each batch.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35185?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35185
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/133562?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Pickled Stormray",
+        "id": 133562
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124110?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormray",
+                "id": 124110
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/133588?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Flaked Sea Salt",
+                "id": 133588
+            },
+            "quantity": 3
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 7.0
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42885?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42885,
+    "name": "Mass Mill Nightshade",
+    "description": "Mill multiple Nightshade at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42885?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42885
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/171315?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Nightshade",
+        "id": 171315
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171315?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nightshade",
+                "id": 171315
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

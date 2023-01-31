@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42756?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42756,
+    "name": "Mortal Coiled Spring",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42756?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42756
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172936?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Mortal Coiled Spring",
+        "id": 172936
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172935?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Porous Polishing Abrasive",
+                "id": 172935
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171828?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Laestrite Ore",
+                "id": 171828
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/180733?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Luminous Flux",
+                "id": 180733
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 0.5,
+        "maximum": 2.5
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/45240?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 45240,
+    "name": "Shadowghast Ring",
+    "description": "Create a piece of jewelry that is worthy of being infused with the power necessary to become a Legendary item.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/45240?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 45240
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/178926?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shadowghast Ring",
+        "id": 178926
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/171428?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowghast Ingot",
+                "id": 171428
+            },
+            "quantity": 30
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173170?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Rebirth",
+                "id": 173170
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/173171?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Torment",
+                "id": 173171
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/178787?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Orboreal Shard",
+                "id": 178787
+            },
+            "quantity": 15
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/78?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Increase Rank",
+                "id": 78
+            },
+            "display_order": 0
+        }
+    ]
+}

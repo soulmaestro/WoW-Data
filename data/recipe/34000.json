@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34000?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34000,
+    "name": "Transmute: Sorcerous Earth to Air",
+    "description": "Transmutes Sorcerous Earth to Sorcerous Air.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34000?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34000
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/113264?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sorcerous Air",
+        "id": 113264
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/113263?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sorcerous Earth",
+                "id": 113263
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/108996?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alchemical Catalyst",
+                "id": 108996
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

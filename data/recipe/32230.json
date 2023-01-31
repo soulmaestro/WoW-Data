@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/32230?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32230,
+    "name": "Draenic Steel Bulwark",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/32230?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32230
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/108062?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Draenic Steel Bulwark",
+        "id": 108062
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/108256?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crucible Steel Ingot",
+                "id": 108256
+            },
+            "quantity": 20
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/108257?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Truesteel Ingot",
+                "id": 108257
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

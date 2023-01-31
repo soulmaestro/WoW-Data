@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/33202?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33202,
+    "name": "Hexweave Slippers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/33202?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33202
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/114815?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hexweave Slippers",
+        "id": 114815
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/111556?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hexweave Cloth",
+                "id": 111556
+            },
+            "quantity": 100
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/241?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hexweave Essence",
+                "id": 241
+            },
+            "display_order": 1
+        }
+    ]
+}

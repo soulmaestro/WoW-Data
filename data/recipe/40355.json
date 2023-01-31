@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40355?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40355,
+    "name": "Enchant Runic Power Core",
+    "description": "Create a Runic Power Core.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40355?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40355
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/165023?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Runic Power Core",
+        "id": 165023
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152877?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Veiled Crystal",
+                "id": 152877
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/165022?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Smooth River Stone",
+                "id": 165022
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

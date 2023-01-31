@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/36136?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 36136,
+    "name": "Mass Prospect Felslate",
+    "description": "Prospect multiple batches of felslate ore at once.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/36136?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 36136
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/123919?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Felslate",
+        "id": 123919
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/123919?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Felslate",
+                "id": 123919
+            },
+            "quantity": 20
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

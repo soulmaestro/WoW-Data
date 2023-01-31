@@ -1,0 +1,111 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/114225?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 114225,
+    "name": "Forgotten Apexis Trinket",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/114225?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 114225
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Consumable",
+        "id": 0
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 8
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 10,
+    "sell_price": 2,
+    "max_count": 10,
+    "is_equippable": false,
+    "is_stackable": true,
+    "description": "This dusty trinket still pulses with power. Using this item will place it on the ground nearby.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/114225?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 114225
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Forgotten Apexis Trinket",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/114225?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 114225
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Consumable",
+            "id": 0
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 8
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique (10)",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/168339?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Craft Trinket",
+                    "id": 168339
+                },
+                "description": "Use: The caster crafts an Apexis Trinket that will energize all nearby allies. (1 Min Cooldown)"
+            }
+        ],
+        "sell_price": {
+            "value": 2,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "0",
+                "copper": "2"
+            }
+        },
+        "description": "This dusty trinket still pulses with power. Using this item will place it on the ground nearby.",
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

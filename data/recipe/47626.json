@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47626?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47626,
+    "name": "Artisan's Sign",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47626?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47626
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/198615?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pentagold Seal",
+                "id": 198615
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/193254?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rockfang Leather",
+                "id": 193254
+            },
+            "quantity": 5
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/148?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dense Hide (DNT)",
+                "id": 148
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/219?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Runed Writhebark (DNT)",
+                "id": 219
+            },
+            "display_order": 1
+        }
+    ]
+}

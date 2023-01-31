@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35302?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35302,
+    "name": "Tanned Stonehide Pelt",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35302?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35302
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/136539?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tanned Stonehide Leather",
+        "id": 136539
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130891?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Namha's Tanning Mixture",
+                "id": 130891
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/136538?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Namha's Stonehide Leather",
+                "id": 136538
+            },
+            "quantity": 10
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 10.0
+    }
+}

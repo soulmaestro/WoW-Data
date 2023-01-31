@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20158?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20158,
+    "name": "Titanium Skeleton Key",
+    "description": "Allows opening of hard locks.  The skeleton key is consumed in the process.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20158?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20158
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/43853?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Titanium Skeleton Key",
+        "id": 43853
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36913?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saronite Bar",
+                "id": 36913
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/41163?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Titanium Bar",
+                "id": 41163
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 20.0
+    }
+}

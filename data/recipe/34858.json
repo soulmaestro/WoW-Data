@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34858?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34858,
+    "name": "Warhide Bindings",
+    "description": "Greatly reduces the materials required to craft Warhide Bindings.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34858?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34858
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128883?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Warhide Bindings",
+        "id": 128883
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stonehide Leather",
+                "id": 124113
+            },
+            "quantity": 9
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15140?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15140,
+    "name": "Major Healing",
+    "description": "Permanently enchant a melee weapon to increase spell power by 8. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15140?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15140
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22449?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Prismatic Shard",
+                "id": 22449
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Water",
+                "id": 21885
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21886?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Life",
+                "id": 21886
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

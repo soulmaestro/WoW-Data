@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47445?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47445,
+    "name": "Everburning Blasting Powder",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47445?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47445
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190320?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Fire",
+                "id": 190320
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190315?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Earth",
+                "id": 190315
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/81?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draconium Ore (DNT)",
+                "id": 81
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/230?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Spare Parts",
+                "id": 230
+            },
+            "display_order": 2
+        }
+    ]
+}

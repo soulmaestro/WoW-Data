@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20301?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20301,
+    "name": "Frostscale Bracers",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20301?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20301
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/38436?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Frostscale Bracers",
+        "id": 38436
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/33568?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Borean Leather",
+                "id": 33568
+            },
+            "quantity": 12
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

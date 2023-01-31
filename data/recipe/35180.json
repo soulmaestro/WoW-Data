@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35180?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35180,
+    "name": "Fighter Chow",
+    "description": "Prepare Fighter Chow.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35180?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35180
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/133577?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fighter Chow",
+        "id": 133577
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124107?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Cursed Queenfish",
+                "id": 124107
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/133593?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Royal Olive",
+                "id": 133593
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 5.0
+    }
+}

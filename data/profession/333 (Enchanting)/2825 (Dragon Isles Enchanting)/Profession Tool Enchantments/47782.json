@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47782?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47782,
+    "name": "Draconic Finesse",
+    "description": "Permanently enchants a gathering tool to increase your Finesse by $ec1.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47782?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47782
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/200113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resonant Crystal",
+                "id": 200113
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201401?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iridescent Plume",
+                "id": 201401
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 0
+        }
+    ]
+}

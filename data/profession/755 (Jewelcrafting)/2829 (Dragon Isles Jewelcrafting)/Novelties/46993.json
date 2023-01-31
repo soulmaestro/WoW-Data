@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46993?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46993,
+    "name": "Convergent Prism",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46993?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46993
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/201406?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Glowing Titan Orb",
+                "id": 201406
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/138?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illimited Diamond (DNT)",
+                "id": 138
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/145?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Projection Prism (DNT)",
+                "id": 145
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/159?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elemental Harmony (DNT)",
+                "id": 159
+            },
+            "display_order": 2
+        }
+    ]
+}

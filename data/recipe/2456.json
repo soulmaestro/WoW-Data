@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2456?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2456,
+    "name": "Iron Grenade",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2456?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2456
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4390?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Iron Grenade",
+        "id": 4390
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4377?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Blasting Powder",
+                "id": 4377
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4306?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silk Cloth",
+                "id": 4306
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 5.0
+    }
+}

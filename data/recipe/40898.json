@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40898?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40898,
+    "name": "Abyssal Healing Potion",
+    "description": "Create an Abyssal Healing Potion.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40898?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40898
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/169451?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Abyssal Healing Potion",
+        "id": 169451
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/168487?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Zin'anthid",
+                "id": 168487
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128289?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 128289,
+    "name": "Scale of the Earth-Warder",
+    "quality": {
+        "type": "ARTIFACT",
+        "name": "Artifact"
+    },
+    "level": 20,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/128289?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 128289
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Shield",
+        "id": 6
+    },
+    "inventory_type": {
+        "type": "SHIELD",
+        "name": "Off Hand"
+    },
+    "purchase_price": 49999,
+    "sell_price": 9999,
+    "max_count": 1,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "...it was one of Neltharion's cast-off scales. It saved Magnar's life. The blast of flame parted around the black scale, but the sheer force carried Magnar out of the lair, sending him tumbling down the slopes of Highmountain.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/128289?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128289
+        },
+        "quality": {
+            "type": "ARTIFACT",
+            "name": "Artifact"
+        },
+        "name": "Scale of the Earth-Warder",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/128289?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 128289
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Shield",
+            "id": 6
+        },
+        "inventory_type": {
+            "type": "SHIELD",
+            "name": "Off Hand"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "armor": {
+            "value": 35,
+            "display": {
+                "display_string": "35 Armor",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "shield_block": {
+            "value": 87,
+            "display": {
+                "display_string": "87 Block",
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1.0
+                }
+            }
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "INTELLECT",
+                    "name": "Intellect"
+                },
+                "value": 4,
+                "display": {
+                    "display_string": "+4 Intellect",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STRENGTH",
+                    "name": "Strength"
+                },
+                "value": 1,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+1 Strength",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 2,
+                "display": {
+                    "display_string": "+2 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Critical Strike",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "MASTERY_RATING",
+                    "name": "Mastery"
+                },
+                "value": 1,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+1 Mastery",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/214872?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Neltharion's Fury",
+                    "id": 214872
+                },
+                "description": "Equip: Grants the Neltharion's Fury ability, which unleashes fire from your shield and greatly increases its defensive properties."
+            }
+        ],
+        "legacy": "Legacy Item: Effects are inactive",
+        "requirements": {
+            "playable_specializations": {
+                "links": [
+                    {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Protection",
+                        "id": 73
+                    }
+                ],
+                "display_string": "Requires: Protection"
+            }
+        },
+        "description": "...it was one of Neltharion's cast-off scales. It saved Magnar's life. The blast of flame parted around the black scale, but the sheer force carried Magnar out of the lair, sending him tumbling down the slopes of Highmountain.",
+        "level": {
+            "value": 20,
+            "display_string": "Item Level 20"
+        }
+    },
+    "purchase_quantity": 1
+}

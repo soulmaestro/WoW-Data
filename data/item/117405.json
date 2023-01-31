@@ -1,0 +1,128 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/117405?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 117405,
+    "name": "Nat's Drinking Hat",
+    "quality": {
+        "type": "EPIC",
+        "name": "Epic"
+    },
+    "level": 5,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/117405?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 117405
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cosmetic",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "HEAD",
+        "name": "Head"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "description": "Looks better with blurred vision.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/117405?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 117405
+        },
+        "quality": {
+            "type": "EPIC",
+            "name": "Epic"
+        },
+        "name": "Nat's Drinking Hat",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/117405?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 117405
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cosmetic",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "HEAD",
+            "name": "Head"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/124034?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "+8 Fishing",
+                    "id": 124034
+                },
+                "description": "Equip: +8 Fishing Skill."
+            },
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/128587?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fishing Hat Lure",
+                    "id": 128587
+                },
+                "description": "Use: Attach a special lure to your equipped fishing pole, increasing Fishing by 10 for 10 min. (10 Min Cooldown)"
+            }
+        ],
+        "requirements": {
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1358?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Nat Pagle",
+                    "id": 1358
+                },
+                "min_reputation_level": 3,
+                "display_string": "Requires Nat Pagle - Friend"
+            }
+        },
+        "description": "Looks better with blurred vision.",
+        "level": {
+            "value": 5,
+            "display_string": "Item Level 5"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

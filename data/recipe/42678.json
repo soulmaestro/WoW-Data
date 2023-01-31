@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42678?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42678,
+    "name": "Eternal Grace",
+    "description": "Permanently enchants a weapon to sometimes cause a burst of healing on the target of your helpful spells and abilities, healing for 5,345 health split evenly amongst nearby allies.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42678?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42678
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172232?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternal Crystal",
+                "id": 172232
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

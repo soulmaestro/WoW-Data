@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15861?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15861,
+    "name": "Brilliant Pearl Band",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15861?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15861
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/32772?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Brilliant Pearl Band",
+        "id": 32772
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/24478?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Jaggal Pearl",
+                "id": 24478
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23447?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternium Bar",
+                "id": 23447
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

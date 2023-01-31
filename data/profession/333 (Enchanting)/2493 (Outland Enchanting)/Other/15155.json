@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/15155?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 15155,
+    "name": "Prismatic Sphere",
+    "description": "Creates a Prismatic Sphere out of four Large Prismatic Shards.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/15155?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 15155
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22460?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Prismatic Sphere",
+        "id": 22460
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22449?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Prismatic Shard",
+                "id": 22449
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

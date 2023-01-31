@@ -1,0 +1,39 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1599?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1599,
+    "name": "Smelt Silver",
+    "description": "Allows the miner to smelt a chunk of silver ore into a silver bar.  Smelting silver requires a forge.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1599?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1599
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2842?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Silver Bar",
+        "id": 2842
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2775?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silver Ore",
+                "id": 2775
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "minimum": 1.0,
+        "maximum": 1.0
+    }
+}

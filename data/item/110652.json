@@ -1,0 +1,104 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/110652?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 110652,
+    "name": "Enchant Cloak - Gift of Critical Strike",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/110652?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 110652
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Item Enhancement",
+        "id": 8
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 2500,
+    "sell_price": 125,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/110652?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 110652
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Enchant Cloak - Gift of Critical Strike",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/110652?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 110652
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Item Enhancement",
+            "id": 8
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/8/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cloak",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/158884?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Gift of Critical Strike",
+                    "id": 158884
+                },
+                "description": "Use: Permanently enchant a cloak to increase critical strike by 2 and movement speed by 2%.\r\n\r\nCannot be applied to items higher than level 60."
+            }
+        ],
+        "sell_price": {
+            "value": 125,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "1",
+                "copper": "25"
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 5
+}

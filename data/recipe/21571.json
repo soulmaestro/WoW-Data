@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21571?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21571,
+    "name": "Haste",
+    "description": "Permanently enchant gloves to increase haste by 7. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21571?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21571
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52555?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hypnotic Dust",
+                "id": 52555
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52718?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Celestial Essence",
+                "id": 52718
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

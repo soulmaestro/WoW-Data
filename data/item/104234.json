@@ -1,0 +1,204 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/104234?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 104234,
+    "name": "Technique: Glyph of Spirit Raptors",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 35,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/104234?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 104234
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Inscription",
+        "id": 11
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to inscribe a Glyph of Spirit Raptors.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/104234?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 104234
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Technique: Glyph of Spirit Raptors",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/104234?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 104234
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/11?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Inscription",
+            "id": 11
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2510?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Inscription",
+                    "id": 2510
+                },
+                "level": 1,
+                "display_string": "Requires Pandaria Inscription (1)"
+            }
+        },
+        "description": "Teaches you how to inscribe a Glyph of Spirit Raptors.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/104126?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 104126
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Glyph of Spirit Raptors",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/104126?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 104126
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/16?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Glyph",
+                    "id": 16
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/16/item-subclass/7?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Shaman",
+                    "id": 7
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/148079?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Spirit Raptors",
+                            "id": 148079
+                        },
+                        "description": "Use: Your Spirit Wolves are replaced with Spirit Raptors."
+                    }
+                ],
+                "sell_price": {
+                    "value": 100,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "1",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 11,
+                        "display_string": "Requires Level 11"
+                    },
+                    "playable_classes": {
+                        "links": [
+                            {
+                                "key": {
+                                    "href": "https://eu.api.blizzard.com/data/wow/playable-class/7?namespace=static-10.0.5_47621-eu"
+                                },
+                                "name": "Shaman",
+                                "id": 7
+                            }
+                        ],
+                        "display_string": "Classes: Shaman"
+                    }
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Light Parchment",
+                        "id": 39354
+                    },
+                    "quantity": 1
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/43116?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Lion's Ink",
+                        "id": 43116
+                    },
+                    "quantity": 3
+                }
+            ],
+            "reagents_display_string": "Light Parchment, Lion's Ink (3)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

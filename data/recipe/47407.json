@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47407?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47407,
+    "name": "Scroll of Sales",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47407?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47407
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194784?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Glittering Parchment",
+                "id": 194784
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/198615?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pentagold Seal",
+                "id": 198615
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/213?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Serene Ink (DNT)",
+                "id": 213
+            },
+            "display_order": 0
+        }
+    ]
+}

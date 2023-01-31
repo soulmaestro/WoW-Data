@@ -1,0 +1,148 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118682?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118682,
+    "name": "Saberon Protector",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 44,
+    "required_level": 37,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118682?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118682
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "TRINKET",
+        "name": "Trinket"
+    },
+    "purchase_price": 5000000,
+    "sell_price": 1000000,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118682?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118682
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Saberon Protector",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118682?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118682
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "TRINKET",
+            "name": "Trinket"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "HASTE_RATING",
+                    "name": "Haste"
+                },
+                "value": 7,
+                "is_equip_bonus": true,
+                "display": {
+                    "display_string": "+7 Haste",
+                    "color": {
+                        "r": 0,
+                        "g": 255,
+                        "b": 0,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/175734?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Item - 6.0 Reputation - Outcast Arakkoa - Honored - Trinket Proc Summon Guardian",
+                    "id": 175734
+                },
+                "description": "Equip: Your harmful abilities have a chance to cause you to summon a Saberon Bodyguard to fight by your side for 12 sec."
+            }
+        ],
+        "sell_price": {
+            "value": 1000000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "100",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 37,
+                "display_string": "Requires Level 37"
+            },
+            "reputation": {
+                "faction": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/reputation-faction/1515?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Arakkoa Outcasts",
+                    "id": 1515
+                },
+                "min_reputation_level": 5,
+                "display_string": "Requires Arakkoa Outcasts - Honored"
+            }
+        },
+        "level": {
+            "value": 44,
+            "display_string": "Item Level 44"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

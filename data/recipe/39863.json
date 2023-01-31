@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39863?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39863,
+    "name": "Battle Potion of Stamina",
+    "description": "Reduce the materials required to create a Battle Potion of Stamina.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39863?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39863
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/163225?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battle Potion of Stamina",
+        "id": 163225
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152511?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sea Stalk",
+                "id": 152511
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152506?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Moss",
+                "id": 152506
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

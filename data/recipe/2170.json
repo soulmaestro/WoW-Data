@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/2170?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 2170,
+    "name": "Fine Leather Tunic",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/2170?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 2170
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/4243?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fine Leather Tunic",
+        "id": 4243
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Cured Light Hide",
+                "id": 4231
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2318?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Leather",
+                "id": 2318
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2320?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coarse Thread",
+                "id": 2320
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14546?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14546,
+    "name": "Heavy Adamantite Ring",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14546?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14546
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/24078?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Heavy Adamantite Ring",
+        "id": 24078
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Adamantite Bar",
+                "id": 23446
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/31079?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mercurial Adamantite",
+                "id": 31079
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

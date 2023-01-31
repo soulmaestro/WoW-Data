@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/10397?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 10397,
+    "name": "Runecloth Belt",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/10397?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 10397
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13856?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Runecloth Belt",
+        "id": 13856
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14048?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Runecloth",
+                "id": 14048
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14341?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rune Thread",
+                "id": 14341
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/50?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 50
+            },
+            "display_order": 0
+        }
+    ]
+}

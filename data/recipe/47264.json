@@ -1,0 +1,59 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47264?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47264,
+    "name": "Frozen Spellthread",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47264?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47264
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190329?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Frost",
+                "id": 190329
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190324?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Order",
+                "id": 190324
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/173?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Azureweave Bolt (DNT)",
+                "id": 173
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 1
+        }
+    ]
+}

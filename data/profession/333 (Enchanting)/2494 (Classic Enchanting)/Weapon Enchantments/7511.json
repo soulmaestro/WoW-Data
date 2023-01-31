@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7511?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7511,
+    "name": "Lesser Beastslayer",
+    "description": "Permanently enchant a melee weapon to increase damage to beasts by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7511?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7511
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Eternal Essence",
+                "id": 16202
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/5637?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Fang",
+                "id": 5637
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14343?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Small Brilliant Shard",
+                "id": 14343
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

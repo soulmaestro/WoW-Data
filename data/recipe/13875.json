@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13875?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13875,
+    "name": "Vitality",
+    "description": "Permanently enchant boots to increase Versatility and Stamina by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13875?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13875
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22445?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arcane Dust",
+                "id": 22445
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/13446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Major Healing Potion",
+                "id": 13446
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/13444?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Major Mana Potion",
+                "id": 13444
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

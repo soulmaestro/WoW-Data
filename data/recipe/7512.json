@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7512?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7512,
+    "name": "Lesser Elemental Slayer",
+    "description": "Permanently enchant a melee weapon to increase damage to elementals by 42. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7512?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7512
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Eternal Essence",
+                "id": 16202
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7067?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Elemental Earth",
+                "id": 7067
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14343?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Small Brilliant Shard",
+                "id": 14343
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

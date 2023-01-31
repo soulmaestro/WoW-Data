@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7682?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7682,
+    "name": "Greater Striking",
+    "description": "Permanently enchant a melee weapon to do 1 additional points of damage. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7682?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7682
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16203?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Eternal Essence",
+                "id": 16203
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

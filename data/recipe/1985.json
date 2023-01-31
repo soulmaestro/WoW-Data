@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1985?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1985,
+    "name": "Hardened Iron Shortsword",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1985?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1985
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/3849?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hardened Iron Shortsword",
+        "id": 3849
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3575?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Iron Bar",
+                "id": 3575
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3466?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Strong Flux",
+                "id": 3466
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3486?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Grinding Stone",
+                "id": 3486
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1705?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Moonstone",
+                "id": 1705
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/4234?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Leather",
+                "id": 4234
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

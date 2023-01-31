@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21592?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21592,
+    "name": "Precision",
+    "description": "Permanently enchant bracers to increase crit by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21592?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21592
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52555?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Hypnotic Dust",
+                "id": 52555
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52719?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Celestial Essence",
+                "id": 52719
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

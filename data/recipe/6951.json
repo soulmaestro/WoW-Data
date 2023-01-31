@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/6951?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 6951,
+    "name": "Goblin Rocket Helmet",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/6951?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 6951
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10588?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Goblin Rocket Helmet",
+        "id": 10588
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10543?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Goblin Construction Helmet",
+                "id": 10543
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/9061?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Goblin Rocket Fuel",
+                "id": 9061
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3860?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mithril Bar",
+                "id": 3860
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10560?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Unstable Trigger",
+                "id": 10560
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

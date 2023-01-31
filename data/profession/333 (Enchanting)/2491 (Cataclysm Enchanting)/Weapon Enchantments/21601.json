@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/21601?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 21601,
+    "name": "Windwalk",
+    "description": "Permanently enchant a weapon to sometimes increase dodge by 42 and movement speed by 10% for 10 sec when striking in melee, stacking with passive movement speed effects. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/21601?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 21601
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52719?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Celestial Essence",
+                "id": 52719
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52721?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavenly Shard",
+                "id": 52721
+            },
+            "quantity": 6
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52722?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Maelstrom Crystal",
+                "id": 52722
+            },
+            "quantity": 6
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

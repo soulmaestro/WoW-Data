@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19469?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19469,
+    "name": "Cloak of Frozen Spirits",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19469?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19469
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41608?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak of Frozen Spirits",
+        "id": 41608
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/41510?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Frostweave",
+                "id": 41510
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36783?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Northsea Pearl",
+                "id": 36783
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

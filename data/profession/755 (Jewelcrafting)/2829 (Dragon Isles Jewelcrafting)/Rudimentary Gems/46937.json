@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/46937?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 46937,
+    "name": "Sensei's Sundered Onyx",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/46937?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 46937
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190320?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Fire",
+                "id": 190320
+            },
+            "quantity": 2
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/131?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sundered Onyx (DNT)",
+                "id": 131
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/182?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Polishing Cloth",
+                "id": 182
+            },
+            "display_order": 1
+        }
+    ]
+}

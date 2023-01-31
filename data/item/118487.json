@@ -1,0 +1,192 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118487?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118487,
+    "name": "Schematic: Personal Hologram",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118487?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118487
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Engineering",
+        "id": 3
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 1000000,
+    "sell_price": 30000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Personal Hologram.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118487?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118487
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Schematic: Personal Hologram",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118487?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118487
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/3?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Engineering",
+            "id": 3
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "sell_price": {
+            "value": 30000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "3",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2501?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Engineering",
+                    "id": 2501
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Engineering (1)"
+            }
+        },
+        "description": "Teaches you how to make a Personal Hologram.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/108745?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 108745
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Personal Hologram",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/108745?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 108745
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Explosives and Devices",
+                    "id": 0
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "binding": {
+                    "type": "ON_USE",
+                    "name": "Binds when used"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/155111?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Personal Hologram",
+                            "id": 155111
+                        },
+                        "description": "Use: Adds this toy to your Toy Box.\n\nCreate a temporary hologram of yourself for 1 min. (5 Min Cooldown)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 300000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "30",
+                        "silver": "0",
+                        "copper": "0"
+                    }
+                },
+                "description": "Image may react to some emotes.",
+                "is_subclass_hidden": true,
+                "toy": "Toy"
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/111366?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Gearspring Parts",
+                        "id": 111366
+                    },
+                    "quantity": 50
+                }
+            ],
+            "reagents_display_string": "Gearspring Parts (50)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/18901?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 18901,
+    "name": "Tempered Saronite Helm",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/18901?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 18901
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/40673?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Tempered Saronite Helm",
+        "id": 40673
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36913?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saronite Bar",
+                "id": 36913
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37701?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Earth",
+                "id": 37701
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

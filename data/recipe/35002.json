@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35002?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35002,
+    "name": "Grim Furystone Gorget",
+    "description": "Reduces the materials required to craft a Grim Furystone Gorget.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35002?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35002
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130244?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Grim Furystone Gorget",
+        "id": 130244
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130178?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Furystone",
+                "id": 130178
+            },
+            "quantity": 4
+        }
+    ],
+    "rank": 2,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

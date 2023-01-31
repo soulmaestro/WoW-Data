@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34962?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34962,
+    "name": "Dawnlight Band",
+    "description": "Craft a Dawnlight Band.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34962?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34962
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130231?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Dawnlight Band",
+        "id": 130231
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130180?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dawnlight",
+                "id": 130180
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130183?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowruby",
+                "id": 130183
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130181?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pandemonite",
+                "id": 130181
+            },
+            "quantity": 2
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

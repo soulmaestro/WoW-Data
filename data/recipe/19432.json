@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/19432?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 19432,
+    "name": "Frostwoven Belt",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/19432?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 19432
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41522?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Frostwoven Belt",
+        "id": 41522
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/41510?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Bolt of Frostweave",
+                "id": 41510
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/38426?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternium Thread",
+                "id": 38426
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

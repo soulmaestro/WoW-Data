@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/9840?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9840,
+    "name": "Transmute: Arcanite",
+    "description": "Turns a bar of Thorium and an Arcane Crystal into Arcanite.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/9840?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9840
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12360?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Arcanite Bar",
+        "id": 12360
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12359?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Thorium Bar",
+                "id": 12359
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/12363?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arcane Crystal",
+                "id": 12363
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

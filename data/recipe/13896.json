@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13896?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13896,
+    "name": "Superior Wizard Oil",
+    "description": "Creates Superior Wizard Oil.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13896?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13896
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/22522?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Superior Wizard Oil",
+        "id": 22522
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22445?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Arcane Dust",
+                "id": 22445
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22792?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Nightmare Vine",
+                "id": 22792
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3371?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystal Vial",
+                "id": 3371
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

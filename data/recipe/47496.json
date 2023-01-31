@@ -1,0 +1,79 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47496?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47496,
+    "name": "Portable Alchemist's Lab Bench",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47496?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47496
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190326?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Air",
+                "id": 190326
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190328?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rousing Frost",
+                "id": 190328
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/197?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greased-Up Gears (DNT)",
+                "id": 197
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/194?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Handful of Serevite Bolts (DNT)",
+                "id": 194
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/103?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Omnium Draconis (DNT)",
+                "id": 103
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/104?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Draconic Vial (DNT)",
+                "id": 104
+            },
+            "display_order": 3
+        }
+    ]
+}

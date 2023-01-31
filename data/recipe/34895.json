@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34895?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34895,
+    "name": "Battlebound Grips",
+    "description": "Craft Battlebound Grips.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34895?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34895
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128894?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battlebound Grips",
+        "id": 128894
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124115?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormscale",
+                "id": 124115
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stonehide Leather",
+                "id": 124113
+            },
+            "quantity": 10
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

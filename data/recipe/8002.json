@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/8002?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 8002,
+    "name": "Greater Mystic Wand",
+    "description": "Creates a greater mystic wand.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/8002?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 8002
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/11290?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Greater Mystic Wand",
+        "id": 11290
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/11291?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Wood",
+                "id": 11291
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Eternal Essence",
+                "id": 16202
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16204?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Illusion Dust",
+                "id": 16204
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

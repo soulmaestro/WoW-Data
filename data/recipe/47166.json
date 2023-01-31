@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47166?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47166,
+    "name": "Toxified Armor Patch",
+    "description": "This putrid recipe requires an altar infused with powerful decay magic, rumored to be deep in Brackenhide Hollow.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47166?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47166
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190331?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Awakened Decay",
+                "id": 190331
+            },
+            "quantity": 8
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/150?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stonecrust Hide (DNT)",
+                "id": 150
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/147?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Adamant Scales (DNT)",
+                "id": 147
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/92?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Illustrious Insight",
+                "id": 92
+            },
+            "display_order": 2
+        }
+    ]
+}

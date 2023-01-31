@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16287?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16287,
+    "name": "Deathfrost",
+    "description": "Permanently enchant a melee weapon to cause your damaging spells and melee weapon hits to occasionally inflict additional Frost damage and slow the target.  Slow effect does not work on targets 50 or higher. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16287?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16287
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Shadow",
+                "id": 22456
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/21885?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Water",
+                "id": 21885
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

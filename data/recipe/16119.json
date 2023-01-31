@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/16119?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 16119,
+    "name": "Exceptional Spellpower",
+    "description": "Permanently enchant gloves to increase spell power by 4. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/16119?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 16119
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34054?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Infinite Dust",
+                "id": 34054
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34056?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Cosmic Essence",
+                "id": 34056
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7685?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7685,
+    "name": "Minor Haste",
+    "description": "Permanently enchant gloves to increase haste by 3. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7685?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7685
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/14344?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Large Brilliant Shard",
+                "id": 14344
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/8153?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Wildvine",
+                "id": 8153
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

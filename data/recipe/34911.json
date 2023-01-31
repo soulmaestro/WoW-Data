@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34911?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34911,
+    "name": "Battlebound Girdle",
+    "description": "Greatly reduces the materials required to craft a Battlebound Girdle.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34911?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34911
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/128898?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Battlebound Girdle",
+        "id": 128898
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124115?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Stormscale",
+                "id": 124115
+            },
+            "quantity": 12
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

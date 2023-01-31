@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7531?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7531,
+    "name": "Skinning",
+    "description": "Permanently enchant gloves to increase Skinning skill by 5. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7531?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7531
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16204?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Illusion Dust",
+                "id": 16204
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7392?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Green Whelp Scale",
+                "id": 7392
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 5.0
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/9949?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9949,
+    "name": "Transmute: Water to Undeath",
+    "description": "Taints Essence of Water turning it into Undeath.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/9949?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9949
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12808?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Essence of Undeath",
+        "id": 12808
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7080?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Essence of Water",
+                "id": 7080
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

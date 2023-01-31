@@ -1,0 +1,257 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/12831?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 12831,
+    "name": "Plans: Blood Talon",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 25,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/12831?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 12831
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Blacksmithing",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 40000,
+    "sell_price": 10000,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make Blood Talon.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/12831?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12831
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Plans: Blood Talon",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/12831?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 12831
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Blacksmithing",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "sell_price": {
+            "value": 10000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "1",
+                "silver": "0",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2477?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Classic Blacksmithing",
+                    "id": 2477
+                },
+                "level": 300,
+                "display_string": "Requires Classic Blacksmithing (300)"
+            }
+        },
+        "description": "Teaches you how to make Blood Talon.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/12795?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12795
+                },
+                "quality": {
+                    "type": "RARE",
+                    "name": "Rare"
+                },
+                "name": "Blood Talon",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/12795?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 12795
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Weapon",
+                    "id": 2
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/2/item-subclass/13?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Fist Weapon",
+                    "id": 13
+                },
+                "inventory_type": {
+                    "type": "WEAPON",
+                    "name": "One-Hand"
+                },
+                "binding": {
+                    "type": "ON_ACQUIRE",
+                    "name": "Binds when picked up"
+                },
+                "weapon": {
+                    "damage": {
+                        "min_value": 3,
+                        "max_value": 5,
+                        "display_string": "3 - 5 Damage",
+                        "damage_class": {
+                            "type": "PHYSICAL",
+                            "name": "Physical"
+                        }
+                    },
+                    "attack_speed": {
+                        "value": 2600,
+                        "display_string": "Speed 2.60"
+                    },
+                    "dps": {
+                        "value": 1.5384614,
+                        "display_string": "(1.5 damage per second)"
+                    }
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/13318?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Rend",
+                            "id": 13318
+                        },
+                        "description": "Chance on hit: Your melee attacks have a chance to cause the target to bleed for 19 damage over 30 sec.\r\n"
+                    }
+                ],
+                "sell_price": {
+                    "value": 318,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "3",
+                        "copper": "18"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 23,
+                        "display_string": "Requires Level 23"
+                    }
+                },
+                "level": {
+                    "value": 29,
+                    "display_string": "Item Level 29"
+                },
+                "durability": {
+                    "value": 65,
+                    "display_string": "Durability 65 / 65"
+                }
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12655?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Enchanted Thorium Bar",
+                        "id": 12655
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12360?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Arcanite Bar",
+                        "id": 12360
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12662?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Demonic Rune",
+                        "id": 12662
+                    },
+                    "quantity": 8
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/7910?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Star Ruby",
+                        "id": 7910
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/12644?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Dense Grinding Stone",
+                        "id": 12644
+                    },
+                    "quantity": 2
+                }
+            ],
+            "reagents_display_string": "Enchanted Thorium Bar (10), Arcanite Bar (10), Demonic Rune (8), Star Ruby (10), Dense Grinding Stone (2)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

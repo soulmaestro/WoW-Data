@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42682?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42682,
+    "name": "Celestial Guidance",
+    "description": "Permanently enchants a weapon to sometimes increase your primary stat by 5% when attacking, or using spells and abilities.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42682?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42682
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172230?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Soul Dust",
+                "id": 172230
+            },
+            "quantity": 4
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

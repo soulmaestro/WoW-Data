@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22404?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22404,
+    "name": "Vicious Leather Belt",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22404?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22404
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/75127?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Vicious Leather Belt",
+        "id": 75127
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/56516?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Savage Leather",
+                "id": 56516
+            },
+            "quantity": 10
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52326?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Water",
+                "id": 52326
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        }
+    ]
+}

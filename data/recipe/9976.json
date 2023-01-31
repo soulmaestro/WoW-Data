@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/9976?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 9976,
+    "name": "Alchemist Stone",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/9976?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 9976
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/13503?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alchemist Stone",
+        "id": 13503
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/9149?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Philosopher's Stone",
+                "id": 9149
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/25867?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Earthstorm Diamond",
+                "id": 25867
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/25868?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Skyfire Diamond",
+                "id": 25868
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22794?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fel Lotus",
+                "id": 22794
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23571?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Might",
+                "id": 23571
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

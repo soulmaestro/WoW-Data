@@ -1,0 +1,78 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/22380?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 22380,
+    "name": "Cloak of Beasts",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/22380?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 22380
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/56518?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cloak of Beasts",
+        "id": 56518
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/56516?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Heavy Savage Leather",
+                "id": 56516
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52328?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Air",
+                "id": 52328
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52327?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Earth",
+                "id": 52327
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52325?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Volatile Fire",
+                "id": 52325
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

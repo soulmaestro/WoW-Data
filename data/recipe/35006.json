@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35006?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35006,
+    "name": "Deep Amber Pendant",
+    "description": "Greatly reduces the materials required to craft a Deep Amber Pendant.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35006?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35006
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130226?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Deep Amber Pendant",
+        "id": 130226
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130173?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Deep Amber",
+                "id": 130173
+            },
+            "quantity": 5
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

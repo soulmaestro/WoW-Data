@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/1638?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 1638,
+    "name": "Runed Copper Breastplate",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/1638?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 1638
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/2864?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Runed Copper Breastplate",
+        "id": 2864
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/2840?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Copper Bar",
+                "id": 2840
+            },
+            "quantity": 12
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/1210?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shadowgem",
+                "id": 1210
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3470?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Rough Grinding Stone",
+                "id": 3470
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

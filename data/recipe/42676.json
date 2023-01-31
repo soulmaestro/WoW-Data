@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/42676?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 42676,
+    "name": "Sacred Shard",
+    "description": "Shatter a Sacred Shard into 3 Soul Dust.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/42676?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 42676
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/172230?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Soul Dust",
+        "id": 172230
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/172231?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sacred Shard",
+                "id": 172231
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 3.0
+    }
+}

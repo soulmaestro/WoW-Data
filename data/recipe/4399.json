@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4399?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4399,
+    "name": "Health",
+    "description": "Permanently enchant chest armor to increase health by 11. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4399?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4399
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16204?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Illusion Dust",
+                "id": 16204
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16202?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Lesser Eternal Essence",
+                "id": 16202
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

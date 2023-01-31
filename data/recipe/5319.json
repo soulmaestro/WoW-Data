@@ -1,0 +1,68 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/5319?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 5319,
+    "name": "Steel Plate Helm",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/5319?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 5319
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/7922?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Steel Plate Helm",
+        "id": 7922
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3859?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Steel Bar",
+                "id": 3859
+            },
+            "quantity": 14
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3864?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Citrine",
+                "id": 3864
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7966?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Solid Grinding Stone",
+                "id": 7966
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

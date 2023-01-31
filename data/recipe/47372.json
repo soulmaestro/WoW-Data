@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47372?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47372,
+    "name": "Blubbery Muffin",
+    "description": "Recipe for 3 servings. Actual number of servings will vary based on cooking skill.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47372?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47372
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194683?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Buttermilk",
+                "id": 194683
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197745?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Basilisk Eggs",
+                "id": 197745
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197751?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pastry Packets",
+                "id": 197751
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/197750?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Three-Cheese Blend",
+                "id": 197750
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/192?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Finishing Touches",
+                "id": 192
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/193?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Secret Ingredient",
+                "id": 193
+            },
+            "display_order": 1
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/26738?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 26738,
+    "name": "Sha Shatter",
+    "description": "Shatters a Sha Crystal into two Ethereal Shards.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/26738?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 26738
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/74247?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Ethereal Shard",
+        "id": 74247
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/74248?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sha Crystal",
+                "id": 74248
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 2.0
+    }
+}

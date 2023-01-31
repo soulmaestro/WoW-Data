@@ -1,0 +1,60 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34968?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34968,
+    "name": "Vindictive Pandemonite Choker",
+    "description": "Craft a Vindictive Pandemonite Choker.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34968?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34968
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/130238?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Vindictive Pandemonite Choker",
+        "id": 130238
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130181?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Pandemonite",
+                "id": 130181
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/130178?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Furystone",
+                "id": 130178
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

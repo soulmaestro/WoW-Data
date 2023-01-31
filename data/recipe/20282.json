@@ -1,0 +1,38 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20282?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20282,
+    "name": "Transmute: Titanium",
+    "description": "Transmutes many saronite bars into a single titanium bar.  You have a chance to discover other transmutations when successful.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20282?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20282
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/41163?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Titanium Bar",
+        "id": 41163
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/36913?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Saronite Bar",
+                "id": 36913
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

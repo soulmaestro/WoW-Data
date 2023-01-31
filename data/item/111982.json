@@ -1,0 +1,130 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/111982?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 111982,
+    "name": "Storehouse, Level 2",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/111982?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 111982
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 15
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Other",
+        "id": 4
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 7500000,
+    "sell_price": 75000,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/111982?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 111982
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Storehouse, Level 2",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/111982?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 111982
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 15
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/15/item-subclass/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Other",
+            "id": 4
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/162037?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Learning",
+                    "id": 162037
+                },
+                "description": "Use: Provides the plans needed to upgrade your Storehouse building to level 2.\r\n\r\nLevel 1\nEnables access to your personal bank and increases the total number of active work orders for all buildings by 5.\n\nLevel 2\nEnables access to your guild bank.\n\nLevel 3\nEnables access to an Ethereal Trader for Void Storage and Transmogrification and increases the total number of active work orders for all buildings by 15.\n (1 Sec Cooldown)",
+                "display_color": {
+                    "r": 157,
+                    "g": 157,
+                    "b": 157,
+                    "a": 1.0
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 75000,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "7",
+                "silver": "50",
+                "copper": "0"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            }
+        },
+        "is_subclass_hidden": true,
+        "name_description": {
+            "display_string": "Garrison Blueprint",
+            "color": {
+                "r": 102,
+                "g": 187,
+                "b": 255,
+                "a": 1.0
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

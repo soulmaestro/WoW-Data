@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13505?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13505,
+    "name": "Aquamarine Signet",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13505?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13505
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/20964?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Aquamarine Signet",
+        "id": 20964
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/7909?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Aquamarine",
+                "id": 7909
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52188?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Jeweler's Setting",
+                "id": 52188
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34439?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34439,
+    "name": "Sylvan Elixir",
+    "description": "Mix a Sylvan Elixir at the Dalaran Alchemy Station.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34439?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34439
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/127838?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sylvan Elixir",
+        "id": 127838
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124102?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Dreamleaf",
+                "id": 124102
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/127834?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ancient Healing Potion",
+                "id": 127834
+            },
+            "quantity": 1
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

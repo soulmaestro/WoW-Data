@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40099?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40099,
+    "name": "Sinister Combatant's Bow",
+    "description": "Greatly reduce the materials required to craft a Sinister Combatant's Bow.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40099?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40099
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164711?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sinister Combatant's Bow",
+        "id": 164711
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/164670?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Sinister Combatant's Bow",
+        "id": 164670
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/11291?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Star Wood",
+                "id": 11291
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/153051?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Mistscale",
+                "id": 153051
+            },
+            "quantity": 35
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154165?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Calcified Bone",
+                "id": 154165
+            },
+            "quantity": 30
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152668?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Expulsom",
+                "id": 152668
+            },
+            "quantity": 3
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

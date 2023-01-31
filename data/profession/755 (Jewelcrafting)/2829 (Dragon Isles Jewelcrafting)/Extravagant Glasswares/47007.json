@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47007?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47007,
+    "name": "Timewatcher's Patience",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47007?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47007
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/192872?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fractured Glass",
+                "id": 192872
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/132?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Eternity Amber (DNT)",
+                "id": 132
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/158?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Gemdust (DNT)",
+                "id": 158
+            },
+            "display_order": 1
+        }
+    ]
+}

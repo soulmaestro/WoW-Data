@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/20430?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 20430,
+    "name": "Icewalker",
+    "description": "Permanently enchant boots to increase critical strike by 3. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/20430?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 20430
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/34054?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Infinite Dust",
+                "id": 34054
+            },
+            "quantity": 8
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/37705?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Crystallized Water",
+                "id": 37705
+            },
+            "quantity": 1
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

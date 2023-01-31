@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/14542?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 14542,
+    "name": "Fel Iron Blood Ring",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/14542?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 14542
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/24074?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Fel Iron Blood Ring",
+        "id": 24074
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23445?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fel Iron Bar",
+                "id": 23445
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/23077?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood Garnet",
+                "id": 23077
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/39024?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 39024,
+    "name": "Coarse Leather Treads",
+    "description": "Create Coarse Leather Treads.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/39024?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 39024
+    },
+    "alliance_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/161939?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Coarse Leather Treads",
+        "id": 161939
+    },
+    "horde_crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/154139?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Coarse Leather Treads",
+        "id": 154139
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/152541?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Coarse Leather",
+                "id": 152541
+            },
+            "quantity": 9
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/154164?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Blood-Stained Bone",
+                "id": 154164
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}

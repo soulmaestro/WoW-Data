@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/35298?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 35298,
+    "name": "Silkweave Gloves",
+    "description": "Greatly reduces the materials required to craft Silkweave Gloves.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/35298?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 35298
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/126989?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Silkweave Gloves",
+        "id": 126989
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124437?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shal'dorei Silk",
+                "id": 124437
+            },
+            "quantity": 12
+        }
+    ],
+    "rank": 3,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/49?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 49
+            },
+            "display_order": 0
+        }
+    ]
+}

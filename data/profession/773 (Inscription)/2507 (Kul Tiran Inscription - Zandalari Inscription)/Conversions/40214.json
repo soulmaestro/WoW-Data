@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/40214?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 40214,
+    "name": "Aqueous Chromotography",
+    "description": "Convert one Tidalcore into one Hydrocore.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/40214?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 40214
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/162460?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Hydrocore",
+        "id": 162460
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/165948?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Tidalcore",
+                "id": 165948
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/158205?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Acacia Powder",
+                "id": 158205
+            },
+            "quantity": 5
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

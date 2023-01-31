@@ -1,0 +1,248 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/118329?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 118329,
+    "name": "Recipe Idea: Feast of the Waters",
+    "quality": {
+        "type": "COMMON",
+        "name": "Common"
+    },
+    "level": 40,
+    "required_level": 10,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/118329?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 118329
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Cooking",
+        "id": 5
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to make a Feast of the Waters.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/118329?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118329
+        },
+        "quality": {
+            "type": "COMMON",
+            "name": "Common"
+        },
+        "name": "Recipe Idea: Feast of the Waters",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/118329?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 118329
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/5?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Cooking",
+            "id": 5
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/173979?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Feast of the Waters",
+                    "id": 173979
+                },
+                "description": "Use: Teaches you how to make a Feast of the Waters."
+            }
+        ],
+        "requirements": {
+            "level": {
+                "value": 10,
+                "display_string": "Requires Level 10"
+            },
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2543?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Draenor Cooking",
+                    "id": 2543
+                },
+                "level": 1,
+                "display_string": "Requires Draenor Cooking (1)"
+            }
+        },
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/111458?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111458
+                },
+                "quality": {
+                    "type": "COMMON",
+                    "name": "Common"
+                },
+                "name": "Feast of the Waters",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/111458?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 111458
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/5?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Food & Drink",
+                    "id": 5
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/160914?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Feast of the Waters",
+                            "id": 160914
+                        },
+                        "description": "Use: Feed up to 10 people in your raid or party with a Feast of the Waters.\r\n\r\nIn so doing, you have a chance to obtain the recipe.\r\n\r\nRestores 6,250 health and 6,500 mana over 20 sec.  If you spend at least 10 seconds eating you will become well fed and gain 6 in your attuned stat for 1 hour."
+                    }
+                ],
+                "sell_price": {
+                    "value": 1600,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "16",
+                        "copper": "0"
+                    }
+                },
+                "requirements": {
+                    "level": {
+                        "value": 35,
+                        "display_string": "Requires Level 35"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109142?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Sea Scorpion Segment",
+                        "id": 109142
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109143?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Abyssal Gulper Eel Flesh",
+                        "id": 109143
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109140?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Blind Lake Sturgeon Flesh",
+                        "id": 109140
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109139?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fat Sleeper Flesh",
+                        "id": 109139
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109141?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Fire Ammonite Tentacle",
+                        "id": 109141
+                    },
+                    "quantity": 10
+                },
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/109138?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Jawless Skulker Flesh",
+                        "id": 109138
+                    },
+                    "quantity": 10
+                }
+            ],
+            "reagents_display_string": "Sea Scorpion Segment (10), Abyssal Gulper Eel Flesh (10), Blind Lake Sturgeon Flesh (10), Fat Sleeper Flesh (10), Fire Ammonite Tentacle (10), Jawless Skulker Flesh (10)"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

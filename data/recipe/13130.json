@@ -1,0 +1,51 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/13130?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 13130,
+    "name": "Subtlety",
+    "description": "Permanently enchant a cloak to decrease threat from all attacks and spells by 2%. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/13130?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 13130
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22448?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Small Prismatic Shard",
+                "id": 22448
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22446?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Planar Essence",
+                "id": 22446
+            },
+            "quantity": 2
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/22456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Primal Shadow",
+                "id": 22456
+            },
+            "quantity": 8
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47808?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47808,
+    "name": "Runed Khaz'gorite Rod",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47808?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47808
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/190456?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Artisan's Mettle",
+                "id": 190456
+            },
+            "quantity": 300
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/194124?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Vibrant Shard",
+                "id": 194124
+            },
+            "quantity": 5
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/200113?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Resonant Crystal",
+                "id": 200113
+            },
+            "quantity": 1
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/117?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Khaz'gorite Ore (DNT)",
+                "id": 117
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/219?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Runed Writhebark (DNT)",
+                "id": 219
+            },
+            "display_order": 1
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/232?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Customize Crafting Stat",
+                "id": 232
+            },
+            "display_order": 2
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/93?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Illustrious Insight",
+                "id": 93
+            },
+            "display_order": 3
+        }
+    ]
+}

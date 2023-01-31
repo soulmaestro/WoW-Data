@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/4368?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 4368,
+    "name": "Minor Impact",
+    "description": "Permanently enchant a two-handed melee weapon to do 1 additional points of damage. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/4368?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 4368
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10940?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Strange Dust",
+                "id": 10940
+            },
+            "quantity": 4
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/10939?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Greater Magic Essence",
+                "id": 10939
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

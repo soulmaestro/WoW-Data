@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/23886?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 23886,
+    "name": "Alicite Pendant",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/23886?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 23886
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/52307?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Alicite Pendant",
+        "id": 52307
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52188?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Jeweler's Setting",
+                "id": 52188
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/52179?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Alicite",
+                "id": 52179
+            },
+            "quantity": 2
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/31?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 31
+            },
+            "display_order": 0
+        }
+    ]
+}

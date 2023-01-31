@@ -1,0 +1,177 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/102513?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 102513,
+    "name": "Pattern: Drums of Rage",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 35,
+    "required_level": 1,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/102513?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 102513
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Recipe",
+        "id": 9
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Leatherworking",
+        "id": 1
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 1,
+    "is_equippable": false,
+    "is_stackable": false,
+    "description": "Teaches you how to craft Drums of Rage.",
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/102513?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 102513
+        },
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Pattern: Drums of Rage",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/102513?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 102513
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Recipe",
+            "id": 9
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/9/item-subclass/1?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Leatherworking",
+            "id": 1
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "unique_equipped": "Unique",
+        "requirements": {
+            "skill": {
+                "profession": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/profession/2528?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Pandaria Leatherworking",
+                    "id": 2528
+                },
+                "level": 75,
+                "display_string": "Requires Pandaria Leatherworking (75)"
+            }
+        },
+        "description": "Teaches you how to craft Drums of Rage.",
+        "recipe": {
+            "item": {
+                "item": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item/102351?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 102351
+                },
+                "quality": {
+                    "type": "UNCOMMON",
+                    "name": "Uncommon"
+                },
+                "name": "Drums of Rage",
+                "media": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/media/item/102351?namespace=static-10.0.5_47621-eu"
+                    },
+                    "id": 102351
+                },
+                "item_class": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Consumable",
+                    "id": 0
+                },
+                "item_subclass": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/item-class/0/item-subclass/8?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Other",
+                    "id": 8
+                },
+                "inventory_type": {
+                    "type": "NON_EQUIP",
+                    "name": "Non-equippable"
+                },
+                "spells": [
+                    {
+                        "spell": {
+                            "key": {
+                                "href": "https://eu.api.blizzard.com/data/wow/spell/146555?namespace=static-10.0.5_47621-eu"
+                            },
+                            "name": "Drums of Rage",
+                            "id": 146555
+                        },
+                        "description": "Use: Increases melee, ranged, and spell haste by 15% for all party and raid members. Lasts 40 sec.\r\n\r\nAllies receiving this effect will become Exhausted and be unable to benefit from Bloodlust, Heroism or Time Warp again for 10 min.\r\n\r\nDoes not affect allies above level 50. (2 Min Cooldown) (Requires level 50 or below)"
+                    }
+                ],
+                "sell_price": {
+                    "value": 5000,
+                    "display_strings": {
+                        "header": "Sell Price:",
+                        "gold": "0",
+                        "silver": "50",
+                        "copper": "0"
+                    }
+                },
+                "is_subclass_hidden": true
+            },
+            "reagents": [
+                {
+                    "reagent": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/item/72163?namespace=static-10.0.5_47621-eu"
+                        },
+                        "name": "Magnificent Hide",
+                        "id": 72163
+                    },
+                    "quantity": 1
+                }
+            ],
+            "reagents_display_string": "Magnificent Hide"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

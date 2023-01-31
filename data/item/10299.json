@@ -1,0 +1,145 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/10299?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 10299,
+    "name": "Gnomeregan Amulet",
+    "quality": {
+        "type": "UNCOMMON",
+        "name": "Uncommon"
+    },
+    "level": 19,
+    "required_level": 12,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/10299?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 10299
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Armor",
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Miscellaneous",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NECK",
+        "name": "Neck"
+    },
+    "purchase_price": 15112,
+    "sell_price": 3778,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/10299?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 10299
+        },
+        "context": 0,
+        "bonus_list": [
+            6709
+        ],
+        "quality": {
+            "type": "UNCOMMON",
+            "name": "Uncommon"
+        },
+        "name": "Gnomeregan Amulet",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/10299?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 10299
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Armor",
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Miscellaneous",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NECK",
+            "name": "Neck"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "stats": [
+            {
+                "type": {
+                    "type": "AGILITY",
+                    "name": "Agility"
+                },
+                "value": 29,
+                "is_negated": true,
+                "display": {
+                    "display_string": "+29 Agility",
+                    "color": {
+                        "r": 128,
+                        "g": 128,
+                        "b": 128,
+                        "a": 1.0
+                    }
+                }
+            },
+            {
+                "type": {
+                    "type": "STAMINA",
+                    "name": "Stamina"
+                },
+                "value": 48,
+                "display": {
+                    "display_string": "+48 Stamina",
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1.0
+                    }
+                }
+            }
+        ],
+        "sell_price": {
+            "value": 3778,
+            "display_strings": {
+                "header": "Sell Price:",
+                "gold": "0",
+                "silver": "37",
+                "copper": "78"
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 12,
+                "display_string": "Requires Level 12"
+            }
+        },
+        "level": {
+            "value": 178,
+            "display_string": "Item Level 178"
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

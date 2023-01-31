@@ -1,0 +1,48 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/32909?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32909,
+    "name": "Research: Ink of Dreams",
+    "description": "Create random scrolls in an effort to discover new glyph recipes made with Ink of Dreams.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/32909?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32909
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/141644?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Assorted Glyphs",
+        "id": 141644
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/39354?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Parchment",
+                "id": 39354
+            },
+            "quantity": 3
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/79254?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Ink of Dreams",
+                "id": 79254
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

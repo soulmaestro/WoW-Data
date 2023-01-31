@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/7498?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 7498,
+    "name": "Herbalism",
+    "description": "Permanently enchant gloves to increase Herbalism skill by 2. Cannot be applied to items higher than level 50.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/7498?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 7498
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/16204?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Light Illusion Dust",
+                "id": 16204
+            },
+            "quantity": 1
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/3356?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Kingsblood",
+                "id": 3356
+            },
+            "quantity": 3
+        }
+    ],
+    "crafted_quantity": {
+        "value": 2.0
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/33465?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 33465,
+    "name": "Truesteel Gauntlets",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/33465?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 33465
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/114237?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Truesteel Gauntlets",
+        "id": 114237
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/108257?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Truesteel Ingot",
+                "id": 108257
+            },
+            "quantity": 100
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/48?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 48
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/237?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Truesteel Essence",
+                "id": 237
+            },
+            "display_order": 1
+        }
+    ]
+}

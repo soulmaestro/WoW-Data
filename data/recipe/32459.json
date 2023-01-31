@@ -1,0 +1,41 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/32459?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 32459,
+    "name": "Mark of Warsong",
+    "description": "Permanently enchants a melee weapon to sometimes increase haste by 116, diminishing by 10% every 2 sec. \r\n\r\nCannot be applied to items above level 60.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/32459?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 32459
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/113588?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Temporal Crystal",
+                "id": 113588
+            },
+            "quantity": 15
+        },
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/113261?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Sorcerous Fire",
+                "id": 113261
+            },
+            "quantity": 10
+        }
+    ],
+    "crafted_quantity": {
+        "value": 1.0
+    }
+}

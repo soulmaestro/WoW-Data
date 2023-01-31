@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/47003?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 47003,
+    "name": "Queen's Gift",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/47003?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 47003
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/192872?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Fractured Glass",
+                "id": 192872
+            },
+            "quantity": 3
+        }
+    ],
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/128?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Queen's Ruby (DNT)",
+                "id": 128
+            },
+            "display_order": 0
+        },
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/158?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Silken Gemdust (DNT)",
+                "id": 158
+            },
+            "display_order": 1
+        }
+    ]
+}

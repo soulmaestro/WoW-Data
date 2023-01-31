@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/115345?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 115345,
+    "name": "Alliance Supply Chest Key",
+    "quality": {
+        "type": "RARE",
+        "name": "Rare"
+    },
+    "level": 1,
+    "required_level": 0,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/115345?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 115345
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/13?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Key",
+        "id": 13
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/13/item-subclass/0?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Key",
+        "id": 0
+    },
+    "inventory_type": {
+        "type": "NON_EQUIP",
+        "name": "Non-equippable"
+    },
+    "purchase_price": 0,
+    "sell_price": 0,
+    "max_count": 0,
+    "is_equippable": false,
+    "is_stackable": true,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/115345?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 115345
+        },
+        "quality": {
+            "type": "RARE",
+            "name": "Rare"
+        },
+        "name": "Alliance Supply Chest Key",
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/115345?namespace=static-10.0.5_47621-eu"
+            },
+            "id": 115345
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/13?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Key",
+            "id": 13
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/13/item-subclass/0?namespace=static-10.0.5_47621-eu"
+            },
+            "name": "Key",
+            "id": 0
+        },
+        "inventory_type": {
+            "type": "NON_EQUIP",
+            "name": "Non-equippable"
+        },
+        "binding": {
+            "type": "ON_ACQUIRE",
+            "name": "Binds when picked up"
+        },
+        "spells": [
+            {
+                "spell": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/169760?namespace=static-10.0.5_47621-eu"
+                    },
+                    "name": "Unlocking Alliance Supply Chest",
+                    "id": 169760
+                },
+                "description": "Use: Unlocks an Alliance Supply Chest within Ashran. (1 Sec Cooldown)"
+            }
+        ],
+        "requirements": {
+            "faction": {
+                "value": {
+                    "type": "HORDE",
+                    "name": "Horde"
+                },
+                "display_string": "Horde Only"
+            },
+            "map": {
+                "name": "Ashran",
+                "id": 1191
+            }
+        },
+        "is_subclass_hidden": true
+    },
+    "purchase_quantity": 1
+}

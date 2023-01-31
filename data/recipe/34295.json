@@ -1,0 +1,50 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/recipe/34295?namespace=static-10.0.5_47621-eu"
+        }
+    },
+    "id": 34295,
+    "name": "Silkweave Cinch",
+    "description": "Craft a Silkweave Cinch.",
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/recipe/34295?namespace=static-10.0.5_47621-eu"
+        },
+        "id": 34295
+    },
+    "crafted_item": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/126993?namespace=static-10.0.5_47621-eu"
+        },
+        "name": "Silkweave Cinch",
+        "id": 126993
+    },
+    "reagents": [
+        {
+            "reagent": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/item/124437?namespace=static-10.0.5_47621-eu"
+                },
+                "name": "Shal'dorei Silk",
+                "id": 124437
+            },
+            "quantity": 24
+        }
+    ],
+    "rank": 1,
+    "crafted_quantity": {
+        "value": 1.0
+    },
+    "modified_crafting_slots": [
+        {
+            "slot_type": {
+                "key": {
+                    "href": "https://eu.api.blizzard.com/data/wow/modified-crafting/reagent-slot-type/47?namespace=static-10.0.5_47621-eu"
+                },
+                "id": 47
+            },
+            "display_order": 0
+        }
+    ]
+}
