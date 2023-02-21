@@ -169,13 +169,13 @@
             },
             {
                 "type": {
-                    "type": "VERSATILITY",
-                    "name": "Versatility"
+                    "type": "CRIT_RATING",
+                    "name": "Critical Strike"
                 },
                 "value": 104,
                 "is_equip_bonus": true,
                 "display": {
-                    "display_string": "+104 Versatility",
+                    "display_string": "+104 Critical Strike",
                     "color": {
                         "r": 0,
                         "g": 255,
@@ -224,14 +224,14 @@
         "is_subclass_hidden": true,
         "modified_crafting_stat": [
             {
-                "id": 40,
-                "type": "VERSATILITY",
-                "name": "Versatility"
-            },
-            {
                 "id": 49,
                 "type": "MASTERY_RATING",
                 "name": "Mastery"
+            },
+            {
+                "id": 32,
+                "type": "CRIT_RATING",
+                "name": "Critical Strike"
             }
         ]
     },
