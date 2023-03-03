@@ -169,13 +169,13 @@
             },
             {
                 "type": {
-                    "type": "MASTERY_RATING",
-                    "name": "Mastery"
+                    "type": "VERSATILITY",
+                    "name": "Versatility"
                 },
                 "value": 104,
                 "is_equip_bonus": true,
                 "display": {
-                    "display_string": "+104 Mastery",
+                    "display_string": "+104 Versatility",
                     "color": {
                         "r": 0,
                         "g": 255,
@@ -210,14 +210,14 @@
         },
         "modified_crafting_stat": [
             {
-                "id": 49,
-                "type": "MASTERY_RATING",
-                "name": "Mastery"
-            },
-            {
                 "id": 36,
                 "type": "HASTE_RATING",
                 "name": "Haste"
+            },
+            {
+                "id": 40,
+                "type": "VERSATILITY",
+                "name": "Versatility"
             }
         ]
     },
